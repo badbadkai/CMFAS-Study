@@ -27,6 +27,7 @@ export default function Quiz() {
   const [done, setDone] = useState(false)
 
   if (!mod || !chapter) return <Navigate to="/" replace />
+  if (questions.length === 0) return <Navigate to={`/m/${moduleId}/quiz`} replace />
   const q = questions[idx]
 
   function choose(oi: number) {

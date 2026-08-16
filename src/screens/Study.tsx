@@ -14,6 +14,7 @@ export default function Study() {
 
   if (!mod || !chapter) return <Navigate to="/" replace />
   const cards = chapter.concepts
+  if (cards.length === 0) return <Navigate to={`/m/${moduleId}/study`} replace />
   const card = cards[i]
 
   function go(next: number) {

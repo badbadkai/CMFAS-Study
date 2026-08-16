@@ -31,7 +31,7 @@ export default function MockExam() {
   }, [moduleId, paper])
 
   const [idx, setIdx] = useState(0)
-  const [answers, setAnswers] = useState<Record<number, Letter>>({})
+  const [answers, setAnswers] = useState<Record<string, Letter>>({})
   const [done, setDone] = useState(false)
   const [reviewing, setReviewing] = useState(false)
   const [reviewIdx, setReviewIdx] = useState(0)
@@ -39,7 +39,7 @@ export default function MockExam() {
   const savedRef = useRef(false)
 
   const score = useMemo(
-    () => questions.reduce((n, q) => (answers[q.num] === q.answer ? n + 1 : n), 0),
+    () => questions.reduce((n, q) => (answers[q.id] === q.answer ? n + 1 : n), 0),
     [answers, questions]
   )
 
@@ -47,7 +47,7 @@ export default function MockExam() {
     if (savedRef.current) return
     savedRef.current = true
     const total = questions.length
-    const sc = questions.reduce((n, q) => (answers[q.num] === q.answer ? n + 1 : n), 0)
+    const sc = questions.reduce((n, q) => (answers[q.id] === q.answer ? n + 1 : n), 0)
     saveMockResult({
       moduleId,
       paper: isRandom ? 'random' : paperNum,
@@ -78,7 +78,7 @@ export default function MockExam() {
   const lowTime = remaining <= 300
 
   function answer(letter: Letter) {
-    setAnswers((a) => ({ ...a, [q.num]: letter }))
+    setAnswers((a) => ({ ...a, [q.id]: letter }))
     if (idx + 1 >= questions.length) finish()
     else setIdx((n) => n + 1)
   }
@@ -124,8 +124,8 @@ export default function MockExam() {
   // ---- Review screen ----
   if (done && reviewing) {
     const rq = questions[reviewIdx]
-    const chosen = answers[rq.num]
-    const wrongCount = questions.filter((x) => answers[x.num] !== x.answer).length
+    const chosen = answers[rq.id]
+    const wrongCount = questions.filter((x) => answers[x.id] !== x.answer).length
     return (
       <div className="flex flex-1 flex-col">
         <Header title={`Review ${reviewIdx + 1} of ${questions.length}`} subtitle={`${wrongCount} wrong`} />
