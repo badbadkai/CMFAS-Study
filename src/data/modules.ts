@@ -2,8 +2,10 @@ import type { Module, MockPaper } from '../types'
 import { m9Chapters } from './m9/factbank'
 import { m9aChapters } from './m9a/factbank'
 import mockData from './m9/mocks.json'
+import m9aMockData from './m9a/mocks.json'
 
 const m9Mocks = (mockData as { papers: MockPaper[] }).papers
+const m9aMocks = (m9aMockData as { papers: MockPaper[] }).papers
 
 export const modules: Module[] = [
   {
@@ -20,7 +22,7 @@ export const modules: Module[] = [
     subtitle: 'Life Insurance & ILPs II (Structured Products)',
     available: true,
     chapters: m9aChapters,
-    mocks: [],
+    mocks: m9aMocks,
   },
   {
     id: 'HI',

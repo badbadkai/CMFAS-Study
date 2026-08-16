@@ -1,0 +1,2625 @@
+{
+ "module": "M9A",
+ "papers": [
+  {
+   "paper": 1,
+   "questions": [
+    {
+     "id": "M9A-P1-Q1",
+     "paper": 1,
+     "num": 1,
+     "stem": "A structured product is best described as:",
+     "options": {
+      "A": "A pure insurance policy",
+      "B": "A combination of traditional investments and derivatives",
+      "C": "A savings account with bonus interest",
+      "D": "A government bond"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q2",
+     "paper": 1,
+     "num": 2,
+     "stem": "The derivative component of a structured product is primarily used to:",
+     "options": {
+      "A": "Reduce administrative costs",
+      "B": "Generate a desired payoff profile",
+      "C": "Eliminate all risks",
+      "D": "Guarantee dividends"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q3",
+     "paper": 1,
+     "num": 3,
+     "stem": "Which of the following is NOT a common underlying asset?",
+     "options": {
+      "A": "Equity index",
+      "B": "Commodity",
+      "C": "Currency",
+      "D": "Policy loan"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P1-Q4",
+     "paper": 1,
+     "num": 4,
+     "stem": "A wrapper refers to:",
+     "options": {
+      "A": "The derivative contract",
+      "B": "The legal structure through which a product is offered",
+      "C": "The underlying asset",
+      "D": "The investment manager"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q5",
+     "paper": 1,
+     "num": 5,
+     "stem": "Capital-protected products generally:",
+     "options": {
+      "A": "Offer unlimited returns",
+      "B": "Protect capital only if held to maturity",
+      "C": "Have no credit risk",
+      "D": "Cannot contain derivatives"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q6",
+     "paper": 1,
+     "num": 6,
+     "stem": "Which risk remains even when capital protection exists?",
+     "options": {
+      "A": "Issuer credit risk",
+      "B": "Mortality risk",
+      "C": "Underwriting risk",
+      "D": "Lapse risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q7",
+     "paper": 1,
+     "num": 7,
+     "stem": "A reverse convertible bond is primarily designed for:",
+     "options": {
+      "A": "Capital protection",
+      "B": "Yield enhancement",
+      "C": "Estate planning",
+      "D": "Tax avoidance"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q8",
+     "paper": 1,
+     "num": 8,
+     "stem": "Yield enhancement products are generally suitable for investors who:",
+     "options": {
+      "A": "Expect little movement in the underlying asset",
+      "B": "Require full capital guarantees",
+      "C": "Seek CPF protection",
+      "D": "Have no investment experience"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q9",
+     "paper": 1,
+     "num": 9,
+     "stem": "A participation product aims to:",
+     "options": {
+      "A": "Increase coupon payments",
+      "B": "Provide exposure to market performance",
+      "C": "Replace unit trusts",
+      "D": "Eliminate market risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q10",
+     "paper": 1,
+     "num": 10,
+     "stem": "Which factor most directly affects the value of an option?",
+     "options": {
+      "A": "Age of investor",
+      "B": "Underlying asset price",
+      "C": "Policy owner",
+      "D": "Trustee fee"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q11",
+     "paper": 1,
+     "num": 11,
+     "stem": "A forward contract is:",
+     "options": {
+      "A": "Standardised and exchange traded",
+      "B": "Privately negotiated",
+      "C": "Guaranteed by a clearing house",
+      "D": "Always settled in cash"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q12",
+     "paper": 1,
+     "num": 12,
+     "stem": "Which statement about futures contracts is TRUE?",
+     "options": {
+      "A": "They are customised",
+      "B": "They are traded over-the-counter",
+      "C": "They are standardised contracts",
+      "D": "They have no margin requirements"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P1-Q13",
+     "paper": 1,
+     "num": 13,
+     "stem": "Initial margin in futures trading serves as:",
+     "options": {
+      "A": "Insurance premium",
+      "B": "Good-faith deposit",
+      "C": "Brokerage fee",
+      "D": "Coupon payment"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q14",
+     "paper": 1,
+     "num": 14,
+     "stem": "A call option gives the holder the right to:",
+     "options": {
+      "A": "Sell an asset",
+      "B": "Buy an asset",
+      "C": "Borrow money",
+      "D": "Receive dividends"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q15",
+     "paper": 1,
+     "num": 15,
+     "stem": "A put option gives the holder the right to:",
+     "options": {
+      "A": "Buy an asset",
+      "B": "Sell an asset",
+      "C": "Swap currencies",
+      "D": "Receive interest"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q16",
+     "paper": 1,
+     "num": 16,
+     "stem": "The maximum loss of a buyer of an option is:",
+     "options": {
+      "A": "Unlimited",
+      "B": "Premium paid",
+      "C": "Strike price",
+      "D": "Margin amount"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q17",
+     "paper": 1,
+     "num": 17,
+     "stem": "An exotic option differs from a plain vanilla option because it:",
+     "options": {
+      "A": "Is always cheaper",
+      "B": "Has more complex features",
+      "C": "Has no maturity date",
+      "D": "Is never traded OTC"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q18",
+     "paper": 1,
+     "num": 18,
+     "stem": "A swap is generally an agreement to:",
+     "options": {
+      "A": "Exchange cash flow streams",
+      "B": "Purchase shares",
+      "C": "Buy insurance",
+      "D": "Issue bonds"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q19",
+     "paper": 1,
+     "num": 19,
+     "stem": "An interest rate swap commonly exchanges:",
+     "options": {
+      "A": "Fixed rate for floating rate payments",
+      "B": "Equity for bonds",
+      "C": "Currency for commodities",
+      "D": "Shares for cash"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q20",
+     "paper": 1,
+     "num": 20,
+     "stem": "A currency swap involves:",
+     "options": {
+      "A": "Exchange of dividend rights",
+      "B": "Exchange of currencies and cash flows",
+      "C": "Exchange of bonds only",
+      "D": "Exchange of options"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q21",
+     "paper": 1,
+     "num": 21,
+     "stem": "A credit default swap is most closely linked to:",
+     "options": {
+      "A": "Equity risk",
+      "B": "Credit risk",
+      "C": "FX risk",
+      "D": "Inflation risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q22",
+     "paper": 1,
+     "num": 22,
+     "stem": "CFD stands for:",
+     "options": {
+      "A": "Capital Futures Derivative",
+      "B": "Contract For Difference",
+      "C": "Currency Forward Deposit",
+      "D": "Covered Financial Derivative"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q23",
+     "paper": 1,
+     "num": 23,
+     "stem": "CFDs are generally considered:",
+     "options": {
+      "A": "Leveraged instruments",
+      "B": "Capital guaranteed products",
+      "C": "Insurance policies",
+      "D": "Deposits"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q24",
+     "paper": 1,
+     "num": 24,
+     "stem": "Which is NOT a major risk of structured products?",
+     "options": {
+      "A": "Market risk",
+      "B": "Liquidity risk",
+      "C": "Credit risk",
+      "D": "Mortality risk"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P1-Q25",
+     "paper": 1,
+     "num": 25,
+     "stem": "Issuer-specific risk refers to:",
+     "options": {
+      "A": "Changes in tax law",
+      "B": "Financial deterioration of issuer",
+      "C": "Inflation",
+      "D": "Currency movements"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q26",
+     "paper": 1,
+     "num": 26,
+     "stem": "Liquidity risk means:",
+     "options": {
+      "A": "Product may be difficult to sell before maturity",
+      "B": "Issuer bankruptcy",
+      "C": "FX fluctuations",
+      "D": "Interest rate changes"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q27",
+     "paper": 1,
+     "num": 27,
+     "stem": "FX risk arises when:",
+     "options": {
+      "A": "Product is denominated in another currency",
+      "B": "Product has no maturity",
+      "C": "Product uses options",
+      "D": "Product is capital protected"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q28",
+     "paper": 1,
+     "num": 28,
+     "stem": "Leverage generally:",
+     "options": {
+      "A": "Magnifies gains and losses",
+      "B": "Eliminates risk",
+      "C": "Protects principal",
+      "D": "Guarantees income"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q29",
+     "paper": 1,
+     "num": 29,
+     "stem": "Investment concentration risk occurs when:",
+     "options": {
+      "A": "Assets are diversified",
+      "B": "Exposure is heavily focused on one investment",
+      "C": "Many issuers are used",
+      "D": "Risk is hedged"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q30",
+     "paper": 1,
+     "num": 30,
+     "stem": "Collateral is primarily intended to:",
+     "options": {
+      "A": "Increase commissions",
+      "B": "Mitigate counterparty exposure",
+      "C": "Increase volatility",
+      "D": "Replace derivatives"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q31",
+     "paper": 1,
+     "num": 31,
+     "stem": "A Structured ILP combines:",
+     "options": {
+      "A": "Traditional life insurance and structured investments",
+      "B": "CPF and bonds",
+      "C": "Unit trusts and deposits",
+      "D": "General insurance and annuities"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q32",
+     "paper": 1,
+     "num": 32,
+     "stem": "A key advantage of structured ILPs is:",
+     "options": {
+      "A": "Potential customised payoff structures",
+      "B": "Guaranteed profits",
+      "C": "No fees",
+      "D": "No risks"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q33",
+     "paper": 1,
+     "num": 33,
+     "stem": "Structured ILPs are generally unsuitable for:",
+     "options": {
+      "A": "Investors understanding product risks",
+      "B": "Long-term investors",
+      "C": "Investors requiring liquidity and simplicity",
+      "D": "Experienced investors"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P1-Q34",
+     "paper": 1,
+     "num": 34,
+     "stem": "The policyholder of a structured ILP is exposed to:",
+     "options": {
+      "A": "Investment risks",
+      "B": "Market risks",
+      "C": "Credit risks",
+      "D": "All of the above"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P1-Q35",
+     "paper": 1,
+     "num": 35,
+     "stem": "Product Summary and Product Highlights Sheet are examples of:",
+     "options": {
+      "A": "Point-of-sale disclosures",
+      "B": "Fund reports",
+      "C": "Claims documents",
+      "D": "Audit reports"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q36",
+     "paper": 1,
+     "num": 36,
+     "stem": "Policy documents are normally provided:",
+     "options": {
+      "A": "Before application only",
+      "B": "At policy inception",
+      "C": "At surrender",
+      "D": "At maturity"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q37",
+     "paper": 1,
+     "num": 37,
+     "stem": "Fund reports are generally intended to:",
+     "options": {
+      "A": "Provide ongoing information to policyholders",
+      "B": "Replace prospectuses",
+      "C": "Provide tax advice",
+      "D": "Provide underwriting decisions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q38",
+     "paper": 1,
+     "num": 38,
+     "stem": "A portfolio of investments with an insurance element is often known as:",
+     "options": {
+      "A": "Portfolio bond",
+      "B": "Futures contract",
+      "C": "Structured deposit",
+      "D": "Swap agreement"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q39",
+     "paper": 1,
+     "num": 39,
+     "stem": "One potential benefit of a portfolio bond is:",
+     "options": {
+      "A": "Administrative convenience",
+      "B": "Guaranteed returns",
+      "C": "Elimination of market risk",
+      "D": "Elimination of fees"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q40",
+     "paper": 1,
+     "num": 40,
+     "stem": "Suitability assessment begins with:",
+     "options": {
+      "A": "Product recommendation",
+      "B": "Fact finding",
+      "C": "Closing the sale",
+      "D": "Premium collection"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q41",
+     "paper": 1,
+     "num": 41,
+     "stem": "Know Your Client (KYC) helps determine:",
+     "options": {
+      "A": "Client objectives and risk profile",
+      "B": "Market prices",
+      "C": "Interest rates",
+      "D": "Issuer ratings only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q42",
+     "paper": 1,
+     "num": 42,
+     "stem": "A recommendation should be:",
+     "options": {
+      "A": "Based primarily on commissions",
+      "B": "Suitable for the client’s needs",
+      "C": "Identical for all clients",
+      "D": "Based on marketing materials only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q43",
+     "paper": 1,
+     "num": 43,
+     "stem": "A conservative investor is MOST likely to prefer:",
+     "options": {
+      "A": "Highly leveraged CFDs",
+      "B": "Capital-protected structures",
+      "C": "Naked option strategies",
+      "D": "Reverse convertible bonds"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P1-Q44",
+     "paper": 1,
+     "num": 44,
+     "stem": "The underlying asset performs strongly. Which product is generally designed to benefit most?",
+     "options": {
+      "A": "Participation product",
+      "B": "Deposit account",
+      "C": "Cash management account",
+      "D": "Fixed annuity"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q45",
+     "paper": 1,
+     "num": 45,
+     "stem": "Early redemption may result in:",
+     "options": {
+      "A": "Full capital recovery always",
+      "B": "Gains only",
+      "C": "Losses depending on market conditions",
+      "D": "Guaranteed returns"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P1-Q46",
+     "paper": 1,
+     "num": 46,
+     "stem": "Structured products are most commonly classified into:",
+     "options": {
+      "A": "Three broad categories",
+      "B": "Two broad categories",
+      "C": "Four broad categories",
+      "D": "Five broad categories"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q47",
+     "paper": 1,
+     "num": 47,
+     "stem": "The trade-off between risk and return suggests:",
+     "options": {
+      "A": "Higher return usually involves higher risk",
+      "B": "Higher return means lower risk",
+      "C": "Risk and return are unrelated",
+      "D": "Higher risk guarantees returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q48",
+     "paper": 1,
+     "num": 48,
+     "stem": "An investor buying a call option is generally:",
+     "options": {
+      "A": "Bullish",
+      "B": "Bearish",
+      "C": "Neutral",
+      "D": "Hedged"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P1-Q49",
+     "paper": 1,
+     "num": 49,
+     "stem": "The seller (writer) of a call option may face:",
+     "options": {
+      "A": "No loss",
+      "B": "Limited loss only",
+      "C": "Potentially unlimited loss",
+      "D": "Loss limited to premium paid"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P1-Q50",
+     "paper": 1,
+     "num": 50,
+     "stem": "The MOST important suitability principle is:",
+     "options": {
+      "A": "Sell the highest yielding product",
+      "B": "Match product features and risks to client needs",
+      "C": "Maximise sales volume",
+      "D": "Focus only on historical returns"
+     },
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "paper": 2,
+   "questions": [
+    {
+     "id": "M9A-P2-Q1",
+     "paper": 2,
+     "num": 1,
+     "stem": "A capital-protected structured product guarantees principal only if:",
+     "options": {
+      "A": "The issuer remains solvent and the product is held to maturity",
+      "B": "Interest rates remain unchanged",
+      "C": "The underlying asset appreciates",
+      "D": "The investor redeems early"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P2-Q2",
+     "paper": 2,
+     "num": 2,
+     "stem": "Which characteristic best distinguishes a structured product from a traditional bond?",
+     "options": {
+      "A": "It has a maturity date",
+      "B": "It contains a derivative component",
+      "C": "It pays coupons",
+      "D": "It carries credit risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q3",
+     "paper": 2,
+     "num": 3,
+     "stem": "An investor purchases a participation product linked to an equity index. If the participation rate is 80% and the index rises 25%, the investor’s participation gain is:",
+     "options": {
+      "A": "5%",
+      "B": "20%",
+      "C": "25%",
+      "D": "80%"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q4",
+     "paper": 2,
+     "num": 4,
+     "stem": "A reverse convertible note is most suitable for an investor who:",
+     "options": {
+      "A": "Expects significant market appreciation",
+      "B": "Expects limited market movement or moderate appreciation",
+      "C": "Requires guaranteed principal",
+      "D": "Has no risk tolerance"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q5",
+     "paper": 2,
+     "num": 5,
+     "stem": "The greatest risk in a reverse convertible structure is:",
+     "options": {
+      "A": "Inflation risk",
+      "B": "Reinvestment risk",
+      "C": "Receiving depreciated shares instead of cash at maturity",
+      "D": "Mortality risk"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P2-Q6",
+     "paper": 2,
+     "num": 6,
+     "stem": "A barrier option differs from a vanilla option because:",
+     "options": {
+      "A": "It contains a trigger condition",
+      "B": "It is exchange traded only",
+      "C": "It has no expiry date",
+      "D": "It cannot be exercised"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P2-Q7",
+     "paper": 2,
+     "num": 7,
+     "stem": "A knock-out option ceases to exist when:",
+     "options": {
+      "A": "Premium is paid",
+      "B": "A specified barrier is breached",
+      "C": "Maturity is reached",
+      "D": "Interest rates rise"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q8",
+     "paper": 2,
+     "num": 8,
+     "stem": "Which factor generally increases the value of a call option?",
+     "options": {
+      "A": "Falling underlying price",
+      "B": "Rising underlying price",
+      "C": "Lower volatility",
+      "D": "Shorter time to expiry"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q9",
+     "paper": 2,
+     "num": 9,
+     "stem": "The writer of a naked call option faces:",
+     "options": {
+      "A": "Limited risk only",
+      "B": "Risk equal to premium received",
+      "C": "Potentially unlimited losses",
+      "D": "No market risk"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P2-Q10",
+     "paper": 2,
+     "num": 10,
+     "stem": "A futures contract differs from a forward contract because futures:",
+     "options": {
+      "A": "Are customised",
+      "B": "Are OTC contracts",
+      "C": "Are standardised and exchange traded",
+      "D": "Have no counterparty risk"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P2-Q11",
+     "paper": 2,
+     "num": 11,
+     "stem": "Daily marking-to-market is associated with:",
+     "options": {
+      "A": "Options",
+      "B": "Futures",
+      "C": "Swaps",
+      "D": "Structured deposits"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q12",
+     "paper": 2,
+     "num": 12,
+     "stem": "An interest rate swap generally exchanges:",
+     "options": {
+      "A": "Principal amounts only",
+      "B": "Fixed and floating interest payments",
+      "C": "Equity returns and bond returns",
+      "D": "Currency and commodities"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q13",
+     "paper": 2,
+     "num": 13,
+     "stem": "A company expecting interest rates to rise may prefer to:",
+     "options": {
+      "A": "Pay floating and receive fixed",
+      "B": "Pay fixed and receive floating",
+      "C": "Avoid swaps entirely",
+      "D": "Buy a put option"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q14",
+     "paper": 2,
+     "num": 14,
+     "stem": "Credit default swaps are primarily used to manage:",
+     "options": {
+      "A": "Inflation risk",
+      "B": "Credit risk",
+      "C": "Currency risk",
+      "D": "Liquidity risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q15",
+     "paper": 2,
+     "num": 15,
+     "stem": "A CFD allows investors to:",
+     "options": {
+      "A": "Own the underlying asset directly",
+      "B": "Speculate on price movements without ownership",
+      "C": "Eliminate leverage risk",
+      "D": "Obtain guaranteed returns"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q16",
+     "paper": 2,
+     "num": 16,
+     "stem": "Which statement about CFDs is TRUE?",
+     "options": {
+      "A": "Losses cannot exceed initial investment",
+      "B": "CFDs are not leveraged",
+      "C": "Losses may exceed deposited margin",
+      "D": "They provide capital protection"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P2-Q17",
+     "paper": 2,
+     "num": 17,
+     "stem": "A structured ILP exposes policyholders to:",
+     "options": {
+      "A": "Insurance risk only",
+      "B": "Investment risk only",
+      "C": "Investment and credit risks",
+      "D": "No risk"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P2-Q18",
+     "paper": 2,
+     "num": 18,
+     "stem": "Structured ILPs generally appeal to investors seeking:",
+     "options": {
+      "A": "Guaranteed returns only",
+      "B": "Customised risk-return profiles",
+      "C": "Pure protection benefits only",
+      "D": "CPF guarantees"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q19",
+     "paper": 2,
+     "num": 19,
+     "stem": "A product linked to a basket of stocks introduces:",
+     "options": {
+      "A": "Concentration risk reduction",
+      "B": "Increased mortality risk",
+      "C": "Elimination of market risk",
+      "D": "Guaranteed diversification benefits"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P2-Q20",
+     "paper": 2,
+     "num": 20,
+     "stem": "Issuer credit deterioration would most directly affect:",
+     "options": {
+      "A": "Underlying asset volatility only",
+      "B": "The issuer’s ability to meet obligations",
+      "C": "Market index performance",
+      "D": "Investor risk tolerance"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q21",
+     "paper": 2,
+     "num": 21,
+     "stem": "Liquidity risk is highest when:",
+     "options": {
+      "A": "The product is exchange traded with active markets",
+      "B": "The product can be redeemed daily",
+      "C": "Secondary markets are limited or absent",
+      "D": "Interest rates are stable"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P2-Q22",
+     "paper": 2,
+     "num": 22,
+     "stem": "An investor exits a structured product before maturity. The redemption value will MOST likely depend on:",
+     "options": {
+      "A": "Original purchase price only",
+      "B": "Current market conditions and product valuation",
+      "C": "Coupon frequency only",
+      "D": "Investor age"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q23",
+     "paper": 2,
+     "num": 23,
+     "stem": "A participation rate above 100% implies:",
+     "options": {
+      "A": "Leveraged market exposure",
+      "B": "Capital protection",
+      "C": "Guaranteed profits",
+      "D": "Elimination of downside risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P2-Q24",
+     "paper": 2,
+     "num": 24,
+     "stem": "The primary purpose of collateral in OTC derivatives is:",
+     "options": {
+      "A": "Enhance returns",
+      "B": "Reduce counterparty risk",
+      "C": "Increase leverage",
+      "D": "Reduce volatility"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q25",
+     "paper": 2,
+     "num": 25,
+     "stem": "An exotic option is generally:",
+     "options": {
+      "A": "Simpler than a vanilla option",
+      "B": "More complex in payoff structure",
+      "C": "Exchange traded only",
+      "D": "Free from liquidity risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q26",
+     "paper": 2,
+     "num": 26,
+     "stem": "Which product is LEAST suitable?",
+     "options": {
+      "A": "Capital-protected structure",
+      "B": "High-leverage CFD strategy",
+      "C": "Short-duration investment portfolio",
+      "D": "Conservative structured deposit"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q27",
+     "paper": 2,
+     "num": 27,
+     "stem": "The most important concern is:",
+     "options": {
+      "A": "Tax efficiency",
+      "B": "Liquidity needs",
+      "C": "Maximum upside participation",
+      "D": "Exotic option exposure"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q28",
+     "paper": 2,
+     "num": 28,
+     "stem": "If Mr Lim invests heavily in a single technology stock-linked note, he faces:",
+     "options": {
+      "A": "Concentration risk",
+      "B": "Mortality risk",
+      "C": "Policy lapse risk",
+      "D": "Operational risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P2-Q29",
+     "paper": 2,
+     "num": 29,
+     "stem": "A recommendation focusing only on historical returns would violate:",
+     "options": {
+      "A": "Suitability principles",
+      "B": "Product disclosure rules",
+      "C": "Derivatives regulations",
+      "D": "Exchange requirements"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P2-Q30",
+     "paper": 2,
+     "num": 30,
+     "stem": "The most suitable recommendation should prioritise:",
+     "options": {
+      "A": "Client objectives and constraints",
+      "B": "Representative commissions",
+      "C": "Highest possible returns",
+      "D": "Most complex structure available"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P2-Q31",
+     "paper": 2,
+     "num": 31,
+     "stem": "Which risk cannot be diversified away completely?",
+     "options": {
+      "A": "Company-specific risk",
+      "B": "Market risk",
+      "C": "Product risk",
+      "D": "Liquidity risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q32",
+     "paper": 2,
+     "num": 32,
+     "stem": "Volatility generally:",
+     "options": {
+      "A": "Reduces option value",
+      "B": "Increases option value",
+      "C": "Eliminates leverage risk",
+      "D": "Reduces uncertainty"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q33",
+     "paper": 2,
+     "num": 33,
+     "stem": "Time decay affects:",
+     "options": {
+      "A": "Bonds only",
+      "B": "Options",
+      "C": "Deposits only",
+      "D": "Unit trusts only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q34",
+     "paper": 2,
+     "num": 34,
+     "stem": "A deep out-of-the-money call option has:",
+     "options": {
+      "A": "High intrinsic value",
+      "B": "Low intrinsic value",
+      "C": "Guaranteed exercise value",
+      "D": "No time value"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q35",
+     "paper": 2,
+     "num": 35,
+     "stem": "Counterparty risk is particularly relevant for:",
+     "options": {
+      "A": "Exchange-traded futures only",
+      "B": "OTC derivatives",
+      "C": "Government bonds only",
+      "D": "Cash deposits only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q36",
+     "paper": 2,
+     "num": 36,
+     "stem": "A structured note linked to multiple asset classes may increase:",
+     "options": {
+      "A": "Product complexity",
+      "B": "Principal guarantees",
+      "C": "Liquidity automatically",
+      "D": "Simplicity"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P2-Q37",
+     "paper": 2,
+     "num": 37,
+     "stem": "An investor seeking income enhancement may prefer:",
+     "options": {
+      "A": "Yield enhancement products",
+      "B": "Capital-protected products only",
+      "C": "Savings accounts only",
+      "D": "Cash holdings exclusively"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P2-Q38",
+     "paper": 2,
+     "num": 38,
+     "stem": "The purpose of KYC is to:",
+     "options": {
+      "A": "Maximise sales",
+      "B": "Understand client circumstances and objectives",
+      "C": "Reduce paperwork",
+      "D": "Improve commissions"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q39",
+     "paper": 2,
+     "num": 39,
+     "stem": "Risk tolerance and risk capacity are:",
+     "options": {
+      "A": "Identical concepts",
+      "B": "Unrelated concepts",
+      "C": "Different but both relevant to suitability",
+      "D": "Relevant only to institutional investors"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P2-Q40",
+     "paper": 2,
+     "num": 40,
+     "stem": "A recommendation may be unsuitable if:",
+     "options": {
+      "A": "It matches objectives",
+      "B": "Risks exceed the client’s tolerance and capacity",
+      "C": "It includes disclosure documents",
+      "D": "It is diversified"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q41",
+     "paper": 2,
+     "num": 41,
+     "stem": "A structured product offers 120% participation in an equity index with no capital protection. Which statement is MOST accurate?",
+     "options": {
+      "A": "Downside risk is limited to 20% of capital",
+      "B": "Investor participates more than one-for-one in gains and losses according to product terms",
+      "C": "Capital is guaranteed at maturity",
+      "D": "Returns are fixed regardless of market performance"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q42",
+     "paper": 2,
+     "num": 42,
+     "stem": "Which factor is LEAST relevant when assessing suitability of a structured ILP?",
+     "options": {
+      "A": "Client’s risk tolerance",
+      "B": "Client’s investment horizon",
+      "C": "Representative’s sales target",
+      "D": "Client’s liquidity needs"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P2-Q43",
+     "paper": 2,
+     "num": 43,
+     "stem": "A product linked to emerging market equities is likely to exhibit:",
+     "options": {
+      "A": "Higher volatility than developed market government bonds",
+      "B": "Lower volatility than treasury bills",
+      "C": "No market risk",
+      "D": "Guaranteed growth"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P2-Q44",
+     "paper": 2,
+     "num": 44,
+     "stem": "Which of the following would most likely increase counterparty risk?",
+     "options": {
+      "A": "Daily collateral posting",
+      "B": "Central clearing arrangement",
+      "C": "Lack of collateral agreement",
+      "D": "Exchange trading"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P2-Q45",
+     "paper": 2,
+     "num": 45,
+     "stem": "An investor purchases a capital-protected note and the issuer defaults before maturity. Which statement is TRUE?",
+     "options": {
+      "A": "Capital protection remains fully effective",
+      "B": "Capital protection may fail due to issuer credit risk",
+      "C": "Government compensation automatically applies",
+      "D": "Investor receives guaranteed principal immediately"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q46",
+     "paper": 2,
+     "num": 46,
+     "stem": "The primary purpose of diversification is to:",
+     "options": {
+      "A": "Reduce unsystematic risk",
+      "B": "Eliminate all investment risk",
+      "C": "Guarantee positive returns",
+      "D": "Increase leverage"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P2-Q47",
+     "paper": 2,
+     "num": 47,
+     "stem": "A structured product linked to a basket of five shares may underperform a single-stock product because:",
+     "options": {
+      "A": "Basket products eliminate upside potential",
+      "B": "Diversification always lowers returns",
+      "C": "Shares cannot rise simultaneously",
+      "D": "Weak-performing components may drag down overall basket performance"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P2-Q48",
+     "paper": 2,
+     "num": 48,
+     "stem": "Which statement about leverage is MOST accurate?",
+     "options": {
+      "A": "Leverage magnifies gains but not losses",
+      "B": "Leverage magnifies both gains and losses",
+      "C": "Leverage guarantees higher returns",
+      "D": "Leverage reduces volatility"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P2-Q49",
+     "paper": 2,
+     "num": 49,
+     "stem": "Which risk is MOST significant for an investor who may need cash urgently before maturity?",
+     "options": {
+      "A": "Inflation risk",
+      "B": "Reinvestment risk",
+      "C": "Liquidity risk",
+      "D": "Credit spread risk"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P2-Q50",
+     "paper": 2,
+     "num": 50,
+     "stem": "Under the suitability principle, a representative should recommend a product only when:",
+     "options": {
+      "A": "Expected returns exceed inflation",
+      "B": "Product commission is competitive",
+      "C": "Product features, risks and objectives align with the client’s profile",
+      "D": "Product has historically outperformed peers"
+     },
+     "answer": "C"
+    }
+   ]
+  },
+  {
+   "paper": 3,
+   "questions": [
+    {
+     "id": "M9A-P3-Q1",
+     "paper": 3,
+     "num": 1,
+     "stem": "A client says, “I want the highest possible return and I don’t care about risk.”",
+     "options": {
+      "A": "Recommend the highest-returning product available",
+      "B": "Recommend a leveraged CFD",
+      "C": "Assess the client’s overall circumstances before making a recommendation",
+      "D": "Recommend an exotic structured product immediately"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q2",
+     "paper": 3,
+     "num": 2,
+     "stem": "A structured product offers 100% capital protection at maturity.",
+     "options": {
+      "A": "There is no risk",
+      "B": "The product is suitable for all investors",
+      "C": "Credit risk may still exist",
+      "D": "Returns are guaranteed"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q3",
+     "paper": 3,
+     "num": 3,
+     "stem": "A client with a 2-year investment horizon is considering a 7-year structured ILP.",
+     "options": {
+      "A": "Potential returns",
+      "B": "Liquidity mismatch",
+      "C": "Fund performance",
+      "D": "Product charges"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q4",
+     "paper": 3,
+     "num": 4,
+     "stem": "A recommendation may be unsuitable even when:",
+     "options": {
+      "A": "The product has performed well historically",
+      "B": "The client understands the risks",
+      "C": "The product does not meet the client’s objectives",
+      "D": "All disclosures were provided"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q5",
+     "paper": 3,
+     "num": 5,
+     "stem": "An investor wants guaranteed capital and maximum market upside.",
+     "options": {
+      "A": "Such products always exist",
+      "B": "Higher upside often requires accepting higher risk",
+      "C": "Capital guarantees eliminate all trade-offs",
+      "D": "Structured products remove risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q6",
+     "paper": 3,
+     "num": 6,
+     "stem": "Which investor is MOST suitable for a high-leverage CFD strategy?",
+     "options": {
+      "A": "Retired investor needing income",
+      "B": "Investor requiring capital preservation",
+      "C": "Experienced investor able to tolerate substantial losses",
+      "D": "Investor with short-term liquidity needs"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q7",
+     "paper": 3,
+     "num": 7,
+     "stem": "A product is linked to a basket of 10 stocks.",
+     "options": {
+      "A": "Eliminates risk",
+      "B": "Reduces concentration risk",
+      "C": "Guarantees returns",
+      "D": "Removes volatility"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q8",
+     "paper": 3,
+     "num": 8,
+     "stem": "A representative recommends a product primarily because it pays a higher commission.",
+     "options": {
+      "A": "Market risk",
+      "B": "Operational risk",
+      "C": "Conflict of interest",
+      "D": "Liquidity risk"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q9",
+     "paper": 3,
+     "num": 9,
+     "stem": "The MOST important purpose of fact-finding is:",
+     "options": {
+      "A": "To complete documentation",
+      "B": "To identify suitable recommendations",
+      "C": "To reduce complaints",
+      "D": "To increase sales"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q10",
+     "paper": 3,
+     "num": 10,
+     "stem": "A client says he understands a product but cannot explain how returns are generated.",
+     "options": {
+      "A": "Proceed with the sale",
+      "B": "Reassess the client’s understanding",
+      "C": "Ignore the issue",
+      "D": "Focus on disclosures only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q11",
+     "paper": 3,
+     "num": 11,
+     "stem": "A capital-protected note may still suffer losses if:",
+     "options": {
+      "A": "Interest rates fall",
+      "B": "The issuer defaults",
+      "C": "Markets rise",
+      "D": "Coupons increase"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q12",
+     "paper": 3,
+     "num": 12,
+     "stem": "Which statement regarding leverage is MOST accurate?",
+     "options": {
+      "A": "It magnifies gains only",
+      "B": "It magnifies losses only",
+      "C": "It magnifies both gains and losses",
+      "D": "It guarantees higher returns"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q13",
+     "paper": 3,
+     "num": 13,
+     "stem": "A client’s risk tolerance is high but risk capacity is low.",
+     "options": {
+      "A": "Risk capacity",
+      "B": "Risk tolerance",
+      "C": "Product popularity",
+      "D": "Historical performance"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P3-Q14",
+     "paper": 3,
+     "num": 14,
+     "stem": "An investor may need emergency funds within six months.",
+     "options": {
+      "A": "Liquidity risk",
+      "B": "Mortality risk",
+      "C": "Inflation risk",
+      "D": "Currency risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P3-Q15",
+     "paper": 3,
+     "num": 15,
+     "stem": "Which is the BEST indicator of suitability?",
+     "options": {
+      "A": "Product complexity",
+      "B": "Product returns",
+      "C": "Alignment with client objectives and circumstances",
+      "D": "Product popularity"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q16",
+     "paper": 3,
+     "num": 16,
+     "stem": "A structured ILP is generally suitable for:",
+     "options": {
+      "A": "Every investor",
+      "B": "Investors seeking customised risk-return exposure",
+      "C": "Investors seeking guaranteed returns",
+      "D": "Investors unwilling to accept investment risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q17",
+     "paper": 3,
+     "num": 17,
+     "stem": "A client requests a product recommendation without providing financial information.",
+     "options": {
+      "A": "Recommend the most conservative product",
+      "B": "Recommend the most popular product",
+      "C": "Obtain sufficient information first",
+      "D": "Recommend cash products immediately"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q18",
+     "paper": 3,
+     "num": 18,
+     "stem": "A client focuses only on returns and ignores risks.",
+     "options": {
+      "A": "Emphasise returns",
+      "B": "Ensure risks are properly understood",
+      "C": "Proceed immediately",
+      "D": "Recommend leverage"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q19",
+     "paper": 3,
+     "num": 19,
+     "stem": "A recommendation is suitable when:",
+     "options": {
+      "A": "It maximises expected return",
+      "B": "It generates the highest commission",
+      "C": "It matches the client’s objectives, needs and risk profile",
+      "D": "It has outperformed peers"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q20",
+     "paper": 3,
+     "num": 20,
+     "stem": "Which statement is MOST accurate?",
+     "options": {
+      "A": "Capital protection eliminates credit risk",
+      "B": "Diversification eliminates market risk",
+      "C": "Historical performance guarantees future performance",
+      "D": "None of the above"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P3-Q21",
+     "paper": 3,
+     "num": 21,
+     "stem": "KYC primarily exists to:",
+     "options": {
+      "A": "Maximise sales",
+      "B": "Understand the client",
+      "C": "Reduce paperwork",
+      "D": "Increase productivity"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q22",
+     "paper": 3,
+     "num": 22,
+     "stem": "A client does not understand a derivative feature. The representative should:",
+     "options": {
+      "A": "Continue if disclosure was provided",
+      "B": "Simplify explanation and reassess understanding",
+      "C": "Skip the feature",
+      "D": "Proceed if client signs"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q23",
+     "paper": 3,
+     "num": 23,
+     "stem": "The strongest reason to reject a recommendation is:",
+     "options": {
+      "A": "Product complexity",
+      "B": "High charges",
+      "C": "Unsuitability",
+      "D": "Limited popularity"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q24",
+     "paper": 3,
+     "num": 24,
+     "stem": "The key purpose of suitability assessment is:",
+     "options": {
+      "A": "Compliance only",
+      "B": "Sales efficiency",
+      "C": "Client protection",
+      "D": "Documentation"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q25",
+     "paper": 3,
+     "num": 25,
+     "stem": "Which factor is LEAST relevant?",
+     "options": {
+      "A": "Risk tolerance",
+      "B": "Objectives",
+      "C": "Investment horizon",
+      "D": "Representative sales target"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P3-Q26",
+     "paper": 3,
+     "num": 26,
+     "stem": "A client needing capital preservation should generally avoid:",
+     "options": {
+      "A": "Capital-protected products",
+      "B": "High-leverage products",
+      "C": "Diversified portfolios",
+      "D": "Cash alternatives"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q27",
+     "paper": 3,
+     "num": 27,
+     "stem": "A product with higher potential return generally:",
+     "options": {
+      "A": "Carries higher risk",
+      "B": "Carries lower risk",
+      "C": "Carries no risk",
+      "D": "Guarantees profits"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P3-Q28",
+     "paper": 3,
+     "num": 28,
+     "stem": "Which risk remains after diversification?",
+     "options": {
+      "A": "Company-specific risk",
+      "B": "Market risk",
+      "C": "Management risk",
+      "D": "Product risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q29",
+     "paper": 3,
+     "num": 29,
+     "stem": "A representative should recommend:",
+     "options": {
+      "A": "What the client requests",
+      "B": "What the client can afford",
+      "C": "What is suitable",
+      "D": "What is easiest to explain"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q30",
+     "paper": 3,
+     "num": 30,
+     "stem": "A recommendation can still be unsuitable even if:",
+     "options": {
+      "A": "Risks were disclosed",
+      "B": "Documentation was completed",
+      "C": "Product does not fit objectives",
+      "D": "All of the above"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P3-Q31",
+     "paper": 3,
+     "num": 31,
+     "stem": "A client has a high-risk tolerance but requires the invested funds for a property purchase in 12 months. What is the MOST important consideration?",
+     "options": {
+      "A": "Risk capacity may be lower than risk tolerance",
+      "B": "Historical returns of the product",
+      "C": "Product complexity",
+      "D": "Market outlook"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P3-Q32",
+     "paper": 3,
+     "num": 32,
+     "stem": "A representative recommends a structured product without explaining the derivative component. Which principle is MOST likely breached?",
+     "options": {
+      "A": "Diversification",
+      "B": "Fair dealing and adequate disclosure",
+      "C": "Asset allocation",
+      "D": "Portfolio rebalancing"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q33",
+     "paper": 3,
+     "num": 33,
+     "stem": "Which statement regarding suitability is MOST accurate?",
+     "options": {
+      "A": "A suitable product is always the safest product",
+      "B": "A suitable product is always the highest-returning product",
+      "C": "A suitable product matches the client’s objectives, circumstances and risk profile",
+      "D": "A suitable product must provide capital protection"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q34",
+     "paper": 3,
+     "num": 34,
+     "stem": "An investor buys a structured product linked to foreign equities. Which additional risk should be highlighted?",
+     "options": {
+      "A": "Currency risk",
+      "B": "Mortality risk",
+      "C": "Underwriting risk",
+      "D": "Policy loan risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P3-Q35",
+     "paper": 3,
+     "num": 35,
+     "stem": "Which client is MOST suitable for a leveraged derivative-based investment?",
+     "options": {
+      "A": "Retiree requiring regular income",
+      "B": "Investor with low risk tolerance",
+      "C": "Investor needing emergency liquidity",
+      "D": "Experienced investor who can absorb significant losses"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P3-Q36",
+     "paper": 3,
+     "num": 36,
+     "stem": "A client insists on purchasing a product after being informed that it may be unsuitable. The representative should:",
+     "options": {
+      "A": "Ignore suitability concerns",
+      "B": "Follow company procedures and document the situation appropriately",
+      "C": "Alter the fact-find",
+      "D": "Proceed without documentation"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q37",
+     "paper": 3,
+     "num": 37,
+     "stem": "Which statement about diversification is TRUE?",
+     "options": {
+      "A": "Diversification guarantees profits",
+      "B": "Diversification eliminates all risks",
+      "C": "Diversification helps reduce unsystematic risk",
+      "D": "Diversification eliminates market risk"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q38",
+     "paper": 3,
+     "num": 38,
+     "stem": "A client focuses exclusively on potential returns. The representative should:",
+     "options": {
+      "A": "Focus only on returns",
+      "B": "Ensure the client understands both risks and returns",
+      "C": "Recommend the highest-yielding product",
+      "D": "Avoid discussing risks"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q39",
+     "paper": 3,
+     "num": 39,
+     "stem": "The MOST significant risk when investing in a structured product issued by a financially weak institution is:",
+     "options": {
+      "A": "Inflation risk",
+      "B": "Issuer credit risk",
+      "C": "Mortality risk",
+      "D": "Reinvestment risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q40",
+     "paper": 3,
+     "num": 40,
+     "stem": "Which factor is LEAST important when assessing product suitability?",
+     "options": {
+      "A": "Client objectives",
+      "B": "Client investment horizon",
+      "C": "Client risk profile",
+      "D": "Representative’s commission level"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P3-Q41",
+     "paper": 3,
+     "num": 41,
+     "stem": "When two answers appear correct, CMFAS typically expects candidates to choose:",
+     "options": {
+      "A": "Highest return",
+      "B": "Lowest risk",
+      "C": "Most suitable answer based on the client’s circumstances",
+      "D": "Most complex solution"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q42",
+     "paper": 3,
+     "num": 42,
+     "stem": "Which principle should take priority?",
+     "options": {
+      "A": "Sales targets",
+      "B": "Client interests",
+      "C": "Product volume",
+      "D": "Commission generation"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q43",
+     "paper": 3,
+     "num": 43,
+     "stem": "The most common reason candidates lose marks is:",
+     "options": {
+      "A": "Calculation errors",
+      "B": "Forgetting formulas",
+      "C": "Ignoring suitability considerations",
+      "D": "Misreading fund names"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q44",
+     "paper": 3,
+     "num": 44,
+     "stem": "A client insists on an unsuitable recommendation.",
+     "options": {
+      "A": "Proceed",
+      "B": "Recommend anyway",
+      "C": "Document concerns and follow company procedures",
+      "D": "Ignore suitability"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q45",
+     "paper": 3,
+     "num": 45,
+     "stem": "Which risk is often underestimated in structured products?",
+     "options": {
+      "A": "Credit risk",
+      "B": "Mortality risk",
+      "C": "Underwriting risk",
+      "D": "Medical risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P3-Q46",
+     "paper": 3,
+     "num": 46,
+     "stem": "Which statement is TRUE?",
+     "options": {
+      "A": "Higher return always means better suitability",
+      "B": "Suitable recommendations depend on client circumstances",
+      "C": "Complex products are superior",
+      "D": "Leverage is appropriate for everyone"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q47",
+     "paper": 3,
+     "num": 47,
+     "stem": "The MOST defensible recommendation is one that:",
+     "options": {
+      "A": "Generates strong commissions",
+      "B": "Is easiest to sell",
+      "C": "Meets the client’s objectives and constraints",
+      "D": "Offers maximum leverage"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P3-Q48",
+     "paper": 3,
+     "num": 48,
+     "stem": "A recommendation should be reviewed when:",
+     "options": {
+      "A": "Client circumstances change",
+      "B": "Markets change",
+      "C": "Objectives change",
+      "D": "All of the above"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P3-Q49",
+     "paper": 3,
+     "num": 49,
+     "stem": "Which concept appears most frequently in difficult M9A questions?",
+     "options": {
+      "A": "Tax planning",
+      "B": "Suitability",
+      "C": "Estate duty",
+      "D": "Medical underwriting"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P3-Q50",
+     "paper": 3,
+     "num": 50,
+     "stem": "The BEST final test before recommending any M9A product is:",
+     "options": {
+      "A": "Will this generate strong returns?",
+      "B": "Will this generate commission?",
+      "C": "Is this suitable for this specific client?",
+      "D": "Is this popular among investors?"
+     },
+     "answer": "C"
+    }
+   ]
+  },
+  {
+   "paper": 4,
+   "questions": [
+    {
+     "id": "M9A-P4-Q1",
+     "paper": 4,
+     "num": 1,
+     "stem": "Which factor is MOST important?",
+     "options": {
+      "A": "Potential return",
+      "B": "Product popularity",
+      "C": "Liquidity needs",
+      "D": "Representative commission"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P4-Q2",
+     "paper": 4,
+     "num": 2,
+     "stem": "The greatest concern is:",
+     "options": {
+      "A": "Equity market risk only",
+      "B": "Liquidity mismatch",
+      "C": "Currency appreciation",
+      "D": "Fund manager reputation"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q3",
+     "paper": 4,
+     "num": 3,
+     "stem": "Which statement best describes Mr Tan’s objective?",
+     "options": {
+      "A": "Aggressive growth",
+      "B": "Capital preservation with income needs",
+      "C": "Speculation",
+      "D": "Short-term trading"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q4",
+     "paper": 4,
+     "num": 4,
+     "stem": "The proposed 7-year product may be unsuitable because:",
+     "options": {
+      "A": "It contains equities",
+      "B": "It exceeds the client’s likely liquidity horizon",
+      "C": "It is professionally managed",
+      "D": "It offers diversification"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q5",
+     "paper": 4,
+     "num": 5,
+     "stem": "If the client insists on proceeding, the representative should:",
+     "options": {
+      "A": "Ignore concerns",
+      "B": "Follow company procedures and document suitability discussions",
+      "C": "Alter the fact-find",
+      "D": "Recommend leverage"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q6",
+     "paper": 4,
+     "num": 6,
+     "stem": "Which risk deserves particular emphasis?",
+     "options": {
+      "A": "Mortality risk",
+      "B": "Liquidity risk",
+      "C": "Underwriting risk",
+      "D": "Medical risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q7",
+     "paper": 4,
+     "num": 7,
+     "stem": "A more suitable recommendation may involve:",
+     "options": {
+      "A": "Leveraged CFDs",
+      "B": "Extremely concentrated investments",
+      "C": "Lower-volatility and shorter-duration solutions",
+      "D": "Naked options"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P4-Q8",
+     "paper": 4,
+     "num": 8,
+     "stem": "If the product has capital protection, what risk remains?",
+     "options": {
+      "A": "No risk remains",
+      "B": "Issuer credit risk",
+      "C": "Mortality risk",
+      "D": "Policy loan risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q9",
+     "paper": 4,
+     "num": 9,
+     "stem": "The recommendation should primarily be based on:",
+     "options": {
+      "A": "Expected returns",
+      "B": "Client circumstances",
+      "C": "Market forecasts",
+      "D": "Product features alone"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q10",
+     "paper": 4,
+     "num": 10,
+     "stem": "The BEST answer is:",
+     "options": {
+      "A": "Recommend immediately",
+      "B": "Prioritise suitability over potential returns",
+      "C": "Prioritise growth",
+      "D": "Prioritise commissions"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q11",
+     "paper": 4,
+     "num": 11,
+     "stem": "Which characteristic supports suitability?",
+     "options": {
+      "A": "Short investment horizon",
+      "B": "High liquidity needs",
+      "C": "Long investment horizon",
+      "D": "Capital guarantee requirement"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9A-P4-Q12",
+     "paper": 4,
+     "num": 12,
+     "stem": "The product objective aligns MOST closely with:",
+     "options": {
+      "A": "Wealth accumulation",
+      "B": "Income generation",
+      "C": "Capital preservation",
+      "D": "Cash management"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q13",
+     "paper": 4,
+     "num": 13,
+     "stem": "Which factor strengthens suitability?",
+     "options": {
+      "A": "Long-term horizon",
+      "B": "Need for immediate cash access",
+      "C": "Low risk tolerance",
+      "D": "Requirement for guaranteed returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q14",
+     "paper": 4,
+     "num": 14,
+     "stem": "The main investment risk remains:",
+     "options": {
+      "A": "Market risk",
+      "B": "Mortality risk",
+      "C": "Policy loan risk",
+      "D": "Underwriting risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q15",
+     "paper": 4,
+     "num": 15,
+     "stem": "Participation products generally seek:",
+     "options": {
+      "A": "Exposure to market upside",
+      "B": "Fixed returns",
+      "C": "Guaranteed income",
+      "D": "Elimination of risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q16",
+     "paper": 4,
+     "num": 16,
+     "stem": "If markets decline significantly:",
+     "options": {
+      "A": "Returns may be affected adversely",
+      "B": "Returns are guaranteed",
+      "C": "Participation increases automatically",
+      "D": "Credit risk disappears"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q17",
+     "paper": 4,
+     "num": 17,
+     "stem": "Suitability depends MOST on:",
+     "options": {
+      "A": "Product popularity",
+      "B": "Client profile",
+      "C": "Sales targets",
+      "D": "Historical rankings"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q18",
+     "paper": 4,
+     "num": 18,
+     "stem": "The recommendation process should begin with:",
+     "options": {
+      "A": "Product selection",
+      "B": "Fact-finding",
+      "C": "Documentation only",
+      "D": "Closing the sale"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q19",
+     "paper": 4,
+     "num": 19,
+     "stem": "Which principle is MOST relevant?",
+     "options": {
+      "A": "Suitability",
+      "B": "Tax avoidance",
+      "C": "Underwriting",
+      "D": "Estate duty"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q20",
+     "paper": 4,
+     "num": 20,
+     "stem": "Overall suitability appears:",
+     "options": {
+      "A": "Strong",
+      "B": "Weak",
+      "C": "Impossible to determine",
+      "D": "Unsuitable"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q21",
+     "paper": 4,
+     "num": 21,
+     "stem": "What is the biggest warning sign?",
+     "options": {
+      "A": "Education funding objective",
+      "B": "Age",
+      "C": "Employment status",
+      "D": "Asset size"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q22",
+     "paper": 4,
+     "num": 22,
+     "stem": "CFDs are generally:",
+     "options": {
+      "A": "Capital-protected",
+      "B": "Leveraged instruments",
+      "C": "Deposits",
+      "D": "Insurance contracts"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q23",
+     "paper": 4,
+     "num": 23,
+     "stem": "The recommendation is MOST likely:",
+     "options": {
+      "A": "Suitable",
+      "B": "Unsuitable",
+      "C": "Guaranteed",
+      "D": "Conservative"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q24",
+     "paper": 4,
+     "num": 24,
+     "stem": "The client’s experience level suggests:",
+     "options": {
+      "A": "Greater caution",
+      "B": "Greater leverage",
+      "C": "Less disclosure",
+      "D": "No concern"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q25",
+     "paper": 4,
+     "num": 25,
+     "stem": "Potential losses in CFDs:",
+     "options": {
+      "A": "Are limited to gains",
+      "B": "May exceed margin deposited",
+      "C": "Are impossible",
+      "D": "Are guaranteed"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q26",
+     "paper": 4,
+     "num": 26,
+     "stem": "Which principle should dominate?",
+     "options": {
+      "A": "Maximum returns",
+      "B": "Suitability",
+      "C": "Product complexity",
+      "D": "Sales volume"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q27",
+     "paper": 4,
+     "num": 27,
+     "stem": "A more suitable alternative may involve:",
+     "options": {
+      "A": "Reduced risk exposure",
+      "B": "Increased leverage",
+      "C": "Concentration",
+      "D": "Speculation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q28",
+     "paper": 4,
+     "num": 28,
+     "stem": "The client’s time horizon suggests:",
+     "options": {
+      "A": "Unlimited risk capacity",
+      "B": "Moderate liquidity considerations",
+      "C": "No liquidity concerns",
+      "D": "Infinite investment horizon"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q29",
+     "paper": 4,
+     "num": 29,
+     "stem": "What should be assessed before any recommendation?",
+     "options": {
+      "A": "KYC and fact-finding",
+      "B": "Product brochure only",
+      "C": "Market outlook only",
+      "D": "Fund rankings only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q30",
+     "paper": 4,
+     "num": 30,
+     "stem": "The BEST conclusion is:",
+     "options": {
+      "A": "Proceed immediately",
+      "B": "Review suitability carefully",
+      "C": "Ignore experience level",
+      "D": "Increase leverage"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q31",
+     "paper": 4,
+     "num": 31,
+     "stem": "The primary objective of this product is:",
+     "options": {
+      "A": "Yield enhancement",
+      "B": "Capital guarantee",
+      "C": "Cash management",
+      "D": "Insurance protection"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q32",
+     "paper": 4,
+     "num": 32,
+     "stem": "A major risk is:",
+     "options": {
+      "A": "Receiving depreciated shares at maturity",
+      "B": "Guaranteed losses",
+      "C": "Mortality risk",
+      "D": "Underwriting risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q33",
+     "paper": 4,
+     "num": 33,
+     "stem": "Which client factor supports suitability?",
+     "options": {
+      "A": "Understanding of risks",
+      "B": "Immediate cash needs",
+      "C": "Low risk tolerance",
+      "D": "Need for capital guarantee"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q34",
+     "paper": 4,
+     "num": 34,
+     "stem": "Reverse convertibles are generally suitable for investors expecting:",
+     "options": {
+      "A": "Stable or moderately positive markets",
+      "B": "Severe market declines",
+      "C": "Hyperinflation",
+      "D": "Guaranteed growth"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q35",
+     "paper": 4,
+     "num": 35,
+     "stem": "The most important disclosure concerns:",
+     "options": {
+      "A": "Potential downside risk",
+      "B": "Mortality risk",
+      "C": "Medical risk",
+      "D": "Policy loans"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q36",
+     "paper": 4,
+     "num": 36,
+     "stem": "Which statement is TRUE?",
+     "options": {
+      "A": "Yield enhancement products eliminate risk",
+      "B": "Higher yields usually involve higher risks",
+      "C": "Returns are guaranteed",
+      "D": "Capital is always protected"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q37",
+     "paper": 4,
+     "num": 37,
+     "stem": "Suitability appears:",
+     "options": {
+      "A": "Strong",
+      "B": "Weak",
+      "C": "Impossible to determine",
+      "D": "Unsuitable"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q38",
+     "paper": 4,
+     "num": 38,
+     "stem": "The representative should ensure:",
+     "options": {
+      "A": "Risks are understood",
+      "B": "Returns are guaranteed",
+      "C": "Markets will rise",
+      "D": "Shares cannot fall"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q39",
+     "paper": 4,
+     "num": 39,
+     "stem": "If markets fall sharply:",
+     "options": {
+      "A": "Investor may suffer losses",
+      "B": "Capital is guaranteed",
+      "C": "Losses are impossible",
+      "D": "Credit risk disappears"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q40",
+     "paper": 4,
+     "num": 40,
+     "stem": "The MOST relevant principle is:",
+     "options": {
+      "A": "Suitability and disclosure",
+      "B": "Sales volume",
+      "C": "Product complexity",
+      "D": "Commission generation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q41",
+     "paper": 4,
+     "num": 41,
+     "stem": "Which statement is MOST accurate?",
+     "options": {
+      "A": "The same product is automatically suitable for both",
+      "B": "Suitability must be assessed separately",
+      "C": "Age alone determines suitability",
+      "D": "Returns determine suitability"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q42",
+     "paper": 4,
+     "num": 42,
+     "stem": "Client A is more likely to accept:",
+     "options": {
+      "A": "Market volatility",
+      "B": "Liquidity constraints",
+      "C": "Long investment horizons",
+      "D": "All of the above"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P4-Q43",
+     "paper": 4,
+     "num": 43,
+     "stem": "Client B’s primary concern is likely:",
+     "options": {
+      "A": "Aggressive growth",
+      "B": "Liquidity and income needs",
+      "C": "Speculation",
+      "D": "Leverage"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q44",
+     "paper": 4,
+     "num": 44,
+     "stem": "The representative should focus on:",
+     "options": {
+      "A": "Product features only",
+      "B": "Client-specific suitability",
+      "C": "Commission potential",
+      "D": "Market predictions"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q45",
+     "paper": 4,
+     "num": 45,
+     "stem": "Which factor differs significantly between the clients?",
+     "options": {
+      "A": "Risk profile",
+      "B": "Objectives",
+      "C": "Horizon",
+      "D": "All of the above"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9A-P4-Q46",
+     "paper": 4,
+     "num": 46,
+     "stem": "A recommendation suitable for Client A may be unsuitable for Client B because:",
+     "options": {
+      "A": "Suitability is client-specific",
+      "B": "Products change",
+      "C": "Markets change",
+      "D": "Regulations change"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q47",
+     "paper": 4,
+     "num": 47,
+     "stem": "The strongest basis for recommendation is:",
+     "options": {
+      "A": "Product performance",
+      "B": "Client circumstances",
+      "C": "Sales targets",
+      "D": "Market outlook"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q48",
+     "paper": 4,
+     "num": 48,
+     "stem": "Which concept is being tested most heavily?",
+     "options": {
+      "A": "Underwriting",
+      "B": "Suitability",
+      "C": "Estate duty",
+      "D": "Taxation"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9A-P4-Q49",
+     "paper": 4,
+     "num": 49,
+     "stem": "The representative’s obligation is to:",
+     "options": {
+      "A": "Recommend suitable solutions",
+      "B": "Maximise commissions",
+      "C": "Predict markets",
+      "D": "Guarantee returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9A-P4-Q50",
+     "paper": 4,
+     "num": 50,
+     "stem": "The BEST answer in difficult M9A case studies is usually:",
+     "options": {
+      "A": "Highest return",
+      "B": "Lowest charge",
+      "C": "Most suitable recommendation",
+      "D": "Most complex product"
+     },
+     "answer": "C"
+    }
+   ]
+  }
+ ]
+}
