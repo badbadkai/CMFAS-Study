@@ -1,0 +1,5212 @@
+{
+ "module": "M9",
+ "papers": [
+  {
+   "paper": 1,
+   "questions": [
+    {
+     "id": "M9-P1-Q1",
+     "paper": 1,
+     "num": 1,
+     "stem": "The primary purpose of life insurance is to:",
+     "options": {
+      "A": "Generate speculative investment returns",
+      "B": "Provide financial protection against economic loss arising from death or disability",
+      "C": "Eliminate all financial risks",
+      "D": "Guarantee wealth accumulation"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q2",
+     "paper": 1,
+     "num": 2,
+     "stem": "Which insurance principle requires both the insurer and applicant to disclose all material facts?",
+     "options": {
+      "A": "Contribution",
+      "B": "Indemnity",
+      "C": "Utmost Good Faith",
+      "D": "Subrogation"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q3",
+     "paper": 1,
+     "num": 3,
+     "stem": "A material fact is best defined as a fact that:",
+     "options": {
+      "A": "Appears in the proposal form",
+      "B": "Affects the insurer's decision on acceptance or terms of insurance",
+      "C": "Relates only to medical conditions",
+      "D": "Increases the premium"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q4",
+     "paper": 1,
+     "num": 4,
+     "stem": "Insurable interest must exist in life insurance:",
+     "options": {
+      "A": "At policy inception",
+      "B": "At claim stage only",
+      "C": "At policy maturity",
+      "D": "Throughout the policy term"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q5",
+     "paper": 1,
+     "num": 5,
+     "stem": "Which relationship automatically gives rise to insurable interest?",
+     "options": {
+      "A": "Friends",
+      "B": "Neighbours",
+      "C": "Husband and wife",
+      "D": "Colleagues"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q6",
+     "paper": 1,
+     "num": 6,
+     "stem": "Which type of life insurance generally provides the highest coverage for the lowest premium?",
+     "options": {
+      "A": "Whole Life Insurance",
+      "B": "Endowment Insurance",
+      "C": "Term Insurance",
+      "D": "Universal Life Insurance"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q7",
+     "paper": 1,
+     "num": 7,
+     "stem": "A Whole Life policy differs from a Term policy because a Whole Life policy:",
+     "options": {
+      "A": "Has no death benefit",
+      "B": "Usually accumulates cash value",
+      "C": "Covers only a fixed period",
+      "D": "Has lower premiums"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q8",
+     "paper": 1,
+     "num": 8,
+     "stem": "An Endowment policy pays benefits:",
+     "options": {
+      "A": "Upon death only",
+      "B": "Upon maturity only",
+      "C": "Upon death or maturity, whichever occurs first",
+      "D": "Upon disability only"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q9",
+     "paper": 1,
+     "num": 9,
+     "stem": "A rider is:",
+     "options": {
+      "A": "A separate insurance company",
+      "B": "An additional benefit attached to a basic policy",
+      "C": "A policy loan facility",
+      "D": "A trust arrangement"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q10",
+     "paper": 1,
+     "num": 10,
+     "stem": "A Critical Illness rider generally pays upon:",
+     "options": {
+      "A": "Hospital admission",
+      "B": "Diagnosis of a covered critical illness",
+      "C": "Retirement",
+      "D": "Policy surrender"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q11",
+     "paper": 1,
+     "num": 11,
+     "stem": "Which of the following best describes a revocable nomination?",
+     "options": {
+      "A": "The nominee has vested rights immediately",
+      "B": "The policy owner may change the nomination without the nominee's consent",
+      "C": "The nomination cannot be cancelled",
+      "D": "The policy ownership is transferred to the nominee"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q12",
+     "paper": 1,
+     "num": 12,
+     "stem": "An irrevocable nomination means that:",
+     "options": {
+      "A": "The policy owner may freely change beneficiaries",
+      "B": "The nominee obtains vested rights to policy proceeds",
+      "C": "The nomination expires annually",
+      "D": "The nominee becomes the insurer"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q13",
+     "paper": 1,
+     "num": 13,
+     "stem": "The grace period in a life insurance policy allows:",
+     "options": {
+      "A": "Delayed claim submission",
+      "B": "Late premium payment without immediate policy lapse",
+      "C": "Delayed underwriting",
+      "D": "Extension of policy maturity"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q14",
+     "paper": 1,
+     "num": 14,
+     "stem": "Reinstatement refers to:",
+     "options": {
+      "A": "Changing beneficiaries",
+      "B": "Restoring a lapsed policy subject to insurer approval",
+      "C": "Increasing the sum assured",
+      "D": "Taking a policy loan"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q15",
+     "paper": 1,
+     "num": 15,
+     "stem": "A policy loan is typically:",
+     "options": {
+      "A": "An unsecured personal loan from the insurer",
+      "B": "A loan secured by the policy's cash value",
+      "C": "Available on all term policies",
+      "D": "Equivalent to a death claim payment"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q16",
+     "paper": 1,
+     "num": 16,
+     "stem": "The surrender value of a policy refers to:",
+     "options": {
+      "A": "The death benefit",
+      "B": "The amount payable when the policy is terminated before maturity",
+      "C": "The annual premium",
+      "D": "The policy loan amount"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q17",
+     "paper": 1,
+     "num": 17,
+     "stem": "A paid-up policy generally arises when:",
+     "options": {
+      "A": "Premiums stop after sufficient policy value has accumulated",
+      "B": "The insured dies",
+      "C": "The policy matures",
+      "D": "The policy is assigned"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q18",
+     "paper": 1,
+     "num": 18,
+     "stem": "Who has the legal right to assign a life insurance policy?",
+     "options": {
+      "A": "The nominee",
+      "B": "The beneficiary",
+      "C": "The policy owner",
+      "D": "The underwriter"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q19",
+     "paper": 1,
+     "num": 19,
+     "stem": "Absolute assignment results in:",
+     "options": {
+      "A": "Transfer of all ownership rights to the assignee",
+      "B": "Transfer of death benefits only",
+      "C": "Transfer of cash value only",
+      "D": "No change in ownership"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q20",
+     "paper": 1,
+     "num": 20,
+     "stem": "Which document contains the contractual terms and conditions of a policy?",
+     "options": {
+      "A": "Proposal Form",
+      "B": "Policy Contract",
+      "C": "Medical Report",
+      "D": "Fact Find Form"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q21",
+     "paper": 1,
+     "num": 21,
+     "stem": "The main purpose of underwriting is to:",
+     "options": {
+      "A": "Process claims",
+      "B": "Assess and classify risks",
+      "C": "Market insurance products",
+      "D": "Calculate commissions"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q22",
+     "paper": 1,
+     "num": 22,
+     "stem": "Which factor is MOST relevant when underwriting a life insurance application?",
+     "options": {
+      "A": "Favourite colour",
+      "B": "Health condition",
+      "C": "Political views",
+      "D": "Preferred holiday destination"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q23",
+     "paper": 1,
+     "num": 23,
+     "stem": "An applicant who presents a higher-than-average mortality risk may:",
+     "options": {
+      "A": "Receive lower premiums",
+      "B": "Be charged a premium loading",
+      "C": "Automatically receive coverage",
+      "D": "Be exempted from underwriting"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q24",
+     "paper": 1,
+     "num": 24,
+     "stem": "Failure to disclose a material fact may result in:",
+     "options": {
+      "A": "Increased policy benefits",
+      "B": "Reduced premiums",
+      "C": "Policy avoidance by the insurer",
+      "D": "Automatic claim approval"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q25",
+     "paper": 1,
+     "num": 25,
+     "stem": "Evidence of insurability is most likely required when:",
+     "options": {
+      "A": "Changing address",
+      "B": "Reinstating a lapsed policy",
+      "C": "Changing payment mode",
+      "D": "Registering a revocable nomination"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q26",
+     "paper": 1,
+     "num": 26,
+     "stem": "The primary purpose of a proposal form is to:",
+     "options": {
+      "A": "Process claims",
+      "B": "Gather information for underwriting",
+      "C": "Issue policy contracts",
+      "D": "Calculate surrender values"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q27",
+     "paper": 1,
+     "num": 27,
+     "stem": "Which of the following is most likely to increase mortality risk?",
+     "options": {
+      "A": "Non-smoker with healthy lifestyle",
+      "B": "Young age",
+      "C": "Hazardous occupation",
+      "D": "Regular exercise"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q28",
+     "paper": 1,
+     "num": 28,
+     "stem": "A premium loading is generally applied when:",
+     "options": {
+      "A": "Risk is below average",
+      "B": "Risk is above average",
+      "C": "Policyholder requests higher coverage only",
+      "D": "The insurer wants additional profits"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q29",
+     "paper": 1,
+     "num": 29,
+     "stem": "Which party is responsible for evaluating the insurability of an applicant?",
+     "options": {
+      "A": "Agent",
+      "B": "Claims Officer",
+      "C": "Underwriter",
+      "D": "Beneficiary"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q30",
+     "paper": 1,
+     "num": 30,
+     "stem": "An insurer may request a medical examination when:",
+     "options": {
+      "A": "The policy is surrendered",
+      "B": "Underwriting requirements warrant further assessment",
+      "C": "A nomination is made",
+      "D": "Premiums are paid annually"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q31",
+     "paper": 1,
+     "num": 31,
+     "stem": "Which of the following would typically be considered a material fact?",
+     "options": {
+      "A": "Favourite sports team",
+      "B": "Existing heart disease",
+      "C": "Preferred payment method",
+      "D": "Marital anniversary date"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q32",
+     "paper": 1,
+     "num": 32,
+     "stem": "The policy commencement date refers to:",
+     "options": {
+      "A": "Date claim is submitted",
+      "B": "Date coverage begins",
+      "C": "Date of maturity",
+      "D": "Date of policy surrender"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q33",
+     "paper": 1,
+     "num": 33,
+     "stem": "Which policy alteration is most likely to require fresh underwriting?",
+     "options": {
+      "A": "Change of address",
+      "B": "Change of payment mode",
+      "C": "Increase in sum assured",
+      "D": "Change of nominee"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q34",
+     "paper": 1,
+     "num": 34,
+     "stem": "The contestability period primarily protects insurers against:",
+     "options": {
+      "A": "Market volatility",
+      "B": "Material misrepresentation or fraud",
+      "C": "Late premium payments",
+      "D": "Policy assignments"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q35",
+     "paper": 1,
+     "num": 35,
+     "stem": "A reinstatement application may require:",
+     "options": {
+      "A": "New beneficiary only",
+      "B": "New policy contract",
+      "C": "Evidence of insurability",
+      "D": "Assignment documentation only"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q36",
+     "paper": 1,
+     "num": 36,
+     "stem": "Which statement regarding policy loans is correct?",
+     "options": {
+      "A": "Available on all term policies",
+      "B": "Secured against policy cash value",
+      "C": "Require property collateral",
+      "D": "Do not affect policy benefits"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q37",
+     "paper": 1,
+     "num": 37,
+     "stem": "If a policyholder fails to repay a policy loan:",
+     "options": {
+      "A": "The insurer cancels the policy immediately",
+      "B": "Outstanding amounts may be deducted from policy benefits",
+      "C": "Criminal charges apply",
+      "D": "Premiums are automatically waived"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q38",
+     "paper": 1,
+     "num": 38,
+     "stem": "Which of the following best describes a beneficiary?",
+     "options": {
+      "A": "Person responsible for underwriting",
+      "B": "Person entitled to policy proceeds upon claim",
+      "C": "Policy owner only",
+      "D": "Insurance intermediary"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q39",
+     "paper": 1,
+     "num": 39,
+     "stem": "Assignment of a policy refers to:",
+     "options": {
+      "A": "Cancelling a policy",
+      "B": "Transferring policy rights to another party",
+      "C": "Making a claim",
+      "D": "Paying premiums"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q40",
+     "paper": 1,
+     "num": 40,
+     "stem": "Under an absolute assignment:",
+     "options": {
+      "A": "Only death benefits are transferred",
+      "B": "Ownership rights remain unchanged",
+      "C": "All ownership rights are transferred",
+      "D": "Only surrender value is transferred"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q41",
+     "paper": 1,
+     "num": 41,
+     "stem": "The insurer's acceptance of risk is evidenced by:",
+     "options": {
+      "A": "Policy issuance",
+      "B": "Fact-find form",
+      "C": "Marketing brochure",
+      "D": "Agent recommendation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q42",
+     "paper": 1,
+     "num": 42,
+     "stem": "Which of the following is NOT normally part of underwriting?",
+     "options": {
+      "A": "Health assessment",
+      "B": "Occupation assessment",
+      "C": "Financial underwriting where applicable",
+      "D": "Predicting future stock market performance"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9-P1-Q43",
+     "paper": 1,
+     "num": 43,
+     "stem": "The main purpose of claims assessment is to determine:",
+     "options": {
+      "A": "Fund performance",
+      "B": "Whether policy conditions for payment are met",
+      "C": "Premium levels",
+      "D": "Commission rates"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q44",
+     "paper": 1,
+     "num": 44,
+     "stem": "A death claim generally requires submission of:",
+     "options": {
+      "A": "Death certificate",
+      "B": "Driving licence only",
+      "C": "Policy loan statement only",
+      "D": "Medical examination request"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q45",
+     "paper": 1,
+     "num": 45,
+     "stem": "Which of the following may cause an insurer to decline a claim?",
+     "options": {
+      "A": "Policy conditions have been met",
+      "B": "Valid beneficiary nomination exists",
+      "C": "Material non-disclosure affecting the contract",
+      "D": "Premiums paid on time"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q46",
+     "paper": 1,
+     "num": 46,
+     "stem": "A paid-up policy generally has:",
+     "options": {
+      "A": "Continued coverage at a reduced benefit level",
+      "B": "No insurance protection",
+      "C": "Higher premiums than before",
+      "D": "Unlimited cash value"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q47",
+     "paper": 1,
+     "num": 47,
+     "stem": "A lapse occurs when:",
+     "options": {
+      "A": "Policy matures",
+      "B": "Required premiums are not paid and grace period expires",
+      "C": "Claim is submitted",
+      "D": "Policy is assigned"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q48",
+     "paper": 1,
+     "num": 48,
+     "stem": "Which document provides evidence that the insurer has accepted the risk?",
+     "options": {
+      "A": "Proposal Form",
+      "B": "Medical Report",
+      "C": "Policy Contract",
+      "D": "Fact Find"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q49",
+     "paper": 1,
+     "num": 49,
+     "stem": "The policy owner wishes to transfer ownership of the policy to a bank as collateral. This is achieved through:",
+     "options": {
+      "A": "Reinstatement",
+      "B": "Assignment",
+      "C": "Nomination",
+      "D": "Surrender"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q50",
+     "paper": 1,
+     "num": 50,
+     "stem": "Which statement is MOST accurate?",
+     "options": {
+      "A": "All policyholders pay identical premiums",
+      "B": "Premiums are generally linked to assessed risk",
+      "C": "Health never affects insurability",
+      "D": "Underwriting is unnecessary for life insurance"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q51",
+     "paper": 1,
+     "num": 51,
+     "stem": "An Investment-Linked Policy (ILP) combines:",
+     "options": {
+      "A": "Insurance and investment components",
+      "B": "Insurance and banking services",
+      "C": "Bonds and fixed deposits",
+      "D": "Reinsurance and trust services"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q52",
+     "paper": 1,
+     "num": 52,
+     "stem": "Under an ILP, investment risk is generally borne by:",
+     "options": {
+      "A": "The insurer",
+      "B": "The trustee",
+      "C": "The policyholder",
+      "D": "The regulator"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q53",
+     "paper": 1,
+     "num": 53,
+     "stem": "Premiums paid into an ILP are commonly used to:",
+     "options": {
+      "A": "Purchase units in selected investment funds",
+      "B": "Pay claims immediately",
+      "C": "Create guaranteed returns",
+      "D": "Eliminate investment risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q54",
+     "paper": 1,
+     "num": 54,
+     "stem": "The value of an ILP is primarily affected by:",
+     "options": {
+      "A": "Inflation only",
+      "B": "Fund performance",
+      "C": "Policy anniversary date",
+      "D": "Age of the policyholder"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q55",
+     "paper": 1,
+     "num": 55,
+     "stem": "Fund switching allows a policyholder to:",
+     "options": {
+      "A": "Change insurance companies",
+      "B": "Transfer investments between available funds",
+      "C": "Increase death benefits automatically",
+      "D": "Avoid fund management fees"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q56",
+     "paper": 1,
+     "num": 56,
+     "stem": "Which fund generally has the highest growth potential over the long term?",
+     "options": {
+      "A": "Money Market Fund",
+      "B": "Bond Fund",
+      "C": "Equity Fund",
+      "D": "Capital Guaranteed Fund"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q57",
+     "paper": 1,
+     "num": 57,
+     "stem": "A Bond Fund primarily invests in:",
+     "options": {
+      "A": "Shares of listed companies",
+      "B": "Debt securities",
+      "C": "Property assets only",
+      "D": "Commodities"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q58",
+     "paper": 1,
+     "num": 58,
+     "stem": "A Money Market Fund is generally suitable for investors seeking:",
+     "options": {
+      "A": "Aggressive growth",
+      "B": "High volatility",
+      "C": "Capital preservation and liquidity",
+      "D": "Speculative returns"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q59",
+     "paper": 1,
+     "num": 59,
+     "stem": "A Balanced Fund typically invests in:",
+     "options": {
+      "A": "Equities only",
+      "B": "Bonds only",
+      "C": "Cash only",
+      "D": "A mixture of equities and bonds"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9-P1-Q60",
+     "paper": 1,
+     "num": 60,
+     "stem": "Which charge is commonly deducted for managing the investment portfolio of a fund?",
+     "options": {
+      "A": "Mortality Charge",
+      "B": "Fund Management Charge",
+      "C": "Reinstatement Charge",
+      "D": "Policy Loan Charge"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q61",
+     "paper": 1,
+     "num": 61,
+     "stem": "A mortality charge in an ILP is used to cover:",
+     "options": {
+      "A": "Investment management costs",
+      "B": "Administrative expenses",
+      "C": "Insurance protection costs",
+      "D": "Policy surrender expenses"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q62",
+     "paper": 1,
+     "num": 62,
+     "stem": "Which of the following is most likely to have the lowest volatility?",
+     "options": {
+      "A": "Equity Fund",
+      "B": "Emerging Market Fund",
+      "C": "Money Market Fund",
+      "D": "Sector Fund"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q63",
+     "paper": 1,
+     "num": 63,
+     "stem": "Dollar-cost averaging refers to:",
+     "options": {
+      "A": "Investing a fixed amount at regular intervals",
+      "B": "Buying investments only when prices fall",
+      "C": "Investing all funds at one time",
+      "D": "Selling investments monthly"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q64",
+     "paper": 1,
+     "num": 64,
+     "stem": "A client with a low risk tolerance would MOST likely prefer:",
+     "options": {
+      "A": "Aggressive growth funds",
+      "B": "Emerging market equity funds",
+      "C": "Money market or conservative bond funds",
+      "D": "Sector-specific equity funds"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q65",
+     "paper": 1,
+     "num": 65,
+     "stem": "Which statement regarding ILPs is correct?",
+     "options": {
+      "A": "Returns are guaranteed by the insurer",
+      "B": "Investment performance affects policy value",
+      "C": "Market risk is eliminated",
+      "D": "No fees are charged"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q66",
+     "paper": 1,
+     "num": 66,
+     "stem": "The relationship between risk and return is generally:",
+     "options": {
+      "A": "Higher return is associated with lower risk",
+      "B": "Risk and return are unrelated",
+      "C": "Higher potential return usually involves higher risk",
+      "D": "Higher risk guarantees higher returns"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q67",
+     "paper": 1,
+     "num": 67,
+     "stem": "Diversification aims primarily to:",
+     "options": {
+      "A": "Eliminate all investment risks",
+      "B": "Reduce concentration risk",
+      "C": "Increase commissions",
+      "D": "Guarantee investment gains"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q68",
+     "paper": 1,
+     "num": 68,
+     "stem": "A portfolio invested entirely in one stock lacks:",
+     "options": {
+      "A": "Liquidity",
+      "B": "Capital",
+      "C": "Diversification",
+      "D": "Ownership"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q69",
+     "paper": 1,
+     "num": 69,
+     "stem": "An investor seeking capital growth would generally be more interested in:",
+     "options": {
+      "A": "Equities",
+      "B": "Savings accounts",
+      "C": "Fixed deposits",
+      "D": "Money market instruments"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q70",
+     "paper": 1,
+     "num": 70,
+     "stem": "Which statement best describes volatility?",
+     "options": {
+      "A": "Stability of returns",
+      "B": "Frequency of premium payments",
+      "C": "Degree of price fluctuation",
+      "D": "Guaranteed returns"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q71",
+     "paper": 1,
+     "num": 71,
+     "stem": "An investor who prioritises preserving capital is most likely to be:",
+     "options": {
+      "A": "Aggressive",
+      "B": "Conservative",
+      "C": "Speculative",
+      "D": "Growth-oriented"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q72",
+     "paper": 1,
+     "num": 72,
+     "stem": "Which asset class generally offers ownership in a company?",
+     "options": {
+      "A": "Bonds",
+      "B": "Fixed deposits",
+      "C": "Equities",
+      "D": "Money market instruments"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q73",
+     "paper": 1,
+     "num": 73,
+     "stem": "A bondholder is best described as:",
+     "options": {
+      "A": "An owner of the company",
+      "B": "A creditor of the issuer",
+      "C": "A trustee of the company",
+      "D": "A guarantor"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q74",
+     "paper": 1,
+     "num": 74,
+     "stem": "Which of the following risks arises when an investment cannot be sold quickly at a fair price?",
+     "options": {
+      "A": "Credit Risk",
+      "B": "Inflation Risk",
+      "C": "Liquidity Risk",
+      "D": "Currency Risk"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q75",
+     "paper": 1,
+     "num": 75,
+     "stem": "Inflation risk refers to the risk that:",
+     "options": {
+      "A": "Investment prices will fluctuate daily",
+      "B": "The issuer may default",
+      "C": "Currency exchange rates will change",
+      "D": "Purchasing power will decline over time"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9-P1-Q76",
+     "paper": 1,
+     "num": 76,
+     "stem": "The primary purpose of fact-finding is to:",
+     "options": {
+      "A": "Increase commissions",
+      "B": "Understand the client's circumstances and needs",
+      "C": "Promote insurer products",
+      "D": "Reduce underwriting requirements"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q77",
+     "paper": 1,
+     "num": 77,
+     "stem": "A financial adviser should recommend products based primarily on:",
+     "options": {
+      "A": "Sales targets",
+      "B": "Commission earned",
+      "C": "Client needs and objectives",
+      "D": "Product popularity"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q78",
+     "paper": 1,
+     "num": 78,
+     "stem": "Know Your Client (KYC) requires understanding:",
+     "options": {
+      "A": "Competitor products",
+      "B": "Client's financial situation and objectives",
+      "C": "Fund manager credentials",
+      "D": "Insurer profitability"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q79",
+     "paper": 1,
+     "num": 79,
+     "stem": "Know Your Product (KYP) requires an adviser to understand:",
+     "options": {
+      "A": "Product features, risks and costs",
+      "B": "Client's family structure",
+      "C": "Competitor commission rates",
+      "D": "Future market movements"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q80",
+     "paper": 1,
+     "num": 80,
+     "stem": "A suitable recommendation should:",
+     "options": {
+      "A": "Match the client's needs and risk profile",
+      "B": "Maximise adviser income",
+      "C": "Focus only on returns",
+      "D": "Ignore client objectives"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q81",
+     "paper": 1,
+     "num": 81,
+     "stem": "A client's risk tolerance refers to:",
+     "options": {
+      "A": "The client's income level",
+      "B": "The amount of risk the client is willing and able to accept",
+      "C": "The client's age only",
+      "D": "The insurer's risk appetite"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q82",
+     "paper": 1,
+     "num": 82,
+     "stem": "A conservative investor is most likely to prefer:",
+     "options": {
+      "A": "Emerging market equities",
+      "B": "Leveraged investments",
+      "C": "Capital-preservation products",
+      "D": "Sector funds"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q83",
+     "paper": 1,
+     "num": 83,
+     "stem": "Which factor is LEAST relevant during fact-finding?",
+     "options": {
+      "A": "Financial objectives",
+      "B": "Investment horizon",
+      "C": "Risk tolerance",
+      "D": "Favourite television programme"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9-P1-Q84",
+     "paper": 1,
+     "num": 84,
+     "stem": "A recommendation that is unsuitable may:",
+     "options": {
+      "A": "Benefit the client",
+      "B": "Increase regulatory risk and complaints",
+      "C": "Guarantee better returns",
+      "D": "Reduce disclosure requirements"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q85",
+     "paper": 1,
+     "num": 85,
+     "stem": "A client's investment horizon refers to:",
+     "options": {
+      "A": "Annual income",
+      "B": "Time period before funds are needed",
+      "C": "Number of dependants",
+      "D": "Occupation"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q86",
+     "paper": 1,
+     "num": 86,
+     "stem": "A client seeking short-term liquidity is generally less suitable for:",
+     "options": {
+      "A": "Savings products",
+      "B": "Money market funds",
+      "C": "Long-term growth investments",
+      "D": "Cash management products"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q87",
+     "paper": 1,
+     "num": 87,
+     "stem": "Which statement about diversification is correct?",
+     "options": {
+      "A": "It eliminates all risks",
+      "B": "It reduces concentration risk",
+      "C": "It guarantees profits",
+      "D": "It prevents losses"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q88",
+     "paper": 1,
+     "num": 88,
+     "stem": "The best recommendation for a client should consider:",
+     "options": {
+      "A": "Product features only",
+      "B": "Client profile only",
+      "C": "Both client profile and product characteristics",
+      "D": "Adviser preferences"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q89",
+     "paper": 1,
+     "num": 89,
+     "stem": "A financial adviser should disclose:",
+     "options": {
+      "A": "Relevant product risks and features",
+      "B": "Only product benefits",
+      "C": "Only historical returns",
+      "D": "Only commissions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q90",
+     "paper": 1,
+     "num": 90,
+     "stem": "Which is an example of a financial objective?",
+     "options": {
+      "A": "Building retirement savings",
+      "B": "Favourite sports team",
+      "C": "Residential address",
+      "D": "Marital status alone"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q91",
+     "paper": 1,
+     "num": 91,
+     "stem": "An investor with a long investment horizon generally:",
+     "options": {
+      "A": "May tolerate more short-term volatility",
+      "B": "Must avoid equities",
+      "C": "Must invest only in cash",
+      "D": "Requires guaranteed returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q92",
+     "paper": 1,
+     "num": 92,
+     "stem": "A client's ability to take risk depends largely on:",
+     "options": {
+      "A": "Financial capacity and circumstances",
+      "B": "Product popularity",
+      "C": "Adviser experience",
+      "D": "Market sentiment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q93",
+     "paper": 1,
+     "num": 93,
+     "stem": "Which action best demonstrates acting in a client's best interests?",
+     "options": {
+      "A": "Recommending the highest commission product",
+      "B": "Matching recommendations to client needs",
+      "C": "Maximising premium size",
+      "D": "Recommending the newest product"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q94",
+     "paper": 1,
+     "num": 94,
+     "stem": "A client's liquidity needs refer to:",
+     "options": {
+      "A": "Tax obligations",
+      "B": "Ability to access funds when required",
+      "C": "Family size",
+      "D": "Occupation"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q95",
+     "paper": 1,
+     "num": 95,
+     "stem": "Risk profiling is important because it:",
+     "options": {
+      "A": "Helps identify suitable investments",
+      "B": "Guarantees returns",
+      "C": "Eliminates losses",
+      "D": "Predicts markets"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q96",
+     "paper": 1,
+     "num": 96,
+     "stem": "Which statement about investment returns is correct?",
+     "options": {
+      "A": "High returns are guaranteed",
+      "B": "Returns and risk are generally related",
+      "C": "Risk can be eliminated",
+      "D": "Past performance guarantees future results"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P1-Q97",
+     "paper": 1,
+     "num": 97,
+     "stem": "A client approaching retirement would generally:",
+     "options": {
+      "A": "Ignore risk",
+      "B": "Require no fact-finding",
+      "C": "Often place greater emphasis on capital preservation",
+      "D": "Invest only in speculative assets"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P1-Q98",
+     "paper": 1,
+     "num": 98,
+     "stem": "A recommendation should be reviewed if:",
+     "options": {
+      "A": "Client circumstances change significantly",
+      "B": "Markets are closed",
+      "C": "Premiums are paid",
+      "D": "A nomination is registered"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q99",
+     "paper": 1,
+     "num": 99,
+     "stem": "Ethical conduct requires advisers to:",
+     "options": {
+      "A": "Prioritise client interests appropriately",
+      "B": "Prioritise commissions",
+      "C": "Prioritise sales targets",
+      "D": "Prioritise insurer profits"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P1-Q100",
+     "paper": 1,
+     "num": 100,
+     "stem": "The MOST important principle when recommending financial products is:",
+     "options": {
+      "A": "Maximising premiums",
+      "B": "Maximising commissions",
+      "C": "Acting in the client's best interests",
+      "D": "Selling the latest product\nANSWER KEY (Q1–50)"
+     },
+     "answer": "C"
+    }
+   ]
+  },
+  {
+   "paper": 2,
+   "questions": [
+    {
+     "id": "M9-P2-Q1",
+     "paper": 2,
+     "num": 1,
+     "stem": "A client applies for life insurance but fails to disclose that he was recently diagnosed with a serious medical condition. The insurer issues the policy based on incomplete information. This situation mainly involves:",
+     "options": {
+      "A": "Contribution",
+      "B": "Material non-disclosure",
+      "C": "Subrogation",
+      "D": "Indemnity"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q2",
+     "paper": 2,
+     "num": 2,
+     "stem": "An insurance adviser tells a client, “You do not need to mention your previous illness because the insurer probably will not check.” The adviser has failed to uphold the principle of:",
+     "options": {
+      "A": "Utmost Good Faith",
+      "B": "Insurable Interest",
+      "C": "Proximate Cause",
+      "D": "Contribution"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q3",
+     "paper": 2,
+     "num": 3,
+     "stem": "A husband purchases a life insurance policy on his own life and nominates his wife as beneficiary. Insurable interest exists because:",
+     "options": {
+      "A": "The wife paid the premium",
+      "B": "Husband and wife have a recognised relationship creating insurable interest",
+      "C": "The wife is the nominee",
+      "D": "The insurer approved the nomination"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q4",
+     "paper": 2,
+     "num": 4,
+     "stem": "A client asks why a Term Insurance policy is cheaper than a Whole Life policy. The BEST explanation is:",
+     "options": {
+      "A": "Term insurance has no death benefit",
+      "B": "Whole Life policies usually provide lifelong coverage and cash value features",
+      "C": "Term insurance has higher investment returns",
+      "D": "Whole Life policies do not involve insurance risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q5",
+     "paper": 2,
+     "num": 5,
+     "stem": "A client wants maximum life protection at the lowest possible premium for a 20-year period. The most suitable product is likely:",
+     "options": {
+      "A": "Endowment policy",
+      "B": "Whole Life policy",
+      "C": "Term Insurance",
+      "D": "Participating policy"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P2-Q6",
+     "paper": 2,
+     "num": 6,
+     "stem": "A client purchases an Endowment policy mainly because he wants:",
+     "options": {
+      "A": "Protection only with no savings element",
+      "B": "A combination of protection and a maturity benefit",
+      "C": "Guaranteed high investment returns",
+      "D": "No premium obligations"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q7",
+     "paper": 2,
+     "num": 7,
+     "stem": "A client says: “Since my Whole Life policy has cash value, I can stop premiums anytime without consequences.” The adviser should explain that:",
+     "options": {
+      "A": "All Whole Life policies automatically become paid-up immediately",
+      "B": "Stopping premiums may cause policy changes depending on policy value and terms",
+      "C": "Premium payments are optional for all life policies",
+      "D": "Cash value guarantees unlimited coverage"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q8",
+     "paper": 2,
+     "num": 8,
+     "stem": "Which statement about participating life policies is MOST accurate?",
+     "options": {
+      "A": "Policyholders may receive bonuses depending on insurer performance",
+      "B": "Returns are always guaranteed",
+      "C": "They have no insurance component",
+      "D": "They are identical to ILPs"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q9",
+     "paper": 2,
+     "num": 9,
+     "stem": "A policy owner wants to add protection against critical illness to an existing life policy. The appropriate method is:",
+     "options": {
+      "A": "Assignment",
+      "B": "Adding a rider",
+      "C": "Nomination",
+      "D": "Surrendering the policy"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q10",
+     "paper": 2,
+     "num": 10,
+     "stem": "A client purchases an accidental death rider. The rider generally provides:",
+     "options": {
+      "A": "Additional benefit upon covered accidental death",
+      "B": "Guaranteed investment returns",
+      "C": "Cash value accumulation",
+      "D": "Reduced premiums"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q11",
+     "paper": 2,
+     "num": 11,
+     "stem": "A policy owner makes a revocable nomination and later decides to change the beneficiary. Which statement is correct?",
+     "options": {
+      "A": "The nominee must approve the change",
+      "B": "The policy owner can change the nomination according to rules",
+      "C": "The insurer becomes beneficiary",
+      "D": "Ownership automatically transfers"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q12",
+     "paper": 2,
+     "num": 12,
+     "stem": "Under an irrevocable nomination, the policy owner generally cannot:",
+     "options": {
+      "A": "Pay premiums",
+      "B": "Change the nomination freely without required consent",
+      "C": "Maintain the policy",
+      "D": "Continue as life assured"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q13",
+     "paper": 2,
+     "num": 13,
+     "stem": "A client assigns his policy absolutely to a bank as collateral for a loan. After assignment:",
+     "options": {
+      "A": "The bank receives ownership rights according to the assignment",
+      "B": "The nominee becomes policy owner",
+      "C": "The insurer becomes owner",
+      "D": "The policy is cancelled"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q14",
+     "paper": 2,
+     "num": 14,
+     "stem": "The difference between nomination and assignment is that:",
+     "options": {
+      "A": "Nomination transfers ownership",
+      "B": "Assignment transfers policy rights",
+      "C": "Assignment creates beneficiaries only",
+      "D": "Nomination removes the policy owner"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q15",
+     "paper": 2,
+     "num": 15,
+     "stem": "A policy owner dies while the policy has been assigned absolutely to another party. The claim proceeds are generally payable according to:",
+     "options": {
+      "A": "The assignment arrangement",
+      "B": "The nominee's preference",
+      "C": "The agent's instructions",
+      "D": "The insurer's marketing policy"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q16",
+     "paper": 2,
+     "num": 16,
+     "stem": "A policy has accumulated sufficient value and the owner stops paying premiums while maintaining reduced coverage. This is known as:",
+     "options": {
+      "A": "Lapse",
+      "B": "Paid-up policy",
+      "C": "Surrender",
+      "D": "Assignment"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q17",
+     "paper": 2,
+     "num": 17,
+     "stem": "A policyholder misses premium payments and the grace period expires. The policy may:",
+     "options": {
+      "A": "Automatically increase in value",
+      "B": "Lapse",
+      "C": "Become an ILP",
+      "D": "Convert into an annuity"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q18",
+     "paper": 2,
+     "num": 18,
+     "stem": "Which statement about policy ownership is MOST accurate?",
+     "options": {
+      "A": "The life assured always owns the policy",
+      "B": "The policy owner holds contractual rights under the policy",
+      "C": "The nominee controls policy decisions",
+      "D": "The beneficiary pays all premiums"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q19",
+     "paper": 2,
+     "num": 19,
+     "stem": "A client wants to transfer ownership of his life insurance policy to his child permanently. The appropriate action is:",
+     "options": {
+      "A": "Nomination",
+      "B": "Absolute assignment",
+      "C": "Policy loan",
+      "D": "Reinstatement"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q20",
+     "paper": 2,
+     "num": 20,
+     "stem": "A policy owner requests a policy loan. The adviser should explain that:",
+     "options": {
+      "A": "It may reduce policy benefits due to outstanding loan amounts",
+      "B": "It guarantees additional returns",
+      "C": "It removes all insurance charges",
+      "D": "It changes the beneficiary automatically"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q21",
+     "paper": 2,
+     "num": 21,
+     "stem": "A client buys insurance and intentionally hides important medical information. The insurer later discovers this after a claim occurs. The insurer may:",
+     "options": {
+      "A": "Increase bonuses",
+      "B": "Avoid the policy depending on circumstances",
+      "C": "Refund all premiums automatically",
+      "D": "Ignore the disclosure issue"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q22",
+     "paper": 2,
+     "num": 22,
+     "stem": "Which situation BEST demonstrates insurable interest?",
+     "options": {
+      "A": "A person buying insurance on a stranger",
+      "B": "A business insuring a key employee",
+      "C": "A neighbour buying insurance on another neighbour",
+      "D": "A friend buying insurance on a friend without financial interest"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q23",
+     "paper": 2,
+     "num": 23,
+     "stem": "The purpose of underwriting is NOT to:",
+     "options": {
+      "A": "Assess risk",
+      "B": "Determine appropriate terms",
+      "C": "Classify applicants",
+      "D": "Guarantee investment performance"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9-P2-Q24",
+     "paper": 2,
+     "num": 24,
+     "stem": "A client increases his sum assured significantly after several years. The insurer may require:",
+     "options": {
+      "A": "Fresh underwriting",
+      "B": "Automatic approval",
+      "C": "Removal of all exclusions",
+      "D": "Cancellation of policy"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q25",
+     "paper": 2,
+     "num": 25,
+     "stem": "Which statement is MOST correct regarding life insurance premiums?",
+     "options": {
+      "A": "All clients with the same product always pay the same premium",
+      "B": "Premiums reflect factors such as age, health and risk level",
+      "C": "Premiums are unrelated to underwriting",
+      "D": "Premiums are determined only by investment returns"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q26",
+     "paper": 2,
+     "num": 26,
+     "stem": "A client completes a proposal form but intentionally leaves out his history of heart disease. The insurer later discovers this during a claim investigation. The main issue is:",
+     "options": {
+      "A": "Market risk",
+      "B": "Material non-disclosure",
+      "C": "Liquidity risk",
+      "D": "Assignment risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q27",
+     "paper": 2,
+     "num": 27,
+     "stem": "An insurer requests additional medical reports before approving an application. This is because the insurer wants to:",
+     "options": {
+      "A": "Increase commissions",
+      "B": "Assess the applicant’s risk accurately",
+      "C": "Delay policy issuance permanently",
+      "D": "Avoid paying claims"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q28",
+     "paper": 2,
+     "num": 28,
+     "stem": "Which factor would MOST likely result in a higher premium?",
+     "options": {
+      "A": "Lower age",
+      "B": "Healthy lifestyle",
+      "C": "Higher mortality risk",
+      "D": "Longer payment frequency"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P2-Q29",
+     "paper": 2,
+     "num": 29,
+     "stem": "A person with a dangerous occupation applies for life insurance. The insurer may:",
+     "options": {
+      "A": "Ignore occupation risk",
+      "B": "Apply additional underwriting assessment",
+      "C": "Automatically reject every application",
+      "D": "Guarantee acceptance"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q30",
+     "paper": 2,
+     "num": 30,
+     "stem": "A premium loading means:",
+     "options": {
+      "A": "Premium reduction for good health",
+      "B": "Additional premium charged due to higher risk",
+      "C": "Refund of excess premium",
+      "D": "Cancellation of coverage"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q31",
+     "paper": 2,
+     "num": 31,
+     "stem": "Which of the following is NOT normally considered during life underwriting?",
+     "options": {
+      "A": "Medical history",
+      "B": "Occupation",
+      "C": "Lifestyle habits",
+      "D": "Favourite investment product"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "M9-P2-Q32",
+     "paper": 2,
+     "num": 32,
+     "stem": "An insurer accepts a policy application but excludes coverage for a particular condition. This is an example of:",
+     "options": {
+      "A": "Risk adjustment",
+      "B": "Claim rejection",
+      "C": "Policy surrender",
+      "D": "Assignment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q33",
+     "paper": 2,
+     "num": 33,
+     "stem": "A client wants to increase his life coverage after being diagnosed with a medical condition. The insurer will MOST likely:",
+     "options": {
+      "A": "Automatically approve the increase",
+      "B": "Require further underwriting",
+      "C": "Remove existing exclusions",
+      "D": "Refund premiums"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q34",
+     "paper": 2,
+     "num": 34,
+     "stem": "The purpose of financial underwriting is mainly to assess:",
+     "options": {
+      "A": "Whether the amount of insurance is reasonable based on financial circumstances",
+      "B": "Whether the client prefers investments",
+      "C": "Whether premiums are paid monthly",
+      "D": "Whether the agent earns commission"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q35",
+     "paper": 2,
+     "num": 35,
+     "stem": "A policyholder fails to pay premiums. After the grace period ends, the policy may:",
+     "options": {
+      "A": "Automatically increase benefits",
+      "B": "Lapse",
+      "C": "Become fully guaranteed",
+      "D": "Convert into a new policy"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q36",
+     "paper": 2,
+     "num": 36,
+     "stem": "A lapsed policy may potentially be restored through:",
+     "options": {
+      "A": "Nomination",
+      "B": "Reinstatement",
+      "C": "Assignment",
+      "D": "Surrender"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q37",
+     "paper": 2,
+     "num": 37,
+     "stem": "When applying for reinstatement, the insurer may require:",
+     "options": {
+      "A": "Evidence of continued insurability",
+      "B": "A new beneficiary only",
+      "C": "Automatic approval",
+      "D": "Removal of exclusions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q38",
+     "paper": 2,
+     "num": 38,
+     "stem": "A client submits a death claim. The insurer's first step is generally to:",
+     "options": {
+      "A": "Pay immediately without review",
+      "B": "Verify claim validity and policy conditions",
+      "C": "Cancel the policy",
+      "D": "Change ownership"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q39",
+     "paper": 2,
+     "num": 39,
+     "stem": "Which document is commonly required when making a death claim?",
+     "options": {
+      "A": "Death certificate",
+      "B": "Investment statement only",
+      "C": "Agent's recommendation letter",
+      "D": "Bank statement only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q40",
+     "paper": 2,
+     "num": 40,
+     "stem": "A claim may be denied if:",
+     "options": {
+      "A": "The policy conditions are satisfied",
+      "B": "Premiums are fully paid",
+      "C": "There was material fraud or misrepresentation",
+      "D": "The beneficiary is valid"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P2-Q41",
+     "paper": 2,
+     "num": 41,
+     "stem": "The main purpose of the contestability period is to allow the insurer to:",
+     "options": {
+      "A": "Review possible misrepresentation",
+      "B": "Increase premiums",
+      "C": "Change beneficiaries",
+      "D": "Remove policy terms"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q42",
+     "paper": 2,
+     "num": 42,
+     "stem": "A policyholder requests to change his mailing address. This is generally:",
+     "options": {
+      "A": "A policy servicing request",
+      "B": "A new underwriting process",
+      "C": "A claim submission",
+      "D": "A surrender request"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q43",
+     "paper": 2,
+     "num": 43,
+     "stem": "Which situation is MOST likely to require underwriting approval?",
+     "options": {
+      "A": "Changing address",
+      "B": "Increasing sum assured",
+      "C": "Updating contact number",
+      "D": "Changing payment frequency"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q44",
+     "paper": 2,
+     "num": 44,
+     "stem": "A policy owner takes a loan against a policy with cash value. The outstanding loan may:",
+     "options": {
+      "A": "Reduce benefits payable upon claim",
+      "B": "Increase guaranteed returns",
+      "C": "Remove all charges",
+      "D": "Cancel nomination automatically"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q45",
+     "paper": 2,
+     "num": 45,
+     "stem": "A policy owner surrenders a policy early. The amount received is known as:",
+     "options": {
+      "A": "Death benefit",
+      "B": "Surrender value",
+      "C": "Premium loading",
+      "D": "Maturity bonus only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q46",
+     "paper": 2,
+     "num": 46,
+     "stem": "A client asks why surrendering early may result in receiving less than total premiums paid. The BEST explanation is:",
+     "options": {
+      "A": "Insurers do not refund premiums fully and charges may apply",
+      "B": "Life insurance always guarantees losses",
+      "C": "Death benefits are removed",
+      "D": "Premiums are never invested"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q47",
+     "paper": 2,
+     "num": 47,
+     "stem": "Which statement about policy alteration is MOST accurate?",
+     "options": {
+      "A": "All changes require underwriting",
+      "B": "Some changes may require underwriting depending on the nature of the change",
+      "C": "No changes are allowed",
+      "D": "All changes cancel the policy"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q48",
+     "paper": 2,
+     "num": 48,
+     "stem": "A policy owner assigns a policy to a bank as collateral. If the policy is later claimed:",
+     "options": {
+      "A": "Assignment rights may affect claim proceeds",
+      "B": "Nominee always receives everything first",
+      "C": "Assignment becomes invalid automatically",
+      "D": "The insurer ignores the assignment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q49",
+     "paper": 2,
+     "num": 49,
+     "stem": "An adviser discovers a client provided inaccurate information on a proposal form. The adviser should:",
+     "options": {
+      "A": "Ignore it to avoid delaying the application",
+      "B": "Ensure accurate disclosure is made",
+      "C": "Modify information without consent",
+      "D": "Submit the application immediately"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q50",
+     "paper": 2,
+     "num": 50,
+     "stem": "Which statement is MOST correct?",
+     "options": {
+      "A": "Underwriting determines whether an insurer accepts and on what terms",
+      "B": "Underwriting only happens after claims",
+      "C": "Underwriting determines investment returns",
+      "D": "Underwriting removes all insurance risks"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q51",
+     "paper": 2,
+     "num": 51,
+     "stem": "A client purchases an Investment-Linked Policy (ILP). Which statement is MOST accurate?",
+     "options": {
+      "A": "The insurer guarantees investment returns",
+      "B": "The policy value depends on the performance of underlying funds",
+      "C": "The policy has no insurance component",
+      "D": "The client bears no investment risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q52",
+     "paper": 2,
+     "num": 52,
+     "stem": "In an ILP, investment risk is generally borne by:",
+     "options": {
+      "A": "The regulator",
+      "B": "The insurer",
+      "C": "The policyholder",
+      "D": "The insurance agent"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P2-Q53",
+     "paper": 2,
+     "num": 53,
+     "stem": "A client believes an ILP is suitable because “the insurer manages the fund, so losses cannot happen.” The adviser should explain:",
+     "options": {
+      "A": "Fund performance may fluctuate despite professional management",
+      "B": "All ILPs guarantee profits",
+      "C": "Insurers absorb all investment losses",
+      "D": "Investment risk does not exist in ILPs"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q54",
+     "paper": 2,
+     "num": 54,
+     "stem": "The value of units in an ILP fund is mainly affected by:",
+     "options": {
+      "A": "Fund performance",
+      "B": "Policyholder’s occupation",
+      "C": "Nominee selection",
+      "D": "Policy ownership only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q55",
+     "paper": 2,
+     "num": 55,
+     "stem": "A policyholder switches from an equity fund to a bond fund. This action is known as:",
+     "options": {
+      "A": "Assignment",
+      "B": "Fund switching",
+      "C": "Reinstatement",
+      "D": "Nomination"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q56",
+     "paper": 2,
+     "num": 56,
+     "stem": "Which client profile is MOST suitable for a higher allocation to equity funds?",
+     "options": {
+      "A": "Client needing money next month",
+      "B": "Client with low risk tolerance",
+      "C": "Client with long investment horizon and higher risk tolerance",
+      "D": "Client requiring guaranteed returns"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P2-Q57",
+     "paper": 2,
+     "num": 57,
+     "stem": "A bond fund mainly invests in:",
+     "options": {
+      "A": "Company shares",
+      "B": "Debt securities",
+      "C": "Real estate only",
+      "D": "Cash deposits only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q58",
+     "paper": 2,
+     "num": 58,
+     "stem": "Which fund generally experiences the highest price volatility?",
+     "options": {
+      "A": "Money market fund",
+      "B": "Equity fund",
+      "C": "Cash fund",
+      "D": "Short-term deposit fund"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q59",
+     "paper": 2,
+     "num": 59,
+     "stem": "A conservative investor is MOST likely to prefer:",
+     "options": {
+      "A": "Emerging market equity funds",
+      "B": "Sector-specific funds",
+      "C": "Money market or conservative bond funds",
+      "D": "Highly concentrated stock funds"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P2-Q60",
+     "paper": 2,
+     "num": 60,
+     "stem": "A balanced fund generally aims to:",
+     "options": {
+      "A": "Invest only in equities",
+      "B": "Combine growth and income assets",
+      "C": "Eliminate investment risk",
+      "D": "Guarantee returns"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q61",
+     "paper": 2,
+     "num": 61,
+     "stem": "A fund management charge is mainly used to cover:",
+     "options": {
+      "A": "Cost of managing investments",
+      "B": "Death claims",
+      "C": "Policy ownership transfer",
+      "D": "Nomination changes"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q62",
+     "paper": 2,
+     "num": 62,
+     "stem": "A mortality charge in an ILP relates to:",
+     "options": {
+      "A": "Insurance protection cost",
+      "B": "Fund switching",
+      "C": "Market performance",
+      "D": "Policy maturity bonus"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q63",
+     "paper": 2,
+     "num": 63,
+     "stem": "Which statement about ILP charges is MOST accurate?",
+     "options": {
+      "A": "Charges may affect the policy’s investment value",
+      "B": "ILPs have no charges",
+      "C": "Charges only apply when claims occur",
+      "D": "Charges guarantee better performance"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q64",
+     "paper": 2,
+     "num": 64,
+     "stem": "A client invests all money into one technology sector fund. The main risk is:",
+     "options": {
+      "A": "Diversification risk",
+      "B": "Concentration risk",
+      "C": "Inflation risk only",
+      "D": "Liquidity guarantee"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q65",
+     "paper": 2,
+     "num": 65,
+     "stem": "Diversification helps investors by:",
+     "options": {
+      "A": "Eliminating all losses",
+      "B": "Reducing exposure to a single investment",
+      "C": "Guaranteeing higher returns",
+      "D": "Removing market risk completely"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q66",
+     "paper": 2,
+     "num": 66,
+     "stem": "A client invests a fixed amount into an ILP fund every month regardless of market conditions. This strategy is:",
+     "options": {
+      "A": "Market timing",
+      "B": "Dollar-cost averaging",
+      "C": "Speculation",
+      "D": "Hedging"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q67",
+     "paper": 2,
+     "num": 67,
+     "stem": "Dollar-cost averaging may help investors by:",
+     "options": {
+      "A": "Avoiding the need to invest",
+      "B": "Reducing the impact of short-term price fluctuations",
+      "C": "Guaranteeing profits",
+      "D": "Eliminating investment risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q68",
+     "paper": 2,
+     "num": 68,
+     "stem": "A client wants capital growth over 20 years and can tolerate fluctuations. The adviser may consider:",
+     "options": {
+      "A": "Equity-oriented funds",
+      "B": "Cash-only funds",
+      "C": "Short-term deposits only",
+      "D": "Guaranteed products only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q69",
+     "paper": 2,
+     "num": 69,
+     "stem": "The relationship between risk and return is generally:",
+     "options": {
+      "A": "Higher potential returns usually involve higher risk",
+      "B": "Higher risk guarantees higher returns",
+      "C": "Risk has no relationship with returns",
+      "D": "Lower risk always gives higher returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q70",
+     "paper": 2,
+     "num": 70,
+     "stem": "A client refuses to accept any loss but wants high investment returns. The adviser should explain:",
+     "options": {
+      "A": "High returns with no risk are unrealistic",
+      "B": "All investments are guaranteed",
+      "C": "Equity funds have no risk",
+      "D": "Risk assessment is unnecessary"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q71",
+     "paper": 2,
+     "num": 71,
+     "stem": "Market risk refers to:",
+     "options": {
+      "A": "Risk arising from investment price fluctuations",
+      "B": "Risk of forgetting premium payments",
+      "C": "Risk of incorrect nomination",
+      "D": "Risk of policy ownership transfer"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q72",
+     "paper": 2,
+     "num": 72,
+     "stem": "Credit risk refers to:",
+     "options": {
+      "A": "Risk that an issuer fails to meet obligations",
+      "B": "Risk that prices fluctuate",
+      "C": "Risk of inflation",
+      "D": "Risk of changing beneficiaries"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q73",
+     "paper": 2,
+     "num": 73,
+     "stem": "Liquidity risk occurs when:",
+     "options": {
+      "A": "An investment cannot easily be sold at a fair price",
+      "B": "An investment earns too much profit",
+      "C": "A policy has a nominee",
+      "D": "Premiums are paid annually"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q74",
+     "paper": 2,
+     "num": 74,
+     "stem": "Inflation risk means:",
+     "options": {
+      "A": "Purchasing power may decline over time",
+      "B": "The insurer cannot issue policies",
+      "C": "Funds cannot be switched",
+      "D": "Claims cannot be submitted"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q75",
+     "paper": 2,
+     "num": 75,
+     "stem": "Which statement is MOST correct regarding past investment performance?",
+     "options": {
+      "A": "Past performance guarantees future returns",
+      "B": "Past performance does not guarantee future results",
+      "C": "Past performance eliminates risk",
+      "D": "Past performance determines guaranteed benefits"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q76",
+     "paper": 2,
+     "num": 76,
+     "stem": "A financial adviser meets a new client. The FIRST step before recommending any product should be:",
+     "options": {
+      "A": "Recommend the highest-return product",
+      "B": "Understand the client’s needs and circumstances",
+      "C": "Show the newest products available",
+      "D": "Explain commission structures only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q77",
+     "paper": 2,
+     "num": 77,
+     "stem": "The main purpose of fact-finding is to:",
+     "options": {
+      "A": "Collect information to assess suitability",
+      "B": "Increase sales opportunities only",
+      "C": "Replace underwriting",
+      "D": "Guarantee investment returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q78",
+     "paper": 2,
+     "num": 78,
+     "stem": "A client says: “I only want the product with the highest return.” The adviser should:",
+     "options": {
+      "A": "Recommend the highest-return product immediately",
+      "B": "Assess whether it matches the client’s objectives and risk profile",
+      "C": "Ignore risk tolerance",
+      "D": "Avoid discussing risks"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q79",
+     "paper": 2,
+     "num": 79,
+     "stem": "Know Your Client (KYC) requires an adviser to understand:",
+     "options": {
+      "A": "Client’s financial situation, objectives and risk profile",
+      "B": "Only client’s income",
+      "C": "Only client’s age",
+      "D": "Only the insurer’s products"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q80",
+     "paper": 2,
+     "num": 80,
+     "stem": "Know Your Product (KYP) requires an adviser to understand:",
+     "options": {
+      "A": "Product features, risks, benefits and charges",
+      "B": "Only sales materials",
+      "C": "Only expected returns",
+      "D": "Only competitor products"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q81",
+     "paper": 2,
+     "num": 81,
+     "stem": "A client has a low risk tolerance but wants to invest entirely in an aggressive equity fund. The adviser should:",
+     "options": {
+      "A": "Proceed because the client requested it",
+      "B": "Explain suitability concerns and risks",
+      "C": "Ignore the risk profile",
+      "D": "Recommend an even higher-risk fund"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q82",
+     "paper": 2,
+     "num": 82,
+     "stem": "A client’s investment time horizon refers to:",
+     "options": {
+      "A": "The period before funds are required",
+      "B": "The client’s age only",
+      "C": "The number of dependants",
+      "D": "The insurance company’s timeline"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q83",
+     "paper": 2,
+     "num": 83,
+     "stem": "A young client with stable income and a long investment horizon may generally:",
+     "options": {
+      "A": "Have greater ability to tolerate long-term market fluctuations",
+      "B": "Require only guaranteed products",
+      "C": "Avoid all investments",
+      "D": "Have no need for risk assessment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q84",
+     "paper": 2,
+     "num": 84,
+     "stem": "A retired client depending on investment income is likely to place greater importance on:",
+     "options": {
+      "A": "Capital preservation and income stability",
+      "B": "Maximum speculation",
+      "C": "Highest possible volatility",
+      "D": "Short-term market timing"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q85",
+     "paper": 2,
+     "num": 85,
+     "stem": "Which factor is MOST important when determining suitability?",
+     "options": {
+      "A": "Client’s needs and circumstances",
+      "B": "Adviser’s preferred product",
+      "C": "Commission amount",
+      "D": "Product popularity"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q86",
+     "paper": 2,
+     "num": 86,
+     "stem": "A client has emergency funds needed within 3 months. Recommending a volatile long-term investment would likely be:",
+     "options": {
+      "A": "Suitable",
+      "B": "Unsuitable due to liquidity needs",
+      "C": "Guaranteed to perform well",
+      "D": "Required by regulations"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P2-Q87",
+     "paper": 2,
+     "num": 87,
+     "stem": "A client’s risk capacity differs from risk tolerance because risk capacity considers:",
+     "options": {
+      "A": "Ability to financially withstand losses",
+      "B": "Willingness to take risks only",
+      "C": "Product features only",
+      "D": "Market predictions only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q88",
+     "paper": 2,
+     "num": 88,
+     "stem": "An adviser recommends a product because it pays the highest commission. This may conflict with:",
+     "options": {
+      "A": "Acting in the client’s best interests",
+      "B": "Product disclosure",
+      "C": "Policy servicing",
+      "D": "Underwriting requirements"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q89",
+     "paper": 2,
+     "num": 89,
+     "stem": "A proper recommendation should consider:",
+     "options": {
+      "A": "Client profile and product characteristics together",
+      "B": "Commission only",
+      "C": "Investment return only",
+      "D": "Product popularity only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q90",
+     "paper": 2,
+     "num": 90,
+     "stem": "A client changes jobs and income significantly increases. The adviser should consider:",
+     "options": {
+      "A": "Reviewing whether the client’s financial objectives have changed",
+      "B": "Ignoring the change",
+      "C": "Cancelling existing policies immediately",
+      "D": "Changing beneficiaries automatically"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q91",
+     "paper": 2,
+     "num": 91,
+     "stem": "A client asks whether past strong fund performance means future returns are guaranteed. The adviser should explain:",
+     "options": {
+      "A": "Past performance does not guarantee future results",
+      "B": "Returns are guaranteed after good performance",
+      "C": "Market risk no longer exists",
+      "D": "Fund selection is unnecessary"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q92",
+     "paper": 2,
+     "num": 92,
+     "stem": "Which action demonstrates good advisory practice?",
+     "options": {
+      "A": "Explaining both benefits and risks",
+      "B": "Highlighting only advantages",
+      "C": "Avoiding discussion of charges",
+      "D": "Promising specific returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q93",
+     "paper": 2,
+     "num": 93,
+     "stem": "A client does not understand a product’s risk but wants to purchase immediately. The adviser should:",
+     "options": {
+      "A": "Ensure the client understands before proceeding",
+      "B": "Complete the sale quickly",
+      "C": "Ignore the lack of understanding",
+      "D": "Avoid explaining risks"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q94",
+     "paper": 2,
+     "num": 94,
+     "stem": "A financial adviser should maintain proper records mainly to:",
+     "options": {
+      "A": "Support compliance and accountability",
+      "B": "Increase investment returns",
+      "C": "Remove all market risks",
+      "D": "Guarantee claims approval"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q95",
+     "paper": 2,
+     "num": 95,
+     "stem": "Which statement about investment advice is MOST accurate?",
+     "options": {
+      "A": "Recommendations should be based on client suitability",
+      "B": "All clients should receive the same recommendation",
+      "C": "Highest return products are always best",
+      "D": "Risk assessment is optional"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q96",
+     "paper": 2,
+     "num": 96,
+     "stem": "A client wants insurance mainly for family protection. The adviser should focus on:",
+     "options": {
+      "A": "Protection needs and financial objectives",
+      "B": "Highest investment return only",
+      "C": "Market timing",
+      "D": "Fund performance only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q97",
+     "paper": 2,
+     "num": 97,
+     "stem": "An adviser should disclose relevant product charges because:",
+     "options": {
+      "A": "Clients need to understand costs affecting value",
+      "B": "Charges never matter",
+      "C": "Charges guarantee returns",
+      "D": "Only regulators need information"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q98",
+     "paper": 2,
+     "num": 98,
+     "stem": "A client’s circumstances have changed significantly. The adviser should:",
+     "options": {
+      "A": "Review the suitability of existing recommendations",
+      "B": "Ignore previous advice forever",
+      "C": "Automatically replace all products",
+      "D": "Stop providing service"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q99",
+     "paper": 2,
+     "num": 99,
+     "stem": "Ethical advisory practice requires advisers to:",
+     "options": {
+      "A": "Put client interests at the centre of recommendations",
+      "B": "Maximise sales volume",
+      "C": "Recommend only profitable products",
+      "D": "Avoid discussing risks"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P2-Q100",
+     "paper": 2,
+     "num": 100,
+     "stem": "The MOST important principle when recommending financial products is:",
+     "options": {
+      "A": "Maximising returns",
+      "B": "Maximising commissions",
+      "C": "Ensuring suitability for the client",
+      "D": "Selling the newest product\nANSWER KEY"
+     },
+     "answer": "C"
+    }
+   ]
+  },
+  {
+   "paper": 3,
+   "questions": [
+    {
+     "id": "M9-P3-Q1",
+     "paper": 3,
+     "num": 1,
+     "stem": "A client says:\n“I am the insured person, so I automatically own the policy.”\nThe adviser should explain:",
+     "options": {
+      "A": "The life assured is always the policy owner",
+      "B": "Ownership depends on who owns the contractual rights under the policy",
+      "C": "The nominee controls the policy",
+      "D": "The insurer owns all policies"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q2",
+     "paper": 3,
+     "num": 2,
+     "stem": "A father purchases a policy on his own life and nominates his child as beneficiary. Before death, the father changes the nominee. This is possible because:",
+     "options": {
+      "A": "The child has no relationship with the father",
+      "B": "The nomination is revocable",
+      "C": "The policy has no death benefit",
+      "D": "The insurer owns the policy"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q3",
+     "paper": 3,
+     "num": 3,
+     "stem": "Which statement BEST describes the difference between nomination and assignment?",
+     "options": {
+      "A": "Nomination transfers ownership while assignment names beneficiaries",
+      "B": "Assignment transfers rights while nomination directs benefit payment",
+      "C": "Both have exactly the same effect",
+      "D": "Neither affects policy benefits"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q4",
+     "paper": 3,
+     "num": 4,
+     "stem": "A policy owner assigns his policy absolutely to another party. After assignment, the assignee generally:",
+     "options": {
+      "A": "Receives ownership rights under the policy",
+      "B": "Becomes the life assured automatically",
+      "C": "Becomes the insurer",
+      "D": "Becomes the nominee only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q5",
+     "paper": 3,
+     "num": 5,
+     "stem": "A client buys Term Insurance because he wants:",
+     "options": {
+      "A": "Maximum protection at lower cost for a fixed period",
+      "B": "Guaranteed investment returns",
+      "C": "Cash value accumulation",
+      "D": "Market-linked investment exposure"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q6",
+     "paper": 3,
+     "num": 6,
+     "stem": "A client chooses Whole Life Insurance instead of Term Insurance mainly because:",
+     "options": {
+      "A": "Whole Life usually provides lifelong coverage and may build cash value",
+      "B": "Whole Life has no insurance risk",
+      "C": "Term insurance always costs more",
+      "D": "Whole Life guarantees unlimited returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q7",
+     "paper": 3,
+     "num": 7,
+     "stem": "A client wants money at a future date for a child’s education but also wants life protection. A suitable consideration may be:",
+     "options": {
+      "A": "Endowment policy",
+      "B": "Pure Term policy only",
+      "C": "Accident rider only",
+      "D": "Policy loan"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q8",
+     "paper": 3,
+     "num": 8,
+     "stem": "Which statement about an ILP is FALSE?",
+     "options": {
+      "A": "Policy value depends on fund performance",
+      "B": "Policyholder generally bears investment risk",
+      "C": "Returns are guaranteed by the insurer",
+      "D": "Charges may affect policy value"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P3-Q9",
+     "paper": 3,
+     "num": 9,
+     "stem": "An adviser says:\n“Your ILP cannot lose money because insurance companies manage the funds.”\nThis statement is:",
+     "options": {
+      "A": "Correct because insurers guarantee returns",
+      "B": "Incorrect because market risk remains",
+      "C": "Correct because ILPs are protected investments",
+      "D": "Correct only for equity funds"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q10",
+     "paper": 3,
+     "num": 10,
+     "stem": "A rider attached to a policy generally:",
+     "options": {
+      "A": "Provides additional benefits subject to terms and conditions",
+      "B": "Replaces the main policy",
+      "C": "Removes all exclusions",
+      "D": "Guarantees investment returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q11",
+     "paper": 3,
+     "num": 11,
+     "stem": "A policy owner stops paying premiums after the policy has accumulated sufficient value. The policy may become:",
+     "options": {
+      "A": "Paid-up",
+      "B": "Assigned",
+      "C": "Reinsured",
+      "D": "Cancelled automatically"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q12",
+     "paper": 3,
+     "num": 12,
+     "stem": "A lapsed policy may be restored through:",
+     "options": {
+      "A": "Reinstatement subject to insurer approval",
+      "B": "Automatic renewal",
+      "C": "Nomination change",
+      "D": "Fund switching"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q13",
+     "paper": 3,
+     "num": 13,
+     "stem": "A client does not disclose smoking habits when applying for insurance. This is an example of:",
+     "options": {
+      "A": "Material non-disclosure",
+      "B": "Diversification",
+      "C": "Assignment",
+      "D": "Liquidity risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q14",
+     "paper": 3,
+     "num": 14,
+     "stem": "Utmost Good Faith requires:",
+     "options": {
+      "A": "Disclosure of material facts by relevant parties",
+      "B": "Guaranteed claims payment",
+      "C": "Guaranteed investment performance",
+      "D": "Equal premiums for all clients"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q15",
+     "paper": 3,
+     "num": 15,
+     "stem": "Which situation BEST demonstrates insurable interest?",
+     "options": {
+      "A": "Employer insuring a key employee",
+      "B": "Stranger insuring another stranger",
+      "C": "Friend buying insurance on friend without financial impact",
+      "D": "Neighbour buying insurance on neighbour"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q16",
+     "paper": 3,
+     "num": 16,
+     "stem": "A client wants to increase coverage after developing a serious illness. The insurer may:",
+     "options": {
+      "A": "Require additional underwriting",
+      "B": "Automatically approve",
+      "C": "Remove exclusions",
+      "D": "Refund premiums"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q17",
+     "paper": 3,
+     "num": 17,
+     "stem": "A policy loan is different from a claim because:",
+     "options": {
+      "A": "It is borrowed against policy value and must generally be repaid",
+      "B": "It is always free money",
+      "C": "It increases death benefit",
+      "D": "It replaces the policy contract"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q18",
+     "paper": 3,
+     "num": 18,
+     "stem": "A client surrenders a policy early and receives less than premiums paid. The likely reason is:",
+     "options": {
+      "A": "Charges and costs may reduce surrender value",
+      "B": "Insurance has no value",
+      "C": "Claims were rejected",
+      "D": "Nomination failed"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q19",
+     "paper": 3,
+     "num": 19,
+     "stem": "Which person has the authority to change policy details?",
+     "options": {
+      "A": "Policy owner",
+      "B": "Nominee only",
+      "C": "Beneficiary only",
+      "D": "Agent only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q20",
+     "paper": 3,
+     "num": 20,
+     "stem": "A beneficiary differs from a policy owner because:",
+     "options": {
+      "A": "Beneficiary receives benefits but does not usually control the policy",
+      "B": "Beneficiary always pays premiums",
+      "C": "Beneficiary owns the insurer",
+      "D": "Beneficiary performs underwriting"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q21",
+     "paper": 3,
+     "num": 21,
+     "stem": "The main purpose of underwriting is:",
+     "options": {
+      "A": "Assess risk before accepting insurance",
+      "B": "Determine investment returns",
+      "C": "Process claims only",
+      "D": "Sell products"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q22",
+     "paper": 3,
+     "num": 22,
+     "stem": "A claim occurs shortly after policy commencement. The insurer may review:",
+     "options": {
+      "A": "Application information and possible misrepresentation",
+      "B": "Investment performance only",
+      "C": "Agent commission only",
+      "D": "Nominee preference"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q23",
+     "paper": 3,
+     "num": 23,
+     "stem": "A premium loading is applied because:",
+     "options": {
+      "A": "The applicant presents higher-than-standard risk",
+      "B": "The applicant is low risk",
+      "C": "The policy has no protection",
+      "D": "The insurer guarantees returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q24",
+     "paper": 3,
+     "num": 24,
+     "stem": "Which statement is MOST accurate?",
+     "options": {
+      "A": "Higher coverage amounts may require further underwriting",
+      "B": "All policy changes are automatic",
+      "C": "Underwriting happens only after claims",
+      "D": "Health information is irrelevant"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q25",
+     "paper": 3,
+     "num": 25,
+     "stem": "A client wants protection but has a limited budget. The adviser should first consider:",
+     "options": {
+      "A": "Client needs, affordability and suitability",
+      "B": "Highest commission product",
+      "C": "Most expensive policy",
+      "D": "Highest projected return"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q26",
+     "paper": 3,
+     "num": 26,
+     "stem": "A client completes a proposal form and forgets to disclose a previous serious medical condition. The insurer later discovers this information. The issue is:",
+     "options": {
+      "A": "Material non-disclosure",
+      "B": "Diversification risk",
+      "C": "Policy assignment",
+      "D": "Liquidity risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q27",
+     "paper": 3,
+     "num": 27,
+     "stem": "An adviser tells a client:\n“Your medical history is not important because the insurer will check everything anyway.”\nThis advice is:",
+     "options": {
+      "A": "Correct because disclosure is unnecessary",
+      "B": "Incorrect because the applicant must disclose material facts",
+      "C": "Correct because underwriting replaces disclosure",
+      "D": "Correct only for high-value policies"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q28",
+     "paper": 3,
+     "num": 28,
+     "stem": "An insurer asks for a medical examination before accepting a policy application. This is mainly to:",
+     "options": {
+      "A": "Determine the applicant’s risk level",
+      "B": "Guarantee claim approval",
+      "C": "Increase investment returns",
+      "D": "Replace the proposal form"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q29",
+     "paper": 3,
+     "num": 29,
+     "stem": "Which applicant is MOST likely to require additional underwriting?",
+     "options": {
+      "A": "Client requesting a small address change",
+      "B": "Client increasing sum assured significantly",
+      "C": "Client changing payment method",
+      "D": "Client updating contact details"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q30",
+     "paper": 3,
+     "num": 30,
+     "stem": "A client with a high-risk occupation applies for life insurance. The insurer may:",
+     "options": {
+      "A": "Ignore occupation because health is the only factor",
+      "B": "Apply additional underwriting assessment",
+      "C": "Automatically approve standard terms",
+      "D": "Guarantee lower premiums"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q31",
+     "paper": 3,
+     "num": 31,
+     "stem": "Which factor would MOST likely affect mortality risk?",
+     "options": {
+      "A": "Favourite hobby colour",
+      "B": "Smoking habits",
+      "C": "Preferred payment method",
+      "D": "Mailing address"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q32",
+     "paper": 3,
+     "num": 32,
+     "stem": "An insurer accepts an application but charges a higher premium due to health concerns. This is:",
+     "options": {
+      "A": "Premium loading",
+      "B": "Policy surrender",
+      "C": "Claim rejection",
+      "D": "Assignment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q33",
+     "paper": 3,
+     "num": 33,
+     "stem": "A policyholder wants to increase coverage after becoming older and less healthy. The insurer may:",
+     "options": {
+      "A": "Review the new risk before approval",
+      "B": "Automatically accept the change",
+      "C": "Remove exclusions",
+      "D": "Refund previous premiums"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q34",
+     "paper": 3,
+     "num": 34,
+     "stem": "Financial underwriting mainly considers:",
+     "options": {
+      "A": "Whether the amount of coverage is reasonable for the client’s circumstances",
+      "B": "Whether the client likes the product",
+      "C": "Whether the agent receives commission",
+      "D": "Whether the market is rising"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q35",
+     "paper": 3,
+     "num": 35,
+     "stem": "A policyholder stops paying premiums and the grace period expires. The policy:",
+     "options": {
+      "A": "May lapse",
+      "B": "Automatically matures",
+      "C": "Becomes an ILP",
+      "D": "Doubles in value"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q36",
+     "paper": 3,
+     "num": 36,
+     "stem": "A lapsed policy can potentially continue if:",
+     "options": {
+      "A": "Reinstatement requirements are satisfied",
+      "B": "The nominee requests it",
+      "C": "The agent changes the owner",
+      "D": "The insurer ignores the lapse"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q37",
+     "paper": 3,
+     "num": 37,
+     "stem": "During reinstatement, the insurer may request:",
+     "options": {
+      "A": "Evidence of continued insurability",
+      "B": "New investment funds",
+      "C": "New nominee only",
+      "D": "No information"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q38",
+     "paper": 3,
+     "num": 38,
+     "stem": "A death claim is submitted. The insurer’s role is to:",
+     "options": {
+      "A": "Assess whether policy conditions are satisfied",
+      "B": "Pay every claim immediately",
+      "C": "Change ownership",
+      "D": "Cancel all policies"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q39",
+     "paper": 3,
+     "num": 39,
+     "stem": "Which document is normally required for a death claim?",
+     "options": {
+      "A": "Death certificate",
+      "B": "Investment recommendation letter",
+      "C": "Sales illustration only",
+      "D": "Premium receipt only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q40",
+     "paper": 3,
+     "num": 40,
+     "stem": "A death claim may be affected if:",
+     "options": {
+      "A": "Material information was misrepresented during application",
+      "B": "Premiums were paid on time",
+      "C": "Nomination was valid",
+      "D": "Policy was active"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q41",
+     "paper": 3,
+     "num": 41,
+     "stem": "The purpose of a contestability period is mainly to:",
+     "options": {
+      "A": "Allow insurer review of possible misrepresentation",
+      "B": "Increase investment returns",
+      "C": "Change policy ownership",
+      "D": "Avoid underwriting"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q42",
+     "paper": 3,
+     "num": 42,
+     "stem": "A client requests a change of address. This is generally:",
+     "options": {
+      "A": "Policy servicing",
+      "B": "New underwriting",
+      "C": "New claim assessment",
+      "D": "Policy surrender"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q43",
+     "paper": 3,
+     "num": 43,
+     "stem": "Which change is MOST likely to require underwriting?",
+     "options": {
+      "A": "Change of phone number",
+      "B": "Increase in sum assured",
+      "C": "Change of mailing address",
+      "D": "Change of payment frequency"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q44",
+     "paper": 3,
+     "num": 44,
+     "stem": "A policy loan may reduce the amount payable because:",
+     "options": {
+      "A": "Outstanding loan and interest may reduce benefits",
+      "B": "Loans increase all benefits",
+      "C": "Loans remove insurance charges",
+      "D": "Loans guarantee maturity value"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q45",
+     "paper": 3,
+     "num": 45,
+     "stem": "The surrender value of a policy refers to:",
+     "options": {
+      "A": "Amount received when ending the policy early",
+      "B": "Death benefit only",
+      "C": "Premium amount only",
+      "D": "Bonus only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q46",
+     "paper": 3,
+     "num": 46,
+     "stem": "A client complains:\n“I paid more premiums than my surrender value.”\nThe adviser should explain:",
+     "options": {
+      "A": "Early surrender may involve costs and charges",
+      "B": "Insurance contracts always refund premiums fully",
+      "C": "The insurer made an error",
+      "D": "Claims were denied"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q47",
+     "paper": 3,
+     "num": 47,
+     "stem": "Which statement about policy changes is MOST accurate?",
+     "options": {
+      "A": "Some changes may require underwriting while others may not",
+      "B": "Every change requires full underwriting",
+      "C": "No changes are allowed",
+      "D": "All changes cancel the policy"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q48",
+     "paper": 3,
+     "num": 48,
+     "stem": "A policy has been assigned to a bank as collateral. If a claim occurs:",
+     "options": {
+      "A": "The assignment may affect how proceeds are handled",
+      "B": "The assignment becomes irrelevant",
+      "C": "The nominee always receives everything first",
+      "D": "The insurer ignores assignments"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q49",
+     "paper": 3,
+     "num": 49,
+     "stem": "An adviser notices incorrect information in a client’s proposal form before submission. The adviser should:",
+     "options": {
+      "A": "Ensure the information is corrected accurately",
+      "B": "Submit first to avoid delay",
+      "C": "Change it without telling the client",
+      "D": "Ignore the mistake"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q50",
+     "paper": 3,
+     "num": 50,
+     "stem": "Which statement is MOST correct?",
+     "options": {
+      "A": "Underwriting helps insurers decide whether and on what terms to accept risk",
+      "B": "Underwriting only happens during claims",
+      "C": "Underwriting guarantees investment profits",
+      "D": "Underwriting removes all uncertainty"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q51",
+     "paper": 3,
+     "num": 51,
+     "stem": "A client purchases an ILP. Which statement is MOST accurate?",
+     "options": {
+      "A": "The insurer guarantees the investment return",
+      "B": "The policy value depends on the performance of selected funds",
+      "C": "The policyholder has no investment risk",
+      "D": "The fund value cannot decrease"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q52",
+     "paper": 3,
+     "num": 52,
+     "stem": "In an ILP, who generally bears investment risk?",
+     "options": {
+      "A": "The regulator",
+      "B": "The insurance company",
+      "C": "The policyholder",
+      "D": "The beneficiary"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P3-Q53",
+     "paper": 3,
+     "num": 53,
+     "stem": "A client says:\n“Because my ILP is managed by professionals, my investment cannot lose money.”\nThe adviser should explain:",
+     "options": {
+      "A": "Professional management does not remove market risk",
+      "B": "Insurers guarantee all ILP returns",
+      "C": "Losses are impossible in insurance products",
+      "D": "Only new investors face risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q54",
+     "paper": 3,
+     "num": 54,
+     "stem": "The value of units in an ILP is mainly affected by:",
+     "options": {
+      "A": "Underlying fund performance",
+      "B": "Policy nomination",
+      "C": "Policy ownership",
+      "D": "Agent commission"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q55",
+     "paper": 3,
+     "num": 55,
+     "stem": "A client changes from an equity fund to a bond fund within an ILP. This is:",
+     "options": {
+      "A": "Assignment",
+      "B": "Fund switching",
+      "C": "Reinstatement",
+      "D": "Surrender"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q56",
+     "paper": 3,
+     "num": 56,
+     "stem": "Which client is MOST suitable for a higher equity allocation?",
+     "options": {
+      "A": "Client needing money immediately",
+      "B": "Client unwilling to accept fluctuations",
+      "C": "Client with long-term goals and higher risk tolerance",
+      "D": "Client requiring guaranteed capital"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P3-Q57",
+     "paper": 3,
+     "num": 57,
+     "stem": "A bond fund mainly invests in:",
+     "options": {
+      "A": "Shares",
+      "B": "Debt securities",
+      "C": "Property only",
+      "D": "Cash only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q58",
+     "paper": 3,
+     "num": 58,
+     "stem": "Which investment generally has the highest volatility?",
+     "options": {
+      "A": "Money market fund",
+      "B": "Equity fund",
+      "C": "Cash deposit",
+      "D": "Short-term fixed income fund"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q59",
+     "paper": 3,
+     "num": 59,
+     "stem": "A conservative investor is MOST likely to prefer:",
+     "options": {
+      "A": "Concentrated technology stocks",
+      "B": "Emerging market equities",
+      "C": "Lower-risk income-oriented funds",
+      "D": "Highly volatile funds"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "M9-P3-Q60",
+     "paper": 3,
+     "num": 60,
+     "stem": "A balanced fund usually aims to:",
+     "options": {
+      "A": "Remove all investment risk",
+      "B": "Combine different asset classes",
+      "C": "Invest only in equities",
+      "D": "Guarantee returns"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q61",
+     "paper": 3,
+     "num": 61,
+     "stem": "A fund management charge is mainly related to:",
+     "options": {
+      "A": "Cost of managing investments",
+      "B": "Death claim payment",
+      "C": "Nomination processing",
+      "D": "Policy assignment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q62",
+     "paper": 3,
+     "num": 62,
+     "stem": "A mortality charge in an ILP relates to:",
+     "options": {
+      "A": "Cost of insurance protection",
+      "B": "Market performance",
+      "C": "Fund switching only",
+      "D": "Premium payment frequency"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q63",
+     "paper": 3,
+     "num": 63,
+     "stem": "Which statement about ILP charges is TRUE?",
+     "options": {
+      "A": "Charges can reduce the policy value",
+      "B": "ILPs have no charges",
+      "C": "Charges guarantee better performance",
+      "D": "Charges only apply after maturity"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q64",
+     "paper": 3,
+     "num": 64,
+     "stem": "A client invests 90% of his money into one industry fund. The main concern is:",
+     "options": {
+      "A": "Diversification benefit",
+      "B": "Concentration risk",
+      "C": "Guaranteed returns",
+      "D": "Lower market exposure"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q65",
+     "paper": 3,
+     "num": 65,
+     "stem": "Diversification helps because it:",
+     "options": {
+      "A": "Eliminates all investment losses",
+      "B": "Spreads exposure across investments",
+      "C": "Guarantees profits",
+      "D": "Removes inflation risk"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q66",
+     "paper": 3,
+     "num": 66,
+     "stem": "A client invests the same amount every month regardless of market price. This strategy is:",
+     "options": {
+      "A": "Market timing",
+      "B": "Dollar-cost averaging",
+      "C": "Speculation",
+      "D": "Arbitrage"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q67",
+     "paper": 3,
+     "num": 67,
+     "stem": "Dollar-cost averaging may help investors by:",
+     "options": {
+      "A": "Guaranteeing positive returns",
+      "B": "Reducing impact of short-term market fluctuations",
+      "C": "Eliminating investment risk",
+      "D": "Avoiding all market declines"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q68",
+     "paper": 3,
+     "num": 68,
+     "stem": "A young investor with a 25-year horizon and high risk tolerance may consider:",
+     "options": {
+      "A": "Equity-oriented funds",
+      "B": "Cash-only funds",
+      "C": "Guaranteed deposit products only",
+      "D": "No investment exposure"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q69",
+     "paper": 3,
+     "num": 69,
+     "stem": "The relationship between risk and return is generally:",
+     "options": {
+      "A": "Higher potential return usually involves higher risk",
+      "B": "Higher risk guarantees higher return",
+      "C": "Risk does not affect return expectations",
+      "D": "Lower risk always produces higher returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q70",
+     "paper": 3,
+     "num": 70,
+     "stem": "A client wants:\n“High returns with zero risk.”\nThe adviser should explain:",
+     "options": {
+      "A": "High returns with no risk are generally unrealistic",
+      "B": "All insurance products guarantee returns",
+      "C": "Equity investments have no risk",
+      "D": "Risk assessment is unnecessary"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q71",
+     "paper": 3,
+     "num": 71,
+     "stem": "Market risk refers to:",
+     "options": {
+      "A": "Risk of investment value changing due to market movements",
+      "B": "Risk of incorrect nomination",
+      "C": "Risk of unpaid premiums",
+      "D": "Risk of changing ownership"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q72",
+     "paper": 3,
+     "num": 72,
+     "stem": "Credit risk refers to:",
+     "options": {
+      "A": "Risk that an issuer fails to meet obligations",
+      "B": "Risk of market price changes only",
+      "C": "Risk of inflation",
+      "D": "Risk of policy surrender"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q73",
+     "paper": 3,
+     "num": 73,
+     "stem": "Liquidity risk occurs when:",
+     "options": {
+      "A": "An investment cannot be easily sold at a fair value",
+      "B": "An investment earns too much return",
+      "C": "Premiums are paid monthly",
+      "D": "A beneficiary changes"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q74",
+     "paper": 3,
+     "num": 74,
+     "stem": "Inflation risk means:",
+     "options": {
+      "A": "Money may lose purchasing power over time",
+      "B": "Investment values cannot change",
+      "C": "Insurance claims are rejected",
+      "D": "Premiums are eliminated"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q75",
+     "paper": 3,
+     "num": 75,
+     "stem": "Which statement is MOST accurate?",
+     "options": {
+      "A": "Past performance guarantees future results",
+      "B": "Past performance does not guarantee future results",
+      "C": "Previous returns remove investment risk",
+      "D": "Strong past performance guarantees future profits"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q76",
+     "paper": 3,
+     "num": 76,
+     "stem": "A new client approaches an adviser asking for “the product with the highest return”. The adviser should FIRST:",
+     "options": {
+      "A": "Recommend the best-performing fund",
+      "B": "Understand the client’s objectives and circumstances",
+      "C": "Show products with the highest commission",
+      "D": "Recommend the most popular policy"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q77",
+     "paper": 3,
+     "num": 77,
+     "stem": "The main purpose of fact-finding is to:",
+     "options": {
+      "A": "Gather information to determine suitability",
+      "B": "Replace underwriting",
+      "C": "Guarantee investment success",
+      "D": "Increase sales only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q78",
+     "paper": 3,
+     "num": 78,
+     "stem": "A client has high income but very low risk tolerance. The adviser should:",
+     "options": {
+      "A": "Recommend the highest-risk product because income is high",
+      "B": "Consider both financial ability and willingness to take risk",
+      "C": "Ignore risk tolerance",
+      "D": "Focus only on returns"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q79",
+     "paper": 3,
+     "num": 79,
+     "stem": "Know Your Client (KYC) requires understanding:",
+     "options": {
+      "A": "Client’s needs, objectives and risk profile",
+      "B": "Only client’s income",
+      "C": "Only client’s age",
+      "D": "Only insurer’s products"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q80",
+     "paper": 3,
+     "num": 80,
+     "stem": "Know Your Product (KYP) means the adviser should understand:",
+     "options": {
+      "A": "Product features, risks, benefits and charges",
+      "B": "Only sales materials",
+      "C": "Only expected returns",
+      "D": "Only commission structure"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q81",
+     "paper": 3,
+     "num": 81,
+     "stem": "A client with low risk tolerance wants to invest fully into an aggressive equity fund. The adviser should:",
+     "options": {
+      "A": "Proceed because the client requested it",
+      "B": "Explain suitability concerns and risks",
+      "C": "Ignore the client profile",
+      "D": "Recommend an even more aggressive fund"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q82",
+     "paper": 3,
+     "num": 82,
+     "stem": "Investment time horizon refers to:",
+     "options": {
+      "A": "How long before the client needs the money",
+      "B": "Client’s age only",
+      "C": "Premium payment period only",
+      "D": "Policy issuance date"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q83",
+     "paper": 3,
+     "num": 83,
+     "stem": "A younger client with stable income and a long investment horizon may generally:",
+     "options": {
+      "A": "Have more ability to tolerate market fluctuations",
+      "B": "Require only guaranteed products",
+      "C": "Avoid all investments",
+      "D": "Have no need for risk assessment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q84",
+     "paper": 3,
+     "num": 84,
+     "stem": "A retiree depending on investments for income is likely to prioritise:",
+     "options": {
+      "A": "Capital preservation and income stability",
+      "B": "Maximum speculation",
+      "C": "Highest volatility",
+      "D": "Short-term trading"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q85",
+     "paper": 3,
+     "num": 85,
+     "stem": "The MOST important factor when recommending a product is:",
+     "options": {
+      "A": "Client suitability",
+      "B": "Adviser preference",
+      "C": "Commission amount",
+      "D": "Product popularity"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q86",
+     "paper": 3,
+     "num": 86,
+     "stem": "A client needs money in 3 months for a house purchase. Recommending a volatile long-term equity investment is likely:",
+     "options": {
+      "A": "Suitable because returns may be higher",
+      "B": "Unsuitable due to liquidity needs",
+      "C": "Required for growth",
+      "D": "Guaranteed to outperform"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P3-Q87",
+     "paper": 3,
+     "num": 87,
+     "stem": "Risk capacity refers to:",
+     "options": {
+      "A": "Ability to financially withstand losses",
+      "B": "Willingness to accept losses only",
+      "C": "Product features",
+      "D": "Market forecasts"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q88",
+     "paper": 3,
+     "num": 88,
+     "stem": "An adviser recommends a product mainly because it pays higher commission. This may conflict with:",
+     "options": {
+      "A": "Acting in the client’s best interests",
+      "B": "Underwriting requirements",
+      "C": "Policy ownership",
+      "D": "Investment performance"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q89",
+     "paper": 3,
+     "num": 89,
+     "stem": "A suitable recommendation should consider:",
+     "options": {
+      "A": "Client circumstances and product characteristics together",
+      "B": "Highest return only",
+      "C": "Lowest premium only",
+      "D": "Adviser’s sales target"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q90",
+     "paper": 3,
+     "num": 90,
+     "stem": "A client’s income increases significantly after a job change. The adviser should:",
+     "options": {
+      "A": "Review whether financial goals have changed",
+      "B": "Replace all existing policies immediately",
+      "C": "Ignore the change",
+      "D": "Increase risk automatically"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q91",
+     "paper": 3,
+     "num": 91,
+     "stem": "A client asks:\n“Last year’s fund return was 20%, so will I definitely earn 20% again?”\nThe adviser should explain:",
+     "options": {
+      "A": "Past performance does not guarantee future results",
+      "B": "Returns are guaranteed once achieved",
+      "C": "Market risk has disappeared",
+      "D": "Investment review is unnecessary"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q92",
+     "paper": 3,
+     "num": 92,
+     "stem": "Good advisory practice includes:",
+     "options": {
+      "A": "Explaining both benefits and risks",
+      "B": "Highlighting benefits only",
+      "C": "Avoiding discussion of charges",
+      "D": "Promising returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q93",
+     "paper": 3,
+     "num": 93,
+     "stem": "A client does not understand product risks but wants to buy immediately. The adviser should:",
+     "options": {
+      "A": "Ensure understanding before proceeding",
+      "B": "Complete the transaction quickly",
+      "C": "Avoid discussing risks",
+      "D": "Assume understanding"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q94",
+     "paper": 3,
+     "num": 94,
+     "stem": "Maintaining proper client records helps to:",
+     "options": {
+      "A": "Support compliance and accountability",
+      "B": "Guarantee investment returns",
+      "C": "Remove market risk",
+      "D": "Increase commissions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q95",
+     "paper": 3,
+     "num": 95,
+     "stem": "Which statement is MOST accurate?",
+     "options": {
+      "A": "Recommendations should be based on suitability",
+      "B": "Everyone should receive the same product",
+      "C": "Highest return is always best",
+      "D": "Risk assessment is optional"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q96",
+     "paper": 3,
+     "num": 96,
+     "stem": "A client wants insurance mainly for family protection. The adviser should focus on:",
+     "options": {
+      "A": "Protection needs and financial objectives",
+      "B": "Investment returns only",
+      "C": "Market timing",
+      "D": "Fund performance only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q97",
+     "paper": 3,
+     "num": 97,
+     "stem": "Why should advisers explain product charges?",
+     "options": {
+      "A": "Charges affect the value received by the client",
+      "B": "Charges never matter",
+      "C": "Charges guarantee performance",
+      "D": "Only insurers need to know"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q98",
+     "paper": 3,
+     "num": 98,
+     "stem": "A client’s circumstances change significantly. The adviser should:",
+     "options": {
+      "A": "Review suitability of existing recommendations",
+      "B": "Ignore previous advice permanently",
+      "C": "Replace everything immediately",
+      "D": "Stop providing advice"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q99",
+     "paper": 3,
+     "num": 99,
+     "stem": "Ethical advisory practice requires:",
+     "options": {
+      "A": "Putting client interests at the centre of recommendations",
+      "B": "Maximising sales",
+      "C": "Selling the most profitable product",
+      "D": "Avoiding risk discussions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P3-Q100",
+     "paper": 3,
+     "num": 100,
+     "stem": "The MOST important principle when recommending financial products is:",
+     "options": {
+      "A": "Highest return",
+      "B": "Highest commission",
+      "C": "Suitability for the client",
+      "D": "Product popularity\nANSWER KEY"
+     },
+     "answer": "C"
+    }
+   ]
+  },
+  {
+   "paper": 4,
+   "questions": [
+    {
+     "id": "M9-P4-Q1",
+     "paper": 4,
+     "num": 1,
+     "stem": "James, age 35, has two young children and a mortgage. He tells his adviser:\n“I want the cheapest insurance that gives my family the highest protection if I die.”\nThe MOST suitable product to consider is:",
+     "options": {
+      "A": "Whole Life Insurance",
+      "B": "Term Insurance",
+      "C": "ILP with aggressive funds",
+      "D": "Endowment policy"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P4-Q2",
+     "paper": 4,
+     "num": 2,
+     "stem": "Sarah purchases a life insurance policy on her own life and names her husband as nominee. Five years later, they divorce. Sarah wants to change the nominee.\nThis is possible because:",
+     "options": {
+      "A": "The nominee always owns the policy",
+      "B": "Sarah is the policy owner and may change a revocable nomination",
+      "C": "The husband owns the policy",
+      "D": "Divorce automatically transfers ownership to the insurer"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P4-Q3",
+     "paper": 4,
+     "num": 3,
+     "stem": "A client says:\n“I want insurance protection, but I also want guaranteed high returns.”\nThe adviser should explain that:",
+     "options": {
+      "A": "All insurance products provide guaranteed high returns",
+      "B": "Protection and investment objectives may require different product considerations",
+      "C": "ILPs guarantee investment performance",
+      "D": "Term insurance provides investment returns"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P4-Q4",
+     "paper": 4,
+     "num": 4,
+     "stem": "Michael buys a Whole Life policy because he wants lifelong protection and possible cash value accumulation.\nWhich statement is MOST accurate?",
+     "options": {
+      "A": "Whole Life usually provides longer-term coverage compared with Term Insurance",
+      "B": "Whole Life has no insurance component",
+      "C": "Whole Life guarantees unlimited cash value",
+      "D": "Whole Life eliminates all financial risks"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q5",
+     "paper": 4,
+     "num": 5,
+     "stem": "A client has limited budget and wants protection for only the next 20 years while his children are financially dependent.\nThe adviser should FIRST consider:",
+     "options": {
+      "A": "Protection needs and affordability",
+      "B": "Highest premium product",
+      "C": "Maximum investment exposure",
+      "D": "Product with highest commission"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q6",
+     "paper": 4,
+     "num": 6,
+     "stem": "A client purchases an Endowment policy because he wants funds available when his child enters university.\nThe adviser should explain:",
+     "options": {
+      "A": "It combines savings/maturity features with insurance protection",
+      "B": "It guarantees the highest market returns",
+      "C": "It has no maturity benefit",
+      "D": "It is identical to Term Insurance"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q7",
+     "paper": 4,
+     "num": 7,
+     "stem": "Peter buys an ILP after hearing:\n“Your money is invested, but it is still insurance, so your capital is protected.”\nThe adviser should clarify:",
+     "options": {
+      "A": "ILPs generally involve investment risk borne by the policyholder",
+      "B": "All ILPs guarantee capital",
+      "C": "Insurance companies absorb investment losses",
+      "D": "Market movements do not affect ILPs"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q8",
+     "paper": 4,
+     "num": 8,
+     "stem": "A client invests into an equity ILP fund but needs the money within 6 months for a property purchase.\nThe main concern is:",
+     "options": {
+      "A": "Liquidity and market risk",
+      "B": "Lack of nomination",
+      "C": "Policy ownership",
+      "D": "Death benefit only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q9",
+     "paper": 4,
+     "num": 9,
+     "stem": "A client asks:\n“Can I stop paying premiums because my policy already has cash value?”\nThe adviser should explain:",
+     "options": {
+      "A": "Policy consequences depend on policy terms and available value",
+      "B": "Premiums are always optional",
+      "C": "Cash value guarantees continued full coverage",
+      "D": "All policies become paid-up immediately"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q10",
+     "paper": 4,
+     "num": 10,
+     "stem": "A client wants additional protection against critical illness without buying a separate policy.\nThe adviser may consider:",
+     "options": {
+      "A": "Rider",
+      "B": "Assignment",
+      "C": "Nomination",
+      "D": "Surrender"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q11",
+     "paper": 4,
+     "num": 11,
+     "stem": "A client purchases insurance on his business partner’s life because the business would suffer financially if the partner dies.\nThis demonstrates:",
+     "options": {
+      "A": "Insurable interest",
+      "B": "Speculation",
+      "C": "Assignment",
+      "D": "Diversification"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q12",
+     "paper": 4,
+     "num": 12,
+     "stem": "An adviser tells a client:\n“Do not disclose your previous surgery because your premium may increase.”\nThe adviser has failed to consider:",
+     "options": {
+      "A": "Utmost Good Faith",
+      "B": "Diversification",
+      "C": "Liquidity",
+      "D": "Fund switching"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q13",
+     "paper": 4,
+     "num": 13,
+     "stem": "A client fails to disclose a serious illness when applying for insurance. Two years later, a claim occurs.\nThe insurer may investigate:",
+     "options": {
+      "A": "Whether material information was withheld",
+      "B": "Only the nominee details",
+      "C": "Fund performance",
+      "D": "Policy loan interest"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q14",
+     "paper": 4,
+     "num": 14,
+     "stem": "A policy owner assigns his policy absolutely to a bank for a loan.\nThe bank generally receives:",
+     "options": {
+      "A": "Policy rights according to the assignment",
+      "B": "Ownership of the insurer",
+      "C": "Rights only as nominee",
+      "D": "No rights"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q15",
+     "paper": 4,
+     "num": 15,
+     "stem": "A nominee differs from an assignee because:",
+     "options": {
+      "A": "An assignee receives transferred policy rights while a nominee receives benefits according to nomination",
+      "B": "They are identical",
+      "C": "Nominee always owns the policy",
+      "D": "Assignee cannot receive proceeds"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q16",
+     "paper": 4,
+     "num": 16,
+     "stem": "A client increases his sum assured significantly after developing a medical condition.\nThe insurer may:",
+     "options": {
+      "A": "Require underwriting review",
+      "B": "Automatically approve",
+      "C": "Remove exclusions",
+      "D": "Ignore medical history"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q17",
+     "paper": 4,
+     "num": 17,
+     "stem": "A client wants to surrender a policy after paying premiums for only one year.\nThe adviser should explain:",
+     "options": {
+      "A": "Early surrender may result in lower value due to costs and charges",
+      "B": "Surrender always returns all premiums",
+      "C": "Claims are affected immediately",
+      "D": "Premiums are refunded automatically"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q18",
+     "paper": 4,
+     "num": 18,
+     "stem": "A client asks:\n“Why do insurers need underwriting?”\nThe BEST explanation is:",
+     "options": {
+      "A": "To assess risk and determine appropriate terms",
+      "B": "To guarantee investment returns",
+      "C": "To avoid all claims",
+      "D": "To increase commissions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q19",
+     "paper": 4,
+     "num": 19,
+     "stem": "A policy owner wants to transfer ownership rights permanently to another person.\nThe action is:",
+     "options": {
+      "A": "Assignment",
+      "B": "Nomination",
+      "C": "Fund switching",
+      "D": "Reinstatement"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q20",
+     "paper": 4,
+     "num": 20,
+     "stem": "A client takes a policy loan. The adviser should explain:",
+     "options": {
+      "A": "Outstanding loan amounts may reduce benefits payable",
+      "B": "Loans increase death benefits",
+      "C": "Loans remove policy charges",
+      "D": "Loans guarantee profits"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q21",
+     "paper": 4,
+     "num": 21,
+     "stem": "A client says:\n“My friend bought the same policy, so it must suit me too.”\nThe adviser should:",
+     "options": {
+      "A": "Assess individual suitability before recommending",
+      "B": "Recommend immediately",
+      "C": "Ignore personal circumstances",
+      "D": "Focus only on popularity"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q22",
+     "paper": 4,
+     "num": 22,
+     "stem": "A client with low risk tolerance wants 100% equity exposure in an ILP.\nThe adviser should:",
+     "options": {
+      "A": "Explain mismatch between risk profile and product",
+      "B": "Proceed without discussion",
+      "C": "Recommend higher risk funds",
+      "D": "Ignore the client profile"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q23",
+     "paper": 4,
+     "num": 23,
+     "stem": "A client wants insurance mainly to protect dependants financially after death.\nThe adviser should focus on:",
+     "options": {
+      "A": "Protection needs",
+      "B": "Fund performance only",
+      "C": "Market timing",
+      "D": "Highest returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q24",
+     "paper": 4,
+     "num": 24,
+     "stem": "A client’s financial situation changes significantly after marriage and having children.\nThe adviser should:",
+     "options": {
+      "A": "Review protection needs",
+      "B": "Ignore previous recommendations",
+      "C": "Cancel all policies",
+      "D": "Avoid future reviews"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q26",
+     "paper": 4,
+     "num": 26,
+     "stem": "John applies for life insurance. In the proposal form, he states that he is healthy. During underwriting, the insurer discovers he had a major medical condition two years ago.\nThe MAIN concern is:",
+     "options": {
+      "A": "Material non-disclosure",
+      "B": "Fund performance",
+      "C": "Policy assignment",
+      "D": "Premium payment frequency"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q27",
+     "paper": 4,
+     "num": 27,
+     "stem": "An adviser notices that a client answered “No” to a medical question, but the adviser knows the answer should be “Yes”.\nThe adviser should:",
+     "options": {
+      "A": "Ensure the client corrects the information before submission",
+      "B": "Change the answer without informing the client",
+      "C": "Submit first and update later",
+      "D": "Ignore the mistake"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q28",
+     "paper": 4,
+     "num": 28,
+     "stem": "A client says:\n“The insurer can check my medical records, so I don’t need to disclose anything.”\nThe correct response is:",
+     "options": {
+      "A": "The applicant remains responsible for disclosing material facts",
+      "B": "Disclosure is optional",
+      "C": "Only the insurer is responsible",
+      "D": "Medical history is never relevant"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q29",
+     "paper": 4,
+     "num": 29,
+     "stem": "An insurer requests a medical examination for a large life insurance application.\nThe purpose is to:",
+     "options": {
+      "A": "Assess the applicant’s risk accurately",
+      "B": "Guarantee the claim will be paid",
+      "C": "Increase policy benefits",
+      "D": "Avoid issuing policies"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q30",
+     "paper": 4,
+     "num": 30,
+     "stem": "A client with a dangerous occupation applies for insurance. The insurer may:",
+     "options": {
+      "A": "Assess the additional risk before deciding terms",
+      "B": "Ignore occupation completely",
+      "C": "Automatically reject every application",
+      "D": "Guarantee standard premium rates"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q31",
+     "paper": 4,
+     "num": 31,
+     "stem": "A 55-year-old smoker applies for a large life policy.\nCompared with a healthy non-smoker of the same age, the insurer is likely to:",
+     "options": {
+      "A": "Consider higher mortality risk",
+      "B": "Ignore lifestyle factors",
+      "C": "Offer identical terms automatically",
+      "D": "Remove underwriting requirements"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q32",
+     "paper": 4,
+     "num": 32,
+     "stem": "An insurer accepts a policy but charges an additional premium because of the applicant’s health condition.\nThis is:",
+     "options": {
+      "A": "Premium loading",
+      "B": "Surrender value",
+      "C": "Policy loan",
+      "D": "Assignment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q33",
+     "paper": 4,
+     "num": 33,
+     "stem": "A client wants to increase his sum assured after being diagnosed with diabetes.\nThe insurer may:",
+     "options": {
+      "A": "Require further underwriting",
+      "B": "Automatically approve",
+      "C": "Refund previous premiums",
+      "D": "Remove exclusions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q34",
+     "paper": 4,
+     "num": 34,
+     "stem": "Financial underwriting is mainly concerned with:",
+     "options": {
+      "A": "Whether the amount of coverage is appropriate",
+      "B": "Fund selection",
+      "C": "Investment timing",
+      "D": "Agent commission"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q35",
+     "paper": 4,
+     "num": 35,
+     "stem": "Mary stops paying premiums. The grace period expires without payment.\nThe policy may:",
+     "options": {
+      "A": "Lapse",
+      "B": "Double in value",
+      "C": "Become fully guaranteed",
+      "D": "Automatically mature"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q36",
+     "paper": 4,
+     "num": 36,
+     "stem": "A client’s policy has lapsed. He wants to restore coverage.\nThe adviser should explain:",
+     "options": {
+      "A": "Reinstatement may be possible subject to insurer approval",
+      "B": "Restoration is automatic",
+      "C": "A new nominee is required only",
+      "D": "Claims will always be rejected"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q37",
+     "paper": 4,
+     "num": 37,
+     "stem": "During reinstatement, the insurer may request:",
+     "options": {
+      "A": "Evidence of continued insurability",
+      "B": "No additional information",
+      "C": "Immediate claim submission",
+      "D": "Policy surrender form"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q38",
+     "paper": 4,
+     "num": 38,
+     "stem": "A policyholder dies shortly after buying a policy. The insurer reviews the claim.\nThe insurer is mainly checking:",
+     "options": {
+      "A": "Whether policy conditions and disclosures were satisfied",
+      "B": "Investment returns",
+      "C": "Agent sales performance",
+      "D": "Nominee preferences"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q39",
+     "paper": 4,
+     "num": 39,
+     "stem": "A beneficiary submits a death claim.\nWhich document is MOST likely required?",
+     "options": {
+      "A": "Death certificate",
+      "B": "Investment illustration",
+      "C": "Fund switching form",
+      "D": "Premium quotation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q40",
+     "paper": 4,
+     "num": 40,
+     "stem": "An insurer may dispute a claim if:",
+     "options": {
+      "A": "There was fraud or material misrepresentation",
+      "B": "Premiums were paid correctly",
+      "C": "The policy was active",
+      "D": "The beneficiary was validly nominated"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q41",
+     "paper": 4,
+     "num": 41,
+     "stem": "A client asks:\n“Why can’t my insurer just pay every claim?”\nThe adviser should explain:",
+     "options": {
+      "A": "Claims must satisfy policy terms and conditions",
+      "B": "All claims are automatically rejected",
+      "C": "Insurance companies never pay claims",
+      "D": "Only nominees decide claims"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q42",
+     "paper": 4,
+     "num": 42,
+     "stem": "A client changes his residential address.\nThis is generally:",
+     "options": {
+      "A": "Policy servicing",
+      "B": "Underwriting assessment",
+      "C": "New insurance application",
+      "D": "Claim processing"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q43",
+     "paper": 4,
+     "num": 43,
+     "stem": "Which request is MOST likely to require underwriting?",
+     "options": {
+      "A": "Changing contact number",
+      "B": "Increasing coverage amount",
+      "C": "Updating mailing address",
+      "D": "Changing payment mode"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P4-Q44",
+     "paper": 4,
+     "num": 44,
+     "stem": "A client has a policy loan outstanding when a claim occurs.\nThe adviser should explain:",
+     "options": {
+      "A": "Outstanding loan amounts may reduce proceeds payable",
+      "B": "The loan disappears automatically",
+      "C": "The death benefit doubles",
+      "D": "The policy becomes invalid"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q45",
+     "paper": 4,
+     "num": 45,
+     "stem": "A client surrenders his policy after several years.\nThe amount received is called:",
+     "options": {
+      "A": "Surrender value",
+      "B": "Death benefit",
+      "C": "Premium refund",
+      "D": "Underwriting value"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q46",
+     "paper": 4,
+     "num": 46,
+     "stem": "A client complains:\n“I paid $20,000 in premiums but only received $15,000 surrender value.”\nThe BEST explanation is:",
+     "options": {
+      "A": "Policy costs and charges may reduce early surrender value",
+      "B": "Insurance always returns all premiums",
+      "C": "The insurer made an error",
+      "D": "The nomination was incorrect"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q47",
+     "paper": 4,
+     "num": 47,
+     "stem": "A client changes from monthly premium payment to annual payment.\nThis is generally:",
+     "options": {
+      "A": "A servicing request",
+      "B": "A new policy application",
+      "C": "A claim",
+      "D": "A surrender"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q48",
+     "paper": 4,
+     "num": 48,
+     "stem": "A policy has been assigned to a bank as collateral.\nIf a claim occurs:",
+     "options": {
+      "A": "Assignment rights may affect payment of proceeds",
+      "B": "Assignment has no effect",
+      "C": "The nominee automatically overrides assignment",
+      "D": "The insurer ignores the assignment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q49",
+     "paper": 4,
+     "num": 49,
+     "stem": "An adviser receives a proposal form containing incomplete information.\nThe adviser should:",
+     "options": {
+      "A": "Ensure all required information is accurately completed",
+      "B": "Submit incomplete forms to save time",
+      "C": "Guess missing information",
+      "D": "Complete it without client confirmation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q50",
+     "paper": 4,
+     "num": 50,
+     "stem": "Which statement is MOST accurate about underwriting?",
+     "options": {
+      "A": "It helps insurers assess risk and determine acceptance terms",
+      "B": "It guarantees claims will never occur",
+      "C": "It determines investment returns",
+      "D": "It replaces client disclosure obligations"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q51",
+     "paper": 4,
+     "num": 51,
+     "stem": "David, age 30, buys an ILP because he wants long-term wealth accumulation. He says:\n“Since this is an insurance product, my investment value cannot fall.”\nThe adviser should explain:",
+     "options": {
+      "A": "ILPs may fluctuate because investment risk is generally borne by the policyholder",
+      "B": "All ILPs guarantee capital protection",
+      "C": "Insurance companies absorb all market losses",
+      "D": "ILPs have no investment component"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q52",
+     "paper": 4,
+     "num": 52,
+     "stem": "A client invests in an ILP equity fund. After a market decline, the fund value drops.\nThe MOST accurate explanation is:",
+     "options": {
+      "A": "Market movements can affect the value of underlying investments",
+      "B": "The insurer failed to protect the client",
+      "C": "ILPs cannot experience losses",
+      "D": "The policy is automatically cancelled"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q53",
+     "paper": 4,
+     "num": 53,
+     "stem": "A client wants to invest for retirement in 25 years and has high risk tolerance.\nThe adviser may consider:",
+     "options": {
+      "A": "Growth-oriented funds with higher volatility potential",
+      "B": "Only cash funds",
+      "C": "Avoiding all investments",
+      "D": "Short-term products only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q54",
+     "paper": 4,
+     "num": 54,
+     "stem": "A client needs money within 6 months for a house purchase but wants to invest in an aggressive equity fund.\nThe adviser should highlight:",
+     "options": {
+      "A": "Liquidity and market risk concerns",
+      "B": "Guaranteed investment gains",
+      "C": "No investment risk exists",
+      "D": "Equity funds are always suitable"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q55",
+     "paper": 4,
+     "num": 55,
+     "stem": "A client changes from a global equity fund to a bond fund within an ILP.\nThis action is called:",
+     "options": {
+      "A": "Assignment",
+      "B": "Fund switching",
+      "C": "Reinstatement",
+      "D": "Nomination"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P4-Q56",
+     "paper": 4,
+     "num": 56,
+     "stem": "A client says:\n“I want the highest return available.”\nThe adviser should FIRST assess:",
+     "options": {
+      "A": "Risk tolerance, objectives and financial circumstances",
+      "B": "Commission payable",
+      "C": "Most popular product",
+      "D": "Highest-performing fund last year"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q57",
+     "paper": 4,
+     "num": 57,
+     "stem": "A client has low risk tolerance but wants to invest 100% into emerging market equities.\nThe adviser should:",
+     "options": {
+      "A": "Explain the mismatch between risk profile and investment choice",
+      "B": "Proceed because client requested it",
+      "C": "Ignore suitability requirements",
+      "D": "Recommend an even riskier fund"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q58",
+     "paper": 4,
+     "num": 58,
+     "stem": "A bond fund mainly invests in:",
+     "options": {
+      "A": "Debt securities",
+      "B": "Ordinary shares only",
+      "C": "Property only",
+      "D": "Cash only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q59",
+     "paper": 4,
+     "num": 59,
+     "stem": "A money market fund is generally associated with:",
+     "options": {
+      "A": "Lower volatility compared with equity funds",
+      "B": "Highest growth potential",
+      "C": "No investment risk",
+      "D": "Guaranteed high returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q60",
+     "paper": 4,
+     "num": 60,
+     "stem": "A balanced fund generally aims to:",
+     "options": {
+      "A": "Combine different asset classes such as equities and bonds",
+      "B": "Eliminate all losses",
+      "C": "Guarantee returns",
+      "D": "Invest only in shares"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q61",
+     "paper": 4,
+     "num": 61,
+     "stem": "A client asks:\n“Why are there charges in my ILP?”\nThe adviser should explain:",
+     "options": {
+      "A": "Charges may cover insurance and investment-related costs",
+      "B": "ILPs have no charges",
+      "C": "Charges guarantee higher returns",
+      "D": "Charges are unrelated to the policy"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q62",
+     "paper": 4,
+     "num": 62,
+     "stem": "The mortality charge in an ILP mainly relates to:",
+     "options": {
+      "A": "Cost of providing insurance protection",
+      "B": "Fund performance bonus",
+      "C": "Market timing",
+      "D": "Nomination changes"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q63",
+     "paper": 4,
+     "num": 63,
+     "stem": "A client complains:\n“My fund performed well, but my policy value is lower than expected.”\nA possible explanation is:",
+     "options": {
+      "A": "Charges and deductions may affect policy value",
+      "B": "Funds always guarantee profits",
+      "C": "Insurance charges do not exist",
+      "D": "Market performance is irrelevant"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q64",
+     "paper": 4,
+     "num": 64,
+     "stem": "A client invests 90% of his portfolio into one technology sector fund.\nThe main concern is:",
+     "options": {
+      "A": "Concentration risk",
+      "B": "Guaranteed diversification",
+      "C": "Lower investment risk",
+      "D": "No market exposure"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q65",
+     "paper": 4,
+     "num": 65,
+     "stem": "The purpose of diversification is to:",
+     "options": {
+      "A": "Reduce dependence on a single investment",
+      "B": "Guarantee profits",
+      "C": "Remove all risks",
+      "D": "Prevent all market declines"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q66",
+     "paper": 4,
+     "num": 66,
+     "stem": "Mary invests $1,000 every month into an ILP fund regardless of market price.\nThis is:",
+     "options": {
+      "A": "Dollar-cost averaging",
+      "B": "Market timing",
+      "C": "Speculation",
+      "D": "Arbitrage"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q67",
+     "paper": 4,
+     "num": 67,
+     "stem": "Dollar-cost averaging may help because:",
+     "options": {
+      "A": "It reduces the impact of short-term price fluctuations",
+      "B": "It guarantees positive returns",
+      "C": "It eliminates investment risk",
+      "D": "It predicts market movements"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q68",
+     "paper": 4,
+     "num": 68,
+     "stem": "A young investor with a long time horizon may generally have:",
+     "options": {
+      "A": "Greater ability to tolerate market fluctuations",
+      "B": "No need for risk assessment",
+      "C": "No investment risks",
+      "D": "Requirement for guaranteed products only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q69",
+     "paper": 4,
+     "num": 69,
+     "stem": "A client says:\n“I want high returns but I cannot accept any losses.”\nThe adviser should explain:",
+     "options": {
+      "A": "Higher potential returns generally involve higher risk",
+      "B": "All high returns are guaranteed",
+      "C": "Risk assessment is unnecessary",
+      "D": "Equity funds have no downside risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q70",
+     "paper": 4,
+     "num": 70,
+     "stem": "Past investment performance:",
+     "options": {
+      "A": "Does not guarantee future results",
+      "B": "Guarantees future performance",
+      "C": "Removes investment risk",
+      "D": "Determines future returns exactly"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q71",
+     "paper": 4,
+     "num": 71,
+     "stem": "A client invests only in foreign equity funds.\nThe adviser should discuss:",
+     "options": {
+      "A": "Possible market and currency-related risks",
+      "B": "Guaranteed foreign returns",
+      "C": "No additional risks exist",
+      "D": "Only insurance risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q72",
+     "paper": 4,
+     "num": 72,
+     "stem": "Credit risk refers to:",
+     "options": {
+      "A": "Risk that an issuer may fail to meet obligations",
+      "B": "Risk of changing beneficiaries",
+      "C": "Risk of policy ownership changes",
+      "D": "Risk of premium payment delay"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q73",
+     "paper": 4,
+     "num": 73,
+     "stem": "Liquidity risk occurs when:",
+     "options": {
+      "A": "An investment may not be easily converted to cash at a fair price",
+      "B": "Returns are too high",
+      "C": "Premiums are paid monthly",
+      "D": "Policy documents are delayed"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q74",
+     "paper": 4,
+     "num": 74,
+     "stem": "Inflation risk means:",
+     "options": {
+      "A": "Future purchasing power may decrease",
+      "B": "Investment values cannot change",
+      "C": "Insurance protection disappears",
+      "D": "Premiums are refunded"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q75",
+     "paper": 4,
+     "num": 75,
+     "stem": "A client chooses a fund only because it performed best last year.\nThe adviser should explain:",
+     "options": {
+      "A": "Past performance alone may not be a reliable basis for selection",
+      "B": "Previous performance guarantees future success",
+      "C": "Risk assessment is unnecessary",
+      "D": "All funds will perform similarly"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q76",
+     "paper": 4,
+     "num": 76,
+     "stem": "A client approaches an adviser and says:\n“Just recommend the product with the highest returns.”\nThe adviser should FIRST:",
+     "options": {
+      "A": "Recommend last year’s best-performing product",
+      "B": "Conduct fact-finding and understand the client’s needs",
+      "C": "Recommend the product with the highest commission",
+      "D": "Avoid discussing risks"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "M9-P4-Q77",
+     "paper": 4,
+     "num": 77,
+     "stem": "A client earns a high income but has very little savings and many debts.\nThe adviser should consider:",
+     "options": {
+      "A": "Overall financial circumstances, not income alone",
+      "B": "Income only",
+      "C": "Highest-risk investments",
+      "D": "Maximum insurance premiums"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q78",
+     "paper": 4,
+     "num": 78,
+     "stem": "A client has low risk tolerance but high ability to absorb losses.\nThe adviser should consider:",
+     "options": {
+      "A": "Both risk capacity and risk tolerance",
+      "B": "Risk capacity only",
+      "C": "Income only",
+      "D": "Product popularity"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q79",
+     "paper": 4,
+     "num": 79,
+     "stem": "A client says:\n“My friend bought this policy, so I want exactly the same one.”\nThe adviser should:",
+     "options": {
+      "A": "Assess whether the product suits the client’s own circumstances",
+      "B": "Recommend immediately",
+      "C": "Copy the friend’s recommendation",
+      "D": "Ignore client objectives"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q80",
+     "paper": 4,
+     "num": 80,
+     "stem": "The purpose of Know Your Client (KYC) is to:",
+     "options": {
+      "A": "Understand client needs, objectives and risk profile",
+      "B": "Sell more products",
+      "C": "Avoid explaining risks",
+      "D": "Replace product knowledge"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q81",
+     "paper": 4,
+     "num": 81,
+     "stem": "The purpose of Know Your Product (KYP) is to:",
+     "options": {
+      "A": "Understand product features, risks and suitability",
+      "B": "Guarantee returns",
+      "C": "Increase sales only",
+      "D": "Eliminate investment risk"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q82",
+     "paper": 4,
+     "num": 82,
+     "stem": "A client has emergency savings for only one month of expenses. The adviser should be cautious about recommending:",
+     "options": {
+      "A": "High-risk long-term investments",
+      "B": "Suitable protection planning",
+      "C": "Emergency fund planning",
+      "D": "Understanding client needs"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q83",
+     "paper": 4,
+     "num": 83,
+     "stem": "A young client with stable income and long investment horizon may generally:",
+     "options": {
+      "A": "Have greater ability to take long-term investment risk",
+      "B": "Need only guaranteed products",
+      "C": "Avoid all investments",
+      "D": "Ignore risk assessment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q84",
+     "paper": 4,
+     "num": 84,
+     "stem": "A retired client relies on investments for monthly expenses.\nThe adviser should focus on:",
+     "options": {
+      "A": "Income needs and capital preservation",
+      "B": "Maximum speculation",
+      "C": "Highest volatility",
+      "D": "Short-term trading only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q85",
+     "paper": 4,
+     "num": 85,
+     "stem": "A client wants insurance protection for his family after his death.\nThe adviser should focus on:",
+     "options": {
+      "A": "Protection needs and financial objectives",
+      "B": "Highest investment return only",
+      "C": "Market timing",
+      "D": "Fund ranking only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q86",
+     "paper": 4,
+     "num": 86,
+     "stem": "An adviser recommends a product because it pays the highest commission.\nThis may violate the principle of:",
+     "options": {
+      "A": "Acting in the client’s best interests",
+      "B": "Underwriting",
+      "C": "Diversification",
+      "D": "Fund switching"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q87",
+     "paper": 4,
+     "num": 87,
+     "stem": "A client does not understand the risks of a product but insists on buying.\nThe adviser should:",
+     "options": {
+      "A": "Ensure the client understands the risks before proceeding",
+      "B": "Complete the sale immediately",
+      "C": "Avoid explaining details",
+      "D": "Assume understanding"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q88",
+     "paper": 4,
+     "num": 88,
+     "stem": "An adviser says:\n“This investment will definitely make 10% every year.”\nThe adviser may have failed to:",
+     "options": {
+      "A": "Avoid making misleading statements or guarantees",
+      "B": "Explain nomination",
+      "C": "Process underwriting",
+      "D": "Perform fund switching"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q89",
+     "paper": 4,
+     "num": 89,
+     "stem": "A recommendation should be based on:",
+     "options": {
+      "A": "Matching product features with client needs",
+      "B": "Adviser preference",
+      "C": "Highest commission",
+      "D": "Market rumours"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q90",
+     "paper": 4,
+     "num": 90,
+     "stem": "A client gets married and has a child. The adviser should:",
+     "options": {
+      "A": "Review protection and financial needs",
+      "B": "Ignore previous planning",
+      "C": "Cancel all policies",
+      "D": "Increase risk automatically"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q91",
+     "paper": 4,
+     "num": 91,
+     "stem": "A client’s income increases significantly.\nThe adviser should:",
+     "options": {
+      "A": "Review whether objectives and needs have changed",
+      "B": "Automatically increase investments",
+      "C": "Replace all products",
+      "D": "Ignore the change"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q92",
+     "paper": 4,
+     "num": 92,
+     "stem": "A client says:\n“The fund increased 30% last year, so it is guaranteed to do the same.”\nThe adviser should explain:",
+     "options": {
+      "A": "Past performance does not guarantee future performance",
+      "B": "Returns are guaranteed",
+      "C": "Market risk no longer exists",
+      "D": "Review is unnecessary"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q93",
+     "paper": 4,
+     "num": 93,
+     "stem": "An adviser explains only product benefits but does not mention risks.\nThis is:",
+     "options": {
+      "A": "Incomplete disclosure",
+      "B": "Good advisory practice",
+      "C": "Required for sales success",
+      "D": "A way to improve suitability"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q94",
+     "paper": 4,
+     "num": 94,
+     "stem": "Why should advisers maintain proper records?",
+     "options": {
+      "A": "To support compliance and accountability",
+      "B": "To guarantee returns",
+      "C": "To remove market risk",
+      "D": "To avoid all claims"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q95",
+     "paper": 4,
+     "num": 95,
+     "stem": "A client refuses to provide information needed for suitability assessment.\nThe adviser should:",
+     "options": {
+      "A": "Explain the importance of information before recommending",
+      "B": "Guess the client profile",
+      "C": "Recommend the highest-selling product",
+      "D": "Ignore suitability requirements"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q96",
+     "paper": 4,
+     "num": 96,
+     "stem": "A client requests a product outside his risk profile.\nThe adviser should:",
+     "options": {
+      "A": "Explain the mismatch and risks",
+      "B": "Proceed without explanation",
+      "C": "Hide the risks",
+      "D": "Focus only on returns"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q97",
+     "paper": 4,
+     "num": 97,
+     "stem": "A client’s financial goals change after retirement.\nThe adviser should:",
+     "options": {
+      "A": "Review existing recommendations",
+      "B": "Continue unchanged forever",
+      "C": "Ignore the change",
+      "D": "Cancel all policies"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q98",
+     "paper": 4,
+     "num": 98,
+     "stem": "A good financial adviser should:",
+     "options": {
+      "A": "Explain both benefits and limitations",
+      "B": "Promise returns",
+      "C": "Avoid discussing risks",
+      "D": "Recommend the same product to everyone"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q99",
+     "paper": 4,
+     "num": 99,
+     "stem": "The MOST important principle in financial advisory is:",
+     "options": {
+      "A": "Suitability of recommendation for the client",
+      "B": "Maximising sales",
+      "C": "Maximising commission",
+      "D": "Selling the newest product"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "M9-P4-Q100",
+     "paper": 4,
+     "num": 100,
+     "stem": "A client asks:\n“What is the best product?”\nThe adviser should explain:",
+     "options": {
+      "A": "The best product depends on the client’s needs and circumstances",
+      "B": "The product with highest return is always best",
+      "C": "The cheapest product is always best",
+      "D": "The most popular product is always best\nANSWER KEY"
+     },
+     "answer": "A"
+    }
+   ]
+  }
+ ]
+}
