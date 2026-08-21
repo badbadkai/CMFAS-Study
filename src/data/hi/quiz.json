@@ -1,0 +1,3575 @@
+[
+  {
+    "id": "h1-q01",
+    "conceptId": "h1-01",
+    "stem": "Under the Singapore Government's five healthcare objectives, what does the objective on personal responsibility specifically warn against over-reliance on?",
+    "options": {
+      "A": "MediSave and employer benefits",
+      "B": "Private hospitals and specialists",
+      "C": "State welfare and medical insurance",
+      "D": "State welfare only"
+    },
+    "answer": "C",
+    "explanation": "The objective promotes personal responsibility and cautions against over-reliance on BOTH state welfare and medical insurance. Naming only state welfare misses that medical insurance is equally flagged.",
+    "calc": false
+  },
+  {
+    "id": "h1-q02",
+    "conceptId": "h1-02",
+    "stem": "The Healthcare 2020 Masterplan was launched in which year?",
+    "options": {
+      "A": "2020",
+      "B": "2012",
+      "C": "2016",
+      "D": "2015"
+    },
+    "answer": "B",
+    "explanation": "Despite its name, Healthcare 2020 was launched in 2012. The 2020 in the title is a target horizon, not the launch date; 2016 is when the 3 Beyonds began.",
+    "calc": false
+  },
+  {
+    "id": "h1-q03",
+    "conceptId": "h1-03",
+    "stem": "MediShield Life was launched as the national basic health insurance scheme in which year?",
+    "options": {
+      "A": "2014",
+      "B": "2020",
+      "C": "2019",
+      "D": "2015"
+    },
+    "answer": "D",
+    "explanation": "MediShield Life launched in 2015. The year 2020 belongs to CareShield Life, which is a common confusion between the two schemes.",
+    "calc": false
+  },
+  {
+    "id": "h1-q04",
+    "conceptId": "h1-04",
+    "stem": "When were the Pioneer Generation and Merdeka Generation packages launched, respectively?",
+    "options": {
+      "A": "Pioneer 2012, Merdeka 2016",
+      "B": "Pioneer 2014, Merdeka 2019",
+      "C": "Pioneer 2015, Merdeka 2020",
+      "D": "Pioneer 2019, Merdeka 2014"
+    },
+    "answer": "B",
+    "explanation": "The Pioneer Generation package came first in 2014, and the Merdeka Generation package followed in 2019. Swapping the two years is the intended trap.",
+    "calc": false
+  },
+  {
+    "id": "h1-q05",
+    "conceptId": "h1-05",
+    "stem": "In 2016 MOH embarked on the 3 Beyonds for Better Health, Better Care and Better Life. Which of these is one of the 3 Beyonds?",
+    "options": {
+      "A": "Beyond Cure to Prevention",
+      "B": "Beyond Hospital to Community",
+      "C": "Beyond Public to Private",
+      "D": "Beyond Subsidy to Insurance"
+    },
+    "answer": "B",
+    "explanation": "The three are Beyond Healthcare to Health, Beyond Hospital to Community, and Beyond Quality to Value. Beyond Hospital to Community is the correct one; the others are invented.",
+    "calc": false
+  },
+  {
+    "id": "h1-q06",
+    "conceptId": "h1-06",
+    "stem": "CareShield Life is compulsory for Singaporeans born in which cohort?",
+    "options": {
+      "A": "1970 or after",
+      "B": "Before 1980",
+      "C": "1980 or after",
+      "D": "1990 or after"
+    },
+    "answer": "C",
+    "explanation": "CareShield Life is compulsory for those born in 1980 or after, including those with pre-existing disabilities. Those born before 1980 may opt in rather than being compelled.",
+    "calc": false
+  },
+  {
+    "id": "h1-q07",
+    "conceptId": "h1-08",
+    "stem": "Which of the following is NOT one of the three main types of healthcare services in Singapore?",
+    "options": {
+      "A": "Primary healthcare services",
+      "B": "Dental and TCM services",
+      "C": "Hospital services",
+      "D": "Intermediate and Long-Term Care services"
+    },
+    "answer": "B",
+    "explanation": "The three main types are primary healthcare, hospital services, and ILTC services. Dental, TCM and support fall under Other Healthcare Services, not the three main types.",
+    "calc": false
+  },
+  {
+    "id": "h1-q08",
+    "conceptId": "h1-10",
+    "stem": "Public hospitals account for approximately what share of all hospital beds in Singapore?",
+    "options": {
+      "A": "50%",
+      "B": "65%",
+      "C": "85%",
+      "D": "95%"
+    },
+    "answer": "C",
+    "explanation": "Public hospitals hold about 85% of all hospital beds, leaving roughly 15% to the private sector. 50% understates the dominance of the public sector.",
+    "calc": false
+  },
+  {
+    "id": "h1-q09",
+    "conceptId": "h1-10",
+    "stem": "Public hospitals in Singapore are organised into which three clusters?",
+    "options": {
+      "A": "NUHS, SingHealth and AIC",
+      "B": "NUHS, NHG and NHGP",
+      "C": "SingHealth, IHiS and NHG",
+      "D": "NUHS, NHG and SingHealth"
+    },
+    "answer": "D",
+    "explanation": "The three clusters are NUHS, NHG and SingHealth. The other options mix in non-cluster bodies such as IHiS and AIC.",
+    "calc": false
+  },
+  {
+    "id": "h1-q10",
+    "conceptId": "h1-11",
+    "stem": "In a public hospital, a Class B1 admission is subsidised by the Government at what rate?",
+    "options": {
+      "A": "Up to 80%",
+      "B": "50%",
+      "C": "20%",
+      "D": "0%"
+    },
+    "answer": "C",
+    "explanation": "Class B1 receives a 20% subsidy. The heavy subsidy of up to 80% applies to B2 and C wards, while Class A gets none.",
+    "calc": false
+  },
+  {
+    "id": "h1-q11",
+    "conceptId": "h1-14",
+    "stem": "Under Flexi-MediSave, how much may a senior use per year for outpatient treatment at public healthcare institutions and CHAS GP clinics?",
+    "options": {
+      "A": "S$500",
+      "B": "S$300",
+      "C": "S$700",
+      "D": "S$200"
+    },
+    "answer": "B",
+    "explanation": "Flexi-MediSave allows an additional S$300 per year. The S$700 figure is the separate annual withdrawal cap for outpatient treatment of the 23 chronic conditions.",
+    "calc": false
+  },
+  {
+    "id": "h1-q12",
+    "conceptId": "h1-07",
+    "stem": "Healthier SG shifts healthcare cluster funding from a workload-based model to which model?",
+    "options": {
+      "A": "Means-tested model",
+      "B": "Reimbursement model",
+      "C": "Capitation-based model",
+      "D": "Fee-for-service model"
+    },
+    "answer": "C",
+    "explanation": "Healthier SG moves clusters to a capitation-based funding model, with each cluster caring for about 1.5 million residents. Fee-for-service is closer to the old workload-based approach it replaces.",
+    "calc": false
+  },
+  {
+    "id": "h1-q13",
+    "conceptId": "h1-09",
+    "stem": "Under the Community Health Assist Scheme (CHAS), what do the different card colours signify?",
+    "options": {
+      "A": "The type of chronic condition covered",
+      "B": "The patient's ward class entitlement",
+      "C": "The patient's citizenship status",
+      "D": "The subsidy tier the holder qualifies for"
+    },
+    "answer": "D",
+    "explanation": "CHAS card colours (Blue, Orange, Green) indicate the subsidy tier. They are not tied to ward class or a specific condition.",
+    "calc": false
+  },
+  {
+    "id": "h2-q01",
+    "conceptId": "h2-01",
+    "stem": "Health Insurance provides financial benefits in three categories. Which of the following is one of them?",
+    "options": {
+      "A": "Reimbursement of medical treatment or care cost",
+      "B": "A savings return on invested premiums",
+      "C": "A discount on future hospital admissions",
+      "D": "A tax rebate on medical expenses"
+    },
+    "answer": "A",
+    "explanation": "The three categories are reimbursement of cost, periodic income on disability or hospitalisation, and a lump sum on disability or major illness. Investment returns and tax rebates are not among them.",
+    "calc": false
+  },
+  {
+    "id": "h2-q02",
+    "conceptId": "h2-02",
+    "stem": "Medical Expense Insurance is also commonly known by which name?",
+    "options": {
+      "A": "Hospital and Surgical (H&S) Insurance",
+      "B": "Critical Illness Insurance",
+      "C": "Permanent Health Insurance",
+      "D": "Managed Care Insurance"
+    },
+    "answer": "A",
+    "explanation": "Medical Expense Insurance is also called Hospital and Surgical (H&S) Insurance. Permanent Health Insurance is the alternate name for Disability Income Insurance.",
+    "calc": false
+  },
+  {
+    "id": "h2-q03",
+    "conceptId": "h2-03",
+    "stem": "For accident inpatient dental treatment to restore sound natural teeth to be claimable, the treatment must be received within how many days following the accident?",
+    "options": {
+      "A": "14 days",
+      "B": "31 days",
+      "C": "90 days",
+      "D": "60 days"
+    },
+    "answer": "B",
+    "explanation": "Accident inpatient dental treatment must be received within 31 days of the accident. The 90-day figure is the typical claim notification period, not the treatment window.",
+    "calc": false
+  },
+  {
+    "id": "h2-q04",
+    "conceptId": "h2-03",
+    "stem": "For a living donor organ transplant benefit, the recipient's organ failure must first be diagnosed after a waiting period of how long?",
+    "options": {
+      "A": "24 months",
+      "B": "12 months",
+      "C": "36 months",
+      "D": "6 months"
+    },
+    "answer": "A",
+    "explanation": "The recipient's failure must be first diagnosed after a 24-month waiting period, and the recipient must be the insured's family member. A 12-month period is a common look-back for pre-existing conditions, not this benefit.",
+    "calc": false
+  },
+  {
+    "id": "h2-q05",
+    "conceptId": "h2-05",
+    "stem": "Regarding outpatient cancer coverage, which statement is correct?",
+    "options": {
+      "A": "Cancer drug treatment must be on the CDL, but cancer drug services are payable even for non-CDL treatments",
+      "B": "Both cancer drug treatment and services are payable only if on the CDL",
+      "C": "Neither cancer drug treatment nor services need to be on the CDL",
+      "D": "Cancer drug services must be on the CDL, but drug treatment need not be"
+    },
+    "answer": "A",
+    "explanation": "Cancer drug TREATMENT must be on the Cancer Drug List, whereas cancer drug SERVICES are payable even for non-CDL treatments. The distinction between treatment and services is the key.",
+    "calc": false
+  },
+  {
+    "id": "h2-q06",
+    "conceptId": "h2-06",
+    "stem": "How does Medical Expense Insurance differ from life insurance in terms of recovery?",
+    "options": {
+      "A": "A policyholder cannot recover the same medical expense from multiple policies",
+      "B": "Recovery is always paid as a fixed lump sum regardless of cost",
+      "C": "A policyholder can recover the same expense from multiple policies",
+      "D": "Recovery is guaranteed even without proof of expense"
+    },
+    "answer": "A",
+    "explanation": "Being a reimbursement contract, the same medical expense cannot be double-recovered from multiple Medical Expense policies. Life insurance sums assured, by contrast, can stack across policies.",
+    "calc": false
+  },
+  {
+    "id": "h2-q07",
+    "conceptId": "h2-09",
+    "stem": "Deductibles under an Integrated Shield Plan are typically tiered so that:",
+    "options": {
+      "A": "The deductible is the same across all ward classes",
+      "B": "The higher the Class of Ward, the higher the deductible",
+      "C": "The higher the Class of Ward, the lower the deductible",
+      "D": "Only private hospital stays carry a deductible"
+    },
+    "answer": "B",
+    "explanation": "The deductible rises with ward class, e.g. Class C at S$1,500 up to Class A and private at S$3,500. This encourages appropriate ward selection.",
+    "calc": false
+  },
+  {
+    "id": "h2-q08",
+    "conceptId": "h2-10",
+    "stem": "Which type of deductible is described as the most restrictive because it must be borne for each claim regardless of policy year?",
+    "options": {
+      "A": "Per annum deductible",
+      "B": "Per disability (per year) deductible",
+      "C": "Per disability (per claim) deductible",
+      "D": "Lifetime deductible"
+    },
+    "answer": "C",
+    "explanation": "The per disability (per claim) deductible is the most restrictive, applying to every claim. The per annum deductible is the most common and generous, since all eligible expenses in the year count toward it.",
+    "calc": false
+  },
+  {
+    "id": "h2-q09",
+    "conceptId": "h2-11",
+    "stem": "Co-insurance requires the policy owner to pay a specified percentage of which amount?",
+    "options": {
+      "A": "The total hospital bill before any deductible",
+      "B": "The covered medical expenses in excess of the deductible",
+      "C": "The deductible amount itself",
+      "D": "The annual limit of the policy"
+    },
+    "answer": "B",
+    "explanation": "Co-insurance is charged on covered expenses ABOVE the deductible, not on the whole bill. Applying it to the full bill before deductible overstates the policyholder's share.",
+    "calc": false
+  },
+  {
+    "id": "h2-q10",
+    "conceptId": "h2-11",
+    "stem": "Under a family policy, how does the deductible apply across insured members?",
+    "options": {
+      "A": "The deductible applies separately to each insured member",
+      "B": "The deductible is halved for each additional member",
+      "C": "Only the policy owner bears a deductible",
+      "D": "Members can combine expenses to satisfy one shared deductible"
+    },
+    "answer": "A",
+    "explanation": "The deductible applies separately to each insured family member, so a husband cannot combine his expenses with his wife's to satisfy it. There is no shared or pooled deductible.",
+    "calc": false
+  },
+  {
+    "id": "h2-q11",
+    "conceptId": "h2-12",
+    "stem": "When is a pro-ration factor applied to reduce the benefit payable?",
+    "options": {
+      "A": "When the insured is admitted to a ward higher than the plan entitlement",
+      "B": "When the insured resides overseas",
+      "C": "When the insured is admitted to a ward lower than the plan entitlement",
+      "D": "When the insured makes more than one claim in a year"
+    },
+    "answer": "A",
+    "explanation": "Pro-ration applies when the insured chooses a hospital or ward higher than the plan entitlement, reflecting lost Government subsidy. Choosing a lower ward does not trigger it.",
+    "calc": false
+  },
+  {
+    "id": "h2-q12",
+    "conceptId": "h2-13",
+    "stem": "The 'event limit' under a Medical Expense Insurance policy refers to the maximum payable:",
+    "options": {
+      "A": "Per disability or illness under a single claim",
+      "B": "Per day of room and board",
+      "C": "Over the insured's lifetime",
+      "D": "Per calendar or policy year"
+    },
+    "answer": "A",
+    "explanation": "The event limit caps the amount payable per disability or illness under one claim. The lifetime limit spans the insured's life and the annual limit spans a year.",
+    "calc": false
+  },
+  {
+    "id": "h2-q13",
+    "conceptId": "h2-15",
+    "stem": "A waiting period under a Medical Expense Insurance policy does NOT apply to which of the following?",
+    "options": {
+      "A": "Pre-existing conditions",
+      "B": "Accidental injury",
+      "C": "Maternity benefits",
+      "D": "Specified illnesses"
+    },
+    "answer": "B",
+    "explanation": "Accidental injury is covered immediately, so no waiting period applies. Waiting periods may still apply to pre-existing conditions and maternity.",
+    "calc": false
+  },
+  {
+    "id": "h2-q14",
+    "conceptId": "h2-16",
+    "stem": "Regarding renewability, which statement about Integrated Shield Plan policies is correct?",
+    "options": {
+      "A": "They cannot be renewed after age 65",
+      "B": "Renewal is at the insurer's discretion each year",
+      "C": "Renewal requires fresh underwriting annually",
+      "D": "They are guaranteed renewable"
+    },
+    "answer": "D",
+    "explanation": "All IP policies are guaranteed renewable, so the insurer cannot decline renewal based on claims or health. Premiums are still age-banded and adjustable with notice.",
+    "calc": false
+  },
+  {
+    "id": "h2-q15",
+    "conceptId": "h2-17",
+    "stem": "Which of the following is generally NOT excluded under a Medical Expense Insurance policy?",
+    "options": {
+      "A": "Self-inflicted injury",
+      "B": "Cosmetic surgery",
+      "C": "Injury while a fare-paying passenger on a scheduled commercial flight",
+      "D": "Treatment of drug addiction"
+    },
+    "answer": "C",
+    "explanation": "Travel as a fare-paying passenger on a scheduled commercial flight is not excluded; only non-scheduled or hazardous flying is. Cosmetic surgery, self-inflicted injury and drug addiction treatment are all excluded.",
+    "calc": false
+  },
+  {
+    "id": "h2-q16",
+    "conceptId": "h2-18",
+    "stem": "The Co-ordination of Benefits Clause ensures that:",
+    "options": {
+      "A": "The insured must claim from the cheapest insurer first",
+      "B": "Benefits are doubled if two policies apply",
+      "C": "Pre-existing conditions are automatically covered",
+      "D": "Total claims cannot exceed total actual medical expenses incurred"
+    },
+    "answer": "D",
+    "explanation": "The clause prevents total benefits from exceeding actual expenses; payment from other sources like an employer's Group H&S reduces the insurer's payable amount. It is a limitation, not a doubling of benefits.",
+    "calc": false
+  },
+  {
+    "id": "h2-q17",
+    "conceptId": "h2-19",
+    "stem": "Which form is the main underwriting source for GROUP medical cover?",
+    "options": {
+      "A": "The Notice of Assessment",
+      "B": "The Group Insurance Fact-Finding (GIFF) Form",
+      "C": "The individual proposal form",
+      "D": "The Clinical Abstract form"
+    },
+    "answer": "B",
+    "explanation": "For group cover the employer completes the GIFF Form. The individual proposal form is the source for individual cover.",
+    "calc": false
+  },
+  {
+    "id": "h2-q18",
+    "conceptId": "h2-20",
+    "stem": "For acute inpatient care in a public hospital, who is NOT entitled to any Government subsidy?",
+    "options": {
+      "A": "Foreigners",
+      "B": "Merdeka Generation seniors",
+      "C": "Singapore Permanent Residents",
+      "D": "Singapore Citizens"
+    },
+    "answer": "A",
+    "explanation": "Only Citizens and PRs receive subsidies, with Citizens always subsidised more than PRs. Foreigners receive no Government subsidy.",
+    "calc": false
+  },
+  {
+    "id": "h2-q19",
+    "conceptId": "h2-22",
+    "stem": "Under MAS Notice 117, what is the minimum structured CPD training on MediShield Life or shield plan content required before each calendar year end?",
+    "options": {
+      "A": "4 hours",
+      "B": "8 hours",
+      "C": "1 hour",
+      "D": "2 hours"
+    },
+    "answer": "D",
+    "explanation": "MAS 117 requires a minimum of 2 hours of structured CPD on shield plan content per calendar year, with records kept for 5 years.",
+    "calc": false
+  },
+  {
+    "id": "h2-q20",
+    "conceptId": "h2-21",
+    "stem": "Which termination condition applies to GROUP Medical Expense policies but not individual ones?",
+    "options": {
+      "A": "Death of the insured",
+      "B": "Reaching the lifetime limit",
+      "C": "Expiry of the last paid premium period",
+      "D": "Cessation as an employee"
+    },
+    "answer": "D",
+    "explanation": "Cessation as an employee is a group-only termination trigger. Death, lifetime limit and premium expiry apply to both individual and group policies.",
+    "calc": false
+  },
+  {
+    "id": "h2-calc-01",
+    "conceptId": "h2-11",
+    "stem": "Charlie holds a Medical Expense policy with a per annum deductible of S$2,000 and 20% co-insurance. Earlier in the year he already incurred S$1,000 of eligible expenses that were within the deductible. He is now admitted with a S$5,000 bill fully within his policy limits. How much will the insurer pay for this admission?",
+    "options": {
+      "A": "S$3,000",
+      "B": "S$4,000",
+      "C": "S$2,400",
+      "D": "S$3,200"
+    },
+    "answer": "D",
+    "explanation": "Remaining deductible is S$2,000 minus the S$1,000 already met, i.e. S$1,000. Claimable is S$5,000 minus S$1,000 = S$4,000; co-insurance of 20% is S$800, so the insurer pays S$3,200. S$4,000 forgets the co-insurance step.",
+    "calc": true
+  },
+  {
+    "id": "h2-calc-02",
+    "conceptId": "h2-11",
+    "stem": "A policy has a per annum deductible of S$3,500 and 10% co-insurance. The insured's covered hospital bill is S$8,400 (already fully within limits and no pro-ration applies). How much does the insurer pay?",
+    "options": {
+      "A": "S$8,400",
+      "B": "S$4,060",
+      "C": "S$4,410",
+      "D": "S$4,900"
+    },
+    "answer": "C",
+    "explanation": "After the S$3,500 deductible, S$4,900 remains; co-insurance of 10% is S$490, so the insurer pays S$4,900 minus S$490 = S$4,410. S$4,900 ignores the co-insurance deduction.",
+    "calc": true
+  },
+  {
+    "id": "h2-calc-03",
+    "conceptId": "h2-12",
+    "stem": "An insured entitled to a standard B1 ward is admitted to a private hospital. Covered charges are S$24,000, the pro-ration factor is 35%, the annual deductible is S$3,500 and co-insurance is 10%. What is the benefit the insurer pays?",
+    "options": {
+      "A": "S$4,410",
+      "B": "S$4,900",
+      "C": "S$8,400",
+      "D": "S$18,450"
+    },
+    "answer": "A",
+    "explanation": "Pro-ration first: 35% of S$24,000 = S$8,400. Subtract the S$3,500 deductible to get S$4,900, then subtract 10% co-insurance (S$490) to reach S$4,410. Using S$24,000 without pro-ration gives the wrong, inflated figures.",
+    "calc": true
+  },
+  {
+    "id": "h3-q01",
+    "conceptId": "h3-01",
+    "stem": "A key eligibility criterion for Group Insurance is that the group must:",
+    "options": {
+      "A": "Be a registered company only",
+      "B": "Have all members individually underwritten",
+      "C": "Have been formed for a purpose other than obtaining insurance",
+      "D": "Consist of at least 100 members"
+    },
+    "answer": "C",
+    "explanation": "The group must exist for a purpose other than buying insurance, such as a company or trade union. You cannot assemble a group solely to obtain cover.",
+    "calc": false
+  },
+  {
+    "id": "h3-q02",
+    "conceptId": "h3-02",
+    "stem": "In Group Insurance, experience-rating means the premium is priced based on:",
+    "options": {
+      "A": "The group's own past claims history",
+      "B": "Each member's individual medical history",
+      "C": "The insurer's overall portfolio claims",
+      "D": "Industry-wide standard tables only"
+    },
+    "answer": "A",
+    "explanation": "Experience-rating prices the group on its own past claims. It does not rely on individual member histories or a fixed industry table.",
+    "calc": false
+  },
+  {
+    "id": "h3-q03",
+    "conceptId": "h3-03",
+    "stem": "Under the actively-at-work clause, an employee who is on annual leave on the day coverage takes effect will:",
+    "options": {
+      "A": "Have coverage backdated automatically",
+      "B": "Not be covered until actively at work",
+      "C": "Be covered only for accidents",
+      "D": "Be covered as normal"
+    },
+    "answer": "B",
+    "explanation": "The clause requires the employee to be actively at work on the effective day; being on annual leave (or sick leave) means no cover until they return. It is not limited to sick leave.",
+    "calc": false
+  },
+  {
+    "id": "h3-q04",
+    "conceptId": "h3-04",
+    "stem": "How is the premium for Group Insurance typically described compared with individual insurance?",
+    "options": {
+      "A": "Unit-related and lower",
+      "B": "Fixed regardless of group size",
+      "C": "Age-related and lower",
+      "D": "Age-related and higher"
+    },
+    "answer": "A",
+    "explanation": "Group premiums are unit-related and generally lower, while individual premiums are age-related and higher. The group is underwritten as a whole rather than per person.",
+    "calc": false
+  },
+  {
+    "id": "h3-q05",
+    "conceptId": "h3-05",
+    "stem": "A voluntary (contributory) group plan usually requires a minimum participation rate of about:",
+    "options": {
+      "A": "75%",
+      "B": "100%",
+      "C": "60%",
+      "D": "50%"
+    },
+    "answer": "A",
+    "explanation": "Voluntary plans typically require about 75% minimum participation. A compulsory plan by contrast requires 100% of eligible employees, with the employer paying all premiums.",
+    "calc": false
+  },
+  {
+    "id": "h3-q06",
+    "conceptId": "h3-05",
+    "stem": "In a compulsory (non-contributory) group plan, the premium is paid by:",
+    "options": {
+      "A": "Split equally between employer and employees",
+      "B": "The employees solely",
+      "C": "The insurer as a subsidy",
+      "D": "The employer solely"
+    },
+    "answer": "D",
+    "explanation": "A compulsory plan is non-contributory, so the employer pays all premiums and all eligible employees are covered. In a voluntary plan employees may pay part of the premium.",
+    "calc": false
+  },
+  {
+    "id": "h3-q07",
+    "conceptId": "h3-07",
+    "stem": "From which date were Government subsidies on hospital bills for foreigners removed?",
+    "options": {
+      "A": "1 January 2004",
+      "B": "1 October 2020",
+      "C": "1 July 2023",
+      "D": "1 January 2008"
+    },
+    "answer": "D",
+    "explanation": "Foreigner hospital subsidies were removed from 1 January 2008, after which MOM required employers to maintain medical insurance for foreign workers. 1 April 2004 relates to portable medical benefits.",
+    "calc": false
+  },
+  {
+    "id": "h3-q08",
+    "conceptId": "h3-08",
+    "stem": "Under the enhanced migrant worker medical insurance (Stage 1 from 1 July 2023), for claim amounts above S$15,000 the co-payment split between insurer and employer is:",
+    "options": {
+      "A": "Insurer 75%, employer 25%",
+      "B": "Insurer 25%, employer 75%",
+      "C": "Insurer 90%, employer 10%",
+      "D": "Insurer 50%, employer 50%"
+    },
+    "answer": "A",
+    "explanation": "Above S$15,000 the insurer pays 75% and the employer co-pays 25%, with an annual claim limit of at least S$60,000. Reversing the split is the trap.",
+    "calc": false
+  },
+  {
+    "id": "h3-q09",
+    "conceptId": "h3-09",
+    "stem": "For a Work Permit holder (excluding migrant domestic workers), any co-payment arrangement must not exceed what proportion of the employee's monthly salary?",
+    "options": {
+      "A": "5%",
+      "B": "25%",
+      "C": "10%",
+      "D": "50%"
+    },
+    "answer": "C",
+    "explanation": "The co-payment cannot exceed 10% of monthly salary and must not run beyond six months for every two years of employment. Migrant domestic workers are excluded from such arrangements.",
+    "calc": false
+  },
+  {
+    "id": "h3-q10",
+    "conceptId": "h3-10",
+    "stem": "Employers who implement a portable medical benefits option can claim a higher tax deduction for medical expenses of up to what percentage of total employees' remuneration?",
+    "options": {
+      "A": "1%",
+      "B": "10%",
+      "C": "2%",
+      "D": "5%"
+    },
+    "answer": "C",
+    "explanation": "Portable options raise the deduction cap to 2% of total remuneration; without them the deduction stays at 1%.",
+    "calc": false
+  },
+  {
+    "id": "h3-q11",
+    "conceptId": "h3-11",
+    "stem": "Under the Portable Medical Benefits Scheme (PMBS), what does the employer do?",
+    "options": {
+      "A": "Buys a Group H&S policy on the employee's behalf",
+      "B": "Makes additional monthly contributions to the employee's MediSave account",
+      "C": "Reimburses hospital bills as they arise",
+      "D": "Pays cash medical allowances directly to staff"
+    },
+    "answer": "B",
+    "explanation": "Under PMBS the employer contributes to the employee's MediSave, which the employee uses to pay MediShield Life or IP premiums, so cover follows the person between jobs. It is not a group policy purchase.",
+    "calc": false
+  },
+  {
+    "id": "h3-q12",
+    "conceptId": "h3-12",
+    "stem": "To qualify for the 2% tax deduction under PMBS, for full-time employees the employer must contribute at least 1% of gross monthly salary subject to a monthly minimum of:",
+    "options": {
+      "A": "S$16",
+      "B": "S$25",
+      "C": "S$50",
+      "D": "S$10"
+    },
+    "answer": "A",
+    "explanation": "The minimum contribution is S$16 per calendar month for full-time employees. The employer must also cover at least 20% of local employees.",
+    "calc": false
+  },
+  {
+    "id": "h3-q13",
+    "conceptId": "h3-13",
+    "stem": "The Transferable Medical Insurance Scheme (TMIS) extends inpatient coverage for up to how long when an employee leaves employment?",
+    "options": {
+      "A": "6 months",
+      "B": "24 months",
+      "C": "3 months",
+      "D": "12 months"
+    },
+    "answer": "D",
+    "explanation": "TMIS continuation of coverage lasts up to 12 months after the employee leaves. The 6-month figure relates to migrant worker co-payment duration, not TMIS.",
+    "calc": false
+  },
+  {
+    "id": "h3-q14",
+    "conceptId": "h3-14",
+    "stem": "To qualify for TMIS, the employer must have a group of at least how many employees?",
+    "options": {
+      "A": "50 or more",
+      "B": "5 or more",
+      "C": "11 or more",
+      "D": "20 or more"
+    },
+    "answer": "C",
+    "explanation": "TMIS requires 11 or more employees and at least 50% of local employees insured (minimum 11), with the employer paying 100% of the GHS premium. The 20% figure applies to PMBS coverage, not TMIS.",
+    "calc": false
+  },
+  {
+    "id": "h3-q15",
+    "conceptId": "h3-16",
+    "stem": "If an employee is hospitalised for a pre-existing condition within the first 12 months under a new TMIS employer's plan, the entitlement paid is:",
+    "options": {
+      "A": "Always the new employer's plan",
+      "B": "The higher of the new or prior employer's plan",
+      "C": "Nil, as pre-existing conditions are excluded",
+      "D": "The lower of the new or prior employer's plan"
+    },
+    "answer": "D",
+    "explanation": "During the first 12 months the employee receives the LOWER of the two employers' TMIS entitlements for a pre-existing condition. It is neither excluded outright nor defaulted to the new plan.",
+    "calc": false
+  },
+  {
+    "id": "h3-q16",
+    "conceptId": "h3-17",
+    "stem": "Which of the following is NOT an eligible benefit under TMIS?",
+    "options": {
+      "A": "In-hospital doctor's visits",
+      "B": "Daily room and board",
+      "C": "Outpatient kidney dialysis or cancer treatment",
+      "D": "ICU charges"
+    },
+    "answer": "C",
+    "explanation": "Outpatient kidney dialysis and cancer treatment are not eligible under TMIS, along with pre/post-hospitalisation outpatient and emergency outpatient accident. Room and board, ICU and in-hospital visits are eligible.",
+    "calc": false
+  },
+  {
+    "id": "h3-q17",
+    "conceptId": "h3-18",
+    "stem": "A key structural difference between PMBS and TMIS is that:",
+    "options": {
+      "A": "Both expire 12 months after termination",
+      "B": "Neither continues once the employee leaves the job",
+      "C": "PMBS coverage can be lifetime while TMIS expires at statutory retirement age",
+      "D": "TMIS coverage can be lifetime while PMBS expires at retirement age"
+    },
+    "answer": "C",
+    "explanation": "PMBS coverage (via an IP) can be lifetime, whereas TMIS coverage expires at statutory retirement age or 12 months after termination. The two are commonly reversed.",
+    "calc": false
+  },
+  {
+    "id": "h3-q18",
+    "conceptId": "h3-19",
+    "stem": "The additional tax deduction for ad-hoc MediSave contributions is subject to a limit per employee per year of:",
+    "options": {
+      "A": "S$5,000",
+      "B": "S$1,500",
+      "C": "S$16",
+      "D": "S$2,730"
+    },
+    "answer": "D",
+    "explanation": "Ad-hoc MediSave contribution deductions are capped at S$2,730 per employee per year, within an overall 2% deduction ceiling. S$16 is the PMBS monthly minimum, not this cap.",
+    "calc": false
+  },
+  {
+    "id": "h3-q19",
+    "conceptId": "h3-06",
+    "stem": "Which of the following is an advantage specific to a compulsory (rather than voluntary) group plan?",
+    "options": {
+      "A": "Greater risk pooling and employer control of benefits",
+      "B": "Employees can choose whether to be insured",
+      "C": "Lower premiums than buying individually for volunteers",
+      "D": "Employees share the cost of premiums"
+    },
+    "answer": "A",
+    "explanation": "Compulsory plans give greater risk pooling and stronger employer control of the benefit structure. Cost-sharing and employee choice are features of voluntary plans.",
+    "calc": false
+  },
+  {
+    "id": "h3-calc-01",
+    "conceptId": "h3-08",
+    "stem": "A migrant worker's hospital claim under the enhanced (Stage 1) scheme totals S$35,000. Above the S$15,000 threshold the insurer pays 75% and the employer 25%. Ignoring the annual limit, how much does the employer co-pay on the portion above S$15,000?",
+    "options": {
+      "A": "S$3,750",
+      "B": "S$15,000",
+      "C": "S$5,000",
+      "D": "S$8,750"
+    },
+    "answer": "C",
+    "explanation": "The amount above S$15,000 is S$20,000; the employer's 25% share is S$5,000 and the insurer covers 75% (S$15,000). S$8,750 wrongly applies 25% to the whole S$35,000 bill.",
+    "calc": true
+  },
+  {
+    "id": "h4-q01",
+    "conceptId": "h4-01",
+    "stem": "Disability Income Insurance is also known as Permanent Health Insurance because:",
+    "options": {
+      "A": "It covers permanent disabilities only",
+      "B": "Premiums remain permanently level",
+      "C": "The insurer cannot cancel it no matter how many claims are made",
+      "D": "It pays a permanent lump sum"
+    },
+    "answer": "C",
+    "explanation": "It is called Permanent Health Insurance because the insurer cannot cancel it regardless of the number of claims. It pays monthly income, not a permanent lump sum.",
+    "calc": false
+  },
+  {
+    "id": "h4-q02",
+    "conceptId": "h4-02",
+    "stem": "Which statement best distinguishes Disability Income Insurance from Total and Permanent Disability (TPD) cover?",
+    "options": {
+      "A": "DII pays monthly income pegged to salary; TPD pays a lump sum not pegged to salary",
+      "B": "DII pays a lump sum; TPD pays monthly income",
+      "C": "TPD is available only to those with earned income",
+      "D": "Both are pegged to salary and pay monthly"
+    },
+    "answer": "A",
+    "explanation": "DII pays monthly income pegged to salary (up to 75%) and needs earned income; TPD pays a lump sum, is not salary-pegged, and can cover non-workers. The roles of lump sum and monthly income are reversed in the trap.",
+    "calc": false
+  },
+  {
+    "id": "h4-q03",
+    "conceptId": "h4-03",
+    "stem": "The disability benefit is generally allowed to cover only up to what percentage of the insured's average income over the past 12 months?",
+    "options": {
+      "A": "60%",
+      "B": "100%",
+      "C": "75%",
+      "D": "50%"
+    },
+    "answer": "C",
+    "explanation": "The benefit is capped at 75% of past 12 months' average income; a self-employed person may get a lower percentage such as 60%. Capping below 100% preserves the incentive to return to work.",
+    "calc": false
+  },
+  {
+    "id": "h4-q04",
+    "conceptId": "h4-04",
+    "stem": "Under the 'Own Occupation' definition, total disability means the insured is unable to:",
+    "options": {
+      "A": "Perform any occupation whatsoever",
+      "B": "Perform three of the six ADLs",
+      "C": "Perform the material duties of his own occupation",
+      "D": "Perform any occupation he is reasonably suited for"
+    },
+    "answer": "C",
+    "explanation": "Own Occupation, the most generous definition, keys on inability to perform the material duties of the insured's own job. The other definitions are Modified Own Occupation, Any Occupation and the ADL-based severe disability test.",
+    "calc": false
+  },
+  {
+    "id": "h4-q05",
+    "conceptId": "h4-05",
+    "stem": "Ranked from most generous to most restrictive, the total disability definitions are:",
+    "options": {
+      "A": "Own Occupation, Modified Own Occupation, Any Occupation",
+      "B": "Own Occupation, Any Occupation, Modified Own Occupation",
+      "C": "Modified Own Occupation, Own Occupation, Any Occupation",
+      "D": "Any Occupation, Modified Own Occupation, Own Occupation"
+    },
+    "answer": "A",
+    "explanation": "Own Occupation is the most generous, Modified Own Occupation is stricter (it includes similar occupations), and Any Occupation is the hardest to claim under.",
+    "calc": false
+  },
+  {
+    "id": "h4-q06",
+    "conceptId": "h4-06",
+    "stem": "Under the 'Severe Disability' definition borrowed from LTC, the insured must be unable to perform at least how many of the six Activities of Daily Living?",
+    "options": {
+      "A": "Four",
+      "B": "Three",
+      "C": "One",
+      "D": "Two"
+    },
+    "answer": "B",
+    "explanation": "Severe disability requires inability to perform at least three of the six ADLs. This definition is used during non-working periods with a fixed, lower benefit.",
+    "calc": false
+  },
+  {
+    "id": "h4-q07",
+    "conceptId": "h4-07",
+    "stem": "Partial disability generally applies when the insured returns to some work but earns:",
+    "options": {
+      "A": "More than pre-disability earnings",
+      "B": "At least 90% of pre-disability earnings",
+      "C": "75% or less of pre-disability earnings",
+      "D": "Exactly 100% of pre-disability earnings"
+    },
+    "answer": "C",
+    "explanation": "Partial disability requires income to fall to 75% or less of pre-disability earnings, i.e. at least a 25% drop. Earning near or above the old salary would not qualify.",
+    "calc": false
+  },
+  {
+    "id": "h4-q08",
+    "conceptId": "h4-08",
+    "stem": "For recurrent disability from the same cause, most insurers waive the deferred period if relapse occurs within about:",
+    "options": {
+      "A": "30 days",
+      "B": "90 days",
+      "C": "365 days",
+      "D": "180 days"
+    },
+    "answer": "D",
+    "explanation": "A relapse from the same cause within roughly 180 days is treated as a continuation, so the deferred/elimination period is waived and payments resume immediately.",
+    "calc": false
+  },
+  {
+    "id": "h4-q09",
+    "conceptId": "h4-09",
+    "stem": "Which combination of features will LOWER the premium of a Disability Income policy?",
+    "options": {
+      "A": "Shorter deferred period and longer benefit period",
+      "B": "Shorter deferred period and shorter benefit period",
+      "C": "Longer deferred period and shorter benefit period",
+      "D": "Longer deferred period and longer benefit period"
+    },
+    "answer": "C",
+    "explanation": "A longer deferred period delays payout and a shorter benefit period limits payout duration, both reducing the premium. Shortening the deferred period or lengthening the benefit period raises cost.",
+    "calc": false
+  },
+  {
+    "id": "h4-q10",
+    "conceptId": "h4-10",
+    "stem": "Which of the following would generally make an insured INELIGIBLE for disability benefit payment?",
+    "options": {
+      "A": "Being between jobs when disabled",
+      "B": "Keeping the policy in force",
+      "C": "Being disabled past the deferred period",
+      "D": "Residing outside Singapore beyond about six months"
+    },
+    "answer": "D",
+    "explanation": "Residing overseas beyond roughly six months breaches eligibility. Being between jobs is expressly allowed, and remaining disabled past the deferred period is a condition FOR payment.",
+    "calc": false
+  },
+  {
+    "id": "h4-q11",
+    "conceptId": "h4-14",
+    "stem": "Under the Limitation of Disability Benefit Clause, which of the following is EXCLUDED from reducing the monthly benefit?",
+    "options": {
+      "A": "Continuing salary from the insured's occupation",
+      "B": "Work Injury Compensation payments",
+      "C": "Benefits from another disability income policy",
+      "D": "TPD benefits under a Life policy"
+    },
+    "answer": "D",
+    "explanation": "TPD benefits under Life policies are excluded from the reduction, whereas Work Injury Compensation, continuing salary and other disability policies do reduce the benefit.",
+    "calc": false
+  },
+  {
+    "id": "h4-q12",
+    "conceptId": "h4-15",
+    "stem": "Which statement about the features of a Disability Income Insurance policy is correct?",
+    "options": {
+      "A": "Benefits are taxable as income",
+      "B": "It has a surrender value and can be assigned",
+      "C": "It can be issued as a third-party policy",
+      "D": "It has no surrender value, cannot be assigned, and its benefits are non-taxable"
+    },
+    "answer": "D",
+    "explanation": "The policy has no surrender value, cannot be assigned, is not a third-party policy, and its benefits are non-taxable, with a 30-day grace period. Assignability and taxability are the tempting wrong statements.",
+    "calc": false
+  },
+  {
+    "id": "h4-q13",
+    "conceptId": "h4-16",
+    "stem": "A self-employed applicant for Disability Income Insurance is typically asked to provide the Notice of Assessment or audited accounts covering how many years?",
+    "options": {
+      "A": "Six years",
+      "B": "Two years",
+      "C": "Three years",
+      "D": "One year"
+    },
+    "answer": "C",
+    "explanation": "Self-employed applicants provide three years of Notice of Assessment or audited accounts. Salaried employees typically provide six months of CPF statements or a Notice of Assessment.",
+    "calc": false
+  },
+  {
+    "id": "h4-q14",
+    "conceptId": "h4-17",
+    "stem": "Under occupation rating for Disability Income Insurance, musicians and authors are typically classified as:",
+    "options": {
+      "A": "Decline (uninsurable)",
+      "B": "Class I (standard rating)",
+      "C": "Class III (light skilled manual)",
+      "D": "Class IV (semi/unskilled manual)"
+    },
+    "answer": "A",
+    "explanation": "Musicians and authors fall under Decline (uninsurable) due to variable income and risk profile. Class I is reserved for sedentary indoor professions like accountants and doctors.",
+    "calc": false
+  },
+  {
+    "id": "h4-q15",
+    "conceptId": "h4-18",
+    "stem": "A pregnancy-related disability under a Disability Income policy is generally payable only if the disability:",
+    "options": {
+      "A": "Continues more than 90 days after termination of the pregnancy",
+      "B": "Is diagnosed within 31 days of delivery",
+      "C": "Results in inability to do one ADL",
+      "D": "Occurs during the pregnancy itself"
+    },
+    "answer": "A",
+    "explanation": "Pregnancy-related disability pays only if it persists more than 90 days after the pregnancy ends, deemed to start at day 90. Disability during the pregnancy itself is excluded.",
+    "calc": false
+  },
+  {
+    "id": "h4-q16",
+    "conceptId": "h4-19",
+    "stem": "Insurers usually issue Group Disability Income Insurance only if the employer already holds which policy with them?",
+    "options": {
+      "A": "A Work Injury Compensation policy",
+      "B": "An Integrated Shield Plan",
+      "C": "A Group Hospital and Surgical policy",
+      "D": "A Group Term Life Insurance policy"
+    },
+    "answer": "D",
+    "explanation": "A Group Term Life Insurance policy is a prerequisite; Group DII is issued alongside it or as a rider to it. A Group H&S policy is not the stated precondition.",
+    "calc": false
+  },
+  {
+    "id": "h4-q17",
+    "conceptId": "h4-20",
+    "stem": "For a Disability Income claim, the insured must typically notify the insurer within how many days of the disability's commencement?",
+    "options": {
+      "A": "30 days",
+      "B": "60 days",
+      "C": "90 days",
+      "D": "180 days"
+    },
+    "answer": "B",
+    "explanation": "The DII claim notification example is within 60 days of commencement. Note this contrasts with Medical Expense Insurance's 90-day notification window.",
+    "calc": false
+  },
+  {
+    "id": "h4-calc-01",
+    "conceptId": "h4-03",
+    "stem": "A salaried employee earned an average of S$6,000 per month over the 12 months before disability. Applying the standard maximum income-replacement ceiling, what is the highest monthly benefit an insurer would normally allow?",
+    "options": {
+      "A": "S$3,000",
+      "B": "S$4,500",
+      "C": "S$6,000",
+      "D": "S$3,600"
+    },
+    "answer": "B",
+    "explanation": "The maximum is 75% of S$6,000, which is S$4,500. S$3,600 wrongly uses 60% (the self-employed rate) and S$6,000 wrongly assumes full replacement.",
+    "calc": true
+  },
+  {
+    "id": "h4-calc-02",
+    "conceptId": "h4-11",
+    "stem": "Larry earned S$8,000 a month before disability and received a total disability benefit of S$6,000. He later takes a job paying S$1,000 a month. Using the partial disability formula, what monthly benefit will the insurer now pay?",
+    "options": {
+      "A": "S$4,500",
+      "B": "S$5,250",
+      "C": "S$5,000",
+      "D": "S$6,000"
+    },
+    "answer": "B",
+    "explanation": "Benefit = (8,000 minus 1,000) / 8,000 x 6,000 = 7/8 x 6,000 = S$5,250. Adding his S$1,000 pay gives S$6,250 total, still below his original S$8,000. S$6,000 ignores the partial reduction.",
+    "calc": true
+  },
+  {
+    "id": "h4-calc-03",
+    "conceptId": "h4-12",
+    "stem": "Eddy is insured for a monthly benefit of S$6,000 with a 3% per annum escalation benefit. After one full year of continuous disability, what is his escalated monthly benefit?",
+    "options": {
+      "A": "S$6,000",
+      "B": "S$6,180",
+      "C": "S$6,300",
+      "D": "S$6,060"
+    },
+    "answer": "B",
+    "explanation": "3% of S$6,000 is S$180, so the escalated benefit is S$6,000 plus S$180 = S$6,180. S$6,300 wrongly applies 5%, and S$6,000 forgets to escalate.",
+    "calc": true
+  },
+  {
+    "id": "h5-q01",
+    "conceptId": "h5-01",
+    "stem": "How does Long-Term Care (LTC) Insurance interact with other health policies such as MediShield Life and Critical Illness Insurance?",
+    "options": {
+      "A": "It only pays if the others have been exhausted",
+      "B": "It pays in addition to them",
+      "C": "It reduces their payouts proportionally",
+      "D": "It replaces them entirely"
+    },
+    "answer": "B",
+    "explanation": "LTC Insurance pays in ADDITION to policies like MediShield Life, Hospital Income and Critical Illness cover, meeting care costs those policies generally exclude. It is not a replacement or a top-up-only benefit.",
+    "calc": false
+  },
+  {
+    "id": "h5-q02",
+    "conceptId": "h5-03",
+    "stem": "Which describes a 'disability-based' LTC policy?",
+    "options": {
+      "A": "It reimburses actual home-care costs only",
+      "B": "It pays only when the insured uses a covered care service",
+      "C": "It pays a pre-agreed amount for each service used",
+      "D": "It pays when the insured meets a disability trigger such as advanced dementia or significant ADL loss"
+    },
+    "answer": "D",
+    "explanation": "A disability-based policy pays on a disability trigger (advanced dementia, significant ADL limitation, loss of intellectual capacity) regardless of service used. Service-based policies instead pay when covered services are used.",
+    "calc": false
+  },
+  {
+    "id": "h5-q03",
+    "conceptId": "h5-05",
+    "stem": "Which of the following is one of the six Activities of Daily Living used in LTC assessment?",
+    "options": {
+      "A": "Transferring",
+      "B": "Shopping",
+      "C": "Managing finances",
+      "D": "Cooking"
+    },
+    "answer": "A",
+    "explanation": "The six ADLs are washing, dressing, feeding, toileting, mobility and transferring. Cooking, shopping and managing finances are instrumental activities, not the six ADLs.",
+    "calc": false
+  },
+  {
+    "id": "h5-q04",
+    "conceptId": "h5-06",
+    "stem": "For advanced dementia to qualify under LTC Insurance, it must arise from:",
+    "options": {
+      "A": "Any stress-related condition",
+      "B": "An organic disorder such as Alzheimer's",
+      "C": "A temporary post-surgery confusion",
+      "D": "Neurosis or a psychiatric illness"
+    },
+    "answer": "B",
+    "explanation": "Advanced dementia must stem from an organic cause such as Alzheimer's or an irreversible organic disorder. Neurosis and psychiatric illness are expressly excluded.",
+    "calc": false
+  },
+  {
+    "id": "h5-q05",
+    "conceptId": "h5-07",
+    "stem": "The standard deferred period before LTC benefits become payable, measured from the first day of continuous inability to perform ADLs, is:",
+    "options": {
+      "A": "90 days",
+      "B": "180 days",
+      "C": "60 days",
+      "D": "30 days"
+    },
+    "answer": "A",
+    "explanation": "Most LTC insurers apply a 90-day deferred period so that short-term post-hospital dependence does not trigger a claim.",
+    "calc": false
+  },
+  {
+    "id": "h5-q06",
+    "conceptId": "h5-08",
+    "stem": "The small death benefit under an LTC policy is typically indicated at S$5,000 up to a maximum of:",
+    "options": {
+      "A": "Three times the LTC monthly benefit",
+      "B": "Six times the LTC monthly benefit",
+      "C": "The full sum assured",
+      "D": "Ten times the LTC monthly benefit"
+    },
+    "answer": "B",
+    "explanation": "The LTC death benefit is small, indicatively S$5,000 up to six times the monthly benefit, and cover ceases once it is paid.",
+    "calc": false
+  },
+  {
+    "id": "h5-q07",
+    "conceptId": "h5-10",
+    "stem": "ElderShield was first introduced in 2002 as ESH300. What monthly payout and maximum duration did ESH300 provide?",
+    "options": {
+      "A": "S$600 for life",
+      "B": "S$300 for up to 72 months",
+      "C": "S$400 for up to 72 months",
+      "D": "S$300 for up to 60 months"
+    },
+    "answer": "D",
+    "explanation": "ESH300 paid S$300 per month for up to 60 months (5 years). The S$400 for 72 months figure belongs to the 2007 ESH400 upgrade.",
+    "calc": false
+  },
+  {
+    "id": "h5-q08",
+    "conceptId": "h5-10",
+    "stem": "Following the 2007 review, ElderShield 400 (ESH400) paid a monthly benefit of:",
+    "options": {
+      "A": "S$400 for up to 72 months",
+      "B": "S$400 for up to 60 months",
+      "C": "S$600 for up to 72 months",
+      "D": "S$300 for up to 60 months"
+    },
+    "answer": "A",
+    "explanation": "ESH400 paid S$400 per month for up to 72 months (6 years). ESH300 was the earlier S$300 for 60 months version.",
+    "calc": false
+  },
+  {
+    "id": "h5-q09",
+    "conceptId": "h5-11",
+    "stem": "From which date did the Government take over the administration of ElderShield from private insurers?",
+    "options": {
+      "A": "1 January 2020",
+      "B": "1 November 2021",
+      "C": "1 October 2020",
+      "D": "1 December 2021"
+    },
+    "answer": "B",
+    "explanation": "The Government took over ElderShield administration from 1 November 2021. The 1 October 2020 date is when CareShield Life and MediSave Care launched.",
+    "calc": false
+  },
+  {
+    "id": "h5-q10",
+    "conceptId": "h5-12",
+    "stem": "Auto-enrolment ages differ between the two schemes. ElderShield auto-enrolled eligible persons at what age, and CareShield Life at what age?",
+    "options": {
+      "A": "ElderShield 40, CareShield Life 30",
+      "B": "ElderShield 30, CareShield Life 40",
+      "C": "Both at age 30",
+      "D": "Both at age 40"
+    },
+    "answer": "A",
+    "explanation": "ElderShield auto-enrolled at age 40; CareShield Life auto-enrols at age 30. Swapping the two ages is the trap.",
+    "calc": false
+  },
+  {
+    "id": "h5-q11",
+    "conceptId": "h5-13",
+    "stem": "What is the ADL trigger for claiming under ElderShield?",
+    "options": {
+      "A": "Inability to perform one of the six ADLs",
+      "B": "Inability to perform all six ADLs",
+      "C": "Inability to perform three of the six ADLs",
+      "D": "Inability to perform two of the six ADLs"
+    },
+    "answer": "C",
+    "explanation": "An ElderShield claim requires an MOH-accredited assessor to certify inability to perform three of the six ADLs. This same 3-of-6 trigger applies to CareShield Life and MediSave Care.",
+    "calc": false
+  },
+  {
+    "id": "h5-q12",
+    "conceptId": "h5-13",
+    "stem": "The cost of a severe disability assessment for an ElderShield claim is S$100 for a clinic assessment and how much for a house call?",
+    "options": {
+      "A": "S$150",
+      "B": "S$300",
+      "C": "S$200",
+      "D": "S$250"
+    },
+    "answer": "D",
+    "explanation": "A house-call assessment costs S$250 versus S$100 at a clinic; the full fee is reimbursed with the first payout if the person is assessed as severely disabled.",
+    "calc": false
+  },
+  {
+    "id": "h5-q13",
+    "conceptId": "h5-14",
+    "stem": "CareShield Life officially launched on which date?",
+    "options": {
+      "A": "1 November 2021",
+      "B": "1 December 2021",
+      "C": "1 January 2020",
+      "D": "1 October 2020"
+    },
+    "answer": "D",
+    "explanation": "CareShield Life launched on 1 October 2020. 1 November 2021 is when the Government took over ElderShield administration.",
+    "calc": false
+  },
+  {
+    "id": "h5-q14",
+    "conceptId": "h5-15",
+    "stem": "CareShield Life pay-outs started at what monthly amount in 2020, increasing annually until age 67 or a successful claim?",
+    "options": {
+      "A": "S$300",
+      "B": "S$600",
+      "C": "S$400",
+      "D": "S$500"
+    },
+    "answer": "B",
+    "explanation": "CareShield Life pay-outs began at S$600 per month in 2020, rising annually until age 67 or a successful claim, and are paid for the entire duration of disability. S$400 is the ESH400 figure.",
+    "calc": false
+  },
+  {
+    "id": "h5-q15",
+    "conceptId": "h5-15",
+    "stem": "A distinguishing feature of CareShield Life compared with ElderShield is that its pay-outs are:",
+    "options": {
+      "A": "Capped at 72 months",
+      "B": "Paid only as a one-time lump sum",
+      "C": "Made for the entire duration the insured remains severely disabled",
+      "D": "Capped at 60 months"
+    },
+    "answer": "C",
+    "explanation": "CareShield Life pays for life as long as the insured stays severely disabled, unlike ElderShield's capped 60 or 72 month terms. It is not a lump-sum benefit.",
+    "calc": false
+  },
+  {
+    "id": "h5-q16",
+    "conceptId": "h5-18",
+    "stem": "Under MediSave Care, what is the maximum monthly cash withdrawal, and what minimum MediSave balance is required to qualify for that maximum?",
+    "options": {
+      "A": "S$150 per month, balance of S$15,000 or more",
+      "B": "S$200 per month, balance of S$20,000 or more",
+      "C": "S$200 per month, balance of S$10,000 or more",
+      "D": "S$300 per month, balance of S$20,000 or more"
+    },
+    "answer": "B",
+    "explanation": "The maximum MediSave Care withdrawal is S$200 per month, available only with a balance of S$20,000 or more. A balance below S$5,000 means no withdrawal is available.",
+    "calc": false
+  },
+  {
+    "id": "h5-q17",
+    "conceptId": "h5-16",
+    "stem": "For those born 1979 or earlier who join CareShield Life, the participation incentive of up to S$3,000 is available if they join by:",
+    "options": {
+      "A": "31 December 2023",
+      "B": "31 December 2024",
+      "C": "31 December 2025",
+      "D": "31 December 2021"
+    },
+    "answer": "B",
+    "explanation": "The up-to-S$3,000 incentive, spread over 10 years, applies to those joining by 31 December 2024. 31 December 2023 was the opt-out deadline for certain 1970-1979 cohorts, not the incentive date.",
+    "calc": false
+  },
+  {
+    "id": "h5-q18",
+    "conceptId": "h5-19",
+    "stem": "ElderFund is a discretionary scheme specifically for lower-income Singapore Citizens aged 30 and above with severe disability who:",
+    "options": {
+      "A": "Are NOT eligible for CareShield Life, ElderShield or IDAPE",
+      "B": "Are covered by CareShield Life",
+      "C": "Hold an Integrated Shield Plan",
+      "D": "Are still working full-time"
+    },
+    "answer": "A",
+    "explanation": "ElderFund targets those NOT eligible for CareShield Life, ElderShield or IDAPE, paying S$150 or S$250 per month. Existing CareShield Life or ElderShield policyholders are not eligible.",
+    "calc": false
+  },
+  {
+    "id": "h5-q19",
+    "conceptId": "h5-20",
+    "stem": "The Migrant Domestic Worker (MDW) Levy Concession for caring for a person with disability requires that the care recipient needs help with at least:",
+    "options": {
+      "A": "Three of the six ADLs",
+      "B": "Two of the six ADLs",
+      "C": "Four of the six ADLs",
+      "D": "One of the six ADLs"
+    },
+    "answer": "D",
+    "explanation": "The MDW Levy Concession needs help with at least 1 ADL, lowering the levy to S$60 per month. Schemes like PioneerDAS and the Home Caregiving Grant require 3 of 6 ADLs.",
+    "calc": false
+  },
+  {
+    "id": "h5-calc-01",
+    "conceptId": "h5-10",
+    "stem": "A policyholder receiving ElderShield 400 remains severely disabled for the full maximum benefit term. What is the total amount he receives over that period?",
+    "options": {
+      "A": "S$24,000",
+      "B": "S$21,600",
+      "C": "S$18,000",
+      "D": "S$28,800"
+    },
+    "answer": "D",
+    "explanation": "ESH400 pays S$400 per month for up to 72 months: S$400 x 72 = S$28,800. S$18,000 wrongly uses the ESH300 figures (S$300 x 60).",
+    "calc": true
+  },
+  {
+    "id": "h5-calc-02",
+    "conceptId": "h5-10",
+    "stem": "Under ElderShield 300, if a claimant draws the benefit for the full maximum duration, what total payout does he receive?",
+    "options": {
+      "A": "S$28,800",
+      "B": "S$15,000",
+      "C": "S$18,000",
+      "D": "S$21,600"
+    },
+    "answer": "C",
+    "explanation": "ESH300 pays S$300 per month for up to 60 months: S$300 x 60 = S$18,000. S$28,800 is the ESH400 total (S$400 x 72).",
+    "calc": true
+  },
+  {
+    "id": "h6-q01",
+    "conceptId": "h6-01",
+    "stem": "The original product now known as Critical Illness Insurance was first marketed under a different name and covered only a handful of conditions. Which set of conditions did that original product cover?",
+    "options": {
+      "A": "Cancer, Stroke, Multiple Sclerosis and Parkinson's Disease",
+      "B": "Stroke, Heart Attack, Diabetes and Alzheimer's Disease",
+      "C": "Cancer, Stroke, Heart Attack and Coronary Artery Bypass",
+      "D": "Cancer, Kidney Failure, Blindness and Major Burns"
+    },
+    "answer": "C",
+    "explanation": "The product was originally called Dread Disease Insurance and covered exactly four conditions: Cancer, Stroke, Heart Attack and Coronary Artery Bypass. The list of covered illnesses expanded greatly over time."
+  },
+  {
+    "id": "h6-q02",
+    "conceptId": "h6-02",
+    "stem": "Under the LIA Critical Illness Framework 2019, how many severe critical illnesses have standardised common definitions, and what does LIA standardise?",
+    "options": {
+      "A": "30 conditions, with LIA defining all stages of severity",
+      "B": "36 conditions, with each insurer free to define the severe stage",
+      "C": "37 conditions, with LIA defining only the severe stage",
+      "D": "37 conditions, with LIA defining every stage from early to severe"
+    },
+    "answer": "C",
+    "explanation": "The industry standardises common definitions for 37 severe critical illnesses. LIA defines only the severe stage; insurers set their own definitions for mildly to moderately severe or extremely severe stages and for conditions not on the list."
+  },
+  {
+    "id": "h6-q03",
+    "conceptId": "h6-04",
+    "stem": "A survival period requirement, where the life insured must stay alive for a set time after a critical illness occurs before the benefit is paid, applies to which type of critical illness cover?",
+    "options": {
+      "A": "Every stand-alone CI policy without exception",
+      "B": "The Acceleration Benefit type of CI cover only",
+      "C": "The Additional Benefit type of CI cover only",
+      "D": "Only Multiple Pay CI plans"
+    },
+    "answer": "C",
+    "explanation": "The survival period applies only to the Additional Benefit type of CI cover. The waiting period, by contrast, applies to CI cover generally and relates to timing of diagnosis after policy commencement."
+  },
+  {
+    "id": "h6-q04",
+    "conceptId": "h6-05",
+    "stem": "If a person is found to suffer a critical illness before or during the waiting period of a stand-alone CI policy, what does the insurer do?",
+    "options": {
+      "A": "Pays the full sum assured but terminates the policy",
+      "B": "Voids the policy and refunds the premiums paid",
+      "C": "Keeps the policy in force but excludes that one condition",
+      "D": "Pays half the sum assured as a goodwill gesture"
+    },
+    "answer": "B",
+    "explanation": "The waiting period prevents anti-selection. A CI diagnosed before or during the waiting period is not covered, so the insurer voids the policy and refunds premiums paid rather than paying any benefit."
+  },
+  {
+    "id": "h6-q05",
+    "conceptId": "h6-06",
+    "stem": "For a claim under the Major Cancer definition of a traditional CI policy, which of the following would NOT meet the definition?",
+    "options": {
+      "A": "A sarcoma with destruction of surrounding normal tissue",
+      "B": "A lymphoma with uncontrolled growth of malignant cells",
+      "C": "A carcinoma-in-situ classified as Tis with no invasion of normal tissue",
+      "D": "A malignant tumour with histological confirmation and invasion of tissue"
+    },
+    "answer": "C",
+    "explanation": "Major Cancer requires a malignant tumour with invasion and destruction of normal tissue. Pre-malignant, non-invasive and carcinoma-in-situ (Tis/Ta) classifications are specifically excluded, so an in-situ cancer with no invasion does not qualify."
+  },
+  {
+    "id": "h6-q06",
+    "conceptId": "h6-08",
+    "stem": "A S$200,000 Whole Life policy has a 50% Acceleration Benefit CI rider. The insured is diagnosed with a covered CI. What is paid on diagnosis, and what remains for a later death claim?",
+    "options": {
+      "A": "S$200,000 paid on CI, and the policy pays nothing further on death",
+      "B": "S$200,000 paid on CI, with S$200,000 plus bonuses paid on later death",
+      "C": "S$100,000 paid on CI, with S$200,000 paid on later death",
+      "D": "S$100,000 paid on CI, with S$100,000 plus bonuses paid on later death"
+    },
+    "answer": "D",
+    "explanation": "With acceleration the CI payout is taken out of the basic sum assured. Fifty per cent of S$200,000 is S$100,000 paid on CI, leaving S$100,000 plus bonuses for a later death or TPD claim. Total never exceeds the basic sum assured plus bonuses."
+  },
+  {
+    "id": "h6-q07",
+    "conceptId": "h6-09",
+    "stem": "A S$100,000 Whole Life policy carries a S$200,000 Additional Benefit CI rider. The insured suffers a covered CI and later dies. What is the total amount paid out?",
+    "options": {
+      "A": "S$200,000",
+      "B": "S$300,000",
+      "C": "S$100,000",
+      "D": "S$150,000"
+    },
+    "answer": "B",
+    "explanation": "An Additional Benefit rider pays on top of the basic policy without reducing it. The rider pays S$200,000 on CI and the S$100,000 basic sum assured is still paid on death, for a total of S$300,000."
+  },
+  {
+    "id": "h6-q08",
+    "conceptId": "h6-10",
+    "stem": "Which statement best describes a Severity-Based (Early Pay) CI plan compared to a traditional severe-only CI plan?",
+    "options": {
+      "A": "It pays a fixed daily cash amount regardless of the severity of illness",
+      "B": "It pays only the full sum assured but at a cheaper premium than a severe-only plan",
+      "C": "It pays only on the severe stage but allows unlimited repeated claims for free",
+      "D": "It pays a percentage of the sum assured at each stage of illness and is more expensive than a severe-only plan"
+    },
+    "answer": "D",
+    "explanation": "Severity-Based CI pays a percentage of the sum assured at early, intermediate and severe stages, allows claims at an earlier stage and more than once, and is more expensive than a traditional severe-only CI plan."
+  },
+  {
+    "id": "h6-q09",
+    "conceptId": "h6-11",
+    "stem": "Which type of CI plan allows a second and subsequent claim, including for relapse or recurrence, subject to applicable waiting periods?",
+    "options": {
+      "A": "A Multiple Pay CI plan",
+      "B": "A stand-alone Term CI policy",
+      "C": "Any Additional Benefit CI rider",
+      "D": "A traditional Acceleration Benefit CI plan"
+    },
+    "answer": "A",
+    "explanation": "Only Multiple Pay CI plans pay out more than once, including for relapse or recurrence. Traditional and acceleration CI plans allow only one claim."
+  },
+  {
+    "id": "h6-q10",
+    "conceptId": "h6-12",
+    "stem": "A CI plan that covers mental illness typically pays a lump sum on diagnosis of a listed condition. How many mental illness conditions are covered and how does the payout compare to the original CI amount?",
+    "options": {
+      "A": "Seven conditions, paying a fixed daily benefit while hospitalised",
+      "B": "Ten conditions, paying the full original CI amount each time",
+      "C": "Five conditions, paying a reduced sum subject to a maximum benefit per life",
+      "D": "Three conditions, paying the full original CI amount once only"
+    },
+    "answer": "C",
+    "explanation": "Mental illness cover is limited to exactly five conditions (Major Depressive Disorders, Schizophrenia, Bipolar Disorder, OCD and Tourette Syndrome) and pays a reduced sum, not the full original CI amount, subject to a maximum benefit per life."
+  },
+  {
+    "id": "h6-q11",
+    "conceptId": "h6-13",
+    "stem": "As a rule of thumb for adequacy, how many years of income should critical illness coverage aim to support the insured's standard of living, after taking debt into account?",
+    "options": {
+      "A": "At least four years of income",
+      "B": "Exactly one year of income",
+      "C": "At least ten years of income",
+      "D": "At least twenty years of income"
+    },
+    "answer": "A",
+    "explanation": "The adequacy guideline is at least four years of income, so the net coverage supports the insured's standard of living for four years while also allowing for recovery expenses and dependents."
+  },
+  {
+    "id": "h6-q12",
+    "conceptId": "h6-07",
+    "stem": "Which of the following CI arrangements does NOT acquire any cash value and therefore has no non-forfeiture option?",
+    "options": {
+      "A": "A CI benefit packaged into an Endowment policy",
+      "B": "Any CI cover attached to a participating Whole Life plan",
+      "C": "A stand-alone Term CI policy or a CI rider",
+      "D": "A CI benefit packaged into a Whole Life policy"
+    },
+    "answer": "C",
+    "explanation": "A stand-alone Term CI policy and a CI rider do not accumulate cash value, so no non-forfeiture option exists. Only CI packaged into Whole Life or Endowment policies builds cash value."
+  },
+  {
+    "id": "h6-q13",
+    "conceptId": "h6-16",
+    "stem": "How does Group CI Insurance differ from individual CI cover with respect to expiry age?",
+    "options": {
+      "A": "Group CI always specifies an expiry age even for Additional Benefit cover",
+      "B": "Group CI has an expiry age only for Acceleration Benefit cover",
+      "C": "Group CI never has an expiry age for any type of cover",
+      "D": "Group CI is always whole-of-life with no expiry age"
+    },
+    "answer": "A",
+    "explanation": "Group CI Insurance always specifies an expiry age (for example 75 years) regardless of whether it is Acceleration or Additional Benefit cover, unlike some individual whole-life CI arrangements."
+  },
+  {
+    "id": "h6-q14",
+    "conceptId": "h6-15",
+    "stem": "How does the non-medical limit for underwriting CI compare with that for Life Insurance?",
+    "options": {
+      "A": "The two limits are always identical",
+      "B": "The non-medical limit for CI is higher than for Life Insurance",
+      "C": "CI has no non-medical limit at all",
+      "D": "The non-medical limit for CI is lower than for Life Insurance"
+    },
+    "answer": "D",
+    "explanation": "CI underwriting is basically the same as for Life Insurance except that the non-medical limit for CI is lower, and generally only standard and sub-standard risks up to a medium rating can be accepted."
+  },
+  {
+    "id": "h7-q01",
+    "conceptId": "h7-01",
+    "stem": "How does a Hospital Cash (Hospital Income) benefit interact with a person's MediShield Life and Integrated Shield Plan payouts?",
+    "options": {
+      "A": "It is only paid if MediShield Life declines the claim",
+      "B": "It is offset against those plans so there is no double recovery",
+      "C": "It reimburses the actual hospital bill up to a daily cap",
+      "D": "It is paid on top of those plans, unrelated to actual hospitalisation costs"
+    },
+    "answer": "D",
+    "explanation": "Hospital Cash pays a fixed daily amount independent of actual costs and is paid on top of all other health insurance including MediShield Life, Integrated Shield Plans and Group H&S schemes."
+  },
+  {
+    "id": "h7-q02",
+    "conceptId": "h7-03",
+    "stem": "Under a typical Hospital Cash policy, when does a waiting period apply?",
+    "options": {
+      "A": "For injury, but not for illness",
+      "B": "For both illness and accidental injury equally",
+      "C": "For neither, since the plan has no waiting period at all",
+      "D": "For illness, but not for injury caused directly by an accident"
+    },
+    "answer": "D",
+    "explanation": "There is no waiting period for injury caused directly and independently by an accident, but a waiting period applies for illness. Pre-existing conditions are permanently excluded."
+  },
+  {
+    "id": "h7-q03",
+    "conceptId": "h7-04",
+    "stem": "Which feature is characteristic of a stand-alone Hospital Cash plan rather than a basic rider version?",
+    "options": {
+      "A": "Double or triple daily payment for ICU or overseas or accident-related stays",
+      "B": "Coverage of pre-existing conditions from day one",
+      "C": "Reimbursement of the actual itemised hospital bill",
+      "D": "A guaranteed level premium that never changes with age"
+    },
+    "answer": "A",
+    "explanation": "Stand-alone Hospital Cash plans offer enhanced multiples such as double or triple payment for ICU stays or accident or overseas hospitalisation, along with other extras. Premiums still rise by age-band on renewal."
+  },
+  {
+    "id": "h7-q04",
+    "conceptId": "h7-06",
+    "stem": "What does Maternity Insurance typically NOT cover?",
+    "options": {
+      "A": "The usual cost of giving birth where no complications arise",
+      "B": "Medical expenses for covered complications of pregnancy",
+      "C": "Congenital illnesses of the newborn",
+      "D": "Hospitalisation income for the mother during a covered complication"
+    },
+    "answer": "A",
+    "explanation": "Maternity Insurance covers complications of pregnancy and birth but excludes the usual cost of a normal, complication-free childbirth including its pre- and post-hospitalisation bills."
+  },
+  {
+    "id": "h7-q05",
+    "conceptId": "h7-07",
+    "stem": "Which description matches the basic structure of Maternity Insurance?",
+    "options": {
+      "A": "An annually renewable policy with a guaranteed cash surrender value",
+      "B": "A regular-premium whole life policy with cash value",
+      "C": "A single-premium term policy valid for three years with no cash value and no assignment",
+      "D": "A single-premium policy valid for the mother's lifetime"
+    },
+    "answer": "C",
+    "explanation": "Maternity Insurance is a single-premium term policy valid for three years from the start date, has no cash value, allows no assignment, and covers mother and child from as early as the 13th week of pregnancy."
+  },
+  {
+    "id": "h7-q06",
+    "conceptId": "h7-09",
+    "stem": "Under Travel Insurance, who decides whether an emergency medical evacuation should take place?",
+    "options": {
+      "A": "The airline operating the return flight",
+      "B": "The travel agent who sold the trip",
+      "C": "The insured person alone, at their own discretion",
+      "D": "The attending doctor or the insurer's contracted specialist company"
+    },
+    "answer": "D",
+    "explanation": "Evacuation is arranged when local medical services are inadequate. The decision rests with the attending doctor or the insurer's contracted specialist company reached through the 24-hour hotline, not the insured."
+  },
+  {
+    "id": "h7-q07",
+    "conceptId": "h7-10",
+    "stem": "How is Group Dental Care Insurance usually offered?",
+    "options": {
+      "A": "As a stand-alone individual policy requiring full medical underwriting",
+      "B": "As a rider to a Group Hospital and Surgical policy, without underwriting",
+      "C": "Only as part of MediShield Life",
+      "D": "As a compulsory government scheme for all employees"
+    },
+    "answer": "B",
+    "explanation": "Group Dental Care Insurance is issued as a rider to a Group Hospital and Surgical policy, is offered without underwriting, and covers only actively-at-work employees."
+  },
+  {
+    "id": "h7-q08",
+    "conceptId": "h7-11",
+    "stem": "What is the purpose of the Limitation Clause found in Group Dental Care Insurance?",
+    "options": {
+      "A": "To limit dental treatment to only the cheapest available clinics",
+      "B": "To exclude all cover once an employee reaches age 40",
+      "C": "To cap the number of employees that can be covered under the policy",
+      "D": "To reduce reimbursements by amounts claimable from other sources, preventing double recovery"
+    },
+    "answer": "D",
+    "explanation": "The Limitation Clause co-ordinates benefits by reducing payouts by amounts claimable under Work Injury Compensation, any government or public dental programme, or any other group or individual Health or Dental policy."
+  },
+  {
+    "id": "h7-calc-01",
+    "conceptId": "h7-02",
+    "stem": "Harry holds a Hospital Cash plan paying S$100 per day, capped at 180 days per hospitalisation and 1,000 days per lifetime, with a lifetime balance of 1,000 days still available. He is hospitalised for one continuous stay of 200 days. How much is paid for this stay?",
+    "options": {
+      "A": "S$18,000",
+      "B": "S$20,000",
+      "C": "S$100,000",
+      "D": "S$14,000"
+    },
+    "answer": "A",
+    "explanation": "The per-hospitalisation cap of 180 days applies even though 200 days were spent in hospital. 180 days x S$100 = S$18,000. The 20 days beyond the per-hospitalisation cap are not paid.",
+    "calc": true
+  },
+  {
+    "id": "h8-q01",
+    "conceptId": "h8-01",
+    "stem": "What form of Managed Healthcare (MHC) insurance is available in Singapore?",
+    "options": {
+      "A": "Both individual and group MHC insurance",
+      "B": "Neither; MHC is illegal in Singapore",
+      "C": "Only Group MHC insurance",
+      "D": "Only individual MHC insurance"
+    },
+    "answer": "C",
+    "explanation": "Locally, only Group MHC insurance is available, often bought by employers as part of an Employee Benefit package and as an alternative to Group H&S plans. Individual MHC is not offered."
+  },
+  {
+    "id": "h8-q02",
+    "conceptId": "h8-02",
+    "stem": "Managed Healthcare contains and controls healthcare expenditure by managing which three components?",
+    "options": {
+      "A": "Accessibility, quality of care and geographic reach",
+      "B": "Accessibility, cost and quality of care",
+      "C": "Accessibility, cost and speed of treatment",
+      "D": "Cost, quality of care and premium size"
+    },
+    "answer": "B",
+    "explanation": "MHC manages three components: accessibility, cost and quality of care, achieved partly through a negotiated healthcare provider network."
+  },
+  {
+    "id": "h8-q03",
+    "conceptId": "h8-03",
+    "stem": "In most MHC plans, what is the role of the Primary Care Physician (PCP)?",
+    "options": {
+      "A": "A specialist who performs all surgeries for the member",
+      "B": "An administrator who only processes claims",
+      "C": "A gatekeeper whose referral is needed before a member sees a specialist",
+      "D": "A physician the member may never change once assigned"
+    },
+    "answer": "C",
+    "explanation": "The PCP is the member's first contact and personal physician. A referral from the PCP is usually required before seeing a specialist, so PCPs are called gatekeepers. Members are allowed to change their PCPs."
+  },
+  {
+    "id": "h8-q04",
+    "conceptId": "h8-04",
+    "stem": "Which MHC payment method pays the provider a fixed pre-paid amount per member each month regardless of how much the member uses services?",
+    "options": {
+      "A": "Fee Schedule",
+      "B": "Capitation",
+      "C": "Discounted-Fee-For-Service",
+      "D": "Salary"
+    },
+    "answer": "B",
+    "explanation": "Capitation is a fixed pre-paid amount per member, usually monthly, regardless of usage. A Fee Schedule instead caps the dollar amount reimbursed per procedure."
+  },
+  {
+    "id": "h8-q05",
+    "conceptId": "h8-05",
+    "stem": "Among managed care arrangements, which is generally the MOST restrictive with the lowest choice of provider?",
+    "options": {
+      "A": "Preferred Provider Organisation (PPO)",
+      "B": "Traditional Medical Expense Insurance",
+      "C": "Health Maintenance Organisation (HMO)",
+      "D": "Point-of-Service (POS) plan"
+    },
+    "answer": "C",
+    "explanation": "The HMO offers the greatest cost control but the lowest choice of provider, requiring care from network providers and a PCP referral for specialists, making it the most restrictive type."
+  },
+  {
+    "id": "h8-q06",
+    "conceptId": "h8-06",
+    "stem": "Which statement about a Preferred Provider Organisation (PPO) is correct?",
+    "options": {
+      "A": "A member does not need to choose a PCP or obtain a referral to see a specialist",
+      "B": "A member is never covered for any out-of-network care",
+      "C": "A PPO offers the least choice of provider of all plans",
+      "D": "A member must always get a PCP referral before seeing a specialist"
+    },
+    "answer": "A",
+    "explanation": "A PPO does not require selecting a PCP or getting referrals. It gives financial incentives to use network providers but is less restrictive than an HMO, though it usually involves greater out-of-pocket payments."
+  },
+  {
+    "id": "h8-q07",
+    "conceptId": "h8-07",
+    "stem": "A Point-of-Service (POS) plan is best described as which of the following?",
+    "options": {
+      "A": "A plan identical to an HMO with no out-of-network coverage at all",
+      "B": "A hybrid combining an HMO-style referral requirement with PPO-style out-of-network coverage at higher cost",
+      "C": "Traditional Medical Expense Insurance with no cost control",
+      "D": "A plan identical to a PPO with no PCP and no referrals"
+    },
+    "answer": "B",
+    "explanation": "A POS plan combines features of both: like an HMO it needs an in-network PCP and referrals, and like a PPO it still covers out-of-network care but at higher cost to the member."
+  },
+  {
+    "id": "h8-q08",
+    "conceptId": "h8-08",
+    "stem": "Ordering arrangements from greatest cost control to greatest choice of provider, which sequence is correct?",
+    "options": {
+      "A": "PPO, HMO, POS, then Traditional Medical Expense Insurance",
+      "B": "HMO, POS, PPO, then Traditional Medical Expense Insurance",
+      "C": "POS, HMO, Traditional Medical Expense Insurance, then PPO",
+      "D": "Traditional Medical Expense Insurance, PPO, POS, then HMO"
+    },
+    "answer": "B",
+    "explanation": "By decreasing cost control and increasing provider choice the order is HMO, POS, PPO, then Traditional Medical Expense Insurance, which has no cost control and no access restriction."
+  },
+  {
+    "id": "h8-q09",
+    "conceptId": "h8-09",
+    "stem": "Under an MHC Insurance plan, who typically needs to file a claim with the insurer?",
+    "options": {
+      "A": "No member ever files a claim under any circumstances",
+      "B": "Only members who use in-network care",
+      "C": "All members, whether in-network or out-of-network",
+      "D": "Only members who use out-of-network care"
+    },
+    "answer": "D",
+    "explanation": "In-network care is settled directly between the MHCO and the providers, so in-network members do not file claims. Only out-of-network members must submit a claim with the claimant's statement and original itemised bill."
+  },
+  {
+    "id": "h9-q01",
+    "conceptId": "h9-01",
+    "stem": "Which ward classes attract heavy government subsidies, and roughly what proportion of public hospital beds do they represent?",
+    "options": {
+      "A": "Class B2 and C, about 81% of public hospital beds",
+      "B": "Class B2 and C, about 20% of public hospital beds",
+      "C": "Class A and B1, about half of public hospital beds",
+      "D": "Class A and B1, about 81% of public hospital beds"
+    },
+    "answer": "A",
+    "explanation": "Class B2 and C admissions make up about 81% of public hospital beds and are heavily subsidised (50% to 80% for Singapore Citizens). Class A and B1 patients receive little to no subsidy."
+  },
+  {
+    "id": "h9-q02",
+    "conceptId": "h9-03",
+    "stem": "With effect from November 2019, how did eligibility for the Community Health Assist Scheme (CHAS) change?",
+    "options": {
+      "A": "It was expanded to include all Singapore Citizens regardless of income",
+      "B": "It was extended to cover all Permanent Residents",
+      "C": "It was restricted to Pioneer Generation seniors only",
+      "D": "It was closed to new applicants entirely"
+    },
+    "answer": "A",
+    "explanation": "From November 2019 CHAS was expanded to include all Singapore Citizens regardless of income, with card colours (Blue, Orange, Green) indicating the subsidy tier."
+  },
+  {
+    "id": "h9-q03",
+    "conceptId": "h9-04",
+    "stem": "MediShield Life claim limits are designed to fully cover how many subsidised bills, and for which ward class in particular?",
+    "options": {
+      "A": "7 in 10 subsidised bills, for private hospital stays",
+      "B": "9 in 10 subsidised bills, for Class B2/C ward hospitalisation",
+      "C": "10 in 10 subsidised bills, for Class A ward hospitalisation",
+      "D": "9 in 10 subsidised bills, for Class B1 ward hospitalisation"
+    },
+    "answer": "B",
+    "explanation": "MediShield Life is sized to cover 9 in 10 subsidised bills for Class B2/C ward hospitalisation, day surgeries and selected costly outpatient treatments. Those wanting higher-ward or private cover need an Integrated Shield Plan."
+  },
+  {
+    "id": "h9-q04",
+    "conceptId": "h9-05",
+    "stem": "Under MediShield Life, an Additional Premium applies to which policyholders, and at what rate and duration?",
+    "options": {
+      "A": "Those with any pre-existing condition, at 50% for the first 5 years",
+      "B": "Those with serious pre-existing conditions listed by MOH, at 30% for the first 10 years",
+      "C": "Permanent Residents only, at 30% for the first 3 years",
+      "D": "All policyholders above age 65, at 30% for life"
+    },
+    "answer": "B",
+    "explanation": "Only those with serious pre-existing conditions listed by MOH pay an Additional Premium of 30% for the first 10 years of coverage, on top of standard premiums. Everyone else pays standard premiums."
+  },
+  {
+    "id": "h9-q05",
+    "conceptId": "h9-06",
+    "stem": "The MediShield Life premium subsidy for lower- to middle-income households provides up to what percentage of premiums for Singapore Citizens?",
+    "options": {
+      "A": "Up to 50% of premiums",
+      "B": "Up to 30% of premiums",
+      "C": "Up to 75% of premiums",
+      "D": "Up to 100% of premiums"
+    },
+    "answer": "A",
+    "explanation": "Income-based premium subsidies provide up to 50% of premiums for eligible lower- to middle-income Singapore Citizens; Permanent Residents receive half the Singapore Citizen subsidy."
+  },
+  {
+    "id": "h9-q06",
+    "conceptId": "h9-07",
+    "stem": "A person receiving Additional Premium Support (APS) for MediShield Life would LOSE that support if they do what?",
+    "options": {
+      "A": "Purchase an Integrated Shield Plan or an ElderShield/CareShield Life Supplement",
+      "B": "Move to a heavily subsidised Class C ward",
+      "C": "Apply for a CHAS card",
+      "D": "Continue to pay their standard MediShield Life premiums by MediSave"
+    },
+    "answer": "A",
+    "explanation": "APS covers outstanding premiums plus the next two years' premiums, but a person loses APS if they buy an Integrated Shield Plan or an ElderShield/CareShield Life Supplement, since these signal ability to afford additional cover."
+  },
+  {
+    "id": "h9-q07",
+    "conceptId": "h9-08",
+    "stem": "In the MediShield Life claim process, when is pro-ration applied to a Class A/B1 or private hospital bill?",
+    "options": {
+      "A": "Only after the maximum annual claim limit is reached",
+      "B": "After the deductible and co-insurance have already been deducted",
+      "C": "Never; pro-ration applies only to outpatient bills",
+      "D": "Before the claim limits, deductible and co-insurance are applied, reducing the bill to the Class B2/C equivalent"
+    },
+    "answer": "D",
+    "explanation": "Higher-ward and private bills are pro-rated down to the equivalent Class B2/C level first, before claim limits, deductible and co-insurance are applied. This ensures comparable payouts for subsidised and private patients."
+  },
+  {
+    "id": "h9-q08",
+    "conceptId": "h9-09",
+    "stem": "According to Appendix 9B (updated April 2024), what is the MediShield Life daily claim limit for a Normal Ward and the maximum claim limit per policy year?",
+    "options": {
+      "A": "S$700 per day and S$150,000 per policy year",
+      "B": "S$700 per day and S$100,000 per policy year",
+      "C": "S$800 per day and S$100,000 per policy year",
+      "D": "S$800 per day and S$150,000 per policy year"
+    },
+    "answer": "D",
+    "explanation": "Appendix 9B (April 2024) gives the Normal Ward daily limit as S$800 per day and the maximum claim limit as S$150,000 per policy year with no lifetime limit. An older worked example used S$700 per day, but the appendix figure is authoritative."
+  },
+  {
+    "id": "h9-q09",
+    "conceptId": "h9-10",
+    "stem": "Under MediShield Life, the co-insurance rate applied to the claimable amount accumulated within a policy year is tiered how?",
+    "options": {
+      "A": "A flat 10% on the entire claimable amount",
+      "B": "3% on the first S$5,000, 5% on the next S$5,000, and 10% above S$10,000",
+      "C": "5% on the first S$10,000 and 3% thereafter",
+      "D": "10% on the first S$5,000, 5% on the next S$5,000, and 3% above S$10,000"
+    },
+    "answer": "D",
+    "explanation": "Co-insurance decreases as the bill grows: 10% on the first S$5,000 (inclusive of the deductible), 5% on the next S$5,000, and 3% above S$10,000. Outpatient co-insurance is a flat 10%."
+  },
+  {
+    "id": "h9-q10",
+    "conceptId": "h9-11",
+    "stem": "Which of the following is NOT covered by MediShield Life for admissions on or after 1 March 2021?",
+    "options": {
+      "A": "Overseas medical treatment",
+      "B": "Kidney dialysis as an approved outpatient treatment",
+      "C": "Approved inpatient surgical procedures in a Class C ward",
+      "D": "Selected costly cancer drug treatments"
+    },
+    "answer": "A",
+    "explanation": "MediShield Life excludes overseas medical treatment, along with vaccination, ambulance services and expenses after the 7th day from being certified fit for discharge. It does cover local approved surgeries, dialysis and cancer drug treatments."
+  },
+  {
+    "id": "h9-q11",
+    "conceptId": "h9-13",
+    "stem": "An Integrated Shield Plan (IP) is made up of two parts. What are they?",
+    "options": {
+      "A": "A MediSave component and a CareShield Life component",
+      "B": "Two independent private insurance components from two different insurers",
+      "C": "A CHAS component and a MediFund component",
+      "D": "A MediShield Life component administered by the CPF Board, plus an additional private insurance component"
+    },
+    "answer": "D",
+    "explanation": "An IP combines the MediShield Life component administered by the CPF Board with an additional private insurance component from an approved private insurer, typically covering Class A/B1 or private hospitals. There is one premium and one claim, with no duplication."
+  },
+  {
+    "id": "h9-q12",
+    "conceptId": "h9-14",
+    "stem": "For a person holding an Integrated Shield Plan, how are pre-existing conditions treated under the MediShield Life component?",
+    "options": {
+      "A": "They are covered only if the private insurer chooses to accept them",
+      "B": "They are excluded from both the MediShield Life and the private component",
+      "C": "They are covered only for the first 10 years of the plan",
+      "D": "They remain covered with lifelong protection even if excluded from the private component"
+    },
+    "answer": "D",
+    "explanation": "The MediShield Life component gives lifelong coverage and covers all pre-existing conditions, even if the private insurance component of the IP excludes that condition."
+  },
+  {
+    "id": "h9-q13",
+    "conceptId": "h9-16",
+    "stem": "The Standard Integrated Shield Plan targets which ward class, and how do its benefits compare across insurers?",
+    "options": {
+      "A": "Private hospitals, with benefits set independently by each insurer",
+      "B": "Class A, with benefits identical across insurers including premiums",
+      "C": "Class B1, with benefits regulated by MOH and identical across all IP insurers",
+      "D": "Class B2/C, with benefits that differ freely between insurers"
+    },
+    "answer": "C",
+    "explanation": "The Standard IP is a no-frills product covering large Class B1 ward bills, with benefits regulated by MOH and identical across all IP insurers. Premiums and underwriting, however, are still set by each insurer."
+  },
+  {
+    "id": "h9-q14",
+    "conceptId": "h9-18",
+    "stem": "For new Integrated Shield Plan riders introduced from 8 March 2018, what minimum co-payment is required, and can the rider premium be paid using MediSave?",
+    "options": {
+      "A": "At least 10% co-payment, and the rider is MediSave-payable up to the AWL",
+      "B": "No co-payment at all, and the rider is fully MediSave-payable",
+      "C": "At least 5% co-payment, and the rider is not MediSave-approved (cash only)",
+      "D": "At least 5% co-payment, and the rider is fully MediSave-payable"
+    },
+    "answer": "C",
+    "explanation": "New IP riders must have a co-payment of 5% or more, and riders are not MediSave-approved, so they can be paid in cash only. Full riders that covered the entire co-payment are no longer allowed."
+  },
+  {
+    "id": "h9-q15",
+    "conceptId": "h9-19",
+    "stem": "A policyholder switches their Integrated Shield Plan to a new insurer, then changes their mind. Within how many days can they revert to the previous insurer without re-underwriting?",
+    "options": {
+      "A": "Within 14 days of the termination notification",
+      "B": "Within 30 days of the termination notification",
+      "C": "Within 90 days of the termination notification",
+      "D": "Within 60 days of the termination notification"
+    },
+    "answer": "B",
+    "explanation": "Switching insurers triggers new underwriting, but there is a 30-day window from the termination notification to revert to the previous insurer with no re-underwriting, as if the first IP was never terminated."
+  },
+  {
+    "id": "h9-q16",
+    "conceptId": "h9-21",
+    "stem": "When was MediSave, the national health savings scheme under the CPF, introduced?",
+    "options": {
+      "A": "1 April 1984",
+      "B": "1 January 2009",
+      "C": "1 November 2015",
+      "D": "30 September 2002"
+    },
+    "answer": "A",
+    "explanation": "MediSave was introduced on 1 April 1984 as a mandatory national health savings scheme under the CPF. (1 November 2015 is when MediShield Life started, and September 2002 is when ElderShield launched.)"
+  },
+  {
+    "id": "h9-q17",
+    "conceptId": "h9-22",
+    "stem": "What happens to the Basic Healthcare Sum (BHS) once a CPF member reaches age 65?",
+    "options": {
+      "A": "It doubles automatically to fund old-age care",
+      "B": "It is reset to zero and rebuilt from scratch",
+      "C": "It continues to be raised every January like everyone else",
+      "D": "It is fixed for the rest of the member's life and no longer adjusted"
+    },
+    "answer": "D",
+    "explanation": "The BHS is adjusted yearly in January only for members aged 65 and below that year. Once a member reaches age 65 the BHS is fixed for the rest of their life."
+  },
+  {
+    "id": "h9-q18",
+    "conceptId": "h9-23",
+    "stem": "Under the Chronic Disease Management Programme (CDMP), MediSave can pay for outpatient treatment of approved chronic conditions up to what annual limits?",
+    "options": {
+      "A": "S$300 for non-complex or S$500 for complex chronic conditions per patient per year",
+      "B": "S$500 for non-complex or S$700 for complex chronic conditions per patient per year",
+      "C": "A flat S$400 per patient per year regardless of complexity",
+      "D": "S$700 for non-complex or S$900 for complex chronic conditions per patient per year"
+    },
+    "answer": "B",
+    "explanation": "The MediSave500/700 limits allow up to S$500 for non-complex chronic conditions or S$700 for complex chronic conditions per patient per year for the 23 approved CDMP conditions."
+  },
+  {
+    "id": "h9-q19",
+    "conceptId": "h9-27",
+    "stem": "For an Integrated Shield Plan claim, the IP insurer computes the IP payout and the CPF Board independently computes the MediShield Life payout. What is the eventual payout?",
+    "options": {
+      "A": "The average of the two amounts",
+      "B": "The higher of the two computed amounts",
+      "C": "The sum of both amounts added together",
+      "D": "The lower of the two computed amounts"
+    },
+    "answer": "B",
+    "explanation": "To avoid duplication, the eventual payout is the higher of the IP benefit and the MediShield Life benefit, not the sum. The MOH claims order is third party or employer first, then MediShield Life/IP, then MediSave, then cash."
+  },
+  {
+    "id": "h9-q20",
+    "conceptId": "h9-28",
+    "stem": "How does ElderShield differ from MediShield Life in terms of enrolment?",
+    "options": {
+      "A": "Both are voluntary opt-in schemes",
+      "B": "ElderShield is an opt-out scheme, whereas MediShield Life is compulsory",
+      "C": "ElderShield is compulsory, whereas MediShield Life is opt-out",
+      "D": "Both are compulsory with automatic enrolment"
+    },
+    "answer": "B",
+    "explanation": "Unlike compulsory MediShield Life, ElderShield is an opt-out scheme. ElderShield became a closed scheme from 1 August 2021, with the Government taking over administration from 1 November 2021."
+  },
+  {
+    "id": "h9-q21",
+    "conceptId": "h9-29",
+    "stem": "To qualify for an ElderShield payout, the insured must be unable to perform at least how many of the six Activities of Daily Living (ADLs)?",
+    "options": {
+      "A": "All six of the ADLs",
+      "B": "At least three of the six ADLs",
+      "C": "At least two of the six ADLs",
+      "D": "At least one of the six ADLs"
+    },
+    "answer": "B",
+    "explanation": "ElderShield (like CareShield Life) pays when the insured cannot perform at least three of the six ADLs: Washing, Dressing, Feeding, Toileting, Mobility and Transferring."
+  },
+  {
+    "id": "h9-q22",
+    "conceptId": "h9-29",
+    "stem": "In ElderShield, how do the waiting period and the deferment period differ?",
+    "options": {
+      "A": "The waiting period runs from the claim date, while the deferment period runs from commencement",
+      "B": "The waiting period runs 90 days from commencement, while the deferment period runs 90 days from the claim date",
+      "C": "Both run from the date cover commences",
+      "D": "Both run from the date the claim is received by the AIC"
+    },
+    "answer": "B",
+    "explanation": "The waiting period is 90 days from commencement (disability in the first 90 days terminates the policy with premiums refunded), while the deferment period is 90 days from the claim date, after which the benefit is payable if the insured is still disabled."
+  },
+  {
+    "id": "h9-q23",
+    "conceptId": "h9-31",
+    "stem": "What is the entry age range for ElderShield?",
+    "options": {
+      "A": "Minimum entry age 40, maximum entry age 64",
+      "B": "Minimum entry age 30, no maximum entry age",
+      "C": "Minimum entry age 50, maximum entry age 70",
+      "D": "Minimum entry age 21, maximum entry age 55"
+    },
+    "answer": "A",
+    "explanation": "ElderShield has a minimum entry age of 40 and a maximum entry age of 64, with a 75-day grace period and a 60-day free-look period. CareShield Life, by contrast, covers from age 30."
+  },
+  {
+    "id": "h9-q24",
+    "conceptId": "h9-32",
+    "stem": "CareShield Life is compulsory for Singapore Citizens and PRs born in which years, and from what age are they automatically covered?",
+    "options": {
+      "A": "Born 1979 or earlier, covered automatically from age 40",
+      "B": "Born 1990 or later, covered automatically from age 21",
+      "C": "Born 1970 or earlier, covered automatically from age 65",
+      "D": "Born 1980 or later, covered automatically from age 30"
+    },
+    "answer": "D",
+    "explanation": "CareShield Life is universal and compulsory for those born in 1980 or later, who are automatically covered on their 30th birthday or the October 2020 launch, whichever is later. Those born 1979 or earlier may opt in."
+  },
+  {
+    "id": "h9-q25",
+    "conceptId": "h9-33",
+    "stem": "How does the payout duration of CareShield Life compare with that of ElderShield?",
+    "options": {
+      "A": "Both schemes pay for the insured's entire lifetime with no cap",
+      "B": "CareShield Life pays for a maximum of 60 months, like ElderShield300",
+      "C": "CareShield Life pays for as long as severe disability persists with no duration cap, unlike ElderShield's 60 or 72-month limits",
+      "D": "CareShield Life pays for a maximum of 72 months, the same as ElderShield400"
+    },
+    "answer": "C",
+    "explanation": "CareShield Life pays at least S$600 per month for as long as the insured has severe disability, with no cap on payout duration. ElderShield, by contrast, is capped at 60 months (ElderShield300) or 72 months (ElderShield400)."
+  },
+  {
+    "id": "h9-q26",
+    "conceptId": "h9-35",
+    "stem": "To qualify for the Pioneer Generation Package, a Singaporean must have been born on or before which date and obtained citizenship by which date?",
+    "options": {
+      "A": "Born between 1960 and 1973 and a citizen on or before 31 December 1996",
+      "B": "Born on or before 31 December 1949 and a citizen on or before 31 December 1986",
+      "C": "Born on or before 31 December 1959 and a citizen on or before 31 December 1986",
+      "D": "Born between 1950 and 1959 and a citizen on or before 31 December 1996"
+    },
+    "answer": "B",
+    "explanation": "Pioneer Generation members were aged 16 and above in 1965 (born on or before 31 December 1949) and obtained citizenship on or before 31 December 1986. Those born 1950 to 1959 fall under the Merdeka Generation."
+  },
+  {
+    "id": "h9-q27",
+    "conceptId": "h9-36",
+    "stem": "How much of the remaining subsidised bill at polyclinics and SOCs do Merdeka Generation seniors receive off, compared with Pioneer Generation seniors?",
+    "options": {
+      "A": "Merdeka gets an additional 50% off, while Pioneer gets an additional 25% off",
+      "B": "Merdeka gets an additional 25% off, while Pioneer gets an additional 50% off",
+      "C": "Both get an additional 25% off",
+      "D": "Both get an additional 50% off"
+    },
+    "answer": "B",
+    "explanation": "Merdeka Generation seniors receive an additional 25% off remaining subsidised bills at polyclinics and SOCs, whereas Pioneer Generation seniors receive an additional 50% off."
+  },
+  {
+    "id": "h9-q28",
+    "conceptId": "h9-38",
+    "stem": "IDAPE (Interim Disability Assistance Programme for the Elderly) provides a monthly payout for up to 72 months. What are the payout amounts by per capita household income (PCHI)?",
+    "options": {
+      "A": "S$600 per month regardless of PCHI",
+      "B": "S$250 per month for PCHI up to S$2,000, or S$150 per month for PCHI S$2,001 to S$2,800",
+      "C": "S$300 per month for PCHI up to S$2,000, or S$250 per month for PCHI S$2,001 to S$2,800",
+      "D": "S$400 per month for PCHI up to S$2,000, or S$300 per month for PCHI S$2,001 to S$2,800"
+    },
+    "answer": "B",
+    "explanation": "From 1 July 2013, IDAPE pays S$250 per month (up to 72 months) for PCHI of S$0 to S$2,000, and S$150 per month for PCHI of S$2,001 to S$2,800. These amounts are lower than ElderShield payouts."
+  },
+  {
+    "id": "h9-q29",
+    "conceptId": "h9-39",
+    "stem": "ElderFund is a discretionary assistance scheme. Who is its target group and what is the maximum monthly amount?",
+    "options": {
+      "A": "Any citizen regardless of income or disability, up to S$1,000 per month",
+      "B": "Lower-income Singapore Citizens aged 30 and older with severe disability who cannot benefit from CareShield Life, ElderShield or IDAPE, up to S$250 per month",
+      "C": "Permanent Residents with severe disability, up to S$400 per month",
+      "D": "All Singapore Citizens aged 65 and older, up to S$600 per month"
+    },
+    "answer": "B",
+    "explanation": "ElderFund is a discretionary safety net for lower-income Singapore Citizens aged 30 and older with severe disability who fall outside CareShield Life, ElderShield and IDAPE, providing up to S$250 per month."
+  },
+  {
+    "id": "h9-q30",
+    "conceptId": "h9-40",
+    "stem": "MediFund is the final safety net in Singapore's healthcare financing. Which statement about how it is funded and disbursed is correct?",
+    "options": {
+      "A": "It is an endowment fund from which only the interest income is disbursed, after subsidies, MediShield Life and MediSave",
+      "B": "It is funded by MediShield Life premiums and pays before MediSave is used",
+      "C": "It disburses both the capital and interest to any applicant on request",
+      "D": "It is a private insurance fund that pays before government subsidies apply"
+    },
+    "answer": "A",
+    "explanation": "MediFund is an endowment fund; only the interest income from the capital sum is allocated to approved institutions. It is the final safety net after government subsidies, MediShield Life and MediSave, and applicants must be subsidised Singapore Citizen patients."
+  },
+  {
+    "id": "h9-q31",
+    "conceptId": "h9-17",
+    "stem": "The MediShield Life component of an IP premium is fully MediSave-payable. For the additional private insurance component, MediSave use is capped by the Additional Withdrawal Limit (AWL). What is the AWL for an insured aged 55 (Age Next Birthday)?",
+    "options": {
+      "A": "S$600 per policy year",
+      "B": "S$900 per policy year",
+      "C": "No limit; the whole component is MediSave-payable",
+      "D": "S$300 per policy year"
+    },
+    "answer": "A",
+    "explanation": "The AWL by Age Next Birthday is S$300 (up to 40), S$600 (41 to 70), and S$900 (71 and above). An insured aged 55 falls in the 41 to 70 band, so the AWL is S$600 per policy year, with any excess paid in cash."
+  },
+  {
+    "id": "h9-q32",
+    "conceptId": "h9-24",
+    "stem": "For an inpatient hospital stay, the MediSave daily withdrawal limit for ward and treatment charges is set at which amounts?",
+    "options": {
+      "A": "Up to S$550 per day for the first two days, then S$400 per day thereafter",
+      "B": "Up to S$800 per day for every day of the stay",
+      "C": "Up to S$300 per day for every day of the stay",
+      "D": "Up to S$400 per day for the first two days, then S$550 per day thereafter"
+    },
+    "answer": "A",
+    "explanation": "The MediSave inpatient daily limit is up to S$550 per day for the first two days and S$400 per day thereafter. Day surgery has a separate limit of up to S$300 per day."
+  },
+  {
+    "id": "h9-q33",
+    "conceptId": "h9-34",
+    "stem": "CareShield Life offers means-tested premium subsidies of up to what percentage of base premiums for lower- to middle-income households?",
+    "options": {
+      "A": "Up to 10% of base premiums",
+      "B": "Up to 30% of base premiums",
+      "C": "Up to 75% of base premiums",
+      "D": "Up to 50% of base premiums"
+    },
+    "answer": "B",
+    "explanation": "CareShield Life provides means-tested premium subsidies of up to 30% of base premiums. This contrasts with the MediShield Life income-based subsidy of up to 50% of premiums."
+  },
+  {
+    "id": "h9-q34",
+    "conceptId": "h9-33",
+    "stem": "For CareShield Life, how long must a member pay premiums, and how long do they remain insured?",
+    "options": {
+      "A": "Premiums for life, and insured for life",
+      "B": "Premiums until age 67 or for 10 years, whichever is shorter, and insured until age 67",
+      "C": "Premiums until age 67 or for 10 years, whichever is longer, but insured for life",
+      "D": "Premiums for exactly 5 years, and insured for 60 months only"
+    },
+    "answer": "C",
+    "explanation": "CareShield Life members pay premiums until the year they reach age 67 or for 10 years, whichever is longer, but remain insured for life."
+  },
+  {
+    "id": "h9-q35",
+    "conceptId": "h9-26",
+    "stem": "Which of these premiums are FULLY payable by MediSave without a withdrawal limit?",
+    "options": {
+      "A": "ElderShield/CareShield Life Supplements and IP riders",
+      "B": "Integrated Shield Plan private components and IP riders",
+      "C": "MediShield Life and ElderShield/CareShield Life premiums",
+      "D": "IP riders only"
+    },
+    "answer": "C",
+    "explanation": "MediShield Life and ElderShield/CareShield Life premiums are fully payable by MediSave. Integrated Shield Plans and ElderShield/CareShield Life Supplements are subject to withdrawal limits, and IP riders are cash-only."
+  },
+  {
+    "id": "h9-q36",
+    "conceptId": "h9-37",
+    "stem": "The Majulah Package targets Young Seniors born in which years?",
+    "options": {
+      "A": "Born 1960 to 1973",
+      "B": "Born on or before 1949",
+      "C": "Born 1950 to 1959",
+      "D": "Born 1974 to 1985"
+    },
+    "answer": "A",
+    "explanation": "The Majulah Package (introduced 2023) targets Young Seniors born 1960 to 1973, extended to all Singapore Citizens born in 1973 or earlier, and includes Earn and Save, Retirement Savings and MediSave Bonus components."
+  },
+  {
+    "id": "h9-calc-01",
+    "conceptId": "h9-09",
+    "stem": "A Singapore Citizen aged 62 is admitted to a Class B2 ward for 10 days. Daily ward and treatment charges are S$1,000 per day (S$10,000 total), with no surgery. Using Appendix 9B figures (Normal Ward limit S$800/day, deductible S$2,000, co-insurance 10%/5%/3%), how much does MediShield Life pay?",
+    "options": {
+      "A": "S$5,000",
+      "B": "S$6,000",
+      "C": "S$7,200",
+      "D": "S$5,550"
+    },
+    "answer": "D",
+    "explanation": "Claimable is capped at S$800 x 10 = S$8,000 (lower than the S$10,000 actual). Less the S$2,000 deductible leaves S$6,000. Co-insurance: the first S$5,000 band less deductible is S$3,000 at 10% = S$300; the remaining S$3,000 (from S$5,000 to S$8,000) at 5% = S$150; total S$450. Payout = S$8,000 - S$2,000 - S$450 = S$5,550.",
+    "calc": true
+  },
+  {
+    "id": "h9-calc-02",
+    "conceptId": "h9-08",
+    "stem": "A Singapore Citizen aged 60 stays in a Class A ward (pro-ration factor 35%). Normal-ward charges are S$1,500 per day for 10 days (S$15,000 actual), no surgery. Using Appendix 9B figures (S$800/day limit, deductible S$2,000, co-insurance tiers 10%/5%/3%), what is the MediShield Life payout?",
+    "options": {
+      "A": "S$5,250",
+      "B": "S$2,937.50",
+      "C": "S$3,250",
+      "D": "S$4,725"
+    },
+    "answer": "B",
+    "explanation": "Pro-rate first: 35% of S$15,000 = S$5,250, which is below the ward limit of S$800 x 10 = S$8,000, so claimable is S$5,250. Less the S$2,000 deductible leaves S$3,250. Co-insurance on the amount above the deductible: S$3,000 sits in the first S$5,000 band at 10% = S$300, and the remaining S$250 (from S$5,000 to S$5,250) at 5% = S$12.50, total S$312.50. Payout = S$5,250 - S$2,000 - S$312.50 = S$2,937.50.",
+    "calc": true
+  },
+  {
+    "id": "h9-calc-03",
+    "conceptId": "h9-10",
+    "stem": "A patient's MediShield Life claimable amount (after any pro-ration, before deductible) totals S$12,000 for the policy year. The deductible is S$2,000 (Class B2, age below 80). Applying the co-insurance tiers of 10%/5%/3%, what is the total co-insurance the patient bears?",
+    "options": {
+      "A": "S$550",
+      "B": "S$1,000",
+      "C": "S$610",
+      "D": "S$360"
+    },
+    "answer": "C",
+    "explanation": "Co-insurance is applied to the claimable amount above the deductible, split by band. First S$5,000 band less deductible S$2,000 = S$3,000 at 10% = S$300; next S$5,000 (S$5,000 to S$10,000) at 5% = S$250; above S$10,000 is S$12,000 - S$10,000 = S$2,000 at 3% = S$60. Total co-insurance = S$300 + S$250 + S$60 = S$610.",
+    "calc": true
+  },
+  {
+    "id": "h9-calc-04",
+    "conceptId": "h9-33",
+    "stem": "A CareShield Life policyholder is assessed as severely disabled and receives the base payout of S$600 per month. Ignoring any annual increase, how much does she receive over 8 months of continuous severe disability?",
+    "options": {
+      "A": "S$4,800",
+      "B": "S$6,000",
+      "C": "S$5,400",
+      "D": "S$3,600"
+    },
+    "answer": "A",
+    "explanation": "CareShield Life pays at least S$600 per month for as long as severe disability persists. Over 8 months: S$600 x 8 = S$4,800.",
+    "calc": true
+  },
+  {
+    "id": "h9-calc-05",
+    "conceptId": "h9-24",
+    "stem": "A member is hospitalised for 5 days. The ward and treatment charges portion of his bill is S$3,000. Applying only the MediSave inpatient daily limits (S$550 per day for the first two days, S$400 per day thereafter), what is the maximum he may withdraw from MediSave for these daily charges?",
+    "options": {
+      "A": "S$3,000",
+      "B": "S$2,000",
+      "C": "S$2,750",
+      "D": "S$2,300"
+    },
+    "answer": "D",
+    "explanation": "First two days at S$550 = S$1,100; remaining three days at S$400 = S$1,200; total limit = S$2,300. This is below the S$3,000 charges, so the withdrawal is capped at S$2,300 and the balance is paid by cash or other means.",
+    "calc": true
+  },
+  {
+    "id": "h9-calc-06",
+    "conceptId": "h9-18",
+    "stem": "A patient with an Integrated Shield Plan rider requiring a minimum 5% co-payment (co-payment cap S$3,000 per policy year) receives panel, pre-authorised treatment costing S$40,000. What is the patient's co-payment?",
+    "options": {
+      "A": "S$2,000",
+      "B": "S$3,000",
+      "C": "S$4,000",
+      "D": "S$0"
+    },
+    "answer": "A",
+    "explanation": "The minimum 5% co-payment on S$40,000 is S$2,000, which is below the S$3,000 cap. So the patient pays S$2,000. The cap only bites once 5% of the bill exceeds S$3,000 (that is, bills above S$60,000).",
+    "calc": true
+  },
+  {
+    "id": "h9-calc-07",
+    "conceptId": "h9-17",
+    "stem": "The additional private insurance component of an IP premium is S$1,000 for an insured aged 55 (Age Next Birthday). Given the AWL of S$600 for the 41 to 70 age band, how much of this component is payable by MediSave and how much in cash?",
+    "options": {
+      "A": "S$400 by MediSave and S$600 in cash",
+      "B": "S$300 by MediSave and S$700 in cash",
+      "C": "S$600 by MediSave and S$400 in cash",
+      "D": "S$1,000 fully by MediSave and S$0 in cash"
+    },
+    "answer": "C",
+    "explanation": "For an insured aged 55, the AWL is S$600. MediSave pays up to the AWL of S$600, and the excess of S$1,000 - S$600 = S$400 must be paid in cash.",
+    "calc": true
+  },
+  {
+    "id": "h9-calc-08",
+    "conceptId": "h9-28",
+    "stem": "A claimant under ElderShield400 receives the full monthly benefit for the entire maximum payout period. What is the total maximum amount payable under ElderShield400?",
+    "options": {
+      "A": "S$18,000",
+      "B": "S$24,000",
+      "C": "S$28,800",
+      "D": "S$43,200"
+    },
+    "answer": "C",
+    "explanation": "ElderShield400 pays S$400 per month for up to 72 months. Maximum total = S$400 x 72 = S$28,800. (ElderShield300 pays S$300 x 60 = S$18,000.)",
+    "calc": true
+  },
+  {
+    "id": "h10-q01",
+    "conceptId": "h10-01",
+    "stem": "Which of the following is a standard section of a Health Insurance policy contract?",
+    "options": {
+      "A": "Actuarial Valuation Report",
+      "B": "Shareholders' Dividend Schedule",
+      "C": "Investment Performance Statement",
+      "D": "Insuring Clause and Definitions"
+    },
+    "answer": "D",
+    "explanation": "The standard sections include the Policy Schedule, Insuring Clause and Definitions, General Conditions, Benefit Provisions, Exclusions, Claim Conditions and Endorsements. The section order may vary by insurer."
+  },
+  {
+    "id": "h10-q02",
+    "conceptId": "h10-03",
+    "stem": "Under the definitions in a typical Health Insurance policy, an insured child is defined as being below what age, with an extension for full-time students?",
+    "options": {
+      "A": "Below 16 years, extended to 21 if in full-time education",
+      "B": "Below 18 years, extended to 21 if in full-time education",
+      "C": "Below 21 years, extended to 25 if in full-time recognised higher education",
+      "D": "Below 25 years, with no extension for students"
+    },
+    "answer": "C",
+    "explanation": "An insured child is defined as below 21 years old, or up to 25 if in full-time recognised higher education."
+  },
+  {
+    "id": "h10-q03",
+    "conceptId": "h10-04",
+    "stem": "Which of the following would NOT be considered medically necessary treatment?",
+    "options": {
+      "A": "A routine health screening ordered for preventive purposes",
+      "B": "Diagnosis of an illness using generally accepted medical practices",
+      "C": "Direct treatment of a diagnosed illness that is cost-effective",
+      "D": "Care consistent with current professional standards for a disability"
+    },
+    "answer": "A",
+    "explanation": "Medically necessary treatment excludes care for prevention, health screening or promoting good health. A doctor prescribing something does not by itself make it medically necessary."
+  },
+  {
+    "id": "h10-q04",
+    "conceptId": "h10-05",
+    "stem": "The definition of a pre-existing condition includes an objective element. What is it?",
+    "options": {
+      "A": "What a reasonable and sensible person would have done to get medical advice or treatment",
+      "B": "Whether treatment cost more than the policy deductible",
+      "C": "Whether the condition was listed by MOH as serious",
+      "D": "Whether the insurer's doctor personally examined the insured"
+    },
+    "answer": "A",
+    "explanation": "The test is not only what the insured actually knew but also what a reasonable and sensible person would have done to seek medical advice or treatment before the policy issue or reinstatement date."
+  },
+  {
+    "id": "h10-q05",
+    "conceptId": "h10-06",
+    "stem": "In Disability Income Insurance, the waiting period, during which benefits are not payable, is measured from what point and is also known by which name?",
+    "options": {
+      "A": "From the first ADL failure; also called the incontestability period",
+      "B": "From the onset of disability; also called the elimination or probationary period",
+      "C": "From the date of claim; also called the free-look period",
+      "D": "From policy issue; also called the deferred period"
+    },
+    "answer": "B",
+    "explanation": "In Disability Income Insurance the waiting period runs from the onset of disability and is called the elimination or probationary period. In Medical Expense Insurance it runs from policy issue (illness only); in Long-Term Care it runs from the first ADL failure (deferred period)."
+  },
+  {
+    "id": "h10-q06",
+    "conceptId": "h10-09",
+    "stem": "The general free-look period for a Health Insurance policy allows the owner to review and return it for a refund up to how many days from receipt, and within how many days is the document deemed received?",
+    "options": {
+      "A": "Up to 30 days from receipt; deemed received within 7 days of despatch",
+      "B": "Up to 14 days from receipt; deemed received within 7 days of despatch",
+      "C": "Up to 60 days from receipt; deemed received within 14 days of despatch",
+      "D": "Up to 14 days from receipt; deemed received within 14 days of despatch"
+    },
+    "answer": "B",
+    "explanation": "The general free-look period is up to 14 days from receipt, with the policy deemed received within 7 days of despatch. This differs from ElderShield and CareShield Life, which have a 60-day free-look period."
+  },
+  {
+    "id": "h10-q07",
+    "conceptId": "h10-11",
+    "stem": "For emergency overseas treatment that is covered, how much will the insurer pay?",
+    "options": {
+      "A": "The full actual overseas expenses regardless of local cost",
+      "B": "Always the Singapore-equivalent cost even if actual cost is lower",
+      "C": "A fixed daily allowance unrelated to the actual expenses",
+      "D": "The lower of the actual overseas expenses or the Singapore-equivalent reasonable expenses"
+    },
+    "answer": "D",
+    "explanation": "Both emergency and planned overseas treatment (where covered) pay the lower of the actual overseas cost or the reasonable expenses that would have been paid for equivalent treatment in a Singapore hospital."
+  },
+  {
+    "id": "h10-q08",
+    "conceptId": "h10-12",
+    "stem": "Under a Guaranteed Renewable basis, what is the ONLY reason the insurer may cancel the policy?",
+    "options": {
+      "A": "The insured changing to a more hazardous occupation",
+      "B": "The insurer deciding to exit the market",
+      "C": "Deterioration in the insured's health",
+      "D": "Non-payment of premium"
+    },
+    "answer": "D",
+    "explanation": "On a Guaranteed Renewable basis the insurer gives up the right to cancel or refuse renewal, and non-payment of premium is the only reason for cancellation. Premiums may still be increased, but only on a class basis."
+  },
+  {
+    "id": "h10-q09",
+    "conceptId": "h10-13",
+    "stem": "The general grace period to pay a renewal premium for most Health Insurance policies is how long?",
+    "options": {
+      "A": "14 days",
+      "B": "30 days",
+      "C": "75 days",
+      "D": "60 days"
+    },
+    "answer": "B",
+    "explanation": "The general grace period is 30 days for most policies, with coverage remaining in force during it. This contrasts with ElderShield's 75-day grace period."
+  },
+  {
+    "id": "h10-q10",
+    "conceptId": "h10-14",
+    "stem": "Under a Change of Occupation provision in a Disability Income policy, what happens if the insured moves to a MORE hazardous occupation?",
+    "options": {
+      "A": "The insurer may reduce the maximum benefit amount",
+      "B": "The policy is automatically cancelled",
+      "C": "The insurer must reduce the premium",
+      "D": "The insurer must increase the benefit amount"
+    },
+    "answer": "A",
+    "explanation": "Moving to a more hazardous occupation lets the insurer reduce the maximum benefit amount. Moving to a less hazardous occupation instead reduces the premium."
+  },
+  {
+    "id": "h10-q11",
+    "conceptId": "h10-14",
+    "stem": "The Co-ordination of Benefits (Over-insurance or Contribution) provision applies in which circumstance?",
+    "options": {
+      "A": "Only for death benefit claims",
+      "B": "Only when the insured has no other insurance at all",
+      "C": "Even if the insurer was not notified of the insured's other coverage",
+      "D": "Only if the insured disclosed all other coverage at application"
+    },
+    "answer": "C",
+    "explanation": "Co-ordination of Benefits prevents profiting from a claim and applies whether or not the insurer was notified of other coverage. The insurer may even demand return of benefits already paid if it later learns of other sources."
+  },
+  {
+    "id": "h10-q12",
+    "conceptId": "h10-15",
+    "stem": "Under the Last Payer Status provision in MediShield Life and Private IPs, what must the insured do before claiming?",
+    "options": {
+      "A": "First exhaust their entire MediSave balance",
+      "B": "First apply to MediFund for assistance",
+      "C": "First pay the full bill in cash and seek reimbursement later",
+      "D": "First claim from other medical insurance or employee benefits"
+    },
+    "answer": "D",
+    "explanation": "Last Payer Status means MediShield Life or a Private IP pays last. The insured must first claim from other medical insurance or employee benefits before claiming under MediShield Life or a Private IP."
+  },
+  {
+    "id": "h10-q13",
+    "conceptId": "h10-16",
+    "stem": "Under the Nomination of Beneficiaries framework, a Section 132 nomination (Trust/Irrevocable) has what effect on the policyowner?",
+    "options": {
+      "A": "The policyowner retains ownership and can change nominees freely",
+      "B": "The policyowner loses all ownership rights and needs all nominees' consent to revoke",
+      "C": "The policyowner may revoke only with the insurer's consent",
+      "D": "The policyowner keeps ownership but cannot borrow against the policy"
+    },
+    "answer": "B",
+    "explanation": "A Section 132 Trust/Irrevocable nomination means the policyowner loses all ownership rights and needs the written consent of all nominees to revoke. A Section 133 Revocable nomination lets the owner retain ownership and change nominees freely."
+  },
+  {
+    "id": "h10-q14",
+    "conceptId": "h10-17",
+    "stem": "The Policy Owners' Protection (PPF) Scheme is administered by which body, and how is coverage obtained?",
+    "options": {
+      "A": "The CPF Board, with automatic coverage",
+      "B": "The Agency for Integrated Care (AIC), by application",
+      "C": "The Singapore Deposit Insurance Corporation (SDIC), with automatic coverage",
+      "D": "The Monetary Authority of Singapore (MAS), by application"
+    },
+    "answer": "C",
+    "explanation": "The PPF Scheme is administered by the SDIC and coverage is automatic with no action needed by policy owners. MAS supervises insurers but does not guarantee individual institutions."
+  },
+  {
+    "id": "h10-q15",
+    "conceptId": "h10-19",
+    "stem": "Under the Claim Conditions of a policy, who bears the expense of submitting the required claim certificates, forms, bills and receipts?",
+    "options": {
+      "A": "The government, through MediFund",
+      "B": "The hospital, which absorbs all costs",
+      "C": "The policy owner, at his own expense",
+      "D": "The insurer, in every case"
+    },
+    "answer": "C",
+    "explanation": "The policy owner must, at his own expense, submit the certificates, forms, original bills, receipts and evidence required. Submission may be made electronically by a hospital or clinic via the MediClaim system."
+  },
+  {
+    "id": "h10-q16",
+    "conceptId": "h10-20",
+    "stem": "In the dispute resolution process for a Health Insurance claim, which body should a dispute be referred to FIRST, and within what time?",
+    "options": {
+      "A": "The High Court, within one year",
+      "B": "The Singapore International Arbitration Centre, within 30 days",
+      "C": "MAS, within 60 days",
+      "D": "FIDReC, within six months of the failure to reach agreement with the insurer"
+    },
+    "answer": "D",
+    "explanation": "A dispute should first go to the Financial Industry Disputes Resolution Centre (FIDReC), referred within six months of the failure to reach agreement. If it cannot be dealt with there it goes to arbitration under the SIAC, and only then to legal action."
+  },
+  {
+    "id": "h10-q17",
+    "conceptId": "h10-21",
+    "stem": "An endorsement on a Health Insurance policy can serve which of the following functions?",
+    "options": {
+      "A": "Either add optional benefits for an extra premium, or restrict coverage by excluding a condition",
+      "B": "Only cancel the entire policy",
+      "C": "Only change the identity of the insured",
+      "D": "Only add benefits, never restrict coverage"
+    },
+    "answer": "A",
+    "explanation": "An endorsement can add optional benefits (requiring an additional premium) or restrict coverage by excluding a specific pre-existing condition or activity. An exclusion endorsement can be a counter-offer that becomes binding once the insured signs and accepts."
+  },
+  {
+    "id": "h10-q18",
+    "conceptId": "h10-07",
+    "stem": "How does a Per Policy Year Limit differ from a Lifetime Limit in a Medical Expense Insurance policy?",
+    "options": {
+      "A": "The Per Policy Year Limit resets each year, while the Lifetime Limit is cumulative over the whole policy",
+      "B": "Both reset each year",
+      "C": "The Per Policy Year Limit is cumulative, while the Lifetime Limit resets each year",
+      "D": "Both are cumulative over the whole policy"
+    },
+    "answer": "A",
+    "explanation": "The Per Policy Year Limit is the maximum paid for eligible expenses in each policy year and resets annually. The Lifetime Limit is the maximum paid over the entire life of the policy and is cumulative."
+  },
+  {
+    "id": "h10-calc-01",
+    "conceptId": "h10-08",
+    "stem": "A Medical Expense Insurance plan entitles the insured to a standard B1 ward but he is admitted to a private hospital (pro-ration factor 35%). His total bill is S$24,000. The plan has an annual deductible of S$3,500 and 10% co-insurance. How much does the insurer pay?",
+    "options": {
+      "A": "S$3,910",
+      "B": "S$4,410",
+      "C": "S$8,400",
+      "D": "S$4,900"
+    },
+    "answer": "B",
+    "explanation": "Pro-rate first: 35% of S$24,000 = S$8,400. Less the S$3,500 deductible leaves S$4,900. Co-insurance is 10% x (S$8,400 - S$3,500) = S$490. Insurer pays S$8,400 - S$3,500 - S$490 = S$4,410. The insured bears the balance out of pocket.",
+    "calc": true
+  },
+  {
+    "id": "h11-q01",
+    "conceptId": "h11-01",
+    "stem": "Which measure is the PRIMARY consideration when pricing a Health Insurance policy?",
+    "options": {
+      "A": "Morbidity, the rate at which illness occurs within a group over time",
+      "B": "Mortality, the incidence of death within a group",
+      "C": "The insurer's target profit margin",
+      "D": "The persistency rate of the portfolio"
+    },
+    "answer": "A",
+    "explanation": "Health Insurance is priced on morbidity, the incidence of illness within a group over a period. Mortality is the measure used for Life Insurance."
+  },
+  {
+    "id": "h11-q02",
+    "conceptId": "h11-01",
+    "stem": "For most Health Insurance policies, why do women generally pay higher premium rates than men of the same age?",
+    "options": {
+      "A": "Women have a higher mortality rate than men",
+      "B": "Women, on average, have a higher morbidity rate and make more medical claims",
+      "C": "Regulations require insurers to cross-subsidise male policyholders",
+      "D": "Women tend to have poorer persistency than men"
+    },
+    "answer": "B",
+    "explanation": "On average the morbidity rate of women is higher and they make more medical claims, so they pay higher premiums for most Health Insurance products."
+  },
+  {
+    "id": "h11-q03",
+    "conceptId": "h11-02",
+    "stem": "What effect does investment income earned on premiums have on the price an insurer charges?",
+    "options": {
+      "A": "It increases premiums because the insurer must share returns",
+      "B": "It has no effect on premiums, only on shareholder profit",
+      "C": "It reduces the premiums the insurer needs to charge",
+      "D": "It only affects group plans, not individual plans"
+    },
+    "answer": "C",
+    "explanation": "Surplus premiums not needed for that year's claims are invested to earn more; this investment income is an additional source of funds that helps reduce premiums."
+  },
+  {
+    "id": "h11-q04",
+    "conceptId": "h11-06",
+    "stem": "A Health & Surgical plan is redesigned with a SMALLER deductible and SMALLER co-insurance. What is the effect on the premium?",
+    "options": {
+      "A": "The premium falls because the insured bears less",
+      "B": "The premium falls only for public hospital coverage",
+      "C": "The premium is unchanged since deductibles do not affect pricing",
+      "D": "The premium rises because the insurer bears more of each claim"
+    },
+    "answer": "D",
+    "explanation": "A smaller deductible and smaller co-insurance shift more of the claim cost to the insurer, so the premium rises. Larger deductibles and co-insurance lower the premium."
+  },
+  {
+    "id": "h11-q05",
+    "conceptId": "h11-09",
+    "stem": "An insurer chooses to reduce the number of health declarations on its proposal form to speed up sales. How does this affect the premium?",
+    "options": {
+      "A": "The premium is higher because the insurer takes on more unknown risk",
+      "B": "The premium is lower because underwriting costs fall",
+      "C": "The premium is unaffected because underwriting does not influence price",
+      "D": "The premium is lower only for younger applicants"
+    },
+    "answer": "A",
+    "explanation": "Doing minimal risk assessment means the insurer accepts more unknown risk, so it charges a higher premium to compensate."
+  },
+  {
+    "id": "h11-q06",
+    "conceptId": "h11-08",
+    "stem": "How does a more frequent premium payment mode (e.g. monthly versus annually) affect the total premium paid over a year?",
+    "options": {
+      "A": "It slightly lowers the total premium as a loyalty discount",
+      "B": "It slightly raises the total premium to recover billing costs and lost investment income",
+      "C": "It has no effect on the total premium",
+      "D": "It halves the total premium under a semi-annual mode"
+    },
+    "answer": "B",
+    "explanation": "More frequent payment slightly raises the total premium because the insurer must recover extra handling costs and the investment income lost from not receiving the full annual premium upfront."
+  },
+  {
+    "id": "h11-q07",
+    "conceptId": "h11-11",
+    "stem": "Which of the following Health Insurance premiums are based on AGE only and are NOT differentiated by gender?",
+    "options": {
+      "A": "Long-Term Care and Critical Illness premiums",
+      "B": "Disability Income Insurance premiums",
+      "C": "MediShield Life and Integrated Shield Plan premiums",
+      "D": "All Health Insurance premiums are gender-differentiated"
+    },
+    "answer": "C",
+    "explanation": "For simplicity, MediShield Life and Integrated Shield Plan premiums depend on age but not gender, unlike most other Health Insurance products."
+  },
+  {
+    "id": "h11-q08",
+    "conceptId": "h11-12",
+    "stem": "According to the pricing chapter, which single LIFESTYLE factor is the most important in determining a Health Insurance premium rate?",
+    "options": {
+      "A": "Participation in mountaineering",
+      "B": "Alcohol consumption",
+      "C": "Recreational scuba-diving",
+      "D": "Smoking"
+    },
+    "answer": "D",
+    "explanation": "Smoking is the most important lifestyle factor for pricing; a non-smoker pays a lower premium than a smoker."
+  },
+  {
+    "id": "h11-q09",
+    "conceptId": "h11-14",
+    "stem": "If an insurer expects the persistency of a block of Health Insurance business to be HIGH, what will it do to the premium?",
+    "options": {
+      "A": "Reduce the premium charged",
+      "B": "Increase the premium to reflect longer exposure",
+      "C": "Leave the premium unchanged",
+      "D": "Apply a persistency loading"
+    },
+    "answer": "A",
+    "explanation": "High expected persistency lets the insurer spread costs over more renewal years, so it reduces the premium charged."
+  },
+  {
+    "id": "h11-q10",
+    "conceptId": "h11-14",
+    "stem": "Which statement about persistency across age groups is correct?",
+    "options": {
+      "A": "Older insureds always lapse first because premiums are higher",
+      "B": "Younger insureds (ages 20-29) tend to have poorer persistency than older insureds (ages 50-59)",
+      "C": "Persistency is identical across all age groups",
+      "D": "Persistency worsens as a policy ages"
+    },
+    "answer": "B",
+    "explanation": "Younger insureds tend to have poorer persistency; older insureds value the cover more since they may struggle to satisfy underwriting for a new policy. Persistency usually improves as a policy ages."
+  },
+  {
+    "id": "h11-q11",
+    "conceptId": "h11-15",
+    "stem": "The total claims of a portfolio comprise paid claims, pending claims and one further component. What does IBNR stand for?",
+    "options": {
+      "A": "Insured But Not Refunded",
+      "B": "Investigated But Not Resolved",
+      "C": "Incurred But Not Reported",
+      "D": "Indemnified But Not Recorded"
+    },
+    "answer": "C",
+    "explanation": "IBNR means Incurred But Not Reported: the loss has already occurred but has not yet been reported to the insurer, so a reserve must be estimated for it."
+  },
+  {
+    "id": "h11-q12",
+    "conceptId": "h11-17",
+    "stem": "In a voluntary group plan, why does LOW employee participation increase pricing risk?",
+    "options": {
+      "A": "It dilutes healthy lives with too many claims-free members",
+      "B": "It guarantees a good mix of healthy lives",
+      "C": "It reduces administration costs so premiums must rise",
+      "D": "It raises anti-selection risk as unhealthy individuals self-select into cover"
+    },
+    "answer": "D",
+    "explanation": "Low participation raises anti-selection: a higher-than-normal proportion of individuals with health issues seek the cover. High participation dilutes this with healthy lives."
+  },
+  {
+    "id": "h11-q13",
+    "conceptId": "h11-04",
+    "stem": "Which of the following best describes the driver behind medical inflation that insurers must factor into pricing?",
+    "options": {
+      "A": "A consistent upward trend from rising medical charges, medical advancement and higher utilisation, especially with an ageing population",
+      "B": "A one-off spike caused solely by a single pandemic",
+      "C": "A fall in claim costs as technology improves efficiency",
+      "D": "A regulated annual cap set by MAS"
+    },
+    "answer": "A",
+    "explanation": "Medical inflation is the consistent upward trend in claim costs driven by rising charges, medical advancement and higher utilisation amid an ageing population."
+  },
+  {
+    "id": "h11-calc-01",
+    "conceptId": "h11-15",
+    "stem": "A group Health Insurance portfolio has earned premiums of S$1,200,000 for the year. Paid claims are S$700,000, pending claims are S$90,000 and estimated IBNR is S$50,000. What is the incurred claims ratio (loss ratio)?",
+    "options": {
+      "A": "58.3%",
+      "B": "70.0%",
+      "C": "65.8%",
+      "D": "75.0%"
+    },
+    "answer": "B",
+    "explanation": "Total incurred claims = paid + pending + IBNR = 700,000 + 90,000 + 50,000 = S$840,000. Loss ratio = 840,000 / 1,200,000 = 70.0%. Omitting IBNR would wrongly give about 65.8%.",
+    "calc": true
+  },
+  {
+    "id": "h11-calc-02",
+    "conceptId": "h11-15",
+    "stem": "An insurer targets a claims (loss) ratio of no more than 75%. For a block with earned premium of S$1,000,000, total incurred claims are: paid S$600,000, pending S$90,000 and IBNR S$60,000. Does the block meet the target, and what is the ratio?",
+    "options": {
+      "A": "Yes; the ratio is 69.0% once IBNR is excluded",
+      "B": "No; the ratio is 82.5%",
+      "C": "Yes; the ratio is exactly 75.0%",
+      "D": "No; the ratio is 90.0%"
+    },
+    "answer": "C",
+    "explanation": "Incurred claims = 600,000 + 90,000 + 60,000 = S$750,000. Ratio = 750,000 / 1,000,000 = 75.0%, exactly meeting the target. IBNR must be included in incurred claims.",
+    "calc": true
+  },
+  {
+    "id": "h12-q01",
+    "conceptId": "h12-01",
+    "stem": "Health Insurance underwriting is concerned primarily with which measure of risk?",
+    "options": {
+      "A": "Mortality",
+      "B": "Investment yield",
+      "C": "Lapse rate",
+      "D": "Morbidity"
+    },
+    "answer": "D",
+    "explanation": "Health Insurance underwriting assesses morbidity, the rate of disease or illness in a group over time, whereas Life Insurance underwriting is concerned with mortality."
+  },
+  {
+    "id": "h12-q02",
+    "conceptId": "h12-03",
+    "stem": "For Disability Income Insurance, the benefit amount applied for must not exceed what proportion of the life insured's current income?",
+    "options": {
+      "A": "75%",
+      "B": "66%",
+      "C": "50%",
+      "D": "80%"
+    },
+    "answer": "A",
+    "explanation": "The DII benefit ceiling is 75% of current income, to preserve the insured's incentive to return to work and avoid over-insurance."
+  },
+  {
+    "id": "h12-q03",
+    "conceptId": "h12-07",
+    "stem": "Which is the correct default position on which underwriting approach an adviser should start with?",
+    "options": {
+      "A": "Moratorium underwriting, for the client's convenience",
+      "B": "Full Medical Underwriting should always be the starting point",
+      "C": "Guaranteed Issuance Offer, to avoid declines",
+      "D": "Simplified Issuance Offer, to speed up issuance"
+    },
+    "answer": "B",
+    "explanation": "Full Medical Underwriting should always be the starting point; it gives the insured certainty about what is covered at the outset. Advisers must not default to moratorium merely for convenience."
+  },
+  {
+    "id": "h12-q04",
+    "conceptId": "h12-08",
+    "stem": "Under Moratorium (Point-of-Claim) Underwriting, when will a pre-existing condition present at the commencement date become covered?",
+    "options": {
+      "A": "Immediately, since no health declaration was taken",
+      "B": "Never, because moratorium excludes all conditions permanently",
+      "C": "Only if the insured has no symptom, treatment, medication or advice for it during the waiting period",
+      "D": "After a fixed 12-month period regardless of symptoms"
+    },
+    "answer": "C",
+    "explanation": "The pre-existing condition is excluded at the outset and only becomes covered once the waiting period (usually two to five years) is satisfied symptom, treatment and advice free."
+  },
+  {
+    "id": "h12-q05",
+    "conceptId": "h12-08",
+    "stem": "Under Moratorium Underwriting, how are long-term conditions such as stroke, kidney failure or dementia that need continuous treatment handled?",
+    "options": {
+      "A": "They are covered as soon as the moratorium period ends",
+      "B": "They are covered after a doubled waiting period",
+      "C": "They are covered from day one",
+      "D": "They will never be covered, as they cannot meet the symptom-free condition"
+    },
+    "answer": "D",
+    "explanation": "Long-term conditions needing continuous treatment can never satisfy the symptom, treatment and advice free requirement, so they are never covered under a moratorium."
+  },
+  {
+    "id": "h12-q06",
+    "conceptId": "h12-10",
+    "stem": "What distinguishes a Guaranteed Issuance Offer (GIO) from a Simplified Issuance Offer (SIO)?",
+    "options": {
+      "A": "GIO asks no medical questions at all, whereas SIO asks a few questions",
+      "B": "SIO asks no medical questions, whereas GIO asks a few",
+      "C": "Both require a full medical examination",
+      "D": "GIO offers larger cover with no exclusions"
+    },
+    "answer": "A",
+    "explanation": "GIO requires no medical questions and guarantees issue subject to eligibility (usually an age limit), while SIO asks a few questions whose answers determine approval."
+  },
+  {
+    "id": "h12-q07",
+    "conceptId": "h12-10",
+    "stem": "To minimise anti-selection, GIO policies typically carry which features?",
+    "options": {
+      "A": "Large cover with no exclusions",
+      "B": "Smaller coverage with pre-existing conditions permanently excluded",
+      "C": "Full cover after a two-year moratorium",
+      "D": "Cover only for accidental causes"
+    },
+    "answer": "B",
+    "explanation": "GIO policies limit anti-selection by offering smaller coverage and permanently excluding pre-existing conditions; premiums are higher for the guaranteed convenience."
+  },
+  {
+    "id": "h12-q08",
+    "conceptId": "h12-12",
+    "stem": "For a contributory (voluntary) group plan, what minimum participation of eligible members do insurers typically require to guard against anti-selection?",
+    "options": {
+      "A": "40% to 50%",
+      "B": "50% to 60%",
+      "C": "70% to 90%",
+      "D": "95% to 100%"
+    },
+    "answer": "C",
+    "explanation": "Insurers normally require a minimum participation of typically 70% to 90% of eligible members on contributory group plans to reduce anti-selection and administration costs."
+  },
+  {
+    "id": "h12-q09",
+    "conceptId": "h12-13",
+    "stem": "What is the free cover limit in group underwriting?",
+    "options": {
+      "A": "The maximum cover the insurer will offer any group in total",
+      "B": "The premium refunded when a member leaves",
+      "C": "The waiting period before a member's cover starts",
+      "D": "The maximum coverage granted to each member without a health declaration"
+    },
+    "answer": "D",
+    "explanation": "The free cover limit is the maximum coverage granted to each member without requiring a health declaration; any excess above it must be individually underwritten."
+  },
+  {
+    "id": "h12-q10",
+    "conceptId": "h12-14",
+    "stem": "Which is the PRIMARY source of underwriting information?",
+    "options": {
+      "A": "The Proposal Form",
+      "B": "The Agent's Statement",
+      "C": "The Attending Physician's Statement",
+      "D": "A supplementary lifestyle questionnaire"
+    },
+    "answer": "A",
+    "explanation": "The proposal form is the primary source of underwriting information; the APS, agent's statement, exams and questionnaires supplement it when deeper insight is needed."
+  },
+  {
+    "id": "h12-q11",
+    "conceptId": "h12-15",
+    "stem": "Who bears the cost of a medical examination required at application?",
+    "options": {
+      "A": "Always the applicant",
+      "B": "The insurer, unless the policy is subsequently not taken up",
+      "C": "The attending physician",
+      "D": "Split equally between insurer and applicant"
+    },
+    "answer": "B",
+    "explanation": "The insurer bears the exam cost, unless the policy is subsequently not taken up, in which case the applicant bears it."
+  },
+  {
+    "id": "h12-q12",
+    "conceptId": "h12-16",
+    "stem": "Because the representative has personal contact with the client, what role is he considered to perform in the underwriting process?",
+    "options": {
+      "A": "The chief underwriter",
+      "B": "The claims assessor",
+      "C": "The field underwriter",
+      "D": "The attending physician"
+    },
+    "answer": "C",
+    "explanation": "The representative is the field underwriter: best placed to select the client, ensure truthful disclosure and extract full details for any 'Yes' answers on the proposal form."
+  },
+  {
+    "id": "h12-q13",
+    "conceptId": "h12-17",
+    "stem": "What proportion of proposals are typically accepted at STANDARD rates?",
+    "options": {
+      "A": "About 40% to 50%",
+      "B": "About 60% to 70%",
+      "C": "Effectively 100%",
+      "D": "About 80% to 90%"
+    },
+    "answer": "D",
+    "explanation": "Usually 80% to 90% of proposals are accepted at standard rates, and the declination rate is typically below 10%."
+  },
+  {
+    "id": "h12-q14",
+    "conceptId": "h12-18",
+    "stem": "Which modification of cover is COMMON in Medical Expense Insurance but rarely used there, being more typical of DII and Critical Illness?",
+    "options": {
+      "A": "Specific exclusions are common in Medical Expense; extra premiums are rare there",
+      "B": "Extra premiums are common in Medical Expense; exclusions are rare there",
+      "C": "Both exclusions and extra premiums are equally common in Medical Expense",
+      "D": "Neither is ever used in Medical Expense Insurance"
+    },
+    "answer": "A",
+    "explanation": "Specific exclusions (endorsements naming an excluded risk) are common in Medical Expense Insurance, whereas extra premiums are common in DII and Critical Illness but rarely used in Medical Expense."
+  },
+  {
+    "id": "h12-q15",
+    "conceptId": "h12-06",
+    "stem": "Which two factors are described as the KEY considerations when underwriting Long-Term Care Insurance?",
+    "options": {
+      "A": "Family history and smoking habit",
+      "B": "Detecting early cognitive impairment and assessing morbidity risk (ability to perform ADLs)",
+      "C": "Occupational class and residency",
+      "D": "Income stability and net worth"
+    },
+    "answer": "B",
+    "explanation": "The two key LTC underwriting factors are detecting early cognitive impairment and assessing morbidity risk, that is the ability to perform Activities of Daily Living. Family history and smoking are highlighted for Critical Illness."
+  },
+  {
+    "id": "h12-q16",
+    "conceptId": "h12-11",
+    "stem": "In group underwriting, why must a group have been formed for a purpose other than only buying insurance?",
+    "options": {
+      "A": "To qualify for tax relief",
+      "B": "To satisfy the free cover limit",
+      "C": "To reduce anti-selection",
+      "D": "To guarantee a minimum group size"
+    },
+    "answer": "C",
+    "explanation": "The 'reason for existence' requirement reduces anti-selection: members must have joined for a genuine purpose such as running a business, and be actively at work with predictable incomes."
+  },
+  {
+    "id": "h12-q17",
+    "conceptId": "h12-19",
+    "stem": "For a SUB-STANDARD risk, when is cover effected and the policy issued?",
+    "options": {
+      "A": "Automatically once the proposal form is submitted",
+      "B": "Only after a mandatory 30-day cooling period",
+      "C": "Immediately upon the medical examination",
+      "D": "After the proposer agrees to the terms in the letter of acceptance and pays the premium"
+    },
+    "answer": "D",
+    "explanation": "For a sub-standard risk the insurer communicates the terms first; cover is effected and the policy issued once the proposer agrees to those terms and pays the premium."
+  },
+  {
+    "id": "h12-calc-01",
+    "conceptId": "h12-03",
+    "stem": "A self-employed graphic designer earns S$8,000 a month and applies for Disability Income Insurance. Applying the standard income-replacement ceiling, what is the maximum monthly benefit an insurer will allow?",
+    "options": {
+      "A": "S$6,000",
+      "B": "S$5,333",
+      "C": "S$4,000",
+      "D": "S$8,000"
+    },
+    "answer": "A",
+    "explanation": "The DII benefit is capped at 75% of current income: 0.75 x S$8,000 = S$6,000 per month. Insuring the full income would remove the incentive to return to work.",
+    "calc": true
+  },
+  {
+    "id": "h13-q01",
+    "conceptId": "h13-01",
+    "stem": "Under which statute is Notice No: MAS 120 issued?",
+    "options": {
+      "A": "The Financial Advisers Act 2001",
+      "B": "Sections 67, 72 and 154(4) of the Insurance Act 1966",
+      "C": "The Personal Data Protection Act 2012",
+      "D": "The Securities and Futures Act 2001"
+    },
+    "answer": "B",
+    "explanation": "MAS 120 is issued under Sections 67, 72 and 154(4) of the Insurance Act 1966 and covers disclosure and advisory requirements for Accident and Health products."
+  },
+  {
+    "id": "h13-q02",
+    "conceptId": "h13-01",
+    "stem": "Which statement about the structure of Notice No: MAS 120 is correct?",
+    "options": {
+      "A": "It contains only mandatory requirements",
+      "B": "It contains only best-practice guidance with no binding rules",
+      "C": "It has Part I mandatory requirements and Part II non-mandatory best-practice standards",
+      "D": "It applies solely to group policies"
+    },
+    "answer": "C",
+    "explanation": "MAS 120 comprises Part I mandatory requirements and Part II non-mandatory best-practice standards on disclosure and provision of advice for A&H policies."
+  },
+  {
+    "id": "h13-q03",
+    "conceptId": "h13-04",
+    "stem": "A direct insurer may use the word 'Shield' in the name or title of a policy only when the policy is which of the following?",
+    "options": {
+      "A": "Any personal accident policy",
+      "B": "Any policy with a free-look period",
+      "C": "Any policy sold through a bank",
+      "D": "A Medisave-approved policy"
+    },
+    "answer": "D",
+    "explanation": "The word 'Shield' may only be used for a Medisave-approved policy, that is an integrated shield plan, non-integrated shield plan or supplementary disability insurance policy."
+  },
+  {
+    "id": "h13-q04",
+    "conceptId": "h13-05",
+    "stem": "In MAS 120 terms, what is the difference between 'switching' and 'upgrading'?",
+    "options": {
+      "A": "Switching means replacing a policy with another; upgrading means better benefits with the SAME insurer",
+      "B": "Switching means better benefits with the same insurer; upgrading means replacing with another insurer",
+      "C": "Both mean the same thing",
+      "D": "Switching applies only to group plans; upgrading only to individual plans"
+    },
+    "answer": "A",
+    "explanation": "Switching includes terminating a policy and replacing it with another (possibly a different insurer's). Upgrading means varying terms or terminating an existing policy to buy a new one with the same insurer for better benefits."
+  },
+  {
+    "id": "h13-q05",
+    "conceptId": "h13-05",
+    "stem": "A 'selected client' under MAS 120 must meet any TWO of three criteria. Which set correctly lists them?",
+    "options": {
+      "A": "65 years or older; unemployed; below diploma level",
+      "B": "62 years or older; not proficient in spoken or written English; below GCE 'O'/'N' level or equivalent",
+      "C": "55 years or older; not a Singapore Citizen; below GCE 'A' level",
+      "D": "62 years or older; low net worth; no existing insurance"
+    },
+    "answer": "B",
+    "explanation": "A selected client meets any two of: 62 years or older; not proficient in spoken or written English; below GCE 'O'/'N' level or equivalent education."
+  },
+  {
+    "id": "h13-q06",
+    "conceptId": "h13-11",
+    "stem": "Product summaries, conditional offer letters and termination letters for individual medical expense policies must use which minimum font specification?",
+    "options": {
+      "A": "Arial 12-point or larger",
+      "B": "Calibri 11-point or larger",
+      "C": "Times New Roman 10-point or larger",
+      "D": "Any legible font of at least 8-point"
+    },
+    "answer": "C",
+    "explanation": "MAS 120 requires these documents to use font size Times New Roman 10-point or larger, with standardised disclosure statements."
+  },
+  {
+    "id": "h13-q07",
+    "conceptId": "h13-11",
+    "stem": "Where an insurer may vary, amend or add to the terms of an A&H policy, how far in advance must it furnish the policy owner with the change in writing?",
+    "options": {
+      "A": "At least 14 days before the change takes effect",
+      "B": "At least 21 days before the change takes effect",
+      "C": "At least 60 days before the change takes effect",
+      "D": "At least 30 days before the change takes effect"
+    },
+    "answer": "D",
+    "explanation": "The insurer must disclose the existing and new terms in writing to the policy owner at least 30 days before the change takes effect."
+  },
+  {
+    "id": "h13-q08",
+    "conceptId": "h13-18",
+    "stem": "A representative fails to comply with a mandatory requirement in Part I of MAS 120. Under which provision is this an offence?",
+    "options": {
+      "A": "Section 142(3) of the Insurance Act 1966",
+      "B": "Section 23(5) of the Insurance Act 1966",
+      "C": "Section 67 of the Insurance Act 1966",
+      "D": "It is not an offence, only a best-practice breach"
+    },
+    "answer": "A",
+    "explanation": "Failure to comply with any Part I requirement of MAS 120 is an offence punishable under Section 142(3) of the Insurance Act 1966. Part II is non-mandatory and carries no offence."
+  },
+  {
+    "id": "h13-q09",
+    "conceptId": "h13-16",
+    "stem": "When must the intermediary furnish the policy owner with the document summarising the information gathered and the advice provided?",
+    "options": {
+      "A": "Within 30 days after the policy is issued",
+      "B": "Before the owner signs the application form",
+      "C": "At the free-look expiry",
+      "D": "Only if the owner requests it"
+    },
+    "answer": "B",
+    "explanation": "The documentation of the KYC summary and the advice and its basis must be given to the owner before he signs the application form, not afterwards."
+  },
+  {
+    "id": "h13-q10",
+    "conceptId": "h13-12",
+    "stem": "Division 4's reasonable-basis-for-advice requirement does NOT apply in which situation?",
+    "options": {
+      "A": "When recommending an Integrated Shield Plan",
+      "B": "When advising a selected client",
+      "C": "When only factual information is provided or advice concerns an ElderShield policy",
+      "D": "When advising on a group medical plan"
+    },
+    "answer": "C",
+    "explanation": "Division 4 does not apply where no recommendation is made or only factual information is provided, nor to advice on any ElderShield policy."
+  },
+  {
+    "id": "h13-q11",
+    "conceptId": "h13-13",
+    "stem": "Under Division 4's Know-Your-Client requirement for an individual, the information collected must be:",
+    "options": {
+      "A": "Collected only, with documentation optional",
+      "B": "Kept verbally by the representative",
+      "C": "Documented only after the sale closes",
+      "D": "Both collected AND documented"
+    },
+    "answer": "D",
+    "explanation": "KYC information about objectives, financial situation and needs must be both collected and documented, and items (a)-(e) also apply to any dependants to be insured."
+  },
+  {
+    "id": "h13-q12",
+    "conceptId": "h13-17",
+    "stem": "When assessing whether a switch of A&H policy is detrimental to the insured, which of the following is one of the factors MAS has regard to?",
+    "options": {
+      "A": "Whether the replacement gives a lower benefit at higher or same cost, or the same benefit at higher cost",
+      "B": "Whether the new insurer has a larger market share",
+      "C": "Whether the representative earns more commission",
+      "D": "Whether the owner prefers the new insurer's brand"
+    },
+    "answer": "A",
+    "explanation": "One detriment factor is whether the replacement provides a lower benefit at higher or same cost, or the same benefit at higher cost. Others include penalties, transaction cost without real benefit, and lower suitability."
+  },
+  {
+    "id": "h13-q13",
+    "conceptId": "h13-02",
+    "stem": "MAS 120 does NOT apply to A&H policies in which of the following cases?",
+    "options": {
+      "A": "Policies sold through a bank branch",
+      "B": "Policies in respect of reinsurance of liabilities, and policies paying A&H benefits only on total and permanent disability",
+      "C": "Policies with a free-look period",
+      "D": "Policies issued to selected clients"
+    },
+    "answer": "B",
+    "explanation": "The Notice does not apply where policies are in respect of reinsurance of insurance liabilities, or where A&H benefits are paid only if the insured becomes totally and permanently disabled as defined."
+  },
+  {
+    "id": "h13-q14",
+    "conceptId": "h13-19",
+    "stem": "Under the Part II best-practice standard for monitoring switching, who reviews each switching recommendation and indicates in writing whether he agrees, using the same detriment factors?",
+    "options": {
+      "A": "The policy owner",
+      "B": "The insurer's chief underwriter",
+      "C": "The representative's supervisor",
+      "D": "An independent MAS officer"
+    },
+    "answer": "C",
+    "explanation": "The representative's supervisor should review each switching recommendation and indicate in writing whether he agrees, applying the same para-44 detriment factors used in the mandatory assessment."
+  },
+  {
+    "id": "h13-q15",
+    "conceptId": "h13-10",
+    "stem": "For telephone marketing of a NON-Medisave-approved A&H policy where no advice is given and the aim is to close the sale, what must the intermediary do?",
+    "options": {
+      "A": "Nothing extra, since no advice is provided",
+      "B": "Refer the recipient to MAS before any sale",
+      "C": "Obtain written consent before dialling",
+      "D": "Warn the recipient he may wish to seek advice first, and keep a record of all calls for audit"
+    },
+    "answer": "D",
+    "explanation": "The intermediary must warn the recipient he may wish to seek advice first, that if he does not he should consider suitability himself, and must keep a record of all calls for audit."
+  },
+  {
+    "id": "h13-q16",
+    "conceptId": "h13-06",
+    "stem": "Under Division 1A, what must an A&H insurance REPRESENTATIVE disclose in writing to the policy owner?",
+    "options": {
+      "A": "His name and the intermediary or intermediaries for which he acts",
+      "B": "His personal home address and salary",
+      "C": "The insurer's reinsurance arrangements",
+      "D": "His past sales performance"
+    },
+    "answer": "A",
+    "explanation": "A representative must disclose in writing his name and the intermediary or intermediaries for which he acts; any change must be communicated in writing at the next dealing after the change."
+  },
+  {
+    "id": "h14-q01",
+    "conceptId": "h14-01",
+    "stem": "Which statement correctly contrasts needs selling with product selling?",
+    "options": {
+      "A": "Needs selling assumes the client wants your product and creates buying pressure",
+      "B": "Needs selling is service-oriented and relationship-based, discovering the client's needs before advising",
+      "C": "Product selling spends more time on the client's situation than the product",
+      "D": "Both approaches are identical in outcome"
+    },
+    "answer": "B",
+    "explanation": "Needs selling is service-oriented, not pressure selling, and relationship-based: you discover the client's needs and advise on the most suitable product and amount. Product selling assumes the client needs your product."
+  },
+  {
+    "id": "h14-q02",
+    "conceptId": "h14-02",
+    "stem": "Which of the following correctly lists the order of the needs-analysis process?",
+    "options": {
+      "A": "Product recommendations, fact-finding, identifying needs, review, presenting",
+      "B": "Presenting, fact-finding, review, quantifying, recommending",
+      "C": "Fact-finding, identifying and quantifying needs, product recommendations, presenting recommendations, review",
+      "D": "Review, fact-finding, presenting, quantifying, recommending"
+    },
+    "answer": "C",
+    "explanation": "The process runs: fact-finding, identifying and quantifying needs, product recommendations, presenting recommendations, then review. Fact-finding via a Fact-Find Document is a MAS 120 requirement."
+  },
+  {
+    "id": "h14-q03",
+    "conceptId": "h14-03",
+    "stem": "A client ticks Application Type 3 on the Fact-Find Document. What does this mean?",
+    "options": {
+      "A": "The client had a full comprehensive needs analysis",
+      "B": "The client had a partial, specific-needs analysis",
+      "C": "The client waived all disclosure requirements",
+      "D": "The client did NOT undergo any needs analysis and bears responsibility for suitability, but the representative must still explain product features, fees and charges"
+    },
+    "answer": "D",
+    "explanation": "Application Type 3 means no needs analysis was done and it is the client's own responsibility to ensure suitability; the representative must still explain product features, fees and charges, and the client must acknowledge the type."
+  },
+  {
+    "id": "h14-q04",
+    "conceptId": "h14-04",
+    "stem": "Regarding the deferred period for Disability Income Insurance, which client generally needs cover to start SOONER (a shorter deferred period)?",
+    "options": {
+      "A": "A self-employed person whose income stops when he cannot work",
+      "B": "An employee who may keep receiving salary for a period",
+      "C": "An unemployed person",
+      "D": "A retiree living on savings"
+    },
+    "answer": "A",
+    "explanation": "A self-employed person needs cover sooner (a shorter deferred period) because his income stops immediately; an employee may keep receiving pay and can accept a longer deferred period. DII is not issued to the unemployed."
+  },
+  {
+    "id": "h14-q05",
+    "conceptId": "h14-07",
+    "stem": "Which type of Health Insurance pays ON TOP of all other Health Insurance plans and is NOT subject to the Co-ordination of Benefit Clause?",
+    "options": {
+      "A": "Medical Expense Insurance",
+      "B": "Hospital Cash Insurance",
+      "C": "Integrated Shield Plan",
+      "D": "Group Medical Expense Insurance"
+    },
+    "answer": "B",
+    "explanation": "Hospital Cash Insurance pays a fixed benefit on top of all other health plans and is not subject to co-ordination of benefits, whereas Medical Expense Insurance is subject to the Co-ordination of Benefit Clause."
+  },
+  {
+    "id": "h14-q06",
+    "conceptId": "h14-08",
+    "stem": "Under the Co-ordination of Benefit Clause, when a bill is partly paid by a first plan, the amount claimable from the second plan is:",
+    "options": {
+      "A": "The full amount covered under the second plan regardless of the balance",
+      "B": "The maximum of the balance bill or the second plan's cover",
+      "C": "The minimum of the balance bill or the amount covered under the second plan",
+      "D": "Half of the original bill"
+    },
+    "answer": "C",
+    "explanation": "The second plan pays the lower of the balance bill (total less what the first plan paid) or its own coverable amount, so total recovery never exceeds actual expenses."
+  },
+  {
+    "id": "h14-q07",
+    "conceptId": "h14-09",
+    "stem": "In quantifying disability income protection needs, Method 1 bases the requirement on what figure?",
+    "options": {
+      "A": "100% of monthly income less existing disability benefit",
+      "B": "A lump sum TPD benefit under a Life policy",
+      "C": "Total monthly expenses only",
+      "D": "75% of monthly income less existing disability benefit"
+    },
+    "answer": "D",
+    "explanation": "Method 1 caps the disability income need at 75% of monthly income less existing disability benefit. Method 2 uses total monthly expenses less existing benefit; Method 3 provides a lump-sum TPD benefit."
+  },
+  {
+    "id": "h14-q08",
+    "conceptId": "h14-09",
+    "stem": "In Method 3 (lump-sum TPD approach), which existing policies may be deducted from the funds required?",
+    "options": {
+      "A": "Only existing policies that carry a TPD benefit, such as Group Term Life or DPS",
+      "B": "Any existing insurance policy",
+      "C": "Only Medical Expense policies",
+      "D": "No existing policies may ever be deducted"
+    },
+    "answer": "A",
+    "explanation": "Only existing policies with a TPD benefit (for example Group Term Life or the Dependants' Protection Scheme) may be deducted from the funds required in Method 3."
+  },
+  {
+    "id": "h14-q09",
+    "conceptId": "h14-11",
+    "stem": "Which statement about Critical Illness benefit types is correct?",
+    "options": {
+      "A": "The Additional Benefit Type lasts for life; the Acceleration Benefit Type ceases at 65",
+      "B": "The Additional Benefit Type normally ceases at age 65; the Acceleration Benefit Type (usually attached to Whole Life) lasts for life",
+      "C": "Both types cease at age 65",
+      "D": "Both types last for life"
+    },
+    "answer": "B",
+    "explanation": "The Additional Benefit Type CI normally ceases at age 65, whereas the Acceleration Benefit Type, usually attached to a Whole Life policy, lasts for life."
+  },
+  {
+    "id": "h14-q10",
+    "conceptId": "h14-03",
+    "stem": "Which Application Type corresponds to a FULL fact-find where the client discloses relevant information for comprehensive planning and wants a recommendation?",
+    "options": {
+      "A": "Application Type 3",
+      "B": "Application Type 2",
+      "C": "Application Type 1",
+      "D": "None of the above"
+    },
+    "answer": "C",
+    "explanation": "Application Type 1 is a full fact-find for comprehensive planning where the client wants a recommendation. Type 2 is a partial fact-find for specific needs; Type 3 involves no needs analysis."
+  },
+  {
+    "id": "h14-q11",
+    "conceptId": "h14-12",
+    "stem": "Which is NOT one of the three basic principles to observe before recommending a product?",
+    "options": {
+      "A": "Recommend products only if the client needs them",
+      "B": "Recommend only the most suitable products for his circumstances",
+      "C": "If he needs a product the company does not carry, tell him so he can find alternatives",
+      "D": "Always recommend the product with the highest commission"
+    },
+    "answer": "D",
+    "explanation": "The three principles are: recommend only if needed, recommend only the most suitable products, and if the needed product is not carried, tell the client. Chasing commission is not a principle."
+  },
+  {
+    "id": "h14-q12",
+    "conceptId": "h14-10",
+    "stem": "Why should a representative flag Group Insurance cover when reviewing a client's existing protection?",
+    "options": {
+      "A": "Group Insurance is not portable and may be lost on leaving the organisation",
+      "B": "Group Insurance is fully portable and permanent",
+      "C": "Group Insurance always duplicates individual cover exactly",
+      "D": "Group Insurance cannot be co-ordinated with individual cover"
+    },
+    "answer": "A",
+    "explanation": "Group Insurance is not portable and may be lost when the client leaves the employer, so the representative should flag the gap that would then arise."
+  },
+  {
+    "id": "h14-calc-01",
+    "conceptId": "h14-08",
+    "stem": "A hospital bill is S$22,400. The client's Group Medical Expense plan has already paid S$11,000, and his Private Medical Insurance (PMI) covers S$12,000 of the bill. Applying the Co-ordination of Benefit Clause, how much can he claim from the PMI?",
+    "options": {
+      "A": "S$12,000",
+      "B": "S$11,400",
+      "C": "S$11,000",
+      "D": "S$22,400"
+    },
+    "answer": "B",
+    "explanation": "The PMI pays the lower of the balance bill (22,400 - 11,000 = S$11,400) or its coverable amount (S$12,000). That is S$11,400, so total recovery is exactly S$22,400 and does not exceed the actual expenses.",
+    "calc": true
+  },
+  {
+    "id": "h14-calc-02",
+    "conceptId": "h14-08",
+    "stem": "A client incurs a S$30,000 hospital bill. His group plan pays S$18,000 and his individual Medical Expense plan covers S$15,000 of the bill. Under the Co-ordination of Benefit Clause, what will the individual plan pay?",
+    "options": {
+      "A": "S$15,000",
+      "B": "S$18,000",
+      "C": "S$12,000",
+      "D": "S$30,000"
+    },
+    "answer": "C",
+    "explanation": "The individual plan pays the lower of the balance bill (30,000 - 18,000 = S$12,000) or its coverable amount (S$15,000), which is S$12,000. Total recovery is S$30,000, matching the actual expense.",
+    "calc": true
+  },
+  {
+    "id": "h14-calc-03",
+    "conceptId": "h14-11",
+    "stem": "A health-gap analysis agrees the client needs S$200,000 of Critical Illness cover. He already holds a S$80,000 CI rider. What is the CI shortfall to be recommended?",
+    "options": {
+      "A": "S$280,000",
+      "B": "S$200,000",
+      "C": "S$80,000",
+      "D": "S$120,000"
+    },
+    "answer": "D",
+    "explanation": "The shortfall equals the agreed CI cover less the current CI cover held: 200,000 - 80,000 = S$120,000. Only the shortfall should be recommended to avoid over-insurance.",
+    "calc": true
+  },
+  {
+    "id": "h15-q01",
+    "conceptId": "h15-02",
+    "stem": "In the case study, the most suitable policy to meet the working breadwinner's maintenance cost is Disability Income Insurance set at 75% of his S$6,000 monthly salary. What monthly benefit is recommended, and with what deferred period?",
+    "options": {
+      "A": "S$4,500, with a deferred period matching how long the employer keeps paying salary (six months)",
+      "B": "S$6,000, with no deferred period",
+      "C": "S$3,000, with a two-year deferred period",
+      "D": "S$4,500, with a lifetime deferred period"
+    },
+    "answer": "A",
+    "explanation": "DII is recommended at 75% of the S$6,000 salary, that is S$4,500, with a deferred period matched to how long the employer keeps paying salary, here six months."
+  },
+  {
+    "id": "h15-q02",
+    "conceptId": "h15-02",
+    "stem": "A non-working spouse (housewife) needs disability protection. Why is Disability Income Insurance NOT recommended for her, and what is used instead?",
+    "options": {
+      "A": "DII is too expensive; a Medical Expense plan is used instead",
+      "B": "She is ineligible for DII with no income and no job; TPD under a Life policy or a Personal Accident policy is used instead",
+      "C": "DII is only for retirees; a Hospital Cash plan is used instead",
+      "D": "She is ineligible; only an emergency fund is recommended"
+    },
+    "answer": "B",
+    "explanation": "DII requires an income and a stable job, so a housewife is ineligible; her disability cover is provided through the TPD benefit under a Life policy or a Personal Accident policy."
+  },
+  {
+    "id": "h15-q03",
+    "conceptId": "h15-03",
+    "stem": "When computing the present value of maintenance income needs, which rate of return is used to select the annuity factor?",
+    "options": {
+      "A": "The nominal rate of return, ignoring inflation",
+      "B": "The inflation rate alone",
+      "C": "The real (inflation-adjusted) rate, being the nominal return less inflation",
+      "D": "The risk-free CPF Ordinary Account rate"
+    },
+    "answer": "C",
+    "explanation": "The real rate of return, nominal return minus inflation, is used. In the case a 5% return less 2% inflation gives a 3% real rate, which selects the annuity factor."
+  },
+  {
+    "id": "h15-q04",
+    "conceptId": "h15-04",
+    "stem": "Why is Group Hospital & Surgical cover treated as a TEMPORARY rather than lifetime benefit in the case study?",
+    "options": {
+      "A": "Because it always expires at age 55",
+      "B": "Because group premiums are always higher than individual premiums",
+      "C": "Because group cover cannot be co-ordinated with individual cover",
+      "D": "Because it is not portable and may be lost or changed when the employee changes jobs or retires"
+    },
+    "answer": "D",
+    "explanation": "Group H&S cover is not portable and can be lost or changed on job change or retirement, so it is treated as temporary. Once lost, any co-payments on the individual plan must be met out-of-pocket."
+  },
+  {
+    "id": "h15-q05",
+    "conceptId": "h15-05",
+    "stem": "In the case study, why is a 100% Acceleration Benefit Type Critical Illness policy packaged with a Whole Life policy recommended for clients who already have death protection?",
+    "options": {
+      "A": "So that cover lasts for life, and for a non-working spouse it also provides the needed TPD cover",
+      "B": "Because it is cheaper than any standalone CI plan",
+      "C": "Because Acceleration CI ceases at age 65 like the Additional type",
+      "D": "Because it avoids the need for any needs analysis"
+    },
+    "answer": "A",
+    "explanation": "Acceleration CI attached to Whole Life gives lifelong cover, unlike the Additional Benefit type which ceases at 65, and for a non-working spouse it also delivers the required TPD cover."
+  },
+  {
+    "id": "h15-q06",
+    "conceptId": "h15-08",
+    "stem": "Which statement about Group Insurance in the case study is correct?",
+    "options": {
+      "A": "Group Insurance carries the same 14-day free-look period as individual plans",
+      "B": "There is no free-look period for any Group Insurance policy",
+      "C": "The insurer may quote before the GIFF Form is signed",
+      "D": "Claims history has little bearing on the group premium"
+    },
+    "answer": "B",
+    "explanation": "No free-look period applies to any Group Insurance policy. The insurer cannot quote until the Group Insurance Fact-Finding Form is completed and signed by both client and representative, and past claims history is very important."
+  },
+  {
+    "id": "h15-q07",
+    "conceptId": "h15-07",
+    "stem": "For setting a Group Term Life sum assured, which comparison of the two common methods is correct?",
+    "options": {
+      "A": "The ranking method reflects length of service better than the salary-multiple method",
+      "B": "Both methods produce identical sums assured",
+      "C": "The ranking method is simpler but ignores tenure; the salary-multiple method is more equitable because it reflects length of service",
+      "D": "The salary-multiple method is simpler and ignores tenure"
+    },
+    "answer": "C",
+    "explanation": "The ranking method is easier to manage but ignores length of service; the salary-multiple method reflects tenure (more experienced staff earn more) and is generally more equitable."
+  },
+  {
+    "id": "h15-q08",
+    "conceptId": "h15-06",
+    "stem": "In the case study, why was Long-Term Care cover NOT proposed even though it was a valid need?",
+    "options": {
+      "A": "Because the client was too young to qualify",
+      "B": "Because the client already held sufficient LTC cover",
+      "C": "Because LTC is never recommended for families",
+      "D": "Because there was no spare premium within the client's stated budget after other priorities"
+    },
+    "answer": "D",
+    "explanation": "The recommended package had to fit the client's stated budget; total cash premium of S$695.50 stayed within the S$700 budget, leaving no spare premium for Long-Term Care cover."
+  },
+  {
+    "id": "h15-calc-01",
+    "conceptId": "h15-03",
+    "stem": "A non-working spouse needs S$1,500 a month to maintain living expenses for 21 years. Using a real rate of return of 3% (5% return less 2% inflation), the present-value annuity factor is 15.8775. There is no existing TPD insurance. What TPD sum assured is required?",
+    "options": {
+      "A": "S$285,795",
+      "B": "S$378,000",
+      "C": "S$18,000",
+      "D": "S$267,795"
+    },
+    "answer": "A",
+    "explanation": "Yearly income needed = S$1,500 x 12 = S$18,000. Funds required = S$18,000 x 15.8775 = S$285,795, less S$0 existing TPD insurance = S$285,795.",
+    "calc": true
+  },
+  {
+    "id": "h15-calc-02",
+    "conceptId": "h15-03",
+    "stem": "Using the same figures (yearly income need S$18,000 over 21 years at a 3% real return, factor 15.8775), but the client already holds a Group Term Life policy with a S$120,000 TPD benefit, what additional TPD cover is required?",
+    "options": {
+      "A": "S$285,795",
+      "B": "S$165,795",
+      "C": "S$120,000",
+      "D": "S$405,795"
+    },
+    "answer": "B",
+    "explanation": "Funds required = S$18,000 x 15.8775 = S$285,795. Only existing policies with a TPD benefit may be deducted, so 285,795 - 120,000 = S$165,795 additional cover is needed.",
+    "calc": true
+  }
+]

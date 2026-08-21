@@ -79,8 +79,6 @@ export default function MockExam() {
 
   function answer(letter: Letter) {
     setAnswers((a) => ({ ...a, [q.id]: letter }))
-    if (idx + 1 >= questions.length) finish()
-    else setIdx((n) => n + 1)
   }
 
   // ---- Result screen ----
@@ -198,18 +196,41 @@ export default function MockExam() {
         <p className="whitespace-pre-line text-[17px] font-semibold leading-snug">{q.stem}</p>
       </div>
 
-      <div className="grid gap-2.5 px-4 pt-5 pb-6">
-        {LETTERS.map((L) => (
-          <motion.button
-            key={L}
-            whileTap={{ scale: 0.98 }}
-            onClick={() => answer(L)}
-            className="rounded-2xl bg-panel px-4 py-3.5 text-left text-[15px] font-medium leading-snug ring-1 ring-white/10"
-          >
-            <span className="mr-2 font-bold text-slate-400">{L}</span>
-            {q.options[L]}
-          </motion.button>
-        ))}
+      <div className="grid gap-2.5 px-4 pt-5">
+        {LETTERS.map((L) => {
+          const selected = answers[q.id] === L
+          const cls = selected ? 'bg-accent/20 ring-accent/60' : 'bg-panel ring-white/10'
+          return (
+            <motion.button
+              key={L}
+              whileTap={{ scale: 0.98 }}
+              onClick={() => answer(L)}
+              className={`rounded-2xl px-4 py-3.5 text-left text-[15px] font-medium leading-snug ring-1 ${cls}`}
+            >
+              <span className={`mr-2 font-bold ${selected ? 'text-accent' : 'text-slate-400'}`}>{L}</span>
+              {q.options[L]}
+            </motion.button>
+          )
+        })}
+      </div>
+
+      <div className="mt-auto flex items-center justify-between gap-3 px-4 pb-6 pt-4">
+        <button
+          onClick={() => setIdx((n) => Math.max(0, n - 1))}
+          disabled={idx === 0}
+          className="btn-ghost flex-1 disabled:opacity-30"
+        >
+          Prev
+        </button>
+        {idx + 1 >= questions.length ? (
+          <button onClick={finish} className="btn-accent flex-1">
+            Finish
+          </button>
+        ) : (
+          <button onClick={() => setIdx((n) => Math.min(questions.length - 1, n + 1))} className="btn-accent flex-1">
+            Next
+          </button>
+        )}
       </div>
     </div>
   )
