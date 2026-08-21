@@ -3,9 +3,13 @@ import { m9Chapters } from './m9/factbank'
 import { m9aChapters } from './m9a/factbank'
 import mockData from './m9/mocks.json'
 import m9aMockData from './m9a/mocks.json'
+import hiMockData from './hi/mocks.json'
+import res5MockData from './res5/mocks.json'
 
 const m9Mocks = (mockData as { papers: MockPaper[] }).papers
 const m9aMocks = (m9aMockData as { papers: MockPaper[] }).papers
+const hiMocks = (hiMockData as { papers: MockPaper[] }).papers
+const res5Mocks = (res5MockData as { papers: MockPaper[] }).papers
 
 export const modules: Module[] = [
   {
@@ -27,28 +31,21 @@ export const modules: Module[] = [
   {
     id: 'HI',
     name: 'HI',
-    subtitle: 'Health Insurance (coming soon)',
-    available: false,
+    subtitle: 'Health Insurance',
+    available: true,
     chapters: [],
-    mocks: [],
+    mocks: hiMocks,
   },
   {
     id: 'RES5',
     name: 'RES5',
-    subtitle: 'Rules & Regulations for FA (coming soon)',
-    available: false,
+    subtitle: 'Rules & Regulations for Financial Advisory Services',
+    available: true,
     chapters: [],
-    mocks: [],
+    mocks: res5Mocks,
   },
 ]
 
 export function getModule(id: string): Module | undefined {
   return modules.find((m) => m.id === id)
-}
-
-/** All concepts in a module, used as a distractor fallback pool for small chapters. */
-export function moduleConceptPool(id: string) {
-  const m = getModule(id)
-  if (!m) return []
-  return m.chapters.flatMap((c) => c.concepts)
 }

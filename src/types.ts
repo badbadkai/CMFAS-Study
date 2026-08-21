@@ -41,16 +41,3 @@ export interface Module {
   mocks: MockPaper[]
 }
 
-/** A quiz question generated at runtime from the fact bank. */
-export interface QuizOption {
-  text: string
-  correct: boolean
-}
-
-export interface QuizQuestion {
-  id: string
-  conceptId: string
-  prompt: string
-  options: QuizOption[]
-  explanation: string
-}

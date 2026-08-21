@@ -1,0 +1,2625 @@
+{
+ "module": "HI",
+ "papers": [
+  {
+   "paper": 1,
+   "questions": [
+    {
+     "id": "HI-P1-Q1",
+     "paper": 1,
+     "num": 1,
+     "stem": "The principle of utmost good faith requires:",
+     "options": {
+      "A": "The insurer guarantees all claims",
+      "B": "Both parties disclose material facts honestly",
+      "C": "The insured receives profit from claims",
+      "D": "Premiums cannot change"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q2",
+     "paper": 1,
+     "num": 2,
+     "stem": "A customer intentionally fails to disclose a previous surgery during application. This is:",
+     "options": {
+      "A": "Contribution",
+      "B": "Non-disclosure of material information",
+      "C": "Subrogation",
+      "D": "Assignment"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q3",
+     "paper": 1,
+     "num": 3,
+     "stem": "The main objective of health insurance is to:",
+     "options": {
+      "A": "Generate investment returns",
+      "B": "Provide financial protection against medical expenses",
+      "C": "Replace personal savings completely",
+      "D": "Avoid all medical risks"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q4",
+     "paper": 1,
+     "num": 4,
+     "stem": "Which factor is MOST likely considered during health insurance underwriting?",
+     "options": {
+      "A": "Favourite hospital",
+      "B": "Medical history",
+      "C": "Preferred doctor",
+      "D": "Policy document format"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q5",
+     "paper": 1,
+     "num": 5,
+     "stem": "An insurer reviews an applicant’s health condition before deciding whether to accept the risk. This process is:",
+     "options": {
+      "A": "Claims settlement",
+      "B": "Underwriting",
+      "C": "Contribution",
+      "D": "Indemnification"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q6",
+     "paper": 1,
+     "num": 6,
+     "stem": "A deductible refers to:",
+     "options": {
+      "A": "Amount paid by insured before insurer pays eligible expenses",
+      "B": "Guaranteed claim amount",
+      "C": "Insurance premium refund",
+      "D": "Agent commission"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q7",
+     "paper": 1,
+     "num": 7,
+     "stem": "A customer chooses a higher deductible plan. The likely result is:",
+     "options": {
+      "A": "Higher premium",
+      "B": "Lower premium but higher initial out-of-pocket cost",
+      "C": "Guaranteed renewal",
+      "D": "No exclusions"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q8",
+     "paper": 1,
+     "num": 8,
+     "stem": "Co-insurance means:",
+     "options": {
+      "A": "Two insurers share the same policy",
+      "B": "Insured shares a percentage of covered expenses",
+      "C": "Insurer cancels the contract",
+      "D": "Premium is shared between agents"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q9",
+     "paper": 1,
+     "num": 9,
+     "stem": "A policy exclusion means:",
+     "options": {
+      "A": "A benefit payable twice",
+      "B": "A condition or event not covered under the policy",
+      "C": "A premium discount",
+      "D": "A guaranteed benefit"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q10",
+     "paper": 1,
+     "num": 10,
+     "stem": "A waiting period means:",
+     "options": {
+      "A": "Time before certain benefits become payable",
+      "B": "Time before premium payment",
+      "C": "Time before policy document printing",
+      "D": "Time before underwriting begins"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q11",
+     "paper": 1,
+     "num": 11,
+     "stem": "MediShield Life is:",
+     "options": {
+      "A": "A private medical plan",
+      "B": "A national basic health insurance scheme",
+      "C": "A life insurance product",
+      "D": "An investment product"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q12",
+     "paper": 1,
+     "num": 12,
+     "stem": "Integrated Shield Plans generally:",
+     "options": {
+      "A": "Replace MediShield Life",
+      "B": "Provide additional coverage above MediShield Life",
+      "C": "Are compulsory for everyone",
+      "D": "Cover only overseas treatment"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q13",
+     "paper": 1,
+     "num": 13,
+     "stem": "A key difference between private hospital plans and basic coverage is:",
+     "options": {
+      "A": "Coverage scope and benefit levels",
+      "B": "Premiums are identical",
+      "C": "No underwriting applies",
+      "D": "Claims are unlimited"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q14",
+     "paper": 1,
+     "num": 14,
+     "stem": "An adviser recommending an Integrated Shield Plan should primarily consider:",
+     "options": {
+      "A": "Highest commission",
+      "B": "Customer’s needs and affordability",
+      "C": "Insurer’s sales target",
+      "D": "Product popularity only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q15",
+     "paper": 1,
+     "num": 15,
+     "stem": "A customer wants private hospital coverage but has limited budget. The adviser should:",
+     "options": {
+      "A": "Recommend the most expensive plan",
+      "B": "Explain trade-offs between coverage and affordability",
+      "C": "Ignore budget concerns",
+      "D": "Avoid discussing limitations"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q16",
+     "paper": 1,
+     "num": 16,
+     "stem": "Mr Lim applies for medical insurance. He has hypertension but does not disclose it because it is controlled by medication. The insurer may:",
+     "options": {
+      "A": "Ignore the condition",
+      "B": "Apply underwriting terms",
+      "C": "Automatically reject all claims",
+      "D": "Guarantee coverage"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q17",
+     "paper": 1,
+     "num": 17,
+     "stem": "A customer submits a hospital bill that was intentionally altered. This is:",
+     "options": {
+      "A": "Fraudulent misrepresentation",
+      "B": "Contribution",
+      "C": "Deductible",
+      "D": "Waiting period"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q18",
+     "paper": 1,
+     "num": 18,
+     "stem": "A customer has two medical policies and claims the same expense from both insurers. Which principle applies?",
+     "options": {
+      "A": "Contribution",
+      "B": "Insurable interest",
+      "C": "Proximate cause",
+      "D": "Subrogation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q19",
+     "paper": 1,
+     "num": 19,
+     "stem": "An adviser fails to explain major exclusions before purchase. The adviser may have failed in:",
+     "options": {
+      "A": "Proper disclosure",
+      "B": "Underwriting",
+      "C": "Claim assessment",
+      "D": "Risk transfer"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q20",
+     "paper": 1,
+     "num": 20,
+     "stem": "A customer says: “I don’t need to know exclusions because the insurer will pay anyway.” The adviser should:",
+     "options": {
+      "A": "Agree",
+      "B": "Explain policy limitations clearly",
+      "C": "Avoid discussing exclusions",
+      "D": "Recommend without explanation"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q21",
+     "paper": 1,
+     "num": 21,
+     "stem": "A customer purchases a hospitalisation plan today and is diagnosed with an illness one month later. The insurer discovers the illness existed before policy inception. The insurer may:",
+     "options": {
+      "A": "Pay automatically because the policy exists",
+      "B": "Review whether the condition was pre-existing and whether it was disclosed",
+      "C": "Increase the claim amount",
+      "D": "Ignore medical history"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q22",
+     "paper": 1,
+     "num": 22,
+     "stem": "Which statement about pre-existing conditions is MOST accurate?",
+     "options": {
+      "A": "They are always covered after policy purchase",
+      "B": "They may be excluded or subject to underwriting",
+      "C": "They never affect premiums",
+      "D": "They only apply to life insurance"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q23",
+     "paper": 1,
+     "num": 23,
+     "stem": "An adviser tells a customer: “This plan covers everything, so you do not need to read the policy.” This statement is:",
+     "options": {
+      "A": "Appropriate because advisers explain benefits only",
+      "B": "Misleading because exclusions and limitations must be understood",
+      "C": "Required by MAS",
+      "D": "Acceptable if customer signs the form"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q24",
+     "paper": 1,
+     "num": 24,
+     "stem": "The main purpose of a claims procedure is to:",
+     "options": {
+      "A": "Delay all claims",
+      "B": "Ensure claims are assessed according to policy terms",
+      "C": "Prevent customers from claiming",
+      "D": "Increase premiums"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q25",
+     "paper": 1,
+     "num": 25,
+     "stem": "A customer submits a claim with missing supporting documents. The insurer may:",
+     "options": {
+      "A": "Process immediately without evidence",
+      "B": "Request additional documentation",
+      "C": "Reject all future claims",
+      "D": "Cancel all policies"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q26",
+     "paper": 1,
+     "num": 26,
+     "stem": "A medical insurance policy has an annual limit of $100,000. This means:",
+     "options": {
+      "A": "The customer pays $100,000 premium",
+      "B": "The maximum payable benefit within the policy year is $100,000",
+      "C": "The insurer must pay every claim above this amount",
+      "D": "The policy value increases yearly"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q27",
+     "paper": 1,
+     "num": 27,
+     "stem": "A customer chooses a policy with lower coverage because the premium is more affordable. This reflects:",
+     "options": {
+      "A": "Suitability consideration",
+      "B": "Fraud",
+      "C": "Non-disclosure",
+      "D": "Subrogation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q28",
+     "paper": 1,
+     "num": 28,
+     "stem": "An adviser recommending a health insurance product should first:",
+     "options": {
+      "A": "Understand customer needs and circumstances",
+      "B": "Recommend the highest premium plan",
+      "C": "Recommend the product with the highest commission",
+      "D": "Avoid asking personal questions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q29",
+     "paper": 1,
+     "num": 29,
+     "stem": "A customer refuses to disclose medical history during application. The adviser should:",
+     "options": {
+      "A": "Complete the application without it",
+      "B": "Explain the importance of accurate disclosure",
+      "C": "Guess the answers",
+      "D": "Hide the information from insurer"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q30",
+     "paper": 1,
+     "num": 30,
+     "stem": "The purpose of medical underwriting is NOT to:",
+     "options": {
+      "A": "Assess risk",
+      "B": "Determine appropriate terms",
+      "C": "Evaluate insurability",
+      "D": "Guarantee every claim payment"
+     },
+     "answer": "D"
+    },
+    {
+     "id": "HI-P1-Q31",
+     "paper": 1,
+     "num": 31,
+     "stem": "Mr Lee has an existing medical plan and wants to replace it with a new one. The adviser should consider:",
+     "options": {
+      "A": "Only the new plan’s premium",
+      "B": "Potential loss of existing benefits and waiting periods",
+      "C": "Commission earned",
+      "D": "Insurer advertising"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q32",
+     "paper": 1,
+     "num": 32,
+     "stem": "A customer cancels an existing policy and buys a new one. This is known as:",
+     "options": {
+      "A": "Policy replacement",
+      "B": "Contribution",
+      "C": "Assignment",
+      "D": "Reinsurance"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q33",
+     "paper": 1,
+     "num": 33,
+     "stem": "Which situation may create a risk of claim rejection?",
+     "options": {
+      "A": "Accurate disclosure",
+      "B": "Undisclosed material medical information",
+      "C": "Timely premium payment",
+      "D": "Following claim procedures"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q34",
+     "paper": 1,
+     "num": 34,
+     "stem": "A hospital cash benefit policy generally pays:",
+     "options": {
+      "A": "A fixed benefit amount based on policy terms",
+      "B": "Only the exact hospital bill",
+      "C": "Investment returns",
+      "D": "Agent expenses"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q35",
+     "paper": 1,
+     "num": 35,
+     "stem": "A customer asks whether a treatment is covered before undergoing the procedure. The adviser should:",
+     "options": {
+      "A": "Guarantee payment",
+      "B": "Refer to policy terms and advise confirmation with insurer",
+      "C": "Promise approval",
+      "D": "Ignore the question"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q36",
+     "paper": 1,
+     "num": 36,
+     "stem": "Which is an example of a policy condition?",
+     "options": {
+      "A": "Requirement for premiums to be paid",
+      "B": "Customer’s favourite hospital",
+      "C": "Agent’s sales target",
+      "D": "Competitor pricing"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q37",
+     "paper": 1,
+     "num": 37,
+     "stem": "The principle of indemnity means:",
+     "options": {
+      "A": "Customer should profit from insurance",
+      "B": "Insurance aims to restore financial position after loss",
+      "C": "Customer receives double payment",
+      "D": "Claims are unlimited"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q38",
+     "paper": 1,
+     "num": 38,
+     "stem": "A customer owns multiple medical policies. The purpose of contribution is to:",
+     "options": {
+      "A": "Allow double recovery",
+      "B": "Ensure insurers share covered losses fairly",
+      "C": "Increase premiums",
+      "D": "Cancel policies"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q39",
+     "paper": 1,
+     "num": 39,
+     "stem": "An adviser explains only benefits but not important limitations. This may result in:",
+     "options": {
+      "A": "Better customer understanding",
+      "B": "Inadequate disclosure",
+      "C": "Automatic approval",
+      "D": "Reduced underwriting"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q40",
+     "paper": 1,
+     "num": 40,
+     "stem": "Which customer is likely to require more underwriting assessment?",
+     "options": {
+      "A": "Healthy young applicant",
+      "B": "Applicant with significant medical history",
+      "C": "Customer changing payment method",
+      "D": "Customer updating address"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q41",
+     "paper": 1,
+     "num": 41,
+     "stem": "A customer says: “I want the cheapest plan but also unlimited coverage.” The adviser should:",
+     "options": {
+      "A": "Promise both are available",
+      "B": "Explain the trade-offs between cost and coverage",
+      "C": "Recommend without discussion",
+      "D": "Ignore affordability"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q42",
+     "paper": 1,
+     "num": 42,
+     "stem": "An adviser exaggerates benefits to convince a customer to buy. This may breach:",
+     "options": {
+      "A": "Fair dealing expectations",
+      "B": "Underwriting rules",
+      "C": "Contribution principle",
+      "D": "Claim settlement process"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q43",
+     "paper": 1,
+     "num": 43,
+     "stem": "A customer receives treatment excluded under the policy. The claim outcome depends on:",
+     "options": {
+      "A": "Agent’s personal opinion",
+      "B": "Policy terms and conditions",
+      "C": "Customer’s income",
+      "D": "Hospital location only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q44",
+     "paper": 1,
+     "num": 44,
+     "stem": "A premium increase may occur because of:",
+     "options": {
+      "A": "Claims experience and risk factors",
+      "B": "Agent preference",
+      "C": "Customer’s occupation only",
+      "D": "Policy colour"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q45",
+     "paper": 1,
+     "num": 45,
+     "stem": "A customer signs a proposal form without checking answers. Who remains responsible for accuracy?",
+     "options": {
+      "A": "Only insurer",
+      "B": "Applicant/policyholder",
+      "C": "Hospital",
+      "D": "Adviser only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q46",
+     "paper": 1,
+     "num": 46,
+     "stem": "An adviser should recommend a medical plan based on:",
+     "options": {
+      "A": "Customer needs, objectives and affordability",
+      "B": "Commission level",
+      "C": "Sales target",
+      "D": "Product popularity"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q47",
+     "paper": 1,
+     "num": 47,
+     "stem": "A policyholder delays notifying insurer about a claim without reasonable explanation. This may:",
+     "options": {
+      "A": "Affect claim assessment depending on policy terms",
+      "B": "Automatically double benefits",
+      "C": "Remove exclusions",
+      "D": "Guarantee approval"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q48",
+     "paper": 1,
+     "num": 48,
+     "stem": "Which statement about exclusions is correct?",
+     "options": {
+      "A": "They define situations not covered",
+      "B": "They increase guaranteed benefits",
+      "C": "They are irrelevant after purchase",
+      "D": "They only apply to insurers"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P1-Q49",
+     "paper": 1,
+     "num": 49,
+     "stem": "A customer asks: “Can you guarantee that my future medical bills will be fully paid?” The adviser should:",
+     "options": {
+      "A": "Guarantee payment",
+      "B": "Explain coverage depends on policy terms",
+      "C": "Say all bills are covered",
+      "D": "Avoid answering"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P1-Q50",
+     "paper": 1,
+     "num": 50,
+     "stem": "The BEST practice when advising on health insurance is:",
+     "options": {
+      "A": "Focus on sales completion",
+      "B": "Recommend suitable coverage after understanding customer needs",
+      "C": "Avoid discussing limitations",
+      "D": "Recommend only premium products"
+     },
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "paper": 2,
+   "questions": [
+    {
+     "id": "HI-P2-Q1",
+     "paper": 2,
+     "num": 1,
+     "stem": "Mr Wong applies for a hospitalisation plan. He declares that he has no medical conditions. During underwriting, the insurer discovers he had a minor surgery 3 years ago. Which is the BEST statement?",
+     "options": {
+      "A": "The insurer must reject the application",
+      "B": "The insurer will assess whether the information is material to the risk",
+      "C": "The claim will automatically be denied forever",
+      "D": "The adviser should remove the information"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q2",
+     "paper": 2,
+     "num": 2,
+     "stem": "A customer says: “My previous insurer accepted me, so I do not need to disclose my past medical history again.” The adviser should explain that:",
+     "options": {
+      "A": "Previous acceptance guarantees future acceptance",
+      "B": "Each insurance application requires accurate disclosure",
+      "C": "Only serious illnesses need disclosure",
+      "D": "The insurer can obtain all information automatically"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q3",
+     "paper": 2,
+     "num": 3,
+     "stem": "An applicant intentionally hides a diagnosed illness to obtain better terms. This is:",
+     "options": {
+      "A": "Valid underwriting practice",
+      "B": "Material non-disclosure",
+      "C": "Contribution",
+      "D": "Indemnity"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q4",
+     "paper": 2,
+     "num": 4,
+     "stem": "An insurer offers coverage with an exclusion for a specific medical condition. This means:",
+     "options": {
+      "A": "The entire policy is invalid",
+      "B": "Claims related to that condition may not be payable",
+      "C": "Premiums are automatically refunded",
+      "D": "All future illnesses are excluded"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q5",
+     "paper": 2,
+     "num": 5,
+     "stem": "A customer believes declaring more illnesses will always result in rejection. The adviser should:",
+     "options": {
+      "A": "Tell the customer to omit minor conditions",
+      "B": "Explain accurate disclosure allows proper assessment",
+      "C": "Complete the form on behalf of the customer",
+      "D": "Avoid discussing underwriting"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q6",
+     "paper": 2,
+     "num": 6,
+     "stem": "A customer purchases an Integrated Shield Plan. Which statement is TRUE?",
+     "options": {
+      "A": "It removes the need for MediShield Life",
+      "B": "It supplements basic MediShield Life coverage",
+      "C": "It guarantees private hospital treatment",
+      "D": "It covers all medical expenses without limits"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q7",
+     "paper": 2,
+     "num": 7,
+     "stem": "A policy has a claim limit of $1 million annually. This means:",
+     "options": {
+      "A": "The insurer pays unlimited expenses",
+      "B": "There is a maximum payable amount within the policy period",
+      "C": "Premiums equal $1 million",
+      "D": "The customer receives cash payout annually"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q8",
+     "paper": 2,
+     "num": 8,
+     "stem": "A customer chooses a rider that reduces out-of-pocket expenses. The customer should understand:",
+     "options": {
+      "A": "Coverage is unlimited",
+      "B": "There may still be conditions, limits and exclusions",
+      "C": "Claims are guaranteed",
+      "D": "Underwriting no longer applies"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q9",
+     "paper": 2,
+     "num": 9,
+     "stem": "A customer wants private hospital coverage but cannot afford the premium. The adviser should:",
+     "options": {
+      "A": "Recommend it regardless of affordability",
+      "B": "Discuss alternatives and trade-offs",
+      "C": "Hide premium differences",
+      "D": "Recommend the most expensive option"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q10",
+     "paper": 2,
+     "num": 10,
+     "stem": "A hospitalisation plan provides reimbursement benefits. This means:",
+     "options": {
+      "A": "It generally reimburses eligible expenses according to policy terms",
+      "B": "It always pays a fixed cash amount",
+      "C": "It guarantees profit",
+      "D": "It replaces savings"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q11",
+     "paper": 2,
+     "num": 11,
+     "stem": "A customer undergoes treatment that is specifically excluded under the policy. The claim is likely:",
+     "options": {
+      "A": "Payable because medical treatment occurred",
+      "B": "Subject to exclusion terms",
+      "C": "Automatically doubled",
+      "D": "Paid by adviser"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q12",
+     "paper": 2,
+     "num": 12,
+     "stem": "A customer submits a claim after a long delay. The insurer may:",
+     "options": {
+      "A": "Consider whether policy claim requirements were met",
+      "B": "Automatically approve",
+      "C": "Cancel all policies",
+      "D": "Ignore documentation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q13",
+     "paper": 2,
+     "num": 13,
+     "stem": "A customer exaggerates the amount of medical expenses. This may be:",
+     "options": {
+      "A": "Fraudulent claim behaviour",
+      "B": "Contribution",
+      "C": "Valid disclosure",
+      "D": "Underwriting"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q14",
+     "paper": 2,
+     "num": 14,
+     "stem": "A policyholder receives reimbursement from two insurers exceeding the actual loss. Which principle prevents this?",
+     "options": {
+      "A": "Insurable interest",
+      "B": "Contribution",
+      "C": "Subrogation",
+      "D": "Utmost good faith"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q15",
+     "paper": 2,
+     "num": 15,
+     "stem": "A medical policy does not cover a particular treatment because it is experimental. This is:",
+     "options": {
+      "A": "Exclusion/limitation under policy terms",
+      "B": "Fraud",
+      "C": "Premium loading",
+      "D": "Underwriting error"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q16",
+     "paper": 2,
+     "num": 16,
+     "stem": "An adviser tells a customer: “This plan is the best because many people buy it.” The adviser should instead:",
+     "options": {
+      "A": "Focus on customer suitability",
+      "B": "Use popularity as the main basis",
+      "C": "Avoid explaining features",
+      "D": "Guarantee acceptance"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q17",
+     "paper": 2,
+     "num": 17,
+     "stem": "An adviser recommends a plan without understanding the customer’s budget. The adviser may fail in:",
+     "options": {
+      "A": "Suitability assessment",
+      "B": "Claim processing",
+      "C": "Underwriting",
+      "D": "Reinsurance"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q18",
+     "paper": 2,
+     "num": 18,
+     "stem": "A customer asks whether a policy covers a specific treatment. The adviser is unsure. The adviser should:",
+     "options": {
+      "A": "Guess based on experience",
+      "B": "Verify before advising",
+      "C": "Guarantee coverage",
+      "D": "Ignore the question"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q19",
+     "paper": 2,
+     "num": 19,
+     "stem": "An adviser highlights benefits but does not mention important limitations. This may be:",
+     "options": {
+      "A": "Incomplete disclosure",
+      "B": "Proper practice",
+      "C": "Underwriting",
+      "D": "Claim settlement"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q20",
+     "paper": 2,
+     "num": 20,
+     "stem": "A customer wants to replace an existing policy. The adviser should consider:",
+     "options": {
+      "A": "Only new policy benefits",
+      "B": "Loss of existing benefits and new waiting periods",
+      "C": "Commission impact",
+      "D": "Advertising materials only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q21",
+     "paper": 2,
+     "num": 21,
+     "stem": "Mr Tan has an existing medical condition. The insurer accepts him with additional premium loading. This means:",
+     "options": {
+      "A": "Coverage may be provided under modified terms",
+      "B": "All claims are rejected",
+      "C": "Policy is invalid",
+      "D": "Premium must remain unchanged"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q22",
+     "paper": 2,
+     "num": 22,
+     "stem": "A customer cancels a policy and purchases a new one. Shortly after, the customer discovers the new policy excludes a condition previously covered. This highlights the risk of:",
+     "options": {
+      "A": "Policy replacement",
+      "B": "Contribution",
+      "C": "Subrogation",
+      "D": "Claim escalation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q23",
+     "paper": 2,
+     "num": 23,
+     "stem": "A customer wants insurance mainly because of a recent diagnosis. The adviser should:",
+     "options": {
+      "A": "Explain underwriting and disclosure requirements",
+      "B": "Guarantee approval",
+      "C": "Hide the diagnosis",
+      "D": "Promise immediate coverage"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q24",
+     "paper": 2,
+     "num": 24,
+     "stem": "A customer pays premiums late. Possible consequence:",
+     "options": {
+      "A": "Policy terms may be affected depending on grace period and conditions",
+      "B": "Benefits automatically increase",
+      "C": "Claims become unlimited",
+      "D": "Exclusions disappear"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q25",
+     "paper": 2,
+     "num": 25,
+     "stem": "A customer says: “I thought all hospital bills are covered.” The adviser should explain:",
+     "options": {
+      "A": "All policies have no limitations",
+      "B": "Coverage depends on policy terms, limits and exclusions",
+      "C": "Insurers must pay all bills",
+      "D": "Claims depend only on hospital choice"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q26",
+     "paper": 2,
+     "num": 26,
+     "stem": "A customer with an Integrated Shield Plan chooses a private hospital even though his plan covers only public hospital ward benefits. The MOST appropriate statement is:",
+     "options": {
+      "A": "The insurer must pay all private hospital charges",
+      "B": "The customer may need to bear expenses beyond policy coverage",
+      "C": "The adviser must pay the difference",
+      "D": "Hospital choice does not affect claims"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q27",
+     "paper": 2,
+     "num": 27,
+     "stem": "A customer asks: “If I upgrade my plan today, will my existing illness automatically receive higher coverage?” The adviser should explain:",
+     "options": {
+      "A": "Upgrading always increases all benefits immediately",
+      "B": "Coverage depends on underwriting and policy terms",
+      "C": "Existing conditions are always fully covered",
+      "D": "Upgrades remove all exclusions"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q28",
+     "paper": 2,
+     "num": 28,
+     "stem": "A policyholder selects a higher ward class than covered by the policy. This may result in:",
+     "options": {
+      "A": "Additional out-of-pocket expenses",
+      "B": "Automatic policy cancellation",
+      "C": "Guaranteed full reimbursement",
+      "D": "Premium refund"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q29",
+     "paper": 2,
+     "num": 29,
+     "stem": "A customer chooses a medical plan mainly because it has the highest annual limit. The adviser should also consider:",
+     "options": {
+      "A": "Only the limit matters",
+      "B": "Coverage features, exclusions and affordability",
+      "C": "Agent recommendation only",
+      "D": "Insurer market share only"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q30",
+     "paper": 2,
+     "num": 30,
+     "stem": "Which statement about health insurance benefits is MOST accurate?",
+     "options": {
+      "A": "Higher coverage always means better suitability",
+      "B": "Suitability depends on customer needs and circumstances",
+      "C": "Cheapest plans are always unsuitable",
+      "D": "Premium is the only factor to consider"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q31",
+     "paper": 2,
+     "num": 31,
+     "stem": "An adviser says: “This plan will definitely pay for any future illness.” This statement is:",
+     "options": {
+      "A": "Appropriate explanation",
+      "B": "Misleading because policy terms apply",
+      "C": "Required for sales",
+      "D": "Acceptable if customer agrees"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q32",
+     "paper": 2,
+     "num": 32,
+     "stem": "A customer does not understand insurance terms. The adviser should:",
+     "options": {
+      "A": "Use complex terms to appear professional",
+      "B": "Explain clearly and ensure understanding",
+      "C": "Ask customer to sign immediately",
+      "D": "Avoid discussing details"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q33",
+     "paper": 2,
+     "num": 33,
+     "stem": "An adviser recommends a plan without considering the customer’s existing coverage. This may result in:",
+     "options": {
+      "A": "Overlapping or unsuitable coverage",
+      "B": "Guaranteed better protection",
+      "C": "Lower claims",
+      "D": "Automatic approval"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q34",
+     "paper": 2,
+     "num": 34,
+     "stem": "A customer says: “I want a plan that covers everything with no exclusions.” The adviser should:",
+     "options": {
+      "A": "Promise such a plan exists",
+      "B": "Explain that policies have terms, limits and exclusions",
+      "C": "Avoid answering",
+      "D": "Recommend the highest premium plan"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q35",
+     "paper": 2,
+     "num": 35,
+     "stem": "A customer provides incorrect information in the application because the adviser filled it incorrectly. The MOST appropriate action is:",
+     "options": {
+      "A": "Ensure information submitted is accurate and complete",
+      "B": "Ignore errors after submission",
+      "C": "Hide mistakes from insurer",
+      "D": "Submit without customer review"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q36",
+     "paper": 2,
+     "num": 36,
+     "stem": "A customer applies for medical insurance after discovering a serious illness but does not disclose it. The insurer discovers it during claim assessment. The insurer may:",
+     "options": {
+      "A": "Assess whether non-disclosure affected the contract",
+      "B": "Pay automatically",
+      "C": "Ignore the application form",
+      "D": "Increase the benefit"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q37",
+     "paper": 2,
+     "num": 37,
+     "stem": "A customer buys a plan and later discovers a treatment is excluded. The adviser should explain:",
+     "options": {
+      "A": "Insurance covers every treatment",
+      "B": "Policy terms determine coverage",
+      "C": "Exclusions are illegal",
+      "D": "Customer automatically receives refund"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q38",
+     "paper": 2,
+     "num": 38,
+     "stem": "A customer has a hospital bill of $50,000. The policy has a $5,000 deductible. Generally:",
+     "options": {
+      "A": "Customer pays deductible first, subject to policy terms",
+      "B": "Insurer pays everything immediately",
+      "C": "Deductible is refunded",
+      "D": "Deductible applies only to premiums"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q39",
+     "paper": 2,
+     "num": 39,
+     "stem": "A customer intentionally submits duplicate claims to multiple insurers. This is:",
+     "options": {
+      "A": "Normal insurance practice",
+      "B": "Fraudulent behaviour",
+      "C": "Contribution",
+      "D": "Underwriting"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q40",
+     "paper": 2,
+     "num": 40,
+     "stem": "A policyholder wants to claim a medical expense that occurred before policy commencement. The claim is likely:",
+     "options": {
+      "A": "Payable because the customer is insured now",
+      "B": "Subject to policy coverage dates and terms",
+      "C": "Automatically doubled",
+      "D": "Guaranteed by adviser"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q41",
+     "paper": 2,
+     "num": 41,
+     "stem": "The BEST reason for purchasing health insurance is:",
+     "options": {
+      "A": "To make investment gains",
+      "B": "To manage financial impact of healthcare costs",
+      "C": "To avoid all medical risks",
+      "D": "To guarantee hospital choice"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q42",
+     "paper": 2,
+     "num": 42,
+     "stem": "A customer chooses a plan without understanding the co-payment requirement. The adviser should:",
+     "options": {
+      "A": "Explain the cost-sharing arrangement",
+      "B": "Ignore it because customer signed",
+      "C": "Remove the condition",
+      "D": "Guarantee full reimbursement"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q43",
+     "paper": 2,
+     "num": 43,
+     "stem": "Which action demonstrates good advisory practice?",
+     "options": {
+      "A": "Recommending based on commission",
+      "B": "Explaining benefits, limitations and suitability",
+      "C": "Avoiding difficult questions",
+      "D": "Focusing only on sales"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q44",
+     "paper": 2,
+     "num": 44,
+     "stem": "A medical policy premium increases over time. This may be due to:",
+     "options": {
+      "A": "Risk factors such as age and claims experience",
+      "B": "Adviser preference only",
+      "C": "Hospital choice only",
+      "D": "Customer complaints"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q45",
+     "paper": 2,
+     "num": 45,
+     "stem": "A customer refuses to answer health questions. The adviser should:",
+     "options": {
+      "A": "Explain why accurate information is required",
+      "B": "Guess the answers",
+      "C": "Complete them without consent",
+      "D": "Remove the questions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q46",
+     "paper": 2,
+     "num": 46,
+     "stem": "A policy has an exclusion for cancer-related treatment. If the insured later claims cancer treatment:",
+     "options": {
+      "A": "Claim depends on exclusion wording",
+      "B": "Claim must be paid",
+      "C": "Adviser decides payment",
+      "D": "Premium refund applies automatically"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q47",
+     "paper": 2,
+     "num": 47,
+     "stem": "A customer owns two policies covering the same hospital expense. The customer should:",
+     "options": {
+      "A": "Seek recovery according to policy terms and applicable principles",
+      "B": "Always receive double payment",
+      "C": "Hide other policies",
+      "D": "Cancel one immediately"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q48",
+     "paper": 2,
+     "num": 48,
+     "stem": "An adviser compares products and recommends one because it fits the customer’s needs. This demonstrates:",
+     "options": {
+      "A": "Suitability",
+      "B": "Fraud",
+      "C": "Misrepresentation",
+      "D": "Underwriting"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P2-Q49",
+     "paper": 2,
+     "num": 49,
+     "stem": "A customer asks: “Can you guarantee my future premiums will never change?” The adviser should:",
+     "options": {
+      "A": "Guarantee it",
+      "B": "Explain premiums may change according to policy conditions",
+      "C": "Avoid answering",
+      "D": "Say premiums are controlled by agents"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P2-Q50",
+     "paper": 2,
+     "num": 50,
+     "stem": "The MOST appropriate approach when advising on health insurance is:",
+     "options": {
+      "A": "Sell the plan with highest benefits",
+      "B": "Understand customer needs and recommend suitable coverage",
+      "C": "Focus on insurer promotions",
+      "D": "Minimise discussion of exclusions"
+     },
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "paper": 3,
+   "questions": [
+    {
+     "id": "HI-P3-Q1",
+     "paper": 3,
+     "num": 1,
+     "stem": "Mr Lim applies for a hospitalisation plan. He discloses that he had knee surgery 8 years ago. The insurer accepts the policy with no exclusion. Five years later, he claims for a heart condition. Which statement is MOST accurate?",
+     "options": {
+      "A": "The insurer can reject all claims because he had surgery before",
+      "B": "The previous knee surgery does not automatically affect unrelated claims",
+      "C": "The policy is invalid because surgery was disclosed",
+      "D": "The insurer must refund premiums"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q2",
+     "paper": 3,
+     "num": 2,
+     "stem": "A customer says: “My doctor said my condition is not serious, so I don’t need to declare it.” The adviser should:",
+     "options": {
+      "A": "Accept the customer’s opinion",
+      "B": "Explain that medical conditions should be disclosed for insurer assessment",
+      "C": "Remove the condition from the application",
+      "D": "Advise the customer to wait until renewal"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q3",
+     "paper": 3,
+     "num": 3,
+     "stem": "An insurer offers coverage with a premium loading. This means:",
+     "options": {
+      "A": "Coverage is automatically rejected",
+      "B": "The insurer accepts the risk with adjusted terms",
+      "C": "The customer committed fraud",
+      "D": "The policy has no exclusions"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q4",
+     "paper": 3,
+     "num": 4,
+     "stem": "A customer deliberately answers “No” to a medical question despite knowing the answer is “Yes”. This is:",
+     "options": {
+      "A": "Underwriting discretion",
+      "B": "Misrepresentation/non-disclosure",
+      "C": "Contribution",
+      "D": "Indemnity"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q5",
+     "paper": 3,
+     "num": 5,
+     "stem": "Which statement about underwriting is TRUE?",
+     "options": {
+      "A": "Underwriting removes all future claim uncertainty",
+      "B": "Underwriting helps insurers assess and price risk",
+      "C": "Underwriting guarantees acceptance",
+      "D": "Underwriting only happens after claims"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q6",
+     "paper": 3,
+     "num": 6,
+     "stem": "Mr Tan has an Integrated Shield Plan covering Class B1 ward. He chooses a private hospital. The BEST explanation is:",
+     "options": {
+      "A": "The insurer must pay because he owns an IP",
+      "B": "He may incur additional costs depending on coverage",
+      "C": "Private hospital charges are always fully covered",
+      "D": "Ward type does not matter"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q7",
+     "paper": 3,
+     "num": 7,
+     "stem": "A customer upgrades from a lower plan to a higher plan. Which factor should the adviser highlight?",
+     "options": {
+      "A": "Upgrade always covers existing illnesses immediately",
+      "B": "New underwriting may apply",
+      "C": "Premium will never increase",
+      "D": "Exclusions disappear"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q8",
+     "paper": 3,
+     "num": 8,
+     "stem": "A customer says: “The annual limit is $2 million, so I am fully protected.” The adviser should explain:",
+     "options": {
+      "A": "Annual limit is the only important factor",
+      "B": "Other terms such as exclusions and co-payment matter",
+      "C": "Claims are unlimited",
+      "D": "Premium is irrelevant"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q9",
+     "paper": 3,
+     "num": 9,
+     "stem": "A rider reduces the customer’s out-of-pocket expenses. Which statement is correct?",
+     "options": {
+      "A": "No costs will ever be payable",
+      "B": "Coverage remains subject to policy terms",
+      "C": "Underwriting no longer applies",
+      "D": "All exclusions are removed"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q10",
+     "paper": 3,
+     "num": 10,
+     "stem": "A customer chooses a plan with very high benefits but cannot comfortably afford premiums. The adviser should:",
+     "options": {
+      "A": "Recommend it because coverage is higher",
+      "B": "Consider affordability and suitability",
+      "C": "Ignore financial situation",
+      "D": "Focus only on benefits"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q11",
+     "paper": 3,
+     "num": 11,
+     "stem": "A customer claims for treatment that occurred before policy commencement. The insurer should consider:",
+     "options": {
+      "A": "Policy effective date and coverage terms",
+      "B": "Customer’s income",
+      "C": "Agent’s recommendation",
+      "D": "Hospital reputation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q12",
+     "paper": 3,
+     "num": 12,
+     "stem": "A customer receives treatment overseas. Whether the claim is payable depends mainly on:",
+     "options": {
+      "A": "Customer preference",
+      "B": "Policy coverage terms",
+      "C": "Agent relationship",
+      "D": "Hospital size"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q13",
+     "paper": 3,
+     "num": 13,
+     "stem": "A policyholder submits the same medical bill to two insurers and receives reimbursement twice. This violates:",
+     "options": {
+      "A": "Contribution principle",
+      "B": "Underwriting principle",
+      "C": "Insurable interest",
+      "D": "Risk pooling"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q14",
+     "paper": 3,
+     "num": 14,
+     "stem": "An insurer rejects a claim because the treatment is specifically excluded. The insurer is:",
+     "options": {
+      "A": "Automatically acting unfairly",
+      "B": "Applying policy terms",
+      "C": "Required to pay anyway",
+      "D": "Responsible for medical decisions"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q15",
+     "paper": 3,
+     "num": 15,
+     "stem": "A customer delays submitting a claim for several months. The insurer may:",
+     "options": {
+      "A": "Assess according to claim conditions",
+      "B": "Automatically reject all future claims",
+      "C": "Increase benefits",
+      "D": "Cancel all policies"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q16",
+     "paper": 3,
+     "num": 16,
+     "stem": "An adviser recommends a product because it gives the highest commission. The adviser may have failed to:",
+     "options": {
+      "A": "Act in customer’s interests",
+      "B": "Complete underwriting",
+      "C": "Process claims",
+      "D": "Collect premiums"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q17",
+     "paper": 3,
+     "num": 17,
+     "stem": "A customer wants to buy insurance immediately after diagnosis. The adviser should:",
+     "options": {
+      "A": "Promise coverage",
+      "B": "Explain underwriting and disclosure requirements",
+      "C": "Hide the diagnosis",
+      "D": "Guarantee acceptance"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q18",
+     "paper": 3,
+     "num": 18,
+     "stem": "An adviser says: “This insurer is the best, so you should buy this.” The adviser should instead:",
+     "options": {
+      "A": "Compare suitability based on customer needs",
+      "B": "Use brand reputation only",
+      "C": "Avoid discussing alternatives",
+      "D": "Focus on sales"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q19",
+     "paper": 3,
+     "num": 19,
+     "stem": "A customer does not understand exclusions. The adviser should:",
+     "options": {
+      "A": "Ensure the customer understands important limitations",
+      "B": "Skip the explanation",
+      "C": "Ask the customer to sign quickly",
+      "D": "Assume the customer knows"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q20",
+     "paper": 3,
+     "num": 20,
+     "stem": "A customer replaces an existing medical plan. The adviser should consider:",
+     "options": {
+      "A": "Only the new plan benefits",
+      "B": "Existing benefits and replacement consequences",
+      "C": "Commission differences",
+      "D": "Marketing materials"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q21",
+     "paper": 3,
+     "num": 21,
+     "stem": "Mr Lee has an existing medical condition. The insurer accepts him but excludes treatment related to that condition. Which statement is correct?",
+     "options": {
+      "A": "All claims will be rejected",
+      "B": "The exclusion applies according to policy terms",
+      "C": "The policy is invalid",
+      "D": "Premium must be refunded"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q22",
+     "paper": 3,
+     "num": 22,
+     "stem": "A customer cancels an old policy and buys a new policy. Later, the customer discovers the new plan has exclusions. This highlights:",
+     "options": {
+      "A": "Replacement risk",
+      "B": "Contribution",
+      "C": "Subrogation",
+      "D": "Claim fraud"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q23",
+     "paper": 3,
+     "num": 23,
+     "stem": "A customer tells the adviser: “Please don’t declare my condition because I really need coverage.” The adviser should:",
+     "options": {
+      "A": "Agree to help approval",
+      "B": "Explain disclosure obligations",
+      "C": "Ignore the request",
+      "D": "Change the application answers"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q24",
+     "paper": 3,
+     "num": 24,
+     "stem": "A customer wants maximum coverage but minimum premium. The adviser should:",
+     "options": {
+      "A": "Explain trade-offs",
+      "B": "Guarantee both",
+      "C": "Hide limitations",
+      "D": "Recommend unsuitable coverage"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q25",
+     "paper": 3,
+     "num": 25,
+     "stem": "A customer assumes having insurance means no personal responsibility for healthcare costs. The adviser should explain:",
+     "options": {
+      "A": "Policies may contain limits and cost-sharing features",
+      "B": "Insurance pays everything",
+      "C": "Claims are automatic",
+      "D": "Premiums remove all risks"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q26",
+     "paper": 3,
+     "num": 26,
+     "stem": "A customer has a medical plan with a $10,000 deductible. The hospital bill is $80,000. Which statement is MOST accurate?",
+     "options": {
+      "A": "Insurer pays the full $80,000 automatically",
+      "B": "Customer bears the deductible amount before eligible insurer payment applies",
+      "C": "Deductible is paid only when the policy ends",
+      "D": "Deductible removes all exclusions"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q27",
+     "paper": 3,
+     "num": 27,
+     "stem": "A customer submits a claim and the insurer requests medical reports. The BEST reason is:",
+     "options": {
+      "A": "To delay payment",
+      "B": "To assess whether the claim meets policy conditions",
+      "C": "To cancel the policy",
+      "D": "To increase premium"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q28",
+     "paper": 3,
+     "num": 28,
+     "stem": "A policyholder claims for a treatment that is not medically necessary according to policy wording. The insurer may:",
+     "options": {
+      "A": "Assess claim according to policy definitions and requirements",
+      "B": "Automatically approve because treatment occurred",
+      "C": "Ignore policy wording",
+      "D": "Pay because premiums were collected"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q29",
+     "paper": 3,
+     "num": 29,
+     "stem": "A customer purchases health insurance after experiencing symptoms but before receiving a diagnosis. The customer does not disclose the symptoms. The MOST relevant issue is:",
+     "options": {
+      "A": "Non-disclosure of material information",
+      "B": "Contribution",
+      "C": "Premium discount",
+      "D": "Policy assignment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q30",
+     "paper": 3,
+     "num": 30,
+     "stem": "A customer argues: “I paid premiums for years, therefore every claim must be paid.” The adviser should explain:",
+     "options": {
+      "A": "Premium payment guarantees every claim",
+      "B": "Claims are assessed according to policy terms",
+      "C": "Insurers cannot reject claims",
+      "D": "Exclusions do not apply after years"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q31",
+     "paper": 3,
+     "num": 31,
+     "stem": "A young healthy customer wants the highest coverage available but has limited income. The adviser should:",
+     "options": {
+      "A": "Recommend the highest coverage immediately",
+      "B": "Assess affordability and suitability",
+      "C": "Ignore income considerations",
+      "D": "Focus only on maximum benefits"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q32",
+     "paper": 3,
+     "num": 32,
+     "stem": "A customer already has employer medical benefits and wants additional coverage. The adviser should:",
+     "options": {
+      "A": "Understand existing coverage before recommending",
+      "B": "Recommend another plan immediately",
+      "C": "Ignore current benefits",
+      "D": "Cancel employer coverage"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q33",
+     "paper": 3,
+     "num": 33,
+     "stem": "A customer selects a plan mainly because an online review says it is popular. The adviser should:",
+     "options": {
+      "A": "Explain that suitability depends on individual needs",
+      "B": "Confirm popularity means best choice",
+      "C": "Recommend without assessment",
+      "D": "Ignore customer circumstances"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q34",
+     "paper": 3,
+     "num": 34,
+     "stem": "A customer wants to reduce premium by accepting more cost-sharing. The adviser should explain:",
+     "options": {
+      "A": "Lower premium may involve higher out-of-pocket costs",
+      "B": "Cost-sharing has no effect",
+      "C": "Claims become guaranteed",
+      "D": "Coverage becomes unlimited"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q35",
+     "paper": 3,
+     "num": 35,
+     "stem": "A customer is unable to explain the difference between deductible and co-payment. The adviser should:",
+     "options": {
+      "A": "Ensure customer understands before purchase",
+      "B": "Proceed because the policy document exists",
+      "C": "Avoid explaining technical terms",
+      "D": "Assume customer understands"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q36",
+     "paper": 3,
+     "num": 36,
+     "stem": "An adviser says: “If you don’t buy now, you may never get coverage again.” This is:",
+     "options": {
+      "A": "Acceptable urgency",
+      "B": "Potentially misleading sales practice",
+      "C": "Required disclosure",
+      "D": "Underwriting assessment"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q37",
+     "paper": 3,
+     "num": 37,
+     "stem": "An adviser fails to mention that a plan has a waiting period. This may be considered:",
+     "options": {
+      "A": "Incomplete disclosure",
+      "B": "Correct advice",
+      "C": "Underwriting decision",
+      "D": "Claim approval"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q38",
+     "paper": 3,
+     "num": 38,
+     "stem": "A customer asks: “Which plan has the most benefits?” The adviser should:",
+     "options": {
+      "A": "Recommend the most expensive plan",
+      "B": "Understand the customer’s needs first",
+      "C": "Recommend the highest commission product",
+      "D": "Avoid discussing affordability"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q39",
+     "paper": 3,
+     "num": 39,
+     "stem": "An adviser discovers that a customer misunderstood a key policy feature before purchase. The adviser should:",
+     "options": {
+      "A": "Clarify and ensure understanding",
+      "B": "Ignore the misunderstanding",
+      "C": "Complete the sale quickly",
+      "D": "Avoid further explanation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q40",
+     "paper": 3,
+     "num": 40,
+     "stem": "A customer insists on buying a plan unsuitable for his circumstances. The adviser should:",
+     "options": {
+      "A": "Explain concerns and suitability issues",
+      "B": "Recommend anyway without discussion",
+      "C": "Hide disadvantages",
+      "D": "Focus only on completing the transaction"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q41",
+     "paper": 3,
+     "num": 41,
+     "stem": "Mr Tan replaced his existing medical plan with a new one. Six months later, he discovers the new plan does not cover a condition previously covered. The key risk is:",
+     "options": {
+      "A": "Policy replacement consequences",
+      "B": "Contribution",
+      "C": "Subrogation",
+      "D": "Indemnity"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q42",
+     "paper": 3,
+     "num": 42,
+     "stem": "A customer owns a hospitalisation plan and a critical illness plan. The customer assumes both cover the same things. The adviser should explain:",
+     "options": {
+      "A": "Different products serve different purposes",
+      "B": "All insurance products are identical",
+      "C": "Claims are always duplicated",
+      "D": "Product differences do not matter"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q43",
+     "paper": 3,
+     "num": 43,
+     "stem": "A customer asks the adviser to guarantee that premiums will not increase. The adviser should:",
+     "options": {
+      "A": "Guarantee stability",
+      "B": "Explain premiums may change based on policy terms and factors",
+      "C": "Avoid answering",
+      "D": "Promise insurer approval"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q44",
+     "paper": 3,
+     "num": 44,
+     "stem": "A policyholder fails to pay premiums within the required period. The consequence depends on:",
+     "options": {
+      "A": "Policy terms including grace period and status",
+      "B": "Adviser preference",
+      "C": "Hospital decision",
+      "D": "Customer income"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q45",
+     "paper": 3,
+     "num": 45,
+     "stem": "A customer’s claim is rejected because the illness falls under an exclusion. The adviser should:",
+     "options": {
+      "A": "Explain the policy wording and reason for rejection",
+      "B": "Promise payment anyway",
+      "C": "Blame the insurer immediately",
+      "D": "Ignore the customer"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q46",
+     "paper": 3,
+     "num": 46,
+     "stem": "Which statement about health insurance is MOST accurate?",
+     "options": {
+      "A": "It eliminates all healthcare financial risks",
+      "B": "It provides protection subject to policy conditions",
+      "C": "It guarantees access to any hospital",
+      "D": "It removes the need for savings"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P3-Q47",
+     "paper": 3,
+     "num": 47,
+     "stem": "An adviser recommends a plan without reviewing the customer’s existing policies. The main concern is:",
+     "options": {
+      "A": "Potential unsuitable recommendation",
+      "B": "Higher claim payment",
+      "C": "Better underwriting",
+      "D": "Automatic approval"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q48",
+     "paper": 3,
+     "num": 48,
+     "stem": "A customer provides incorrect information accidentally in the application. The outcome may depend on:",
+     "options": {
+      "A": "Materiality and policy/legal considerations",
+      "B": "Customer popularity",
+      "C": "Hospital preference",
+      "D": "Agent sales target"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q49",
+     "paper": 3,
+     "num": 49,
+     "stem": "A customer says: “I only care about premium. Coverage details are not important.” The adviser should:",
+     "options": {
+      "A": "Explain the importance of benefits, limits and exclusions",
+      "B": "Agree immediately",
+      "C": "Avoid discussing coverage",
+      "D": "Recommend any low-cost plan"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P3-Q50",
+     "paper": 3,
+     "num": 50,
+     "stem": "The BEST overall approach for a health insurance adviser is:",
+     "options": {
+      "A": "Sell the plan with the highest benefits",
+      "B": "Recommend suitable coverage after understanding customer needs",
+      "C": "Focus on insurer incentives",
+      "D": "Minimise discussion of limitations"
+     },
+     "answer": "B"
+    }
+   ]
+  },
+  {
+   "paper": 4,
+   "questions": [
+    {
+     "id": "HI-P4-Q1",
+     "paper": 4,
+     "num": 1,
+     "stem": "Ms Tan applies for a medical insurance plan. She declares she has no illnesses. Six months earlier, she had abnormal test results but no formal diagnosis. What should the adviser advise?",
+     "options": {
+      "A": "Do not declare because there is no diagnosis",
+      "B": "Declare relevant information for insurer assessment",
+      "C": "Wait until a claim occurs",
+      "D": "Only declare confirmed diseases"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q2",
+     "paper": 4,
+     "num": 2,
+     "stem": "An applicant discloses asthma during application. The insurer accepts the policy but excludes asthma-related treatment. This means:",
+     "options": {
+      "A": "The entire policy is invalid",
+      "B": "Coverage applies except for the excluded condition",
+      "C": "All future claims are rejected",
+      "D": "Premium must be refunded"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q3",
+     "paper": 4,
+     "num": 3,
+     "stem": "A customer intentionally provides false health information to obtain lower premiums. This is:",
+     "options": {
+      "A": "Risk sharing",
+      "B": "Misrepresentation",
+      "C": "Contribution",
+      "D": "Indemnity"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q4",
+     "paper": 4,
+     "num": 4,
+     "stem": "Which statement about underwriting is TRUE?",
+     "options": {
+      "A": "It ensures no claims will occur",
+      "B": "It helps determine risk and policy terms",
+      "C": "It removes all exclusions",
+      "D": "It guarantees acceptance"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q5",
+     "paper": 4,
+     "num": 5,
+     "stem": "A customer says: “My previous insurance company accepted me, so this application will definitely be accepted.” The adviser should explain:",
+     "options": {
+      "A": "Acceptance is guaranteed",
+      "B": "Each insurer assesses risk independently",
+      "C": "Medical disclosure is unnecessary",
+      "D": "Underwriting is optional"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q6",
+     "paper": 4,
+     "num": 6,
+     "stem": "A customer purchases a hospitalisation plan with a $20,000 deductible. The deductible is:",
+     "options": {
+      "A": "Amount customer pays before insurer pays eligible expenses",
+      "B": "Premium paid annually",
+      "C": "Maximum claim amount",
+      "D": "Agent commission"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q7",
+     "paper": 4,
+     "num": 7,
+     "stem": "A customer selects a higher deductible mainly because:",
+     "options": {
+      "A": "It may reduce premium",
+      "B": "It removes exclusions",
+      "C": "Claims become guaranteed",
+      "D": "Coverage becomes unlimited"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q8",
+     "paper": 4,
+     "num": 8,
+     "stem": "A medical policy has an annual limit of $500,000. This refers to:",
+     "options": {
+      "A": "Maximum benefit payable during the policy year",
+      "B": "Premium amount",
+      "C": "Customer savings amount",
+      "D": "Guaranteed cash benefit"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q9",
+     "paper": 4,
+     "num": 9,
+     "stem": "A customer assumes a rider means all medical expenses are covered. The adviser should explain:",
+     "options": {
+      "A": "Riders may still have conditions and limits",
+      "B": "Riders remove all exclusions",
+      "C": "Riders guarantee claims",
+      "D": "Riders replace underwriting"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q10",
+     "paper": 4,
+     "num": 10,
+     "stem": "A customer chooses a premium plan that exceeds his budget. The adviser should:",
+     "options": {
+      "A": "Recommend it because benefits are higher",
+      "B": "Consider affordability and suitability",
+      "C": "Ignore financial situation",
+      "D": "Focus only on coverage amount"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q11",
+     "paper": 4,
+     "num": 11,
+     "stem": "An Integrated Shield Plan mainly provides:",
+     "options": {
+      "A": "Additional coverage on top of MediShield Life",
+      "B": "Replacement of MediShield Life",
+      "C": "Investment returns",
+      "D": "Overseas medical coverage only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q12",
+     "paper": 4,
+     "num": 12,
+     "stem": "A customer upgrades his Integrated Shield Plan after being diagnosed with a condition. The adviser should highlight:",
+     "options": {
+      "A": "Upgrade automatically covers the condition",
+      "B": "Underwriting may apply",
+      "C": "Existing illness disappears",
+      "D": "Claims become guaranteed"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q13",
+     "paper": 4,
+     "num": 13,
+     "stem": "A customer selects private hospital treatment beyond his plan coverage. The likely outcome:",
+     "options": {
+      "A": "Insurer pays all costs",
+      "B": "Customer may bear additional expenses",
+      "C": "Policy becomes invalid",
+      "D": "Premium is refunded"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q14",
+     "paper": 4,
+     "num": 14,
+     "stem": "Which factor should NOT be the main reason for recommending an IP?",
+     "options": {
+      "A": "Customer needs",
+      "B": "Customer affordability",
+      "C": "Commission earned",
+      "D": "Existing coverage"
+     },
+     "answer": "C"
+    },
+    {
+     "id": "HI-P4-Q15",
+     "paper": 4,
+     "num": 15,
+     "stem": "A customer wants the highest IP coverage available. The adviser should:",
+     "options": {
+      "A": "Recommend immediately",
+      "B": "Assess whether it suits the customer’s situation",
+      "C": "Ignore affordability",
+      "D": "Avoid discussing exclusions"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q16",
+     "paper": 4,
+     "num": 16,
+     "stem": "A claim is rejected because the treatment is specifically excluded. The BEST explanation:",
+     "options": {
+      "A": "Policy terms determine claim eligibility",
+      "B": "All medical treatment must be paid",
+      "C": "Adviser decides claims",
+      "D": "Premium payment overrides exclusions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q17",
+     "paper": 4,
+     "num": 17,
+     "stem": "A customer submits altered medical receipts. This is:",
+     "options": {
+      "A": "Fraudulent claim behaviour",
+      "B": "Contribution",
+      "C": "Underwriting",
+      "D": "Risk classification"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q18",
+     "paper": 4,
+     "num": 18,
+     "stem": "A customer has two medical insurance policies covering the same expense. The relevant principle:",
+     "options": {
+      "A": "Contribution",
+      "B": "Insurable interest",
+      "C": "Assignment",
+      "D": "Reinsurance"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q19",
+     "paper": 4,
+     "num": 19,
+     "stem": "A customer delays claim submission. The insurer may:",
+     "options": {
+      "A": "Assess according to policy requirements",
+      "B": "Automatically approve",
+      "C": "Double benefits",
+      "D": "Remove exclusions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q20",
+     "paper": 4,
+     "num": 20,
+     "stem": "A customer wants reimbursement for expenses before policy commencement. The claim depends on:",
+     "options": {
+      "A": "Coverage period and policy terms",
+      "B": "Customer income",
+      "C": "Adviser opinion",
+      "D": "Hospital location"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q21",
+     "paper": 4,
+     "num": 21,
+     "stem": "An adviser recommends a product because it pays the highest commission. The adviser may fail in:",
+     "options": {
+      "A": "Suitability and fair dealing",
+      "B": "Underwriting",
+      "C": "Claims processing",
+      "D": "Risk pooling"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q22",
+     "paper": 4,
+     "num": 22,
+     "stem": "An adviser tells a customer: “This plan covers everything.” This is problematic because:",
+     "options": {
+      "A": "Policies have limitations and exclusions",
+      "B": "It improves sales",
+      "C": "It is required",
+      "D": "It removes uncertainty"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q23",
+     "paper": 4,
+     "num": 23,
+     "stem": "A customer does not understand policy exclusions. The adviser should:",
+     "options": {
+      "A": "Ensure understanding before purchase",
+      "B": "Skip explanation",
+      "C": "Assume knowledge",
+      "D": "Focus only on benefits"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q24",
+     "paper": 4,
+     "num": 24,
+     "stem": "A customer wants to replace an existing policy. The adviser should explain:",
+     "options": {
+      "A": "Possible loss of existing benefits and new terms",
+      "B": "Replacement has no risks",
+      "C": "New policy is always better",
+      "D": "Existing policy has no value"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q25",
+     "paper": 4,
+     "num": 25,
+     "stem": "A customer asks: “Which plan is the best?” The adviser should:",
+     "options": {
+      "A": "Recommend the most expensive plan",
+      "B": "Determine what is suitable for the customer",
+      "C": "Recommend the most popular plan",
+      "D": "Choose based on commission"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q26",
+     "paper": 4,
+     "num": 26,
+     "stem": "Mr Lim purchases a medical plan. Two years later, he is diagnosed with a new illness unrelated to any previous condition. The BEST statement is:",
+     "options": {
+      "A": "The claim must be rejected because he had no guarantee of future health",
+      "B": "The claim will be assessed based on policy coverage and terms",
+      "C": "The insurer can cancel all policies immediately",
+      "D": "Previous underwriting removes all claims"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q27",
+     "paper": 4,
+     "num": 27,
+     "stem": "A customer states: “I did not declare my previous treatment because I thought it was not important.” The adviser should explain:",
+     "options": {
+      "A": "Only serious illnesses need disclosure",
+      "B": "Material information should be disclosed for proper assessment",
+      "C": "The customer should hide minor medical history",
+      "D": "Disclosure is only required after claims"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q28",
+     "paper": 4,
+     "num": 28,
+     "stem": "A medical insurance policy excludes treatment arising from a specific condition. This means:",
+     "options": {
+      "A": "The whole policy is cancelled",
+      "B": "Claims related to that condition may not be payable",
+      "C": "All medical claims are excluded",
+      "D": "Premiums must be returned"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q29",
+     "paper": 4,
+     "num": 29,
+     "stem": "A customer is accepted with an additional premium due to higher health risk. This is:",
+     "options": {
+      "A": "Premium loading",
+      "B": "Claim rejection",
+      "C": "Fraud penalty",
+      "D": "Policy cancellation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q30",
+     "paper": 4,
+     "num": 30,
+     "stem": "A customer believes: “Once the insurer accepts my application, every future condition is covered.” The adviser should clarify:",
+     "options": {
+      "A": "Acceptance means unlimited coverage",
+      "B": "Coverage depends on policy terms, limits and exclusions",
+      "C": "All future illnesses are guaranteed",
+      "D": "Claims cannot be rejected"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q31",
+     "paper": 4,
+     "num": 31,
+     "stem": "An insurer requests medical records before approving a claim. The purpose is:",
+     "options": {
+      "A": "To delay the claim",
+      "B": "To verify whether claim requirements are met",
+      "C": "To increase premiums",
+      "D": "To cancel coverage"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q32",
+     "paper": 4,
+     "num": 32,
+     "stem": "A customer claims for a medical procedure that is not listed as a covered benefit. The insurer should:",
+     "options": {
+      "A": "Assess according to policy wording",
+      "B": "Pay because it is medical-related",
+      "C": "Ignore benefit definitions",
+      "D": "Ask the adviser to decide"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q33",
+     "paper": 4,
+     "num": 33,
+     "stem": "A customer submits a hospital bill to multiple insurers and receives more than the actual expense. This is against:",
+     "options": {
+      "A": "Principle of indemnity/contribution",
+      "B": "Underwriting principle",
+      "C": "Insurable interest only",
+      "D": "Risk classification"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q34",
+     "paper": 4,
+     "num": 34,
+     "stem": "A customer’s claim exceeds the policy annual limit. The insurer will generally:",
+     "options": {
+      "A": "Pay unlimited amount",
+      "B": "Pay according to policy limits",
+      "C": "Cancel the policy immediately",
+      "D": "Refund premiums"
+     },
+     "answer": "B"
+    },
+    {
+     "id": "HI-P4-Q35",
+     "paper": 4,
+     "num": 35,
+     "stem": "A customer receives treatment during a waiting period. The claim outcome depends on:",
+     "options": {
+      "A": "Policy terms and waiting period conditions",
+      "B": "Customer relationship with adviser",
+      "C": "Hospital preference",
+      "D": "Premium payment amount only"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q36",
+     "paper": 4,
+     "num": 36,
+     "stem": "An adviser recommends replacing an old medical plan with a new one mainly because of higher commission. The key concern is:",
+     "options": {
+      "A": "Unsuitable recommendation",
+      "B": "Better underwriting",
+      "C": "Automatic improvement",
+      "D": "Guaranteed savings"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q37",
+     "paper": 4,
+     "num": 37,
+     "stem": "A customer cancels an old policy before confirming acceptance of a new plan. The risk is:",
+     "options": {
+      "A": "Temporary loss of coverage",
+      "B": "Guaranteed better benefits",
+      "C": "Lower future premiums",
+      "D": "Removal of exclusions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q38",
+     "paper": 4,
+     "num": 38,
+     "stem": "A customer already has sufficient medical coverage but buys another similar plan. The adviser should consider:",
+     "options": {
+      "A": "Whether additional coverage is suitable",
+      "B": "Whether commission is higher",
+      "C": "Whether more policies are always better",
+      "D": "Whether claims are doubled"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q39",
+     "paper": 4,
+     "num": 39,
+     "stem": "A customer chooses a plan because it has many benefits but does not understand the exclusions. The adviser should:",
+     "options": {
+      "A": "Explain important limitations",
+      "B": "Proceed immediately",
+      "C": "Focus only on benefits",
+      "D": "Avoid discussing exclusions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q40",
+     "paper": 4,
+     "num": 40,
+     "stem": "A customer has limited budget but wants maximum coverage. The adviser should:",
+     "options": {
+      "A": "Explain trade-offs between coverage and affordability",
+      "B": "Promise both are possible",
+      "C": "Ignore budget",
+      "D": "Recommend the highest plan"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q41",
+     "paper": 4,
+     "num": 41,
+     "stem": "An adviser says: “Your claim will definitely be approved because I recommended this plan.” This is:",
+     "options": {
+      "A": "Misleading statement",
+      "B": "Proper assurance",
+      "C": "Required explanation",
+      "D": "Underwriting decision"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q42",
+     "paper": 4,
+     "num": 42,
+     "stem": "A customer asks: “Can I avoid declaring my illness because I am still waiting for diagnosis?” The adviser should:",
+     "options": {
+      "A": "Explain relevant information should be disclosed",
+      "B": "Encourage omission",
+      "C": "Submit without details",
+      "D": "Decide on behalf of customer"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q43",
+     "paper": 4,
+     "num": 43,
+     "stem": "A customer wants a policy mainly because a friend bought the same plan. The adviser should:",
+     "options": {
+      "A": "Assess the customer’s own needs",
+      "B": "Recommend immediately",
+      "C": "Treat all customers the same",
+      "D": "Ignore financial circumstances"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q44",
+     "paper": 4,
+     "num": 44,
+     "stem": "Medical insurance premiums may increase due to:",
+     "options": {
+      "A": "Factors such as claims experience and risk changes",
+      "B": "Agent preference only",
+      "C": "Customer complaints",
+      "D": "Hospital recommendation"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q45",
+     "paper": 4,
+     "num": 45,
+     "stem": "A customer does not read the policy document after purchase. The adviser should still:",
+     "options": {
+      "A": "Ensure important features and limitations were explained",
+      "B": "Assume customer understands everything",
+      "C": "Ignore future questions",
+      "D": "Avoid discussing exclusions"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q46",
+     "paper": 4,
+     "num": 46,
+     "stem": "A customer’s claim is rejected because information was intentionally withheld during application. This relates to:",
+     "options": {
+      "A": "Non-disclosure/misrepresentation",
+      "B": "Contribution",
+      "C": "Deductible",
+      "D": "Co-payment"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q47",
+     "paper": 4,
+     "num": 47,
+     "stem": "Which statement about riders is MOST accurate?",
+     "options": {
+      "A": "Riders provide additional benefits but remain subject to conditions",
+      "B": "Riders remove all exclusions",
+      "C": "Riders guarantee claims",
+      "D": "Riders replace the main policy"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q48",
+     "paper": 4,
+     "num": 48,
+     "stem": "A customer asks: “Why do I need to pay a deductible?” The adviser should explain:",
+     "options": {
+      "A": "It is a cost-sharing feature that may affect premium and claims",
+      "B": "It is an extra commission",
+      "C": "It removes all risks",
+      "D": "It guarantees lower claims"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q49",
+     "paper": 4,
+     "num": 49,
+     "stem": "A customer wants the cheapest plan available. The adviser should:",
+     "options": {
+      "A": "Explain whether it meets the customer’s needs",
+      "B": "Recommend automatically",
+      "C": "Ignore coverage gaps",
+      "D": "Avoid discussing limitations"
+     },
+     "answer": "A"
+    },
+    {
+     "id": "HI-P4-Q50",
+     "paper": 4,
+     "num": 50,
+     "stem": "The MOST appropriate overall advisory approach is:",
+     "options": {
+      "A": "Recommend based on customer needs, affordability and understanding",
+      "B": "Sell the plan with highest benefits",
+      "C": "Focus on sales targets",
+      "D": "Avoid discussing exclusions"
+     },
+     "answer": "A"
+    }
+   ]
+  }
+ ]
+}

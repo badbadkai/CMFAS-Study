@@ -13,10 +13,9 @@ export default function App() {
       <Routes>
         <Route path="/" element={<ModuleSelect />} />
         <Route path="/m/:moduleId" element={<ModeSelect />} />
-        <Route path="/m/:moduleId/study" element={<ChapterSelect mode="study" />} />
+        <Route path="/m/:moduleId/study" element={<ChapterSelect />} />
         <Route path="/m/:moduleId/study/:chapterId" element={<Study />} />
-        <Route path="/m/:moduleId/quiz" element={<ChapterSelect mode="quiz" />} />
-        <Route path="/m/:moduleId/quiz/:chapterId" element={<Quiz />} />
+        <Route path="/m/:moduleId/quiz" element={<Quiz />} />
         <Route path="/m/:moduleId/mock" element={<MockSelect />} />
         <Route path="/m/:moduleId/mock/:paper" element={<MockExam />} />
         <Route path="*" element={<Navigate to="/" replace />} />

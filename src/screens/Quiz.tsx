@@ -2,51 +2,51 @@ import { useMemo, useState } from 'react'
 import { useNavigate, useParams, Navigate } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import Header from '../components/Header'
-import { getModule, moduleConceptPool } from '../data/modules'
-import { generateQuiz } from '../lib/quizEngine'
+import { getModule } from '../data/modules'
+import { sample } from '../lib/shuffle'
 import { saveQuizResult } from '../lib/storage'
-import type { QuizQuestion } from '../types'
+import type { Letter, MockQuestion } from '../types'
+
+const LETTERS: Letter[] = ['A', 'B', 'C', 'D']
+const QUIZ_LEN = 15
 
 export default function Quiz() {
-  const { moduleId = '', chapterId = '' } = useParams()
+  const { moduleId = '' } = useParams()
   const navigate = useNavigate()
   const mod = getModule(moduleId)
-  const chapter = mod?.chapters.find((c) => c.id === chapterId)
 
   const [seed, setSeed] = useState(0)
-  const questions = useMemo<QuizQuestion[]>(() => {
-    if (!chapter) return []
-    return generateQuiz(chapter, moduleConceptPool(moduleId))
+  const questions = useMemo<MockQuestion[]>(() => {
+    if (!mod || mod.mocks.length === 0) return []
+    const all = mod.mocks.flatMap((p) => p.questions)
+    return sample(all, Math.min(QUIZ_LEN, all.length))
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [chapterId, moduleId, seed])
+  }, [moduleId, seed])
 
   const [idx, setIdx] = useState(0)
-  const [chosen, setChosen] = useState<number | null>(null)
+  const [chosen, setChosen] = useState<Letter | null>(null)
   const [score, setScore] = useState(0)
-  const [wrong, setWrong] = useState<string[]>([])
   const [done, setDone] = useState(false)
 
-  if (!mod || !chapter) return <Navigate to="/" replace />
-  if (questions.length === 0) return <Navigate to={`/m/${moduleId}/quiz`} replace />
+  if (!mod || mod.mocks.length === 0) return <Navigate to={`/m/${moduleId}`} replace />
+  if (questions.length === 0) return <Navigate to={`/m/${moduleId}`} replace />
   const q = questions[idx]
 
-  function choose(oi: number) {
+  function choose(letter: Letter) {
     if (chosen !== null) return
-    setChosen(oi)
-    if (q.options[oi].correct) setScore((s) => s + 1)
-    else setWrong((w) => [...w, q.conceptId])
+    setChosen(letter)
+    if (letter === q.answer) setScore((s) => s + 1)
   }
 
   function next() {
     if (idx + 1 >= questions.length) {
-      const finalWrong = wrong
       saveQuizResult({
         moduleId,
-        chapterId,
+        chapterId: 'mock',
         score,
         total: questions.length,
         ts: Date.now(),
-        wrongConceptIds: finalWrong,
+        wrongConceptIds: [],
       })
       setDone(true)
     } else {
@@ -60,7 +60,6 @@ export default function Quiz() {
     setIdx(0)
     setChosen(null)
     setScore(0)
-    setWrong([])
     setDone(false)
   }
 
@@ -68,7 +67,7 @@ export default function Quiz() {
     const pct = Math.round((score / questions.length) * 100)
     return (
       <div className="flex flex-1 flex-col">
-        <Header title="Result" subtitle={`${chapter.title}`} />
+        <Header title="Result" subtitle={`${mod.name} Quiz`} />
         <div className="flex flex-1 flex-col items-center justify-center gap-2 px-6 text-center">
           <p className="text-6xl font-black text-accent">{pct}%</p>
           <p className="text-slate-300">
@@ -79,22 +78,20 @@ export default function Quiz() {
           </p>
         </div>
         <div className="flex gap-3 px-4 pb-6">
-          <button onClick={() => navigate(`/m/${moduleId}/quiz`)} className="btn-ghost flex-1">
-            Chapters
+          <button onClick={() => navigate(`/m/${moduleId}`)} className="btn-ghost flex-1">
+            Back
           </button>
           <button onClick={restart} className="btn-accent flex-1">
-            New 10 questions
+            New set
           </button>
         </div>
       </div>
     )
   }
 
-  const correctIdx = q.options.findIndex((o) => o.correct)
-
   return (
     <div className="flex flex-1 flex-col">
-      <Header title={`Q${idx + 1} of ${questions.length}`} subtitle={`Chapter ${chapter.num} \u2014 ${chapter.title}`} />
+      <Header title={`Q${idx + 1} of ${questions.length}`} subtitle={`${mod.name} \u2014 Quiz Me`} />
 
       <div className="px-4 pt-3">
         <div className="h-1.5 w-full overflow-hidden rounded-full bg-white/10">
@@ -103,25 +100,26 @@ export default function Quiz() {
       </div>
 
       <div className="px-4 pt-5">
-        <p className="whitespace-pre-line text-lg font-semibold leading-snug">{q.prompt}</p>
+        <p className="whitespace-pre-line text-[17px] font-semibold leading-snug">{q.stem}</p>
       </div>
 
       <div className="grid gap-2.5 px-4 pt-5">
-        {q.options.map((o, oi) => {
+        {LETTERS.map((L) => {
           let cls = 'bg-panel ring-white/10'
           if (chosen !== null) {
-            if (oi === correctIdx) cls = 'bg-emerald-500/20 ring-emerald-400/50'
-            else if (oi === chosen) cls = 'bg-rose-500/20 ring-rose-400/50'
+            if (L === q.answer) cls = 'bg-emerald-500/20 ring-emerald-400/50'
+            else if (L === chosen) cls = 'bg-rose-500/20 ring-rose-400/50'
             else cls = 'bg-panel/60 ring-white/5 opacity-60'
           }
           return (
             <motion.button
-              key={oi}
+              key={L}
               whileTap={{ scale: chosen === null ? 0.98 : 1 }}
-              onClick={() => choose(oi)}
+              onClick={() => choose(L)}
               className={`rounded-2xl px-4 py-3.5 text-left text-[15px] font-medium leading-snug ring-1 ${cls}`}
             >
-              {o.text}
+              <span className="mr-2 font-bold text-slate-400">{L}</span>
+              {q.options[L]}
             </motion.button>
           )
         })}
@@ -130,10 +128,9 @@ export default function Quiz() {
       {chosen !== null && (
         <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className="mt-4 px-4">
           <div className="rounded-2xl bg-white/5 p-4 ring-1 ring-white/10">
-            <p className={`text-sm font-bold ${q.options[chosen].correct ? 'text-emerald-400' : 'text-rose-400'}`}>
-              {q.options[chosen].correct ? 'Correct' : 'Not quite'}
+            <p className={`text-sm font-bold ${chosen === q.answer ? 'text-emerald-400' : 'text-rose-400'}`}>
+              {chosen === q.answer ? 'Correct' : `Not quite \u2014 the answer is ${q.answer}`}
             </p>
-            <p className="mt-1 whitespace-pre-line text-sm leading-relaxed text-slate-300">{q.explanation}</p>
           </div>
         </motion.div>
       )}
