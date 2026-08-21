@@ -3571,5 +3571,439 @@
     "answer": "B",
     "explanation": "Funds required = S$18,000 x 15.8775 = S$285,795. Only existing policies with a TPD benefit may be deducted, so 285,795 - 120,000 = S$165,795 additional cover is needed.",
     "calc": true
+  },
+  {
+    "id": "h1-qNEW01",
+    "conceptId": "h1-11",
+    "stem": "A Singapore Citizen chooses a Class B1 ward at a public hospital but later a friend takes a Class C ward at the same hospital. Comparing the Government subsidy the two receive, which statement is correct?",
+    "options": {
+      "A": "The B1 patient gets up to 80% while the C patient gets 20%",
+      "B": "Both wards attract the same subsidy because both are subsidised classes",
+      "C": "The C patient gets up to 80% while the B1 patient gets 20%",
+      "D": "Neither ward is subsidised because both patients chose their own class"
+    },
+    "answer": "C",
+    "explanation": "Class B2 and C wards enjoy heavy subsidies of up to 80%, whereas a Class B1 admission is subsidised at only 20%. The patient in the lower-amenity C ward therefore receives the larger subsidy of the two.",
+    "calc": false
+  },
+  {
+    "id": "h2-qNEW02",
+    "conceptId": "h2-22",
+    "stem": "Under Notice No: MAS 117, which pair correctly states the minimum structured CPD requirement on MediShield Life or shield plan content and the record retention period?",
+    "options": {
+      "A": "4 hours per calendar year; records kept for 3 years",
+      "B": "2 hours per calendar year; records kept for 5 years",
+      "C": "2 hours every two years; records kept for 5 years",
+      "D": "8 hours per calendar year; records kept for 7 years"
+    },
+    "answer": "B",
+    "explanation": "MAS 117 requires a minimum of 2 hours of structured CPD training on shield plan content before the end of each calendar year, and written records must be retained for a period of 5 years.",
+    "calc": false
+  },
+  {
+    "id": "h3-qNEW01",
+    "conceptId": "h3-08",
+    "stem": "Under the enhanced migrant worker Medical Insurance requirements, which statement about Stage 1 (from 1 July 2023) is correct?",
+    "options": {
+      "A": "The annual claim limit is at least S$60,000, and for claim amounts above S$15,000 insurers pay 75% and employers 25%",
+      "B": "The annual claim limit is at least S$15,000, and for claim amounts above S$60,000 insurers pay 25% and employers 75%",
+      "C": "The annual claim limit is at least S$60,000, and insurers pay 25% while employers pay 75% above S$15,000",
+      "D": "The annual claim limit is at least S$35,000, split equally between insurer and employer"
+    },
+    "answer": "A",
+    "explanation": "Stage 1 raised the annual claim limit to at least S$60,000, and for the portion of a claim above S$15,000 the insurer co-pays 75% while the employer co-pays 25%. Reversing the split or the two dollar figures is the trap.",
+    "calc": false
+  },
+  {
+    "id": "h4-qNEW01",
+    "conceptId": "h4-05",
+    "stem": "An insured can no longer do his own job but could still perform a different job for which his education and experience suit him, and he can also still perform any occupation at all. Under which total disability definition is he LEAST likely to receive a benefit?",
+    "options": {
+      "A": "Any Occupation",
+      "B": "Modified Own Occupation",
+      "C": "Own Occupation",
+      "D": "Severe Disability (ADL-based)"
+    },
+    "answer": "A",
+    "explanation": "Any Occupation is the most restrictive definition, requiring inability to perform any occupation whatsoever, so a person who can still work in some job would not qualify. Own Occupation is the most generous and would more readily pay.",
+    "calc": false
+  },
+  {
+    "id": "h4-qNEW02",
+    "conceptId": "h4-14",
+    "stem": "Under the Limitation of Disability Benefit Clause, which payment does NOT reduce the monthly disability income benefit payable?",
+    "options": {
+      "A": "Work Injury Compensation payments",
+      "B": "Continuing commission from the insured's own occupation",
+      "C": "TPD benefit paid under a separate Life policy",
+      "D": "Monthly benefit from another disability income policy"
+    },
+    "answer": "C",
+    "explanation": "The clause reduces the benefit by amounts from other disability policies, Work Injury Compensation and any continuing salary or commission, but TPD benefits paid under a Life policy are expressly excluded from that reduction.",
+    "calc": false
+  },
+  {
+    "id": "h5-qNEW01",
+    "conceptId": "h5-17",
+    "stem": "Comparing ElderShield 300, ElderShield 400 and CareShield Life, which statement is correct?",
+    "options": {
+      "A": "ElderShield 300 pays S$300 a month for 72 months while CareShield Life pays for 60 months",
+      "B": "All three pay only for a fixed maximum term of 60 or 72 months",
+      "C": "CareShield Life pays a one-time lump sum whereas ElderShield pays monthly",
+      "D": "ElderShield 400 pays S$400 a month for 72 months while CareShield Life pays for the entire duration of severe disability"
+    },
+    "answer": "D",
+    "explanation": "ElderShield 300 pays S$300 a month for 60 months and ElderShield 400 pays S$400 a month for 72 months, while CareShield Life pays out for the entire duration the insured remains severely disabled rather than for a capped term.",
+    "calc": false
+  },
+  {
+    "id": "h5-qNEW02",
+    "conceptId": "h5-18",
+    "stem": "A severely disabled Singapore Citizen aged 45 wants to draw the maximum monthly cash under MediSave Care. What is the maximum monthly withdrawal and the minimum MediSave balance needed to reach it?",
+    "options": {
+      "A": "S$150 per month with a balance of S$10,000 or more",
+      "B": "S$200 per month with a balance of S$20,000 or more",
+      "C": "S$300 per month with a balance of S$15,000 or more",
+      "D": "S$200 per month with a balance of S$5,000 or more"
+    },
+    "answer": "B",
+    "explanation": "MediSave Care allows a maximum cash withdrawal of S$200 per month, and that maximum requires a MediSave balance of S$20,000 or more. A balance below S$5,000 means no withdrawal is available at all.",
+    "calc": false
+  },
+  {
+    "id": "h2-calcNEW01",
+    "conceptId": "h2-12",
+    "stem": "An insured entitled to a standard B1 ward is admitted to a private hospital. Covered charges are S$30,000, the pro-ration factor is 40%, the annual deductible is S$3,500 and co-insurance is 10%. Applying the steps in the correct order, how much does the insurer pay?",
+    "options": {
+      "A": "S$7,650",
+      "B": "S$9,540",
+      "C": "S$10,800",
+      "D": "S$23,850"
+    },
+    "answer": "A",
+    "explanation": "Pro-rate first: 40% of S$30,000 is S$12,000. Subtract the S$3,500 deductible to get S$8,500, then subtract 10% co-insurance (S$850) to reach S$7,650. Deducting the deductible before pro-rating, or skipping the deductible, produces the higher wrong figures.",
+    "calc": true
+  },
+  {
+    "id": "h2-calcNEW02",
+    "conceptId": "h2-11",
+    "stem": "An insured has a per annum deductible of S$2,500 and 10% co-insurance. Earlier in the same policy year he already incurred S$1,500 of eligible expenses that fell within the deductible. He is now admitted with a S$9,000 bill fully within his policy limits. How much will the insurer pay for this admission?",
+    "options": {
+      "A": "S$5,850",
+      "B": "S$8,000",
+      "C": "S$7,200",
+      "D": "S$6,500"
+    },
+    "answer": "C",
+    "explanation": "The remaining deductible is S$2,500 minus the S$1,500 already met, i.e. S$1,000. Claimable is S$9,000 minus S$1,000 = S$8,000; co-insurance of 10% is S$800, so the insurer pays S$7,200. Ignoring the earlier expenses or forgetting the co-insurance gives the other figures.",
+    "calc": true
+  },
+  {
+    "id": "h4-calcNEW01",
+    "conceptId": "h4-12",
+    "stem": "Fiona is insured for a total disability monthly benefit of S$6,000 with a 5% per annum escalation benefit. After one full year of continuous total disability the benefit escalates, and she then returns to work earning S$2,000 a month against pre-disability earnings of S$8,000. Applying escalation before the partial disability formula, what monthly benefit does she now receive?",
+    "options": {
+      "A": "S$4,500",
+      "B": "S$4,725",
+      "C": "S$6,300",
+      "D": "S$4,635"
+    },
+    "answer": "B",
+    "explanation": "Escalate first: 5% of S$6,000 is S$300, giving S$6,300. The partial disability factor is (8,000 minus 2,000) divided by 8,000 = 0.75, so 0.75 times S$6,300 = S$4,725. Skipping the escalation gives S$4,500, and using 3% escalation gives S$4,635.",
+    "calc": true
+  },
+  {
+    "id": "h6-qNEW01",
+    "conceptId": "h6-08",
+    "stem": "An insured holds a S$300,000 Whole Life policy with a 60% Acceleration Benefit CI rider and later a S$120,000 Additional Benefit CI rider on the same life. He is diagnosed with one covered CI. Ignoring bonuses, what is paid on diagnosis and what basic sum assured remains for a later death claim?",
+    "options": {
+      "A": "S$300,000 paid on CI, with nothing left for death",
+      "B": "S$180,000 from the acceleration plus S$120,000 from the additional benefit paid on CI, with S$120,000 basic sum assured left for death",
+      "C": "S$120,000 paid on CI, with S$300,000 left for death",
+      "D": "S$420,000 paid on CI, with S$300,000 left for death"
+    },
+    "answer": "B",
+    "explanation": "The acceleration pre-pays 60% of the S$300,000 basic, that is S$180,000, drawn out of the basic sum assured, leaving S$120,000 of basic for a later death claim. The additional benefit rider pays its S$120,000 on top without touching the basic. So S$180,000 plus S$120,000 is paid on diagnosis and S$120,000 of basic remains for death.",
+    "calc": false
+  },
+  {
+    "id": "h6-qNEW02",
+    "conceptId": "h6-02",
+    "stem": "Under the LIA Critical Illness Framework 2019, which statement about how definitions are standardised is correct?",
+    "options": {
+      "A": "LIA sets common definitions for the severe stage of the listed conditions, while insurers set their own definitions for the mildly to moderately severe or extremely severe stages",
+      "B": "LIA sets common definitions for every stage of all covered conditions, leaving insurers no discretion",
+      "C": "Insurers set the severe-stage definitions and LIA only reviews the early-stage ones",
+      "D": "LIA reviews the common definitions once every ten years and covers 30 conditions"
+    },
+    "answer": "A",
+    "explanation": "For the 37 listed conditions LIA standardises only the severe-stage definition; insurers apply their own definitions for the mildly to moderately severe or extremely severe stages, and for conditions not on the list. The definitions are reviewed once every three years, not ten.",
+    "calc": false
+  },
+  {
+    "id": "h6-qNEW03",
+    "conceptId": "h6-11",
+    "stem": "A client wants a CI plan that can pay more than once, including for a relapse or a different condition arising later. Which arrangement meets this need, and how does it differ from a traditional acceleration plan?",
+    "options": {
+      "A": "An Additional Benefit rider, which by design always pays several times",
+      "B": "A stand-alone Term CI policy, which pays repeatedly until expiry",
+      "C": "A Multiple Pay CI plan, which allows second and subsequent claims subject to waiting periods, unlike a traditional or acceleration plan that pays only once",
+      "D": "A single acceleration plan, which resets its sum assured after each claim"
+    },
+    "answer": "C",
+    "explanation": "Only a Multiple Pay CI plan allows a second and subsequent claim, including relapse, recurrence or a different condition, subject to applicable waiting periods. Traditional and acceleration CI plans allow only one claim, and an additional benefit rider on its own does not confer multi-claim ability.",
+    "calc": false
+  },
+  {
+    "id": "h9-qNEW01",
+    "conceptId": "h9-08",
+    "stem": "For a Class A ward bill under MediShield Life, in what order are pro-ration, the claim limits, the deductible and co-insurance applied?",
+    "options": {
+      "A": "Deductible first, then co-insurance, then pro-ration, then the claim limits",
+      "B": "Pro-ration first to the Class B2/C equivalent, then the claim limits, then the deductible, then co-insurance",
+      "C": "Claim limits first, then the deductible, then pro-ration, then co-insurance",
+      "D": "Co-insurance first, then the deductible, then the claim limits, then pro-ration"
+    },
+    "answer": "B",
+    "explanation": "The higher-ward bill is pro-rated down to the Class B2/C equivalent first, then capped by the daily and surgical claim limits, then the deductible is subtracted, and finally co-insurance is applied to the amount above the deductible by band. Applying the deductible or co-insurance before pro-ration would overstate the payout.",
+    "calc": false
+  },
+  {
+    "id": "h9-qNEW02",
+    "conceptId": "h9-33",
+    "stem": "A financial adviser contrasts CareShield Life with ElderShield400 for a client. Which pair of statements is correct?",
+    "options": {
+      "A": "CareShield Life pays for a maximum of 72 months, whereas ElderShield400 pays for life",
+      "B": "Both pay at least S$600 per month, and both cap payouts at 60 months",
+      "C": "CareShield Life pays at least S$600 per month for as long as severe disability lasts with no duration cap, whereas ElderShield400 pays S$400 per month for up to 72 months",
+      "D": "CareShield Life premiums are payable for life, whereas ElderShield400 premiums stop at age 67"
+    },
+    "answer": "C",
+    "explanation": "CareShield Life pays at least S$600 per month for as long as severe disability persists, with no cap on payout duration, while ElderShield400 pays S$400 per month for up to 72 months. CareShield Life premiums are payable until age 67 or for 10 years, whichever is longer, not for life.",
+    "calc": false
+  },
+  {
+    "id": "h9-qNEW03",
+    "conceptId": "h9-27",
+    "stem": "A patient with an Integrated Shield Plan is hospitalised. Given that the IP insurer and the CPF Board each compute a payout, and given the MOH claims protocol, which statement is correct?",
+    "options": {
+      "A": "The eventual payout is the sum of the IP benefit and the MediShield Life benefit, and MediSave is drawn before any insurance",
+      "B": "The eventual payout is the average of the two benefits, and MediFund is drawn before MediSave",
+      "C": "The eventual payout is the lower of the two benefits, and cash is always drawn first",
+      "D": "The eventual payout is the higher of the IP benefit and the MediShield Life benefit, and the claims order is third party or employer, then MediShield Life or IP, then MediSave, then cash"
+    },
+    "answer": "D",
+    "explanation": "To avoid duplication the eventual payout is the higher of the IP benefit and the MediShield Life benefit, not the sum, average or lower. The MOH claims protocol pays in the order of third party or employer or private insurance first, then MediShield Life or IP, then MediSave, then cash.",
+    "calc": false
+  },
+  {
+    "id": "h9-qNEW04",
+    "conceptId": "h9-18",
+    "stem": "A client asks why his adviser cannot let him pay his new Integrated Shield Plan rider premium from MediSave and why the rider no longer covers his entire co-payment. Which explanation is correct?",
+    "options": {
+      "A": "Riders are MediSave-approved up to the Additional Withdrawal Limit, and full riders were retained to reduce over-consumption",
+      "B": "Riders are cash-only and not MediSave-approved, and from 8 March 2018 new riders must leave a co-payment of at least 5% to curb over-consumption",
+      "C": "Riders are fully MediSave-payable, and the minimum co-payment was set at 10%",
+      "D": "Riders may be paid from MediSave up to S$600, and the co-payment must be at least 3%"
+    },
+    "answer": "B",
+    "explanation": "IP riders are not MediSave-approved and can only be paid in cash. From 8 March 2018 new riders must impose a co-payment of 5% or more, since full riders that covered the entire co-payment encouraged over-consumption of healthcare.",
+    "calc": false
+  },
+  {
+    "id": "h10-qNEW01",
+    "conceptId": "h10-12",
+    "stem": "An insurer wants a renewal basis under which it can decline renewal only for reasons unrelated to the insured's health, such as the insured reaching a specified age or leaving a defined occupation, while still being able to raise the premium. Which basis is this?",
+    "options": {
+      "A": "Guaranteed Renewable",
+      "B": "Cancellable",
+      "C": "Conditionally Renewable",
+      "D": "Non-renewable"
+    },
+    "answer": "C",
+    "explanation": "Conditionally Renewable lets the insurer decline renewal only under specified conditions unrelated to health, such as age or employment, and it may also raise the premium. Guaranteed Renewable permits non-renewal only for non-payment, while Cancellable lets the insurer terminate at any time for any reason.",
+    "calc": false
+  },
+  {
+    "id": "h9-calcNEW01",
+    "conceptId": "h9-09",
+    "stem": "A Singapore Citizen aged 55 is admitted to a Class B2 ward for 12 days at S$900 per day (S$10,800 actual), with no surgery. Using Appendix 9B figures (Normal Ward limit S$800 per day, deductible S$2,000, co-insurance 10%/5%/3%), how much does MediShield Life pay?",
+    "options": {
+      "A": "S$6,540",
+      "B": "S$7,600",
+      "C": "S$8,270",
+      "D": "S$7,070"
+    },
+    "answer": "D",
+    "explanation": "Claimable is capped at S$800 x 12 = S$9,600, below the S$10,800 actual. Less the S$2,000 deductible leaves S$7,600. Co-insurance: the first S$5,000 band less the deductible is S$3,000 at 10% = S$300; the amount from S$5,000 to S$9,600 is S$4,600 at 5% = S$230; total S$530. Payout = S$9,600 - S$2,000 - S$530 = S$7,070.",
+    "calc": true
+  },
+  {
+    "id": "h9-calcNEW02",
+    "conceptId": "h9-18",
+    "stem": "A patient with an Integrated Shield Plan rider (minimum 5% co-payment, co-payment cap S$3,000 per policy year) receives panel, pre-authorised treatment costing S$80,000. What is the patient's co-payment?",
+    "options": {
+      "A": "S$4,000",
+      "B": "S$3,000",
+      "C": "S$2,400",
+      "D": "S$800"
+    },
+    "answer": "B",
+    "explanation": "Five per cent of S$80,000 is S$4,000, which exceeds the S$3,000 per policy year cap for panel, pre-authorised treatment. The co-payment is therefore capped at S$3,000. The cap bites whenever 5% of the bill exceeds S$3,000, that is for bills above S$60,000.",
+    "calc": true
+  },
+  {
+    "id": "h9-calcNEW03",
+    "conceptId": "h9-33",
+    "stem": "A CareShield Life policyholder began receiving the base payout of S$600 per month in her first year of severe disability. Payouts increase 2% per year in the first five years. Assuming she remains severely disabled, how much does she receive in total during her SECOND year of disability?",
+    "options": {
+      "A": "S$7,200",
+      "B": "S$7,344",
+      "C": "S$7,488",
+      "D": "S$3,672"
+    },
+    "answer": "B",
+    "explanation": "In the second year the monthly payout rises 2% from S$600 to S$600 x 1.02 = S$612. Over 12 months that is S$612 x 12 = S$7,344. The unadjusted figure of S$7,200 ignores the 2% annual increase.",
+    "calc": true
+  },
+  {
+    "id": "h9-calcNEW04",
+    "conceptId": "h9-08",
+    "stem": "A Singapore Citizen aged 70 stays in a Class A ward (pro-ration factor 35%). Daily ward and treatment charges are S$1,000 per day for 15 days (S$15,000), and a Table 5C surgical procedure is charged at S$9,000. Using Appendix 9B (Normal Ward limit S$800 per day, Table 5C surgical limit S$2,180, deductible S$2,000, co-insurance 10%/5%/3%), what does MediShield Life pay?",
+    "options": {
+      "A": "S$5,008.50",
+      "B": "S$5,430",
+      "C": "S$8,400",
+      "D": "S$4,507.65"
+    },
+    "answer": "A",
+    "explanation": "Pro-rate at 35%: ward S$15,000 becomes S$5,250 (below the S$800 x 15 = S$12,000 limit, so claimable S$5,250); surgery S$9,000 becomes S$3,150 but is capped at the Table 5C limit of S$2,180. Total claimable S$5,250 + S$2,180 = S$7,430. Less the S$2,000 deductible leaves S$5,430. Co-insurance: the first S$5,000 band less deductible is S$3,000 at 10% = S$300, and S$5,000 to S$7,430 is S$2,430 at 5% = S$121.50, total S$421.50. Payout = S$7,430 - S$2,000 - S$421.50 = S$5,008.50.",
+    "calc": true
+  },
+  {
+    "id": "h11-qNEW01",
+    "conceptId": "h11-15",
+    "stem": "A group Health Insurance portfolio reports paid claims of S$400,000 and pending claims of S$60,000 for the year, but the actuary has NOT yet added any estimate for claims that have occurred but are not yet reported. What is the most likely consequence for pricing if this omission is left uncorrected?",
+    "options": {
+      "A": "The incurred claims will be understated and the premium set too low to cover eventual liabilities",
+      "B": "The incurred claims will be overstated and the premium set too high",
+      "C": "There is no effect because unreported claims are never the insurer's liability",
+      "D": "Investment income will automatically offset any shortfall"
+    },
+    "answer": "A",
+    "explanation": "Total claims comprise paid, pending and Incurred But Not Reported (IBNR) claims. Leaving out the IBNR estimate understates incurred claims, so the premium would be set too low and reserves would be insufficient for the eventual liabilities.",
+    "calc": false
+  },
+  {
+    "id": "h11-calcNEW01",
+    "conceptId": "h11-15",
+    "stem": "A block of Health Insurance business earned S$2,000,000 of premium in the year. Paid claims were S$1,050,000, pending claims S$150,000 and estimated IBNR S$120,000. What is the incurred claims (loss) ratio, and how does it compare with a target ceiling of 65%?",
+    "options": {
+      "A": "60.0%; within the 65% target",
+      "B": "66.0%; above the 65% target",
+      "C": "65.0%; exactly at the target",
+      "D": "55.5%; within the 65% target"
+    },
+    "answer": "B",
+    "explanation": "Incurred claims = 1,050,000 + 150,000 + 120,000 = S$1,320,000. Ratio = 1,320,000 / 2,000,000 = 66.0%, which is above the 65% ceiling. Excluding IBNR would wrongly give 60.0% and mask the breach.",
+    "calc": true
+  },
+  {
+    "id": "h12-qNEW01",
+    "conceptId": "h12-09",
+    "stem": "An insurer markets a Hospital Income plan online, asking the applicant only three health questions whose answers decide acceptance, with no medical examination. Which underwriting method is this, and what is the usual trade-off?",
+    "options": {
+      "A": "Guaranteed Issuance Offer, which asks no questions at all",
+      "B": "Full Medical Underwriting, which gives certainty of cover from the start",
+      "C": "Simplified Issuance Offer, giving quick cover but at a higher premium for the risk taken on",
+      "D": "Moratorium Underwriting, which excludes pre-existing conditions for two to five years"
+    },
+    "answer": "C",
+    "explanation": "Asking a few questions whose answers determine approval with no medical exam describes a Simplified Issuance Offer. Cover is granted quickly compared with days or weeks under full underwriting, but the premium is higher because the insurer takes on more unknown risk. A method asking no questions at all would instead be a Guaranteed Issuance Offer.",
+    "calc": false
+  },
+  {
+    "id": "h12-qNEW02",
+    "conceptId": "h12-13",
+    "stem": "A 40-member group Disability Income plan sets a free cover limit. One senior manager's proposed benefit exceeds that limit. What must happen to his cover above the free cover limit?",
+    "options": {
+      "A": "The entire group must be re-underwritten from scratch",
+      "B": "Only the portion of his benefit exceeding the free cover limit must be individually underwritten",
+      "C": "His whole benefit is automatically granted because he belongs to the group",
+      "D": "His benefit is capped at the free cover limit and the excess is declined outright"
+    },
+    "answer": "B",
+    "explanation": "The free cover limit is the maximum coverage granted to each member without a health declaration. Coverage up to the limit is granted automatically, but the excess above it must be individually underwritten, which may require the member to complete a health declaration or medical examination.",
+    "calc": false
+  },
+  {
+    "id": "h12-qNEW03",
+    "conceptId": "h12-18",
+    "stem": "An underwriter assesses a Disability Income proposal as needing more than 50% extra premium and instead offers to cap the benefit period at five years. Which category of underwriting decision is this?",
+    "options": {
+      "A": "A specific exclusion endorsement",
+      "B": "A postponement of the risk",
+      "C": "A modification of benefits",
+      "D": "An outright decline"
+    },
+    "answer": "C",
+    "explanation": "Capping the benefit period, reducing the monthly benefit or lengthening the deferred period are all modifications of benefits. A specific exclusion names a particular risk that will not be paid, a postponement offers no terms now but reconsiders later, and a decline offers no cover at all.",
+    "calc": false
+  },
+  {
+    "id": "h12-calcNEW01",
+    "conceptId": "h12-03",
+    "stem": "An employed applicant earns a basic salary of S$5,000 a month and already holds an existing Disability Income policy paying S$1,200 a month. Applying the income-replacement ceiling, what is the maximum ADDITIONAL monthly Disability Income benefit an insurer will typically allow?",
+    "options": {
+      "A": "S$3,750",
+      "B": "S$2,550",
+      "C": "S$3,800",
+      "D": "S$1,200"
+    },
+    "answer": "B",
+    "explanation": "The benefit is capped at 75% of current income: 0.75 x S$5,000 = S$3,750 total. Deducting the existing S$1,200 already in force leaves S$3,750 - S$1,200 = S$2,550 of additional benefit the insurer will allow.",
+    "calc": true
+  },
+  {
+    "id": "h13-qNEW01",
+    "conceptId": "h13-03",
+    "stem": "Under Part I of Notice No: MAS 120, which Division sets out the requirements on the provision of advice relating to A&H policies, including the Know-Your-Client and needs-analysis obligations?",
+    "options": {
+      "A": "Division 1A",
+      "B": "Division 3",
+      "C": "Division 4",
+      "D": "Division 6"
+    },
+    "answer": "C",
+    "explanation": "Division 4 covers requirements on the provision of advice for A&H policies: reasonable basis for advice, Know-Your-Client, needs analysis, documentation and record keeping, and switching. Division 1A deals with disclosure, Division 3 with additional disclosure by direct insurers, and Division 6 with offences.",
+    "calc": false
+  },
+  {
+    "id": "h13-qNEW02",
+    "conceptId": "h13-11",
+    "stem": "A direct insurer plans to vary the terms of an individual Medical Expense policy and to reissue the product summary. Which pair of MAS 120 requirements applies?",
+    "options": {
+      "A": "Furnish the change in writing at least 14 days beforehand, in any legible 8-point font",
+      "B": "Furnish the change in writing at least 30 days beforehand, in Times New Roman 10-point or larger",
+      "C": "Furnish the change verbally at renewal, in Arial 12-point or larger",
+      "D": "Furnish the change in writing at least 60 days beforehand, in Calibri 11-point or larger"
+    },
+    "answer": "B",
+    "explanation": "The insurer must disclose the existing and new terms in writing to the policy owner at least 30 days before the change takes effect, and the product summary, conditional offer letter or termination letter for an individual Medical Expense policy must use a font size of Times New Roman 10-point or larger.",
+    "calc": false
+  },
+  {
+    "id": "h15-calcNEW01",
+    "conceptId": "h15-03",
+    "stem": "A client needs S$2,000 a month to maintain his dependants' living expenses for 20 years should he become totally and permanently disabled. Using a real rate of return of 3% the present-value annuity factor is 15.3238. He already holds a Group Term Life policy with a S$150,000 TPD benefit. What ADDITIONAL TPD sum assured is required?",
+    "options": {
+      "A": "S$517,771",
+      "B": "S$367,771",
+      "C": "S$217,771",
+      "D": "S$150,000"
+    },
+    "answer": "C",
+    "explanation": "Yearly income needed = S$2,000 x 12 = S$24,000. Funds required = S$24,000 x 15.3238 = S$367,771. Only existing policies carrying a TPD benefit may be deducted, so S$367,771 - S$150,000 = S$217,771 of additional cover is needed.",
+    "calc": true
   }
 ]
