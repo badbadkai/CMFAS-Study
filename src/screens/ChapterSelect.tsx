@@ -18,11 +18,11 @@ export default function ChapterSelect() {
           <button
             key={c.id}
             onClick={() => navigate(`/m/${moduleId}/study/${c.id}`)}
-            className="tile flex items-center justify-between gap-3"
+            className="tile flex items-center gap-3"
           >
-            <span className="min-w-0">
+            <span className="min-w-0 flex-1">
               <span className="text-xs font-semibold text-accent">Chapter {c.num}</span>
-              <span className="block truncate text-[15px] font-semibold leading-tight">{c.title}</span>
+              <span className="mt-0.5 block break-words text-[15px] font-semibold leading-tight">{c.title}</span>
               <span className="text-xs text-slate-500">{c.concepts.length} concepts</span>
             </span>
           </button>

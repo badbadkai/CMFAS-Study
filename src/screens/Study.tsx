@@ -10,6 +10,54 @@ import type { PlayableQuestion } from '../types'
 
 const POP_LEN = 10
 
+type FactBlock = { kind: 'p'; text: string } | { kind: 'list'; lead: string; items: string[] }
+
+const MARKER = /\((?:[a-z]|\d{1,2}|i{1,3}|iv|v)\)/gi
+
+function endSentence(s: string) {
+  const t = s.replace(/\s+$/, '')
+  return /[.!?)]$/.test(t) ? t : `${t}.`
+}
+
+// Break a dense fact string into readable blocks: one sentence per line,
+// with (a)/(1) enumerations and "lead: item; item; item" turned into bullets.
+function formatFact(fact: string): FactBlock[] {
+  const sentences = fact
+    .split(/(?<![A-Z])(?<!\be\.g)(?<!\bi\.e)(?<!\betc)(?<!\bvs)(?<!\bNo)\.\s+(?=[A-Z(])/g)
+    .map((s) => s.trim())
+    .filter(Boolean)
+    .map(endSentence)
+
+  return sentences.map((s): FactBlock => {
+    const markers = s.match(MARKER)
+    if (markers && markers.length >= 2) {
+      const start = s.indexOf(markers[0])
+      const lead = s
+        .slice(0, start)
+        .replace(/[:;,\s]+$/, '')
+        .replace(/\s+(?:or|and)$/i, '')
+      const items = s
+        .slice(start)
+        .split(/;\s*(?:or\s+|and\s+)?(?=\()/i)
+        .map((x) => x.replace(MARKER, '').trim().replace(/^[:,\s]+/, '').replace(/[.;]\s*$/, ''))
+        .filter(Boolean)
+      return { kind: 'list', lead: lead ? `${lead}:` : '', items }
+    }
+    const colon = s.indexOf(': ')
+    if (colon > -1) {
+      const body = s.slice(colon + 2)
+      if ((body.match(/;/g) || []).length >= 2) {
+        const items = body
+          .split(/;\s*(?:or\s+|and\s+)?/i)
+          .map((x) => x.trim().replace(/[.;]\s*$/, ''))
+          .filter(Boolean)
+        return { kind: 'list', lead: `${s.slice(0, colon).trim()}:`, items }
+      }
+    }
+    return { kind: 'p', text: s }
+  })
+}
+
 export default function Study() {
   const { moduleId = '', chapterId = '' } = useParams()
   const navigate = useNavigate()
@@ -128,7 +176,9 @@ export default function Study() {
               else if (info.offset.x > 80) go(-1)
             }}
             onClick={() => setFlipped((f) => !f)}
-            className="flex min-h-[22rem] w-full cursor-pointer flex-col justify-center rounded-3xl bg-panel p-7 text-left ring-1 ring-white/10"
+            className={`flex min-h-[22rem] max-h-[74vh] w-full cursor-pointer flex-col overflow-y-auto rounded-3xl bg-panel p-7 text-left ring-1 ring-white/10 ${
+              flipped ? 'justify-start' : 'justify-center'
+            }`}
           >
             {!flipped ? (
               <>
@@ -139,11 +189,26 @@ export default function Study() {
             ) : (
               <>
                 <span className="text-xs font-semibold uppercase tracking-wide text-slate-400">{card.term}</span>
-                <span className="mt-3 text-[17px] leading-relaxed text-slate-100">{card.fact}</span>
+                <div className="mt-3 space-y-3 text-[16px] leading-relaxed text-slate-100">
+                  {formatFact(card.fact).map((b, k) =>
+                    b.kind === 'p' ? (
+                      <p key={k}>{b.text}</p>
+                    ) : (
+                      <div key={k}>
+                        {b.lead && <p className="mb-1.5">{b.lead}</p>}
+                        <ul className="list-disc space-y-1 pl-5 marker:text-accent">
+                          {b.items.map((it, j) => (
+                            <li key={j}>{it}</li>
+                          ))}
+                        </ul>
+                      </div>
+                    ),
+                  )}
+                </div>
                 {card.trap && (
-                  <span className="mt-4 rounded-xl bg-amber-400/10 px-3 py-2 text-sm text-amber-300 ring-1 ring-amber-400/20">
+                  <p className="mt-4 rounded-xl bg-amber-400/10 px-3 py-2 text-sm text-amber-300 ring-1 ring-amber-400/20">
                     Watch out: {card.trap}
-                  </span>
+                  </p>
                 )}
               </>
             )}

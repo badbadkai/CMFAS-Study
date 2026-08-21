@@ -9,7 +9,7 @@ import MockExam from './screens/MockExam'
 
 export default function App() {
   return (
-    <div className="mx-auto flex min-h-dvh max-w-md flex-col safe-top safe-bottom">
+    <div className="mx-auto flex min-h-dvh max-w-md flex-col overflow-x-hidden safe-top safe-bottom">
       <Routes>
         <Route path="/" element={<ModuleSelect />} />
         <Route path="/m/:moduleId" element={<ModeSelect />} />
