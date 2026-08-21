@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "a1-01-q",
+    "conceptId": "a1-01",
+    "stem": "A client asks what a structured product actually is at its core. Which description is correct?",
+    "options": {
+      "A": "A fixed-income instrument packaged together with one or more derivatives, giving a return linked to an underlying asset",
+      "B": "A single equity security that pays a dividend linked to an index",
+      "C": "A diversified basket of shares actively managed by a fund house",
+      "D": "A pure derivative contract with no principal component"
+    },
+    "answer": "A",
+    "explanation": "A structured product combines a bond or deposit (the backbone) with a derivative that delivers the market-linked payoff; it is not one single instrument. The 'single equity security' choice is wrong because a structured product is not an equity and holders do not share the issuer's profits.",
+    "calc": false
+  },
+  {
+    "id": "a1-02-q",
+    "conceptId": "a1-02",
+    "stem": "In the classic capital-protection build, how is the money typically allocated so the product can return principal while still offering upside?",
+    "options": {
+      "A": "Most of the money buys call options and a small part buys a zero-coupon bond",
+      "B": "The money is split equally between shares and a put option",
+      "C": "Most of the money buys a zero-coupon bond that grows back to principal, and the small remainder buys a call option for upside",
+      "D": "All of the money buys a coupon-paying bond and the coupons buy shares"
+    },
+    "answer": "C",
+    "explanation": "The bulk goes into a zero-coupon bond that accretes to par at maturity (returning capital), while the small leftover funds a call option for market participation. The 'most of the money buys call options' choice reverses the allocation, which would not protect capital.",
+    "calc": false
+  },
+  {
+    "id": "a1-03-q",
+    "conceptId": "a1-03",
+    "stem": "Since September 2009 in Singapore, what is the rule about marketing a structured product as 'capital protected'?",
+    "options": {
+      "A": "It may be used freely as a general marketing description",
+      "B": "It is allowed only for structured deposits",
+      "C": "It is required by MAS on every product summary",
+      "D": "It is prohibited unless the product genuinely guarantees the capital"
+    },
+    "answer": "D",
+    "explanation": "After the Lehman Minibond collapse, MAS banned the misleading 'capital protected' and 'capital guaranteed' labels from September 2009 unless the protection is genuine. The 'may be used freely' choice is exactly the misuse the rule was designed to stop.",
+    "calc": false
+  },
+  {
+    "id": "a1-04-q",
+    "conceptId": "a1-04",
+    "stem": "What does the 'wrapper' of a structured product determine?",
+    "options": {
+      "A": "The legal form, which decides how it is regulated and what protection the investor gets",
+      "B": "The colour and design of the marketing brochure",
+      "C": "The credit rating of the issuer",
+      "D": "The correlation between the underlying assets"
+    },
+    "answer": "A",
+    "explanation": "The wrapper is the legal form of delivery (deposit, note, fund, or ILP) and it drives the regulator and investor protections. The 'colour and design of the brochure' choice misses the regulatory point entirely.",
+    "calc": false
+  },
+  {
+    "id": "a1-05-q",
+    "conceptId": "a1-05",
+    "stem": "A customer assumes his structured deposit is covered by the Deposit Insurance Scheme like his savings account. Is he correct?",
+    "options": {
+      "A": "Yes, all bank deposits including structured deposits are covered",
+      "B": "No, structured deposits are excluded from the Deposit Insurance Scheme",
+      "C": "Yes, but only up to the first year",
+      "D": "No, but they are covered by the Policy Owners' Protection Scheme instead"
+    },
+    "answer": "B",
+    "explanation": "A structured deposit is NOT covered by the Deposit Insurance Scheme; only ordinary deposits are. The 'all bank deposits are covered' choice is the common misconception that the name 'deposit' implies the usual protection.",
+    "calc": false
+  },
+  {
+    "id": "a1-06-q",
+    "conceptId": "a1-06",
+    "stem": "A structured note is legally which of the following, and what does that mean if the issuer fails?",
+    "options": {
+      "A": "A secured bond, so the holder is repaid first from ring-fenced collateral",
+      "B": "An equity stake, so the holder shares in any residual assets",
+      "C": "An unsecured debenture, so the holder ranks as an unsecured creditor",
+      "D": "A trust interest, so the assets are held separately from the issuer"
+    },
+    "answer": "C",
+    "explanation": "A structured note is an unsecured debenture (debt) of the issuer, so on default the noteholder is merely an unsecured creditor, exactly what hurt Lehman Minibond holders. The 'secured bond' choice wrongly assumes the note is secured.",
+    "calc": false
+  },
+  {
+    "id": "a1-07-q",
+    "conceptId": "a1-07",
+    "stem": "Which statement about structured fund and structured ILP wrappers is correct?",
+    "options": {
+      "A": "A structured fund is issued only by life insurers",
+      "B": "A structured ILP is a collective investment scheme issued by banks",
+      "C": "Both are always issued as unsecured notes",
+      "D": "A structured fund is a collective investment scheme, and a structured ILP is issued only by life insurers"
+    },
+    "answer": "D",
+    "explanation": "A structured fund is a CIS, while a structured ILP is an investment-linked policy that only life insurers may issue. The 'structured fund is issued only by life insurers' choice swaps the two; only insurers issue ILPs, not funds.",
+    "calc": false
+  },
+  {
+    "id": "a1-08-q",
+    "conceptId": "a1-08",
+    "stem": "Structured products are commonly grouped by objective into which three types?",
+    "options": {
+      "A": "Capital protection, yield enhancement, and participation products",
+      "B": "Deposits, notes, and funds",
+      "C": "Senior, subordinated, and unsecured products",
+      "D": "Futures, options, and swaps"
+    },
+    "answer": "A",
+    "explanation": "By objective the three groups are capital protection, yield enhancement, and participation. The 'deposits, notes, and funds' choice lists wrappers (legal forms), not objectives.",
+    "calc": false
+  },
+  {
+    "id": "a1-09-q",
+    "conceptId": "a1-09",
+    "stem": "In a reverse convertible bond, what is the investor's position and its consequence?",
+    "options": {
+      "A": "The investor buys a put, so downside is fully hedged",
+      "B": "The investor writes a put, earning a higher coupon but risking being delivered the shares if the price falls through the kick-in level",
+      "C": "The investor writes a call, capping upside but with no downside risk",
+      "D": "The investor buys a call, so the maximum loss is the premium"
+    },
+    "answer": "B",
+    "explanation": "A reverse convertible pairs a bond with a WRITTEN put, so the investor effectively sells the put for a higher coupon and bears the downside if the underlying falls through the kick-in (typically 20-30% below start). The 'buys a put' choice reverses the option position and would not generate the enhanced yield.",
+    "calc": false
+  },
+  {
+    "id": "a1-10-q",
+    "conceptId": "a1-10",
+    "stem": "A discount certificate lets an investor gain exposure at a discount. What is the trade-off?",
+    "options": {
+      "A": "The certificate must be held to a fixed maturity with no early exit",
+      "B": "The investor loses all dividend rights permanently",
+      "C": "The upside is capped at a strike level in exchange for the discounted entry",
+      "D": "The downside is unlimited in exchange for the discount"
+    },
+    "answer": "C",
+    "explanation": "A discount certificate is built from two options: you enter at a discount but the upside is capped at a strike. The 'downside is unlimited' choice misstates the trade; the discount is bought by giving up top-end gains, not by taking unlimited downside.",
+    "calc": false
+  },
+  {
+    "id": "a1-11-q",
+    "conceptId": "a1-11",
+    "stem": "Among participation certificates, which correctly matches the type to its behaviour?",
+    "options": {
+      "A": "Tracker pays a bonus if a barrier is not breached",
+      "B": "Airbag mirrors the underlying one-for-one",
+      "C": "Tracker mirrors the underlying one-for-one; airbag cushions moderate falls",
+      "D": "Bonus cushions moderate falls before losses bite"
+    },
+    "answer": "C",
+    "explanation": "A tracker mirrors the underlying one-for-one, a bonus pays a bonus if a barrier holds, and an airbag cushions moderate falls. The 'tracker pays a bonus' choice mislabels the tracker as a bonus certificate.",
+    "calc": false
+  },
+  {
+    "id": "a1-12-q",
+    "conceptId": "a1-12",
+    "stem": "In a callable security, who holds the call and what risk does the investor bear?",
+    "options": {
+      "A": "The investor holds the call and bears no additional risk",
+      "B": "The issuer holds a put, so the investor bears no reinvestment risk",
+      "C": "Neither party holds an option; it is a straight bond",
+      "D": "The issuer holds the call, so the investor bears reinvestment risk if rates fall and the issuer calls"
+    },
+    "answer": "D",
+    "explanation": "Value equals a straight bond minus a call held by the ISSUER, so the investor is short the call and faces reinvestment risk when falling rates prompt an early call. The 'investor holds the call' choice wrongly gives the option to the investor.",
+    "calc": false
+  },
+  {
+    "id": "a1-13-q",
+    "conceptId": "a1-13",
+    "stem": "On issuer default, how do senior and subordinated debt rank, and what does this imply for pricing?",
+    "options": {
+      "A": "Subordinated ranks ahead of senior, so it should pay less",
+      "B": "Senior ranks ahead of subordinated, so subordinated is riskier and should pay more",
+      "C": "They rank equally, so they pay the same",
+      "D": "Senior ranks behind subordinated, so senior should pay more"
+    },
+    "answer": "B",
+    "explanation": "Senior debt is repaid before subordinated debt, making a subordinated note riskier and therefore it should offer a higher yield. The 'subordinated ranks ahead of senior' choice inverts the ranking.",
+    "calc": false
+  },
+  {
+    "id": "a1-14-q",
+    "conceptId": "a1-14",
+    "stem": "Which correctly states the SGX minimum listing thresholds for an ETF and an ETN?",
+    "options": {
+      "A": "ETF: at least S$750k in assets; ETN: at least S$20m in issue size",
+      "B": "ETF: at least S$100m and 1,000 holders; ETN: at least S$5m",
+      "C": "ETF: at least S$20m in assets and 25% held by at least 500 public holders; ETN: at least S$750k in issue size",
+      "D": "ETF and ETN both require at least S$20m and 500 holders"
+    },
+    "answer": "C",
+    "explanation": "An ETF needs at least S$20m in assets with 25% held by at least 500 public holders, while an ETN needs at least S$750k in issue size. The 'ETF at least S$750k / ETN at least S$20m' choice swaps the two figures.",
+    "calc": false
+  },
+  {
+    "id": "a1-15-q",
+    "conceptId": "a1-15",
+    "stem": "A collective investment scheme sold to retail investors in Singapore must be:",
+    "options": {
+      "A": "Recognised by MAS if constituted in Singapore, or authorised if overseas",
+      "B": "Authorised by MAS if constituted in Singapore, or recognised by MAS if constituted overseas",
+      "C": "Listed on SGX regardless of where it is constituted",
+      "D": "Approved only by the fund manager's home regulator"
+    },
+    "answer": "B",
+    "explanation": "A Singapore-constituted CIS is authorised by MAS; an overseas-constituted one is recognised by MAS. The 'recognised if in Singapore, authorised if overseas' choice reverses the two terms.",
+    "calc": false
+  },
+  {
+    "id": "a1-16-q",
+    "conceptId": "a1-16",
+    "stem": "How is the ILP sub-fund structure best described in law?",
+    "options": {
+      "A": "A legal trust with the policy owner as beneficiary",
+      "B": "A partnership between the insurer and the policy owner",
+      "C": "Not a legal trust; the insurer is legal owner in a quasi-trust arrangement",
+      "D": "A company wholly owned by the policy owners"
+    },
+    "answer": "C",
+    "explanation": "The ILP sub-fund is not a legal trust; the insurer is the legal owner, giving a quasi-trust arrangement governed by the Insurance Act 1966, Notice MAS 307 and the SFA 2001. The 'legal trust' choice wrongly treats it as a true trust.",
+    "calc": false
+  },
+  {
+    "id": "a1-17-q",
+    "conceptId": "a1-17",
+    "stem": "Under the MAS Fair Dealing Guidelines, which outcome is the key one on suitability for an adviser recommending a structured product?",
+    "options": {
+      "A": "Outcome 1",
+      "B": "Outcome 4",
+      "C": "Outcome 5",
+      "D": "Outcome 2"
+    },
+    "answer": "D",
+    "explanation": "Fair Dealing Outcome 2 states that products and services recommended are suitable for the customer, the central suitability standard. The other outcomes address different fair-dealing goals.",
+    "calc": false
+  },
+  {
+    "id": "a1-18-q",
+    "conceptId": "a1-18",
+    "stem": "Before recommending a structured product, an adviser must complete both KYC and KYP. What does KYP require?",
+    "options": {
+      "A": "Knowing the client's income and tax residency",
+      "B": "Knowing the product well enough to explain it plainly to the client",
+      "C": "Knowing the client's objectives and risk appetite",
+      "D": "Knowing the issuer's board of directors"
+    },
+    "answer": "B",
+    "explanation": "Know Your Product means understanding the product well enough to explain it clearly, while Know Your Client covers objectives, horizon, risk appetite and experience. The 'client's objectives and risk appetite' choice describes KYC, not KYP.",
+    "calc": false
+  },
+  {
+    "id": "a1-19-q",
+    "conceptId": "a1-19",
+    "stem": "The four investor objectives compete against one another. Which set correctly lists them?",
+    "options": {
+      "A": "Leverage, diversification, correlation, and hedging",
+      "B": "Tax efficiency, estate planning, insurance, and liquidity",
+      "C": "Safety of principal, income, capital growth, and liquidity",
+      "D": "Yield, duration, convexity, and credit quality"
+    },
+    "answer": "C",
+    "explanation": "The four competing objectives are safety of principal, income, capital growth, and liquidity, and matching a product to the client's ranked objectives is the heart of suitability. The 'leverage, diversification, correlation, hedging' choice lists risk concepts, not investor objectives.",
+    "calc": false
+  },
+  {
+    "id": "a2-01-q",
+    "conceptId": "a2-01",
+    "stem": "Market risk in a structured product can arise from two sources. Which pair is correct?",
+    "options": {
+      "A": "General market risk (broad market moves) and issuer-specific risk (events specific to the issuer or reference entity)",
+      "B": "Liquidity risk and correlation risk",
+      "C": "Model risk and legal risk",
+      "D": "Currency risk and margin risk"
+    },
+    "answer": "A",
+    "explanation": "Market risk splits into general market risk from broad moves and issuer-specific risk from events tied to the issuer or reference entity; both feed the payoff. The 'liquidity and correlation' choice lists distinct risk categories, not the two components of market risk.",
+    "calc": false
+  },
+  {
+    "id": "a2-02-q",
+    "conceptId": "a2-02",
+    "stem": "Why is counterparty credit risk described as central rather than peripheral to structured products, even for a 'capital protected' one?",
+    "options": {
+      "A": "Because the underlying shares can always fall to zero",
+      "B": "Because MAS guarantees all structured products",
+      "C": "Because most structured products rely on a derivative counterparty, so protection is only as good as the party providing it",
+      "D": "Because liquidity always dries up at maturity"
+    },
+    "answer": "C",
+    "explanation": "Most structured products depend on a derivative or swap counterparty, so any 'protection' is only as reliable as that counterparty. The 'shares can fall to zero' choice confuses market risk with counterparty risk.",
+    "calc": false
+  },
+  {
+    "id": "a2-03-q",
+    "conceptId": "a2-03",
+    "stem": "Which pair describes the two main defences against counterparty risk?",
+    "options": {
+      "A": "Diversifying the underlying and lengthening the maturity",
+      "B": "Trading through an exchange with central clearing, or using an ISDA agreement with collateral and netting",
+      "C": "Buying a put option and holding cash",
+      "D": "Requiring a higher credit rating and a shorter tenor"
+    },
+    "answer": "B",
+    "explanation": "Central clearing substitutes the clearing house as counterparty, while an ISDA agreement with collateral and netting reduces net exposure. The 'diversifying and lengthening maturity' choice addresses market risk, not counterparty risk.",
+    "calc": false
+  },
+  {
+    "id": "a2-04-q",
+    "conceptId": "a2-04",
+    "stem": "Liquidity risk in structured products takes two forms. Which pair is correct?",
+    "options": {
+      "A": "General and issuer-specific liquidity",
+      "B": "Primary and secondary market risk",
+      "C": "Bid liquidity and offer liquidity",
+      "D": "Institutional liquidity risk (the market dries up) and investor liquidity risk (the investor cannot exit before maturity at a fair price)"
+    },
+    "answer": "D",
+    "explanation": "Institutional liquidity risk is the market for the instrument drying up, while investor liquidity risk is being unable to exit before maturity at a fair price; structured products often have thin secondary markets. The 'general and issuer-specific' choice borrows the language of market risk instead.",
+    "calc": false
+  },
+  {
+    "id": "a2-05-q",
+    "conceptId": "a2-05",
+    "stem": "Foreign exchange risk in a structured product can arise through which two channels?",
+    "options": {
+      "A": "Converting principal into and out of a foreign currency, and measuring the underlying's performance in a different currency",
+      "B": "Interest rate swaps and currency swaps only",
+      "C": "The bid-offer spread and the front-end charge",
+      "D": "Contango and backwardation"
+    },
+    "answer": "A",
+    "explanation": "FX risk arises both from converting the principal in and out of a foreign currency and from measuring the underlying's return in a different currency; an adverse move can wipe out a good product return. The 'interest rate and currency swaps' choice refers to swap types, not FX exposure channels.",
+    "calc": false
+  },
+  {
+    "id": "a2-06-q",
+    "conceptId": "a2-06",
+    "stem": "Which of the following is an example of structural risk built into a product's design?",
+    "options": {
+      "A": "A broad fall in equity markets",
+      "B": "The issuer failing to pay a coupon",
+      "C": "A derivative trigger such as a kick-in or knock-out that changes the payoff",
+      "D": "A shift in exchange rates"
+    },
+    "answer": "C",
+    "explanation": "Structural risk is designed into the product, e.g. leverage, kick-in/knock-out triggers, concentration and collateral quality, and it can amplify losses beyond the underlying's move. The 'broad fall in equity markets' choice is general market risk, not structural risk.",
+    "calc": false
+  },
+  {
+    "id": "a2-07-q",
+    "conceptId": "a2-07",
+    "stem": "What does embedded leverage (gearing) do to a structured product's behaviour?",
+    "options": {
+      "A": "It dampens the effect of underlying moves on the product value",
+      "B": "It only magnifies gains, never losses",
+      "C": "It removes counterparty risk entirely",
+      "D": "It makes a small move in the underlying cause a large move in the product value, cutting both ways"
+    },
+    "answer": "D",
+    "explanation": "Gearing means a small underlying move produces a large product move, and it accelerates losses as well as gains. The 'only magnifies gains' choice is the tempting half-truth; leverage cuts both ways.",
+    "calc": false
+  },
+  {
+    "id": "a2-08-q",
+    "conceptId": "a2-08",
+    "stem": "How do kick-in and knock-out barrier features affect a payoff?",
+    "options": {
+      "A": "A kick-in guarantees a minimum return and a knock-out guarantees the maximum",
+      "B": "A kick-in can suddenly expose the investor to losses, and a knock-out can terminate upside once a level is touched",
+      "C": "Both simply increase the coupon with no risk",
+      "D": "They only apply to interest rate swaps"
+    },
+    "answer": "B",
+    "explanation": "Once a barrier level is touched, a kick-in can suddenly expose the investor to losses and a knock-out can terminate the upside; these discontinuities are a defining structural risk. The 'guarantees a minimum/maximum' choice misreads the triggers as guarantees.",
+    "calc": false
+  },
+  {
+    "id": "a2-09-q",
+    "conceptId": "a2-09",
+    "stem": "What lesson about legal and regulatory risk did the Lehman Minibonds episode teach?",
+    "options": {
+      "A": "That MAS insures all structured notes against loss",
+      "B": "That structured notes always outperform deposits",
+      "C": "That documentation and jurisdiction matter, as a 'safe-sounding' unsecured note referencing a defaulting entity can lead to near-total loss",
+      "D": "That currency risk is the largest risk in structured products"
+    },
+    "answer": "C",
+    "explanation": "The Minibonds showed how the legal structure, unsecured notes referencing a defaulting entity, turned a safe-sounding product into near-total loss, so documentation and jurisdiction matter. The 'MAS insures all structured notes' choice is false; there was no such insurance.",
+    "calc": false
+  },
+  {
+    "id": "a2-10-q",
+    "conceptId": "a2-10",
+    "stem": "Correlation used in multi-asset structured products ranges between which values, and why does it matter?",
+    "options": {
+      "A": "0 to 1; if it shifts, only the coupon changes",
+      "B": "-100 to +100; it only affects tax treatment",
+      "C": "0 to +2; it has no effect on the hedge",
+      "D": "-1 to +1; if assumed correlations shift, the payoff and hedge behave differently than modelled"
+    },
+    "answer": "D",
+    "explanation": "Correlation runs from -1 to +1, and multi-asset payoffs and hedges depend on assumed correlations, so a shift changes both. The '0 to 1; only the coupon changes' choice gives the wrong range and understates the impact.",
+    "calc": false
+  },
+  {
+    "id": "a2-11-q",
+    "conceptId": "a2-11",
+    "stem": "Modelling risk in structured products is best illustrated by which event?",
+    "options": {
+      "A": "The Lehman Minibond collapse",
+      "B": "The Flash Crash, showing algorithm-driven dislocation when models break down under stress",
+      "C": "The Asian Financial Crisis",
+      "D": "The banning of 'capital protected' labels"
+    },
+    "answer": "B",
+    "explanation": "Payoffs and hedges rely on models that can break down under stress; the Flash Crash is the classic illustration of algorithm-driven dislocation. The 'Lehman Minibond collapse' choice is the illustration for legal/regulatory risk, not modelling risk.",
+    "calc": false
+  },
+  {
+    "id": "a2-12-q",
+    "conceptId": "a2-12",
+    "stem": "Early redemption risk in a callable or auto-callable structure is a form of which broader risk?",
+    "options": {
+      "A": "Currency risk, since redemption is always paid in a foreign currency",
+      "B": "Reinvestment risk, since the investor may have to reinvest in a market that has moved against them",
+      "C": "Correlation risk, since barriers depend on multiple assets",
+      "D": "Liquidity risk, since the secondary market always freezes"
+    },
+    "answer": "B",
+    "explanation": "Early redemption forces the investor to reinvest, often in a market that has moved against them, so it is a form of reinvestment risk baked into callable and auto-callable structures. The 'currency risk' choice wrongly ties it to currency of payment.",
+    "calc": false
+  },
+  {
+    "id": "a3-01-q",
+    "conceptId": "a3-01",
+    "stem": "A derivative is best described as a contract for delayed delivery whose value derives from an underlying. Which set lists the four families?",
+    "options": {
+      "A": "Futures/forwards, options/warrants, swaps, and contracts for differences",
+      "B": "Bonds, deposits, funds, and ILPs",
+      "C": "Calls, puts, straddles, and spreads",
+      "D": "Equities, commodities, currencies, and rates"
+    },
+    "answer": "A",
+    "explanation": "The four derivative families are futures/forwards, options/warrants, swaps, and contracts for differences. The 'bonds, deposits, funds, ILPs' choice lists structured-product wrappers, not derivative families.",
+    "calc": false
+  },
+  {
+    "id": "a3-02-q",
+    "conceptId": "a3-02",
+    "stem": "Which statement correctly distinguishes futures from forwards?",
+    "options": {
+      "A": "Futures are OTC and customised; forwards are exchange-traded and standardised",
+      "B": "Both are exchange-traded and marked to market daily",
+      "C": "Futures are exchange-traded, standardised and margined with daily mark-to-market; forwards are OTC, customised and settled at maturity",
+      "D": "Forwards are margined daily; futures settle only at maturity"
+    },
+    "answer": "C",
+    "explanation": "Futures are standardised, exchange-traded, margined and marked-to-market daily, whereas forwards are customised OTC contracts settled at maturity. The 'futures are OTC / forwards are exchange-traded' choice swaps the two definitions.",
+    "calc": false
+  },
+  {
+    "id": "a3-03-q",
+    "conceptId": "a3-03",
+    "stem": "How is a forward price determined, and what is it NOT?",
+    "options": {
+      "A": "It equals spot plus cost of carry, and it is a forecast of the future spot price",
+      "B": "It equals spot plus cost of carry (financing and storage less income), and it is an arbitrage-free relationship, not a forecast of the future spot price",
+      "C": "It equals the average of past spot prices",
+      "D": "It equals spot minus the risk-free rate, and it predicts the spot at expiry"
+    },
+    "answer": "B",
+    "explanation": "Forward price equals spot plus cost of carry (financing and storage, less income); it is an arbitrage-free relationship rather than a forecast of the future spot. The choice that calls it 'a forecast of the future spot price' gets the formula right but the nature wrong.",
+    "calc": false
+  },
+  {
+    "id": "a3-04-q",
+    "conceptId": "a3-04",
+    "stem": "When futures trade above spot, the market is said to be in which state, and what is the basis?",
+    "options": {
+      "A": "Backwardation; basis is the difference between spot and futures that widens at expiry",
+      "B": "Contango; basis is always exactly zero",
+      "C": "Contango; basis is the difference between spot and futures that converges to zero at expiry",
+      "D": "Backwardation; basis equals the cost of carry permanently"
+    },
+    "answer": "C",
+    "explanation": "Futures above spot is contango (below spot is backwardation), and the basis is the spot-futures difference that converges to zero at expiry. The 'backwardation; widens at expiry' choice mislabels the state and the basis behaviour.",
+    "calc": false
+  },
+  {
+    "id": "a3-05-q",
+    "conceptId": "a3-05",
+    "stem": "In futures margin mechanics, what triggers a margin call and what must the trader pay?",
+    "options": {
+      "A": "The initial margin triggers it; the trader pays maintenance margin",
+      "B": "Equity rising above initial margin triggers it; the trader withdraws variation margin",
+      "C": "The exchange fee triggers it; the trader pays a commission",
+      "D": "Equity falling to the maintenance margin triggers it; the trader tops up with variation margin"
+    },
+    "answer": "D",
+    "explanation": "A margin call is triggered when equity falls to the maintenance margin, and the trader must post variation margin to top back up, driven by daily mark-to-market. The 'initial margin triggers it; pays maintenance margin' choice confuses the trigger with the top-up.",
+    "calc": false
+  },
+  {
+    "id": "a3-06-q",
+    "conceptId": "a3-06",
+    "stem": "An investor who owns a holding and wants to protect it against a price fall would use which of the following?",
+    "options": {
+      "A": "A short hedge, since it protects a holding you already own",
+      "B": "A long hedge, since it protects a future purchase",
+      "C": "A speculative long position to add exposure",
+      "D": "A currency swap to net the cash flows"
+    },
+    "answer": "A",
+    "explanation": "A short hedge protects a holding you already own, while a long hedge protects a future purchase; hedgers reduce existing exposure and speculators seek profit. The 'long hedge' choice applies to a future purchase, not an owned holding.",
+    "calc": false
+  },
+  {
+    "id": "a3-07-q",
+    "conceptId": "a3-07",
+    "stem": "To hedge an equity portfolio using index futures, how is the number of contracts (hedge ratio) determined?",
+    "options": {
+      "A": "By ignoring beta and matching only the dollar value",
+      "B": "By using the correlation coefficient in place of beta",
+      "C": "By scaling the exposure by the portfolio beta so the futures position offsets the portfolio's market sensitivity",
+      "D": "By dividing the premium by the strike"
+    },
+    "answer": "C",
+    "explanation": "The hedge ratio scales by the portfolio beta so the futures offset the portfolio's market sensitivity. The 'ignoring beta and matching only the dollar value' choice would under- or over-hedge a portfolio whose beta differs from 1.",
+    "calc": false
+  },
+  {
+    "id": "a3-08-q",
+    "conceptId": "a3-08",
+    "stem": "What is the key difference between European and American options?",
+    "options": {
+      "A": "European options can only be traded in Europe; American only in the US",
+      "B": "European options are always calls; American always puts",
+      "C": "European options have no strike price",
+      "D": "European options exercise only at expiry; American options exercise any time up to expiry"
+    },
+    "answer": "D",
+    "explanation": "The distinction is about timing: European options exercise only at expiry, American options any time up to expiry, regardless of geography. The 'traded only in Europe / US' choice is the common geography-based misreading.",
+    "calc": false
+  },
+  {
+    "id": "a3-09-q",
+    "conceptId": "a3-09",
+    "stem": "For a call option, when is it in-the-money, and how do the buyer's and writer's maximum losses compare?",
+    "options": {
+      "A": "In-the-money when strike > market; buyer loss unlimited, writer loss capped",
+      "B": "In-the-money when strike < market; buyer loss capped at the premium, writer loss can be unlimited on an uncovered call",
+      "C": "In-the-money when strike = market; both losses capped at the premium",
+      "D": "In-the-money when strike < market; both buyer and writer risk the premium only"
+    },
+    "answer": "B",
+    "explanation": "A call is in-the-money when the strike is below the market price; the buyer's loss is capped at the premium paid while the writer of an uncovered call faces unlimited loss. The 'strike > market; buyer loss unlimited' choice inverts both the moneyness condition and the risk profiles.",
+    "calc": false
+  },
+  {
+    "id": "a3-10-q",
+    "conceptId": "a3-10",
+    "stem": "Which of the following is an exotic option that pays off based on the AVERAGE price of the underlying over a period?",
+    "options": {
+      "A": "Barrier option",
+      "B": "Binary (digital) option",
+      "C": "Asian option",
+      "D": "Lookback option"
+    },
+    "answer": "C",
+    "explanation": "An Asian option settles on the average price of the underlying over the period. A barrier option instead depends on whether a level is touched, so that choice is a different exotic.",
+    "calc": false
+  },
+  {
+    "id": "a3-11-q",
+    "conceptId": "a3-11",
+    "stem": "A conservative investor holds a stock and wants income while capping upside. Which strategy fits, and how does it differ from a protective put?",
+    "options": {
+      "A": "Covered call (sell a call on owned stock for income); a protective put instead buys a put to insure against a fall",
+      "B": "Protective put (sell a put on owned stock); a covered call buys a call for upside",
+      "C": "Naked call; a protective put writes a call",
+      "D": "Long straddle; a protective put sells both a call and a put"
+    },
+    "answer": "A",
+    "explanation": "A covered call sells a call on stock you own to earn income while capping upside, whereas a protective put buys a put to insure against a fall. The 'protective put sells a put' choice mislabels selling a put as a protective put.",
+    "calc": false
+  },
+  {
+    "id": "a3-12-q",
+    "conceptId": "a3-12",
+    "stem": "What distinguishes a naked call from the offsetting-stock version, in terms of risk?",
+    "options": {
+      "A": "A naked call is fully covered, so risk is capped",
+      "B": "A naked call always limits loss to the premium received",
+      "C": "A naked call is the same as a protective put",
+      "D": "A naked call is written without the offsetting stock, carrying open-ended risk"
+    },
+    "answer": "D",
+    "explanation": "Writing a naked call means selling it without holding the offsetting stock, exposing the writer to open-ended risk. The 'fully covered, risk capped' choice describes a covered call, which is the opposite of naked.",
+    "calc": false
+  },
+  {
+    "id": "a3-13-q",
+    "conceptId": "a3-13",
+    "stem": "How do the cash flows differ between an interest rate swap and a currency swap?",
+    "options": {
+      "A": "Both net the cash flows and exchange no principal",
+      "B": "An interest rate swap nets the same-currency flows; a currency swap exchanges both principal and interest in different currencies with no netting",
+      "C": "An interest rate swap exchanges full principal; a currency swap nets the difference",
+      "D": "Both exchange full principal and interest with no netting"
+    },
+    "answer": "B",
+    "explanation": "In an interest rate swap the same-currency cash flows are netted so only the difference changes hands, whereas a currency swap exchanges both principal and interest in different currencies with no netting. The 'IRS exchanges full principal; currency swap nets' choice reverses the two.",
+    "calc": false
+  },
+  {
+    "id": "a3-14-q",
+    "conceptId": "a3-14",
+    "stem": "A distinctive feature of a credit default swap (CDS) that enables speculation is:",
+    "options": {
+      "A": "The protection buyer must own the reference asset",
+      "B": "The protection seller receives the reference bond upfront",
+      "C": "The protection buyer need NOT own the reference asset",
+      "D": "The CDS is exchange-traded and margined daily"
+    },
+    "answer": "C",
+    "explanation": "A CDS transfers credit risk from buyer to seller for a fee, and crucially the buyer need not own the reference asset, which allows speculation on credit. The 'buyer must own the reference asset' choice is the very requirement that CDS removes.",
+    "calc": false
+  },
+  {
+    "id": "a3-15-q",
+    "conceptId": "a3-15",
+    "stem": "An equity swap allows an investor to gain equity exposure by doing what?",
+    "options": {
+      "A": "Buying the shares outright and lending them",
+      "B": "Purchasing a call and a put on the same strike",
+      "C": "Netting same-currency interest cash flows only",
+      "D": "Exchanging the equity returns for a financing leg, gaining exposure without owning the asset"
+    },
+    "answer": "D",
+    "explanation": "An equity swap exchanges equity returns for a financing leg, and a commodity swap does the same for a commodity price, giving exposure without owning the asset outright. The 'buying the shares outright' choice defeats the purpose of a swap.",
+    "calc": false
+  },
+  {
+    "id": "a3-16-q",
+    "conceptId": "a3-16",
+    "stem": "For a contract for differences (CFD), which statement about dividends, financing and expiry is correct?",
+    "options": {
+      "A": "A CFD has a fixed expiry; long CFD pays dividends and receives interest",
+      "B": "A CFD has no expiry and is leveraged; going long you receive dividends but pay financing interest, going short is the reverse",
+      "C": "A CFD has no leverage; long and short both receive dividends",
+      "D": "A CFD expires monthly; short CFD receives dividends and pays interest"
+    },
+    "answer": "B",
+    "explanation": "A CFD is leveraged with no expiry; long positions receive dividends but pay financing interest, and short positions pay dividends but receive interest. The 'fixed expiry; long pays dividends' choice wrongly assigns an expiry and reverses the cash flows.",
+    "calc": false
+  },
+  {
+    "id": "a4-01-q",
+    "conceptId": "a4-01",
+    "stem": "Which description best captures what a structured ILP is?",
+    "options": {
+      "A": "A regular-premium participating policy with bonus smoothing",
+      "B": "A single-premium investment-linked policy packaging term insurance with a structured investment, where the policy owner bears the full gains and losses",
+      "C": "A capital-guaranteed deposit issued by a bank",
+      "D": "A pure term-insurance contract with no investment element"
+    },
+    "answer": "B",
+    "explanation": "A structured ILP is a single-premium ILP that packages term insurance with a structured investment (essentially a unit trust plus a derivative), and the policy owner takes all the investment risk. The 'participating policy with bonus smoothing' choice is wrong because there is no smoothing and it is single premium.",
+    "calc": false
+  },
+  {
+    "id": "a4-02-q",
+    "conceptId": "a4-02",
+    "stem": "How does a structured ILP differ from a participating (par) policy in how returns reach the owner?",
+    "options": {
+      "A": "The ILP smooths returns using a bonus reserve",
+      "B": "The ILP guarantees a minimum bonus each year",
+      "C": "The ILP has no bonus smoothing, so fund gains or losses flow straight through to the owner",
+      "D": "The ILP pays returns only at death"
+    },
+    "answer": "C",
+    "explanation": "Unlike a par policy, an ILP has no bonus smoothing to cushion returns, so whatever the fund earns or loses passes straight to the owner. The 'smooths returns using a bonus reserve' choice describes the par policy mechanism the ILP lacks.",
+    "calc": false
+  },
+  {
+    "id": "a4-03-q",
+    "conceptId": "a4-03",
+    "stem": "The death benefit of a structured ILP is best described as:",
+    "options": {
+      "A": "A fixed multiple of ten times the single premium",
+      "B": "The higher of the sum assured or the cash value, which can be as low as 101% of the single premium",
+      "C": "Always exactly equal to the single premium",
+      "D": "The lower of sum assured or cash value"
+    },
+    "answer": "B",
+    "explanation": "The death benefit is the higher of the sum assured or the cash value, and because the insurance element is minimal it can be as low as 101% of the single premium. The 'lower of sum assured or cash value' choice wrongly takes the lower of the two.",
+    "calc": false
+  },
+  {
+    "id": "a4-04-q",
+    "conceptId": "a4-04",
+    "stem": "In dual pricing, which price does the policy owner pay to buy units, and what is the typical bid-offer spread?",
+    "options": {
+      "A": "The bid price; spread typically 1-2%",
+      "B": "The bid price; spread typically 3-5%",
+      "C": "The NAV exactly; there is no spread",
+      "D": "The offer price; spread typically 3-5%, an immediate cost on entry"
+    },
+    "answer": "D",
+    "explanation": "The owner buys at the offer (subscription) price and sells at the bid (redemption) price, and the bid-offer spread is typically 3-5%, a cost incurred on entry. The 'bid price; 1-2%' choice confuses which price the buyer pays.",
+    "calc": false
+  },
+  {
+    "id": "a4-05-q",
+    "conceptId": "a4-05",
+    "stem": "Under forward pricing, at what price are ILP units dealt?",
+    "options": {
+      "A": "At yesterday's closing NAV, known before you transact",
+      "B": "At the next computed NAV, so the exact price is unknown at the moment of transacting",
+      "C": "At a fixed price set at policy inception",
+      "D": "At the offer price plus the annual fund fee"
+    },
+    "answer": "B",
+    "explanation": "Forward pricing means units are dealt at the next computed net asset value, so the exact price is not known when you transact. The 'yesterday's closing NAV' choice describes historic pricing, which is not how ILP units are dealt.",
+    "calc": false
+  },
+  {
+    "id": "a4-06-q",
+    "conceptId": "a4-06",
+    "stem": "What is the cash value or surrender value of a structured ILP equal to, and is it guaranteed?",
+    "options": {
+      "A": "The single premium paid, guaranteed in full",
+      "B": "The sum assured, guaranteed at all times",
+      "C": "The market value of the units held, with no guaranteed surrender value",
+      "D": "The offer price of the units, fixed for the policy term"
+    },
+    "answer": "C",
+    "explanation": "Both cash value and surrender value equal the market value of the units held, and there is no guaranteed surrender value; it floats with the fund. The 'single premium paid, guaranteed in full' choice wrongly implies a guaranteed return of premium.",
+    "calc": false
+  },
+  {
+    "id": "a4-07-q",
+    "conceptId": "a4-07",
+    "stem": "Which of the following is a stated advantage of a structured ILP?",
+    "options": {
+      "A": "Guaranteed capital return regardless of fund performance",
+      "B": "Professional management, diversification, access to hard-to-reach instruments, and economies of scale from pooling",
+      "C": "Zero fees in the first year",
+      "D": "Full investor control over each trade"
+    },
+    "answer": "B",
+    "explanation": "Advantages include professional management, diversification, access to bulky or hard-to-reach instruments, and economies of scale from pooling. The 'full investor control over each trade' choice is actually a disadvantage: the owner loses investment control.",
+    "calc": false
+  },
+  {
+    "id": "a4-08-q",
+    "conceptId": "a4-08",
+    "stem": "Why must a structured ILP fund earn several percent in year one just to break even?",
+    "options": {
+      "A": "Because MAS imposes a mandatory 5% tax",
+      "B": "Because the death benefit consumes half the premium",
+      "C": "Because a front-end sales charge of about 5% plus 1-2% annual fund fees create a first-year cost often around 8%",
+      "D": "Because units are always bought above NAV by 10%"
+    },
+    "answer": "C",
+    "explanation": "The single-premium sales charge of about 5% plus 1-2% annual fund fees push first-year total cost to roughly 8%, so the fund must earn that just to break even. The 'mandatory 5% tax' choice invents a tax that does not exist.",
+    "calc": false
+  },
+  {
+    "id": "a4-09-q",
+    "conceptId": "a4-09",
+    "stem": "Which of the following is a disadvantage of a structured ILP?",
+    "options": {
+      "A": "Suitability for very short-term needs",
+      "B": "Absence of any fees",
+      "C": "Loss of investment control, high fees, opportunity cost of locked-up capital, and unsuitability for short horizons",
+      "D": "Guaranteed outperformance of direct investment"
+    },
+    "answer": "C",
+    "explanation": "Disadvantages include high fees, loss of control, opportunity cost of locked-up capital, and unsuitability for short-term needs given the long recovery horizon. The 'suitability for very short-term needs' choice states the opposite; ILPs are unsuitable for short-term needs.",
+    "calc": false
+  },
+  {
+    "id": "a4-10-q",
+    "conceptId": "a4-10",
+    "stem": "To protect remaining holders, ILP sub-funds are valued at least monthly and may impose which liquidity feature?",
+    "options": {
+      "A": "A guaranteed daily redemption at par",
+      "B": "A lock-in of exactly five years",
+      "C": "A redemption cap of around 10% of units, beyond which redemptions are pro-rated",
+      "D": "A ban on all redemptions before maturity"
+    },
+    "answer": "C",
+    "explanation": "It is common for a fund to cap single-day redemptions at around 10% of units outstanding, pro-rating requests beyond that to protect remaining holders. The 'guaranteed daily redemption at par' choice is the opposite of the liquidity constraint that actually applies.",
+    "calc": false
+  },
+  {
+    "id": "a4-11-q",
+    "conceptId": "a4-11",
+    "stem": "Which framework governs structured ILPs in Singapore?",
+    "options": {
+      "A": "Only the Companies Act",
+      "B": "The Deposit Insurance Act only",
+      "C": "The Financial Advisers Act 2001, the Insurance Act 1966, the Code on Collective Investment Schemes, and Notice MAS 307",
+      "D": "The Securities and Futures Act alone, with the fund held on trust"
+    },
+    "answer": "C",
+    "explanation": "Structured ILPs are governed by the Financial Advisers Act 2001, the Insurance Act 1966, the Code on Collective Investment Schemes, and Notice MAS 307, with the insurer as legal owner in a quasi-trust. The 'SFA alone, held on trust' choice wrongly treats the sub-fund as a trust.",
+    "calc": false
+  },
+  {
+    "id": "a4-12-q",
+    "conceptId": "a4-12",
+    "stem": "Under the diversification rules for an ILP sub-fund, the single-entity exposure limit is normally 10% of NAV. How does it change for an unrated corporate issue versus a government issuer?",
+    "options": {
+      "A": "Reduced to 5% for unrated, raised to 35% for government",
+      "B": "Raised to 35% for unrated, reduced to 5% for government",
+      "C": "Both raised to 20%",
+      "D": "Both reduced to 5%"
+    },
+    "answer": "A",
+    "explanation": "The single-entity limit is tightened to 5% for unrated or non-investment-grade debt and raised to 35% if the issuer is a government. The 'raised to 35% for unrated, reduced to 5% for government' choice reverses which issuer gets the higher ceiling.",
+    "calc": false
+  },
+  {
+    "id": "a4-13-q",
+    "conceptId": "a4-13",
+    "stem": "Before purchasing a structured ILP, which set of point-of-sale documents must the client receive?",
+    "options": {
+      "A": "Only the marketing brochure",
+      "B": "The Product Summary, the Benefit Illustration, and the Product Highlights Sheet",
+      "C": "Only the annual report and the audited accounts",
+      "D": "A prospectus and a tax opinion only"
+    },
+    "answer": "B",
+    "explanation": "The client must receive the Product Summary, the Benefit Illustration, and the Product Highlights Sheet, which disclose features, costs and risks. The 'only the marketing brochure' choice omits the mandatory disclosure documents.",
+    "calc": false
+  },
+  {
+    "id": "a4-14-q",
+    "conceptId": "a4-14",
+    "stem": "During the 14-day free-look period, if the policy owner cancels, what is the key caveat on the refund?",
+    "options": {
+      "A": "The full premium is always refunded with interest",
+      "B": "No refund is available once the policy is issued",
+      "C": "Only the sales charge is refunded",
+      "D": "The refund is subject to a market value adjustment on units already invested, so the owner may not get back the full premium if units fell"
+    },
+    "answer": "D",
+    "explanation": "Within the 14-day free-look the premium is refunded subject to a market value adjustment on any units already invested, so a fall in unit prices reduces the refund. The 'full premium always refunded with interest' choice ignores that market value adjustment.",
+    "calc": false
+  },
+  {
+    "id": "a4-15-q",
+    "conceptId": "a4-15",
+    "stem": "Which cadence correctly matches the after-sales reporting timelines for a structured ILP?",
+    "options": {
+      "A": "Statement within 30 days of the anniversary; Semi-Annual Report within 2 months; Audited Report within 3 months",
+      "B": "Statement within 2 months; Semi-Annual Report within 3 months; Audited Report within 30 days",
+      "C": "Statement within 3 months; Semi-Annual Report within 30 days; Audited Report within 2 months",
+      "D": "All three within 30 days of the anniversary"
+    },
+    "answer": "A",
+    "explanation": "The statement is due within 30 days of the policy anniversary, the Semi-Annual Report within 2 months, and the Audited Report within 3 months. The 'statement within 2 months' choice scrambles the three timelines.",
+    "calc": false
+  },
+  {
+    "id": "a4-16-q",
+    "conceptId": "a4-16",
+    "stem": "Which statement about the Product Highlights Sheet (PHS) rules is correct?",
+    "options": {
+      "A": "It may run to any length and predict actual performance",
+      "B": "It must be at least 20 pages and show one guaranteed rate",
+      "C": "It is capped at 4 pages of text (8 with diagrams), set in 10-point Times New Roman, carries no disclaimers, shows two hypothetical return rates, and must not predict actual performance",
+      "D": "It may include disclaimers and a single projected return"
+    },
+    "answer": "C",
+    "explanation": "The PHS is capped at 4 pages of text (8 with diagrams), set in 10-point Times New Roman, carries no disclaimers, must show two hypothetical rates, and the insurer shall not predict actual performance. The 'any length and predict actual performance' choice directly contradicts the no-prediction rule.",
+    "calc": false
+  },
+  {
+    "id": "a4-17-q",
+    "conceptId": "a4-17",
+    "stem": "Why may marketing and distribution costs NOT be charged to the ILP sub-fund?",
+    "options": {
+      "A": "Because MAS reimburses those costs directly",
+      "B": "Because marketing costs are always zero for ILPs",
+      "C": "Because the sub-fund has no NAV to charge against",
+      "D": "Because charging them to the fund would unfairly erode existing policy owners' units"
+    },
+    "answer": "D",
+    "explanation": "Marketing and distribution costs must not be charged to the sub-fund because doing so would unfairly erode existing policy owners' units. The 'MAS reimburses those costs' choice invents a reimbursement that does not exist.",
+    "calc": false
+  },
+  {
+    "id": "a4-18-q",
+    "conceptId": "a4-18",
+    "stem": "For a capital-guaranteed ILP fund, how is the payout at maturity determined?",
+    "options": {
+      "A": "Always the NAV, regardless of the guarantee",
+      "B": "The higher of NAV and the guaranteed amount, with the fund valued at least monthly",
+      "C": "The lower of NAV and the guaranteed amount",
+      "D": "The offer price on the maturity date"
+    },
+    "answer": "B",
+    "explanation": "For a capital-guaranteed fund the payout is the higher of NAV and the guaranteed amount, and a structured ILP must be valued at least monthly. The 'lower of NAV and the guaranteed amount' choice would defeat the guarantee.",
+    "calc": false
+  },
+  {
+    "id": "a5-01-q",
+    "conceptId": "a5-01",
+    "stem": "What is a portfolio bond (also called an insurance wrapper)?",
+    "options": {
+      "A": "A government bond bought inside a CPF account",
+      "B": "An insurance wrapper offering a wide range of investment choices, falling within the ILP definition but giving the owner more control than a standard ILP",
+      "C": "A fixed-coupon corporate bond with principal protection",
+      "D": "A structured deposit sold by a bank"
+    },
+    "answer": "B",
+    "explanation": "A portfolio bond is an insurance wrapper offering a wide range of investment choices; it falls within the ILP definition but gives the owner more control than a standard ILP. The 'fixed-coupon corporate bond' choice confuses it with an actual bond.",
+    "calc": false
+  },
+  {
+    "id": "a5-02-q",
+    "conceptId": "a5-02",
+    "stem": "Despite its name, why is a portfolio bond NOT a conventional bond?",
+    "options": {
+      "A": "Because it pays a fixed coupon linked to interest rates",
+      "B": "Because it is guaranteed by the government",
+      "C": "Because its value moves with the underlying investments, with no par repayment or principal protection, and any 'income' is really redemption of units",
+      "D": "Because it always matures at par"
+    },
+    "answer": "C",
+    "explanation": "A portfolio bond's value tracks the underlying investments rather than interest rates, there is no par repayment or principal protection, and any 'income' is really the sale (redemption) of units. The 'fixed coupon linked to interest rates' choice describes a real bond, which this is not.",
+    "calc": false
+  },
+  {
+    "id": "a5-03-q",
+    "conceptId": "a5-03",
+    "stem": "How does a portfolio bond give the owner more control than a standard ILP?",
+    "options": {
+      "A": "It lets the owner appoint managers of their portfolio within the insurer's platform and access cash, equities, bonds, derivatives and CIS",
+      "B": "It removes all fees and guarantees the principal",
+      "C": "It restricts the owner to a single insurer fund",
+      "D": "It converts the ILP into a bank deposit"
+    },
+    "answer": "A",
+    "explanation": "A standard ILP owner is limited to the insurer's funds, but a portfolio bond lets the owner appoint portfolio managers within the platform and access cash, equities, bonds, derivatives and CIS. The 'restricts to a single insurer fund' choice is the standard-ILP limitation the portfolio bond removes.",
+    "calc": false
+  },
+  {
+    "id": "a5-04-q",
+    "conceptId": "a5-04",
+    "stem": "What are the two headline reasons people buy portfolio bonds?",
+    "options": {
+      "A": "Guaranteed returns and deposit insurance",
+      "B": "Zero fees and daily liquidity",
+      "C": "A wide range of investment choices and tax advantages in jurisdictions where the insurance wrapper is favourably treated",
+      "D": "Fixed coupons and principal protection"
+    },
+    "answer": "C",
+    "explanation": "The two headline reasons are a wide range of investment choices and tax advantages where the insurance wrapper is favourably treated; they also aid succession and asset protection. The 'guaranteed returns and deposit insurance' choice wrongly implies guarantees and deposit insurance.",
+    "calc": false
+  },
+  {
+    "id": "a5-05-q",
+    "conceptId": "a5-05",
+    "stem": "What is 'drip-feeding' in the context of a portfolio bond?",
+    "options": {
+      "A": "Paying the premium in a single lump sum",
+      "B": "Implementing a fund switch in small doses to avoid the market disruption of moving a large amount at once",
+      "C": "Withdrawing all units on a fixed schedule",
+      "D": "Reinvesting dividends automatically"
+    },
+    "answer": "B",
+    "explanation": "Drip-feeding is fund-switching done in small doses, gradually moving funds to avoid the disruption of switching a large amount at once. The 'paying the premium in a single lump sum' choice describes premium payment, not fund switching.",
+    "calc": false
+  },
+  {
+    "id": "a5-06-q",
+    "conceptId": "a5-06",
+    "stem": "A portfolio's original 50/50 split has drifted to 63/37 through differing returns. What is rebalancing, and at what frequencies can it run automatically?",
+    "options": {
+      "A": "Selling everything to cash; only annually",
+      "B": "Adding new premium to the winning asset; only once at maturity",
+      "C": "Moving units back to restore the original risk exposure; automatically monthly, quarterly, half-yearly or annually",
+      "D": "Locking the current 63/37 split permanently"
+    },
+    "answer": "C",
+    "explanation": "Rebalancing moves units back to restore the original risk exposure and can run automatically monthly, quarterly, half-yearly or annually. The 'locking the current 63/37 split' choice would abandon the original allocation rather than restore it.",
+    "calc": false
+  },
+  {
+    "id": "a5-07-q",
+    "conceptId": "a5-07",
+    "stem": "Which of the following is one of the eight typical charges on a portfolio bond?",
+    "options": {
+      "A": "Deposit insurance levy",
+      "B": "Surrender charge",
+      "C": "Stamp duty on the premium",
+      "D": "Central clearing fee"
+    },
+    "answer": "B",
+    "explanation": "The eight typical charges include product charges, fund charges and transaction costs, early withdrawal charge, surrender charge, valuation charge, payment charge, dealing account debit interest, and mortality charge. The 'deposit insurance levy' choice is not among them; the stacking of these fees is a key drawback.",
+    "calc": false
+  },
+  {
+    "id": "a5-08-q",
+    "conceptId": "a5-08",
+    "stem": "Why is a portfolio bond marketed as a 'lifestyle' policy?",
+    "options": {
+      "A": "Because it pays out on lifestyle events like weddings",
+      "B": "Because one adjustable policy matches changing objectives over a lifetime: capital appreciation in the 30s-40s, safety near retirement, then income stability plus safety afterwards",
+      "C": "Because it is only sold to high-net-worth clients",
+      "D": "Because it guarantees a fixed lifestyle income"
+    },
+    "answer": "B",
+    "explanation": "It is a 'lifestyle' policy because one adjustable policy can match shifting objectives over a lifetime, from capital appreciation in the 30s-40s to safety near retirement and income stability plus safety afterwards. The 'pays out on lifestyle events' choice misreads 'lifestyle' as an event-linked payout.",
+    "calc": false
+  },
+  {
+    "id": "a5-09-q",
+    "conceptId": "a5-09",
+    "stem": "The consolidation advantage of a portfolio bond comes at what cost?",
+    "options": {
+      "A": "Loss of all investment choice",
+      "B": "No statement is provided at all",
+      "C": "High charges, because insurers invest heavily in systems to integrate managers' reporting into a single consolidated statement",
+      "D": "Mandatory annual switching"
+    },
+    "answer": "C",
+    "explanation": "A single consolidated statement replaces many fund-manager statements, but this convenience comes with high charges since insurers invest heavily in the integrating systems. The 'loss of all investment choice' choice misstates the trade-off; choice is not lost, cost is the price.",
+    "calc": false
+  },
+  {
+    "id": "a5-10-q",
+    "conceptId": "a5-10",
+    "stem": "For which client is a portfolio bond LEAST suitable?",
+    "options": {
+      "A": "A client wanting mainly insurance protection, or with only a 3 to 5-year horizon, or who does not need the flexibility",
+      "B": "A high-net-worth client seeking wide investment choice over the long term",
+      "C": "A client wanting to appoint their own portfolio managers",
+      "D": "A client seeking succession and asset-protection planning"
+    },
+    "answer": "A",
+    "explanation": "Portfolio bonds are unsuitable for those seeking insurance protection (death cover is minimal), those with a 3 to 5-year horizon (fees need a long runway), and those who do not need the flexibility. Remember the tax benefit can be outweighed by the cost, and tax laws can change. The 'high-net-worth client seeking wide choice' describes an ideal candidate, not an unsuitable one.",
+    "calc": false
+  },
+  {
+    "id": "a6-01-q",
+    "conceptId": "a6-01",
+    "stem": "What is the recommended lens for reading a structured ILP case study?",
+    "options": {
+      "A": "Memorise the payout table only",
+      "B": "Work through product features, selling points, risk analysis, and performance under different market scenarios",
+      "C": "Focus solely on the guaranteed rate",
+      "D": "Compare only the fees against a bank deposit"
+    },
+    "answer": "B",
+    "explanation": "Chapter 6 tests application, so each case should be read through the same lens: product features, selling points, risk analysis, and performance under different market scenarios. The 'memorise the payout table only' choice reduces application to rote recall.",
+    "calc": false
+  },
+  {
+    "id": "a6-02-q",
+    "conceptId": "a6-02",
+    "stem": "In the Superior Income Plan (SIP), the annual payout is the HIGHER of which two amounts?",
+    "options": {
+      "A": "A guaranteed 20% of single premium, or a non-guaranteed 4% x n/N",
+      "B": "A guaranteed 4% of single premium, or a non-guaranteed 20% x n/N, where n is trading days all six stocks are at or above 92% and N is total trading days",
+      "C": "A guaranteed 8% of single premium, or a non-guaranteed 108% x n/N",
+      "D": "A fixed 4% regardless of stock performance"
+    },
+    "answer": "B",
+    "explanation": "The SIP pays the higher of a guaranteed 4% of single premium or a non-guaranteed 20% x n/N, where n counts trading days all six stocks are at or above 92% of their start and N is total trading days. The 'guaranteed 20% / non-guaranteed 4%' choice swaps the two figures.",
+    "calc": false
+  },
+  {
+    "id": "a6-03-q",
+    "conceptId": "a6-03",
+    "stem": "In the SIP, what role do the six reference stocks play?",
+    "options": {
+      "A": "They are the actual holdings the single premium is invested in",
+      "B": "They are only a benchmark to set the payout and trigger early redemption; the actual assets are the ILP sub-fund holdings",
+      "C": "They are the guarantor of the 4% minimum",
+      "D": "They determine the death benefit multiple"
+    },
+    "answer": "B",
+    "explanation": "The single premium is NOT invested in the six stocks; they are only a reference benchmark to determine the payout and early redemption, while the real assets are the ILP sub-fund holdings. The 'actual holdings' choice is the exact misconception the case warns against.",
+    "calc": false
+  },
+  {
+    "id": "a6-04-q",
+    "conceptId": "a6-04",
+    "stem": "Why does the WORST-performing of the six stocks effectively govern the SIP's non-guaranteed payout?",
+    "options": {
+      "A": "Because the payout averages the six stock returns",
+      "B": "Because only the best stock is measured",
+      "C": "Because a day counts only when ALL six stocks are at or above 92%, so a single stock dipping below 92% makes that day count for nothing",
+      "D": "Because the guarantor picks the worst stock deliberately"
+    },
+    "answer": "C",
+    "explanation": "n counts only days when all six stocks are at or above 92%, so one stock below 92% on a day zeroes that day, meaning the worst performer governs the outcome and six stocks make beating 4% far less likely. The 'averages the six stock returns' choice wrongly assumes averaging.",
+    "calc": false
+  },
+  {
+    "id": "a6-05-q",
+    "conceptId": "a6-05",
+    "stem": "In the SIP, what does the 108% figure represent, and what is the maximum return under the policy?",
+    "options": {
+      "A": "It is the maximum return of 8% per year",
+      "B": "It is an early-redemption trigger; the maximum return is 20% p.a., not 8%",
+      "C": "It is the guaranteed minimum payout",
+      "D": "It is the death benefit as a percentage of premium"
+    },
+    "answer": "B",
+    "explanation": "The 108% is an early-redemption trigger (ABC can redeem after the third month if all six stocks are at or above 108%), and the maximum return is 20% p.a., never 8%. The 'maximum return of 8%' choice is exactly the confusion the case tells you to avoid.",
+    "calc": false
+  },
+  {
+    "id": "a6-06-q",
+    "conceptId": "a6-06",
+    "stem": "Why is the best stock performance NOT the best result for the SIP policy owner?",
+    "options": {
+      "A": "Because strong performance breaches the guarantee",
+      "B": "Because the death benefit falls when stocks rise",
+      "C": "Because the return is capped at 20% p.a. and strong performance triggers early redemption, forcing reinvestment and losing further upside",
+      "D": "Because the guarantor cancels the policy on a rally"
+    },
+    "answer": "C",
+    "explanation": "With the return capped at 20% p.a. and no downside (barring surrender or guarantor failure), the strongest stock performance triggers early redemption, causing reinvestment risk plus lost upside. The 'breaches the guarantee' choice misstates the mechanism; the guarantee is not breached.",
+    "calc": false
+  },
+  {
+    "id": "a6-07-q",
+    "conceptId": "a6-07",
+    "stem": "In the SIP, who provides the guarantee of the 4% minimum and principal, and where does the counterparty risk sit?",
+    "options": {
+      "A": "ABC the insurer provides it, so risk sits with ABC",
+      "B": "MAS provides it, so there is no counterparty risk",
+      "C": "The six reference stocks jointly provide it",
+      "D": "XYZ Bank, a non-related third party, provides it and the guarantee ends if XYZ is liquidated, so the counterparty risk sits with XYZ"
+    },
+    "answer": "D",
+    "explanation": "The guarantee is provided by XYZ Bank, a non-related entity, and the policy states it ends if XYZ goes into liquidation, so the counterparty risk sits with XYZ rather than ABC. Without that clause ABC as primary party would have to honour it, so the wording shifts the risk to the investor.",
+    "calc": false
+  },
+  {
+    "id": "a6-08-q",
+    "conceptId": "a6-08",
+    "stem": "In the SIP, a 5% initial fee is deducted from NAV on day one plus a 1.5% annual fund management fee. What is the immediate consequence?",
+    "options": {
+      "A": "The fund must earn at least 5% just to break even",
+      "B": "The fund is guaranteed to break even in year one",
+      "C": "The 1.5% fee is refunded at maturity",
+      "D": "The initial fee is added to the death benefit"
+    },
+    "answer": "A",
+    "explanation": "Because the 5% initial fee is deducted from NAV upfront, the fund must earn at least 5% just to break even, a direct market-risk consequence of the fee load. The 'guaranteed to break even' choice ignores that the upfront fee creates a hurdle, not a guarantee.",
+    "calc": false
+  },
+  {
+    "id": "a6-09-q",
+    "conceptId": "a6-09",
+    "stem": "Across the four SIP scenarios, which is actually the BEST outcome for the policy owner?",
+    "options": {
+      "A": "Best-case market performance (all six reach 108% in 3 months), which triggers early redemption",
+      "B": "Moderate performance (all six stay between 92% and 108%), giving the full 20%/yr for a S$20,000 total on S$10,000",
+      "C": "Worst-case performance (all six below 92%), giving the guaranteed 4%/yr",
+      "D": "Mixed performance (at least one below 92% on any day)"
+    },
+    "answer": "B",
+    "explanation": "Moderate performance keeps n = N so the full 20%/yr applies, totalling S$20,000 on a S$10,000 premium over five years, the best outcome. The 'best market performance' label is a trap: it triggers early redemption and only one 4.8% payout of S$480.",
+    "calc": false
+  },
+  {
+    "id": "a6-10-q",
+    "conceptId": "a6-10",
+    "stem": "In Case 2 (Lifestyle Plan), what type of policy is it and what is the death/TPD benefit?",
+    "options": {
+      "A": "A single-premium term policy paying 101% of premium on death",
+      "B": "A par whole-life policy with smoothed bonuses",
+      "C": "A recurrent-single-premium whole-life ILP investing in the structured 'Choice Fund', with a guaranteed death or TPD benefit of 125% of premiums paid; surrender pays 100% of NAV",
+      "D": "A structured deposit paying 125% at maturity"
+    },
+    "answer": "C",
+    "explanation": "The Lifestyle Plan is a recurrent-single-premium whole-life ILP investing in the structured Choice Fund, a closed-ended fund with a fixed maturity; death or TPD benefit is a guaranteed 125% of premiums paid and surrender pays 100% of NAV. The 'single-premium term policy paying 101%' choice understates the death benefit and mislabels the policy.",
+    "calc": false
+  },
+  {
+    "id": "a6-11-q",
+    "conceptId": "a6-11",
+    "stem": "In the Choice Fund, what exactly is the Secure Price?",
+    "options": {
+      "A": "A guaranteed minimum maturity value",
+      "B": "The offer price at inception",
+      "C": "A target the manager strives for, set yearly at the insurer's discretion; if per-unit NAV is below it at maturity, the payout is the unit price, not the Secure Price",
+      "D": "A floor enforced by MAS"
+    },
+    "answer": "C",
+    "explanation": "The Secure Price is an aspiration, not a floor: it is a yearly target set at the insurer's discretion, and if NAV is below it at maturity the payout is the unit price. The 'guaranteed minimum maturity value' choice wrongly treats it as a guarantee; this is a non-guaranteed product.",
+    "calc": false
+  },
+  {
+    "id": "a6-12-q",
+    "conceptId": "a6-12",
+    "stem": "Which risk is specifically raised for the Choice Fund given its S$6.8m size and heavy OTC fixed-income holdings?",
+    "options": {
+      "A": "Currency risk from overseas listing",
+      "B": "Liquidity risk, as the small fund heavily invested in OTC fixed income may not meet high withdrawal demand",
+      "C": "Deposit insurance risk",
+      "D": "Inflation-indexation risk"
+    },
+    "answer": "B",
+    "explanation": "The Choice Fund's small S$6.8m size and heavy OTC fixed-income holdings create liquidity risk, so it may temporarily be unable to meet high withdrawal demand. Other cited risks are non-guarantee, market risk (NAV down about 7%), and derivatives risk from the external Golden Derivative Fund.",
+    "calc": false
+  },
+  {
+    "id": "a6-13-q",
+    "conceptId": "a6-13",
+    "stem": "Why is it hard for a client to assess the Choice Fund's inherent market risk?",
+    "options": {
+      "A": "Because the fund publishes no NAV",
+      "B": "Because the fund is denominated in a foreign currency",
+      "C": "Because the fund has no fixed asset allocation and no performance benchmark, so the manager may shift the asset mix sharply",
+      "D": "Because the fund is capital guaranteed"
+    },
+    "answer": "C",
+    "explanation": "With no fixed asset allocation and no performance benchmark, the manager can shift the asset mix sharply, making the inherent market risk hard to assess. The 'publishes no NAV' choice is false; the case reports a NAV of S$0.9293.",
+    "calc": false
+  },
+  {
+    "id": "a6-14-q",
+    "conceptId": "a6-14",
+    "stem": "In Case 2, a 1% switching fee is applied to a S$10,000 investment. How much is available to invest after the fee?",
+    "options": {
+      "A": "S$10,000, since the fee is waived",
+      "B": "S$9,900, after a S$100 switching fee",
+      "C": "S$9,000, after a S$1,000 switching fee",
+      "D": "S$9,950, after a S$50 switching fee"
+    },
+    "answer": "B",
+    "explanation": "A 1% switching fee on S$10,000 is S$100, leaving S$9,900 to invest. The 'S$9,000 after a S$1,000 fee' choice applies 10% instead of 1%; the front-end sales charge here is 5% on each recurrent premium plus a 1-2% annual fund fee.",
+    "calc": false
+  },
+  {
+    "id": "a6-15-q",
+    "conceptId": "a6-15",
+    "stem": "When judging a fund against its benchmark, why must the assessment period be stated?",
+    "options": {
+      "A": "Because the benchmark changes daily",
+      "B": "Because a fund can outperform over one horizon and underperform over another, so the period must be specified",
+      "C": "Because benchmarks are only valid for one year",
+      "D": "Because performance is guaranteed over five years"
+    },
+    "answer": "B",
+    "explanation": "A fund can beat the benchmark over one horizon yet lag over another, so the period must be stated when judging performance. For example, a fund may outperform the index over three years but underperform over one year.",
+    "calc": false
+  },
+  {
+    "id": "a6-calc-01",
+    "conceptId": "a6-09",
+    "stem": "SIP, Scenario 1 (Best): An investor pays a S$10,000 single premium. All six stocks gradually rise to 108% three months after inception, none falling below 92% in that period. There are 60 qualifying trading days out of an annual 250. Using the higher of guaranteed 4% or 20% x n/N, prorated for three months, what single payout does the investor receive at early redemption?",
+    "options": {
+      "A": "S$400",
+      "B": "S$480",
+      "C": "S$800",
+      "D": "S$2,000"
+    },
+    "answer": "B",
+    "explanation": "Non-guaranteed = 20% x 60/250 = 4.8%, which exceeds the guaranteed 4%, so the rate is 4.8%. Payout = S$10,000 x 4.8% = S$480, paid once at early redemption after three months. The S$400 option wrongly applies the lower guaranteed 4% instead of the higher 4.8%.",
+    "calc": true
+  },
+  {
+    "id": "a6-calc-02",
+    "conceptId": "a6-09",
+    "stem": "SIP, Scenario 2 (Worst): On a S$10,000 single premium, all six stocks stay consistently below 92% for the full 5 years, so n = 0 every year. Counting all five annual payouts plus the return of the single premium at maturity, what is the total the policy owner receives over the 5 years?",
+    "options": {
+      "A": "S$10,000",
+      "B": "S$2,000",
+      "C": "S$12,000",
+      "D": "S$20,000"
+    },
+    "answer": "C",
+    "explanation": "With n = 0 the non-guaranteed 20% x n/N is 0, so the guaranteed 4% applies: 4% x S$10,000 = S$400 per year x 5 years = S$2,000, plus the S$10,000 premium returned at maturity = S$12,000. The S$2,000 option counts only the payouts and forgets the returned premium.",
+    "calc": true
+  },
+  {
+    "id": "a6-calc-03",
+    "conceptId": "a6-09",
+    "stem": "SIP, Scenario 3 (Moderate): On a S$10,000 single premium, all six stocks trade consistently between 92% and 108% for all 5 years, so n = N every year. Including all five annual payouts and the return of the single premium at maturity, what is the total received?",
+    "options": {
+      "A": "S$12,000",
+      "B": "S$18,000",
+      "C": "S$20,000",
+      "D": "S$10,480"
+    },
+    "answer": "C",
+    "explanation": "Since n = N, the non-guaranteed 20% x n/N = 20%, higher than the guaranteed 4%, so each year pays 20% x S$10,000 = S$2,000. Over 5 years that is S$10,000, plus the S$10,000 premium returned = S$20,000. The S$12,000 option applies the guaranteed 4% instead of the higher 20%.",
+    "calc": true
+  },
+  {
+    "id": "a6-calc-04",
+    "conceptId": "a6-08",
+    "stem": "A SIP invests a S$10,000 single premium. A 5% initial fee is deducted from NAV on day one, and a 1.5% annual fund management fee is charged. Immediately after the initial fee, what is the invested NAV, and roughly what percentage must the fund earn on that post-fee amount to recover back to S$10,000?",
+    "options": {
+      "A": "NAV S$9,500; must earn about 5.26% to get back to S$10,000",
+      "B": "NAV S$9,500; must earn exactly 5% to get back to S$10,000",
+      "C": "NAV S$5,000; must earn 100% to get back to S$10,000",
+      "D": "NAV S$9,850; must earn about 1.5% to get back to S$10,000"
+    },
+    "answer": "A",
+    "explanation": "The 5% initial fee on S$10,000 is S$500, leaving S$9,500 invested. To climb from S$9,500 back to S$10,000 the fund must gain S$500, i.e. 500/9,500 = 5.26%. The 'exactly 5%' option is the common error of assuming a 5% loss is recovered by a 5% gain, but recovering a fall always needs a slightly larger percentage gain.",
+    "calc": true
+  },
+  {
+    "id": "a6-calc-05",
+    "conceptId": "a6-14",
+    "stem": "In the Lifestyle Plan (Case 2), a policy owner wants to switch S$10,000 between sub-funds. The switching fee is 1%. After paying the switching fee, the amount invested then falls by a further 5% front-end sales charge applicable on the new allocation. How much is actually put to work in the new sub-fund?",
+    "options": {
+      "A": "S$9,405",
+      "B": "S$9,900",
+      "C": "S$9,500",
+      "D": "S$8,500"
+    },
+    "answer": "A",
+    "explanation": "The 1% switching fee on S$10,000 is S$100, leaving S$9,900. Applying the 5% front-end charge: S$9,900 x 5% = S$495, so S$9,900 - S$495 = S$9,405 is invested. The S$9,900 option stops after the switching fee and ignores the 5% front-end charge.",
+    "calc": true
+  },
+  {
+    "id": "a6-calc-06",
+    "conceptId": "a4-08",
+    "stem": "A structured ILP charges a 5% single-premium sales charge on entry plus a 2% annual fund management fee, giving a first-year total cost of about 7% of a S$20,000 premium. In dollar terms, roughly how much must the fund generate in year one just to break even?",
+    "options": {
+      "A": "About S$400",
+      "B": "About S$1,400",
+      "C": "About S$2,000",
+      "D": "About S$140"
+    },
+    "answer": "B",
+    "explanation": "First-year cost is about 7% of S$20,000 = S$1,400 (5% sales charge = S$1,000 plus 2% fund fee = S$400), so the fund must earn roughly S$1,400 just to break even. The 'about S$400' option counts only the 2% fund fee and ignores the 5% sales charge.",
+    "calc": true
+  }
+]

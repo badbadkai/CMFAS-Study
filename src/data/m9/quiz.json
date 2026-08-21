@@ -1,0 +1,2816 @@
+[
+ {
+  "id": "c1-01-q",
+  "conceptId": "c1-01",
+  "stem": "Which of the following risks is insurable under a life insurance contract?",
+  "options": {
+   "A": "The risk of losing money at a casino",
+   "B": "The risk of premature death of the life insured",
+   "C": "The risk of not making an expected profit on a business venture",
+   "D": "The risk of loss on a share portfolio bought on the stock exchange"
+  },
+  "answer": "B",
+  "explanation": "Only pure risk (loss or no loss) is insurable; premature death is a pure risk. Shares, gambling and expected profit are speculative risks with an upside, so insurance cannot cover them because insurance compensates a loss, it does not hand a profit.",
+  "calc": false
+ },
+ {
+  "id": "c1-02-q",
+  "conceptId": "c1-02",
+  "stem": "Which characteristic would make a risk UNINSURABLE by a private insurer?",
+  "options": {
+   "A": "The loss occurs by chance and is not deliberate",
+   "B": "A single event could be catastrophic and bankrupt the insurer",
+   "C": "A large number of similar exposure units exists",
+   "D": "The loss is definite and can be measured"
+  },
+  "answer": "B",
+  "explanation": "A catastrophic exposure that could bankrupt the insurer (e.g. a nuclear event) fails the requirements for an insurable risk. The other three options are all requirements that an insurable risk must satisfy.",
+  "calc": false
+ },
+ {
+  "id": "c1-03-q",
+  "conceptId": "c1-03",
+  "stem": "Insurance is best described as which method of dealing with risk?",
+  "options": {
+   "A": "Risk control",
+   "B": "Risk transfer",
+   "C": "Risk retention",
+   "D": "Risk avoidance"
+  },
+  "answer": "B",
+  "explanation": "Insurance is a risk-transfer mechanism: the individual transfers the financial consequence of a pure risk to the insurer. Retention (self-insurance) is the opposite, where you keep the risk yourself.",
+  "calc": false
+ },
+ {
+  "id": "c1-04-q",
+  "conceptId": "c1-04",
+  "stem": "Which of the following is one of the three personal risks that life insurance is designed to address?",
+  "options": {
+   "A": "The risk of outliving one's financial resources",
+   "B": "The risk of a fire destroying one's home",
+   "C": "The risk of a stock market crash",
+   "D": "The risk of a motor accident damaging one's car"
+  },
+  "answer": "A",
+  "explanation": "Life insurance addresses premature death, outliving your resources (longevity risk), and poor health or disablement. Fire and motor damage are property risks handled by general insurance, not life insurance.",
+  "calc": false
+ },
+ {
+  "id": "c1-05-q",
+  "conceptId": "c1-05",
+  "stem": "Ben takes out a policy on the life of his wife Cara, with himself as the person who owns and pays for the policy. In this arrangement, who is the life insured?",
+  "options": {
+   "A": "Cara, because it is her life that is covered",
+   "B": "Both Ben and Cara equally",
+   "C": "Whoever is named as the beneficiary",
+   "D": "Ben, because he owns and pays for the policy"
+  },
+  "answer": "A",
+  "explanation": "The life insured is the person whose life is covered, here Cara. Ben is the policy owner. Owner and life insured can be different people (a third-party policy), which is a classic exam trap.",
+  "calc": false
+ },
+ {
+  "id": "c1-06-q",
+  "conceptId": "c1-06",
+  "stem": "The guaranteed lump sum stated on the first page of a life policy that is paid on a valid claim is known as the:",
+  "options": {
+   "A": "Sum assured",
+   "B": "Loading",
+   "C": "Surrender value",
+   "D": "Cash value"
+  },
+  "answer": "A",
+  "explanation": "The sum assured (face amount or face value) is the guaranteed amount payable on a claim, shown on the first page of the policy. Cash value is the accumulated savings element, not the guaranteed claim amount.",
+  "calc": false
+ },
+ {
+  "id": "c1-07-q",
+  "conceptId": "c1-07",
+  "stem": "Which statement correctly distinguishes insurance from gambling?",
+  "options": {
+   "A": "Insurance is zero-sum, while gambling is mutually beneficial",
+   "B": "Gambling creates a new speculative risk, whereas insurance transfers an existing pure risk",
+   "C": "Both insurance and gambling create new risk that did not previously exist",
+   "D": "Gambling handles an existing risk while insurance creates a new one"
+  },
+  "answer": "B",
+  "explanation": "Gambling manufactures a new speculative risk and is zero-sum; insurance handles an existing pure risk, creates nothing new, and is socially productive. The reverse claim, that insurance creates the new risk, is the common confusion.",
+  "calc": false
+ },
+ {
+  "id": "c1-08-q",
+  "conceptId": "c1-08",
+  "stem": "An applicant deliberately understates his weight and hides a family history of heart disease on the proposal form. This dishonesty is an example of:",
+  "options": {
+   "A": "A peril",
+   "B": "Anti-selection",
+   "C": "Physical hazard",
+   "D": "Moral hazard"
+  },
+  "answer": "D",
+  "explanation": "Moral hazard is dishonest behaviour connected to insurance, such as lying on the form. Physical hazard would be the actual obesity or heart condition itself; a peril is the cause of loss, not the behaviour.",
+  "calc": false
+ },
+ {
+  "id": "c1-09-q",
+  "conceptId": "c1-09",
+  "stem": "What is the insurer's main defence against anti-selection (adverse selection)?",
+  "options": {
+   "A": "Charging every applicant the same standard premium",
+   "B": "Offering a free-look period on all policies",
+   "C": "Underwriting to classify applicants as standard, sub-standard or declined",
+   "D": "Paying bonuses only to healthy policy owners"
+  },
+  "answer": "C",
+  "explanation": "Anti-selection is the tendency for higher-risk people to seek cover more eagerly; underwriting classifies and prices applicants (standard, sub-standard, declined) to defend the pool. A flat premium for everyone would worsen anti-selection.",
+  "calc": false
+ },
+ {
+  "id": "c1-10-q",
+  "conceptId": "c1-10",
+  "stem": "The law of large numbers, which is the mathematical foundation of insurance, states that:",
+  "options": {
+   "A": "A larger insurer will always be more profitable than a smaller one",
+   "B": "Premiums must always exceed claims by a large margin",
+   "C": "The larger the sum assured, the smaller the premium charged",
+   "D": "As the number of insured lives grows, actual losses track expected losses more closely"
+  },
+  "answer": "D",
+  "explanation": "With more insured lives, actual loss experience converges on the expected (predicted) losses, letting insurers price accurately. It is about predictability of losses, not about premium size or guaranteed profit.",
+  "calc": false
+ },
+ {
+  "id": "c1-11-q",
+  "conceptId": "c1-11",
+  "stem": "Regarding the duty of utmost good faith on a life insurance policy, which statement is correct?",
+  "options": {
+   "A": "The proposer must disclose all material facts known or ought to be known, and the duty revives on alteration",
+   "B": "The duty of disclosure revives each year when the life policy is renewed",
+   "C": "The duty applies only to the insurer, not the proposer",
+   "D": "The proposer need only disclose facts the proposal form specifically asks about"
+  },
+  "answer": "A",
+  "explanation": "Utmost good faith requires disclosure of all material facts the proposer knows or ought to know, even if unasked, running to inception and reviving on alteration. Unlike general insurance, a life policy is not renewed annually, so the duty does not revive on renewal.",
+  "calc": false
+ },
+ {
+  "id": "c1-12-q",
+  "conceptId": "c1-12",
+  "stem": "Under section 57 of the Insurance Act, when must insurable interest exist for a life insurance policy?",
+  "options": {
+   "A": "At every premium payment date",
+   "B": "At the time of death only",
+   "C": "At inception and at the time of death",
+   "D": "At inception only"
+  },
+  "answer": "D",
+  "explanation": "For life insurance the interest must exist at inception but NOT at time of death. General insurance requires interest at inception AND at the time of loss; marine cargo requires it only at the time of loss.",
+  "calc": false
+ },
+ {
+  "id": "c1-13-q",
+  "conceptId": "c1-13",
+  "stem": "In which of the following relationships would a person NOT automatically have a recognised insurable interest in another's life?",
+  "options": {
+   "A": "A parent insuring the life of their child under 18",
+   "B": "A creditor insuring the life of a debtor",
+   "C": "A person insuring the life of their spouse at the time of marriage",
+   "D": "A person insuring the life of a casual acquaintance"
+  },
+  "answer": "D",
+  "explanation": "Insurable interest requires that you benefit from the person living and lose if they die. Spouse, child under 18, and creditor-debtor are recognised, but a casual acquaintance provides no such interest.",
+  "calc": false
+ },
+ {
+  "id": "c1-14-q",
+  "conceptId": "c1-14",
+  "stem": "The principle of indemnity does NOT apply to which of the following?",
+  "options": {
+   "A": "A life insurance death claim",
+   "B": "A fire claim on a warehouse",
+   "C": "A hospitalisation and surgical medical claim",
+   "D": "A motor own-damage claim"
+  },
+  "answer": "A",
+  "explanation": "Indemnity restores you to your pre-loss position with no profit and applies to general and health insurance. Life and personal accident are benefit policies paying an agreed sum assured, so they are NOT contracts of indemnity.",
+  "calc": false
+ },
+ {
+  "id": "c1-15-q",
+  "conceptId": "c1-15",
+  "stem": "In Singapore's insurance market, which body is responsible for resolving disputes between policy owners and insurers through mediation and adjudication?",
+  "options": {
+   "A": "MAS",
+   "B": "LIA",
+   "C": "SDIC",
+   "D": "FIDReC"
+  },
+  "answer": "D",
+  "explanation": "FIDReC handles dispute resolution through filing, mediation, then adjudication. MAS is the regulator, LIA is the market association, and SDIC provides deposit and policy owner protection, not dispute resolution.",
+  "calc": false
+ },
+ {
+  "id": "c2-01-q",
+  "conceptId": "c2-01",
+  "stem": "Who sets life insurance premiums, and what balancing act do they perform?",
+  "options": {
+   "A": "The board of directors, balancing shareholder returns against solvency",
+   "B": "Underwriters, balancing disclosure against speed of issue",
+   "C": "Financial advisers, balancing commission against client affordability",
+   "D": "Actuaries, balancing expected claims and expenses plus profit against staying competitive"
+  },
+  "answer": "D",
+  "explanation": "Actuaries set premiums, balancing three things: covering expected claims, covering expenses plus a profit margin, yet remaining competitive with other insurers. Underwriters assess individual risk, they do not set the premium scale.",
+  "calc": false
+ },
+ {
+  "id": "c2-02-q",
+  "conceptId": "c2-02",
+  "stem": "Which statement about mortality and morbidity in premium setting is correct?",
+  "options": {
+   "D": "Morbidity is the main pricing input for life insurance",
+   "A": "Mortality is the probability of death and morbidity is the rate of sickness or injury",
+   "B": "Health insurance pricing considers morbidity only and ignores mortality entirely",
+   "C": "Mortality tables are compiled without using the law of large numbers"
+  },
+  "answer": "A",
+  "explanation": "Mortality is the probability of death at each age; morbidity is the rate of sickness and injury and is the main input for health insurance. Health pricing still also considers mortality, so it is wrong to say morbidity is ignored or that mortality plays no part.",
+  "calc": false
+ },
+ {
+  "id": "c2-03-q",
+  "conceptId": "c2-03",
+  "stem": "How does a higher assumed rate of investment return affect the premium the insurer charges?",
+  "options": {
+   "B": "It raises the premium, because more income must be reserved",
+   "C": "It lowers the premium, because expected returns offset part of the cost",
+   "D": "It has no effect, as investment income is not used in pricing",
+   "A": "It lowers the loading but raises the net premium"
+  },
+  "answer": "C",
+  "explanation": "Insurers invest the early-year surplus from level premiums and use expected returns to reduce the premium, so a higher assumed interest rate means a lower premium. Investment income is a core pricing input, so the claim that it has no effect is incorrect.",
+  "calc": false
+ },
+ {
+  "id": "c2-04-q",
+  "conceptId": "c2-04",
+  "stem": "Which formula correctly describes the premium the proposer actually pays?",
+  "options": {
+   "A": "Gross premium = net premium + loading",
+   "B": "Net premium = loading minus gross premium",
+   "C": "Loading = gross premium + net premium",
+   "D": "Net premium = gross premium + loading"
+  },
+  "answer": "A",
+  "explanation": "Net premium covers protection (mortality/morbidity plus investment income); loading covers expenses plus profit. Gross premium = net + loading, and the gross premium is what the proposer pays.",
+  "calc": false
+ },
+ {
+  "id": "c2-05-q",
+  "conceptId": "c2-05",
+  "stem": "How does gender typically affect premiums across life and health insurance?",
+  "options": {
+   "A": "Female premiums are lower for life but tend to be higher for health insurance",
+   "B": "Gender is not permitted as a rating factor in Singapore",
+   "C": "Female premiums are higher for both life and health insurance",
+   "D": "Female premiums are lower for both life and health insurance"
+  },
+  "answer": "A",
+  "explanation": "For life insurance women generally pay less because they live longer (reduction-in-age method); for health insurance women tend to pay more due to higher hospitalisation, especially above 65. The gender effect flips between the two lines.",
+  "calc": false
+ },
+ {
+  "id": "c2-06-q",
+  "conceptId": "c2-06",
+  "stem": "Why do non-smokers typically receive a discount on life insurance premiums?",
+  "options": {
+   "A": "Because smoking status is not verifiable so all applicants get the discount",
+   "B": "Because they always buy larger sum assured amounts",
+   "C": "Because they statistically enjoy better health and longer life expectancy",
+   "D": "Because they are legally entitled to a rebate under the Insurance Act"
+  },
+  "answer": "C",
+  "explanation": "Non-smokers receive discounts because they statistically enjoy better health and live longer, lowering the mortality cost. There is no statutory entitlement, and the discount is not tied to the sum assured.",
+  "calc": false
+ },
+ {
+  "id": "c2-07-q",
+  "conceptId": "c2-07",
+  "stem": "How is a volume discount for a large sum assured normally applied?",
+  "options": {
+   "A": "As a flat cash rebate deducted from the total premium",
+   "B": "As a reduction to the per-$1,000 rate charged",
+   "C": "As a waiver of the first year's premium entirely",
+   "D": "As bonus units added to the policy"
+  },
+  "answer": "B",
+  "explanation": "Premiums are quoted per $1,000 of sum assured. Because some admin costs are fixed, large policies get a volume discount applied as a reduction to the per-$1,000 rate, not a flat rebate.",
+  "calc": false
+ },
+ {
+  "id": "c2-08-q",
+  "conceptId": "c2-08",
+  "stem": "Compared with an annual mode, why does a monthly premium mode usually carry a small surcharge?",
+  "options": {
+   "A": "Because monthly policies have a larger sum assured",
+   "B": "Because monthly mode attracts higher commission",
+   "C": "Because a single premium is always cheaper than any instalment mode",
+   "D": "Because the insurer loses interest and incurs more processing on frequent instalments"
+  },
+  "answer": "D",
+  "explanation": "More frequent modes carry a small surcharge for lost interest and extra processing. A single premium is lower overall because the insurer receives the whole amount upfront to invest, but that describes single premium, not why monthly carries a surcharge.",
+  "calc": false
+ },
+ {
+  "id": "c2-09-q",
+  "conceptId": "c2-09",
+  "stem": "Which premium types are permitted when a policy is funded with CPF monies?",
+  "options": {
+   "A": "Only regular and yearly renewable premiums",
+   "B": "Only limited premium policies",
+   "C": "Any premium type including limited-pay",
+   "D": "Only single or recurrent single premiums"
+  },
+  "answer": "D",
+  "explanation": "CPF monies can buy only single or recurrent single premium policies. Regular, yearly renewable and limited-pay modes are not permitted with CPF funding.",
+  "calc": false
+ },
+ {
+  "id": "c3-01-q",
+  "conceptId": "c3-01",
+  "stem": "Life insurance products can be classified in four ways. Which statement about these classifications is correct?",
+  "options": {
+   "A": "They are four independent lenses, and a policy sits in all four at once",
+   "B": "Premium type is not a valid basis of classification",
+   "C": "Only statutory fund and ownership apply to par policies",
+   "D": "They form a strict hierarchy, so a policy sits in only one at a time"
+  },
+  "answer": "A",
+  "explanation": "The four bases (statutory fund, product type, premium type, ownership) are independent lenses, not a hierarchy; a single policy sits in all four simultaneously. They are not mutually exclusive tiers.",
+  "calc": false
+ },
+ {
+  "id": "c3-02-q",
+  "conceptId": "c3-02",
+  "stem": "Under section 17 of the Insurance Act, which statutory fund MUST be kept separate?",
+  "options": {
+   "B": "The participating fund",
+   "C": "The non-participating fund",
+   "D": "The investment-linked fund",
+   "A": "All three funds must always be kept separate from each other"
+  },
+  "answer": "D",
+  "explanation": "Par and non-par business may share a fund, but the investment-linked fund must be kept separate. Only the investment-linked fund is mandatorily separate, so the claim that all three funds must always be separate is incorrect.",
+  "calc": false
+ },
+ {
+  "id": "c3-03-q",
+  "conceptId": "c3-03",
+  "stem": "Which statement about participating and non-participating policies is correct?",
+  "options": {
+   "C": "Whole Life can only ever be participating",
+   "D": "Term insurance is typically written as a participating policy",
+   "A": "Whole Life and Endowment can be either participating or non-participating",
+   "B": "Non-participating policies always pay bonuses"
+  },
+  "answer": "A",
+  "explanation": "Whole Life and Endowment come in both par and non-par forms, so they cannot be pinned to one side. Term and Universal Life are non-par and pay no bonus, and non-participating policies never pay bonuses, so the other statements are wrong.",
+  "calc": false
+ },
+ {
+  "id": "c3-04-q",
+  "conceptId": "c3-04",
+  "stem": "Which of the following is classified as a health product rather than a core life product type?",
+  "options": {
+   "A": "Disability Income",
+   "B": "Annuity",
+   "C": "Endowment",
+   "D": "Whole Life"
+  },
+  "answer": "A",
+  "explanation": "Disability Income is a health product, alongside Critical Illness, Medical Expenses, and Long-Term Care. Endowment, Whole Life and Annuity are core life product types.",
+  "calc": false
+ },
+ {
+  "id": "c3-05-q",
+  "conceptId": "c3-05",
+  "stem": "Which ownership classification describes the most common arrangement where the policy owner and the life insured are the same person?",
+  "options": {
+   "A": "Third-party",
+   "B": "Joint life",
+   "C": "Single life",
+   "D": "Group"
+  },
+  "answer": "C",
+  "explanation": "A single life policy has the owner and insured as the same person and is the most common form. Third-party is where owner and insured differ; group covers many lives such as an employer's staff.",
+  "calc": false
+ },
+ {
+  "id": "c3-06-q",
+  "conceptId": "c3-06",
+  "stem": "A couple takes out a joint life first-to-die policy on their mortgage. When does the benefit pay out and what happens to the cover?",
+  "options": {
+   "A": "It pays when both have died, and cover continues for the estate",
+   "B": "It pays on the first death, goes to the survivor, and the cover then ends",
+   "C": "It pays on the first death and continues covering the survivor",
+   "D": "It pays half on each death"
+  },
+  "answer": "B",
+  "explanation": "First-to-die pays on the first death, the benefit goes to the survivor and the cover then ends, suiting a joint mortgage. Paying only when both have died describes last survivor (second-to-die), not first-to-die.",
+  "calc": false
+ },
+ {
+  "id": "c3-07-q",
+  "conceptId": "c3-07",
+  "stem": "Which is an essential characteristic of a group life insurance scheme?",
+  "options": {
+   "A": "The group must exist for a purpose other than buying insurance",
+   "B": "The master contract is renewed only once every ten years",
+   "C": "The group may be formed specifically to obtain insurance",
+   "D": "Each member is individually and fully underwritten"
+  },
+  "answer": "A",
+  "explanation": "The group must exist for a purpose other than buying insurance; you cannot gather strangers just to obtain group cover. Group schemes use minimal underwriting (a free cover limit) and are renewed yearly, so the claims of individual full underwriting or ten-yearly renewal are wrong.",
+  "calc": false
+ },
+ {
+  "id": "c3-08-q",
+  "conceptId": "c3-08",
+  "stem": "Group term life insurance is conceptually like a Yearly Renewable Term, but its premium varies according to:",
+  "options": {
+   "A": "A fixed rate that never changes",
+   "B": "The stock market performance of the insurer's fund",
+   "C": "The group's size and claims experience",
+   "D": "Each individual member's advancing age"
+  },
+  "answer": "C",
+  "explanation": "Group term life premiums vary with the group's size and claims experience, not with each individual member's advancing age. It is the most sold group class in Singapore, usually to age 65 with death and TPD benefits.",
+  "calc": false
+ },
+ {
+  "id": "c4-01-q",
+  "conceptId": "c4-01",
+  "stem": "Which statement about term insurance is correct?",
+  "options": {
+   "A": "It builds cash value that can support a policy loan",
+   "B": "It carries the highest premium of the traditional products",
+   "C": "It pays out on survival to the end of the term",
+   "D": "It pays the sum assured only if the insured dies during the term, and has no cash value"
+  },
+  "answer": "D",
+  "explanation": "Term insurance pays only on death during the term, is non-par, has no cash value and carries the lowest premium. Survive the term and you get nothing; no cash value means no policy loan, APL or non-forfeiture options.",
+  "calc": false
+ },
+ {
+  "id": "c4-02-q",
+  "conceptId": "c4-02",
+  "stem": "A mortgage protection plan whose benefit falls over time to match a reducing loan is an example of which type of term insurance?",
+  "options": {
+   "A": "Renewable term",
+   "B": "Decreasing term",
+   "C": "Level term",
+   "D": "Increasing term"
+  },
+  "answer": "B",
+  "explanation": "Decreasing term has a falling benefit, matching a reducing mortgage balance. Level term keeps benefit and premium constant (e.g. key-person cover); increasing term rises to counter inflation.",
+  "calc": false
+ },
+ {
+  "id": "c4-03-q",
+  "conceptId": "c4-03",
+  "stem": "Under a mortgage decreasing term policy, how is each year's sum assured determined?",
+  "options": {
+   "B": "It is recalculated each year to equal the exact outstanding loan balance",
+   "C": "It is fixed at outset using assumed rates and repayments, so it may not equal the actual loan",
+   "D": "It rises each year with the interest owed",
+   "A": "It is set by the bank at the time of each claim"
+  },
+  "answer": "C",
+  "explanation": "The declining sum assured is fixed at outset using assumed rates and repayments, so the payout may be more or less than the actual outstanding loan. It is not recalculated each year to the real balance, which is the trap.",
+  "calc": false
+ },
+ {
+  "id": "c4-04-q",
+  "conceptId": "c4-04",
+  "stem": "Why does the premium rise when a renewable term policy is renewed at term-end?",
+  "options": {
+   "A": "Because fresh medical evidence lowers the risk classification",
+   "B": "Because the premium rises to the attained age and is pushed up by anti-selection",
+   "C": "Because the insurer adds a cash value component",
+   "D": "Because the sum assured automatically increases on renewal"
+  },
+  "answer": "B",
+  "explanation": "Renewal is at attained age without evidence of insurability, and anti-selection pushes the premium up because healthier lives tend to lapse. Yearly renewable term suits the young; do not advise older clients into it.",
+  "calc": false
+ },
+ {
+  "id": "c4-05-q",
+  "conceptId": "c4-05",
+  "stem": "The convertible option on a term policy gives the owner the right to:",
+  "options": {
+   "A": "Surrender the term policy for its cash value",
+   "B": "Increase the sum assured each year without limit",
+   "C": "Renew the term at the original age premium indefinitely",
+   "D": "Convert the term policy into a permanent policy without evidence of insurability"
+  },
+  "answer": "D",
+  "explanation": "The convertible option lets the owner convert term into a permanent policy without fresh evidence of insurability. Attained-age conversion is priced at the conversion age (common); original-age conversion is priced at the original age but needs a lump sum and is time-limited.",
+  "calc": false
+ },
+ {
+  "id": "c4-06-q",
+  "conceptId": "c4-06",
+  "stem": "In the term 'Whole Life insurance', the word 'whole life' refers to:",
+  "options": {
+   "A": "The length of the premium-paying period",
+   "B": "The requirement to pay premiums for exactly 100 years",
+   "C": "The fact that no bonuses are ever paid",
+   "D": "The duration of the protection provided"
+  },
+  "answer": "D",
+  "explanation": "'Whole life' refers to the duration of protection (lifetime cover), not how long you pay. Ordinary Whole Life is paid for life while Limited Payment Whole Life is paid over a set period, so the premium term varies.",
+  "calc": false
+ },
+ {
+  "id": "c4-07-q",
+  "conceptId": "c4-07",
+  "stem": "Why does whole life insurance build cash value while term insurance does not?",
+  "options": {
+   "A": "Because term insurers deliberately withhold the savings element",
+   "B": "Because whole life charges level premiums for an event (death) that is certain to occur eventually",
+   "C": "Because term policies invest in riskier assets",
+   "D": "Because cash value is only a marketing feature with no basis"
+  },
+  "answer": "B",
+  "explanation": "Cash value arises from charging level premiums for a certain event, since death is guaranteed eventually. Term covers an uncertain event over a limited term, so it accumulates no cash value.",
+  "calc": false
+ },
+ {
+  "id": "c4-08-q",
+  "conceptId": "c4-08",
+  "stem": "If a whole life policy owner stops paying premiums and makes no election, which non-forfeiture option applies automatically?",
+  "options": {
+   "A": "Reduced paid-up insurance",
+   "B": "Automatic Premium Loan",
+   "C": "Surrender for net cash value",
+   "D": "Extended Term Insurance (ETI)"
+  },
+  "answer": "D",
+  "explanation": "Extended Term Insurance is the automatic default non-forfeiture option if nothing is elected. Surrender and reduced paid-up must be actively chosen; net cash value equals cash value minus loans and interest plus bonus accumulations.",
+  "calc": false
+ },
+ {
+  "id": "c4-09-q",
+  "conceptId": "c4-09",
+  "stem": "What is the defining feature that distinguishes endowment insurance from whole life?",
+  "options": {
+   "C": "It pays nothing on death during the term",
+   "D": "It has a fixed maturity date with a maturity value on survival",
+   "A": "It carries the lowest premium of the three traditional products",
+   "B": "It can only be written as non-participating"
+  },
+  "answer": "D",
+  "explanation": "Endowment's defining feature is a fixed maturity date paying a maturity value on survival, or the death benefit if death occurs during the term. It has the highest premium of the three traditional products due to a heavy savings element, not the lowest.",
+  "calc": false
+ },
+ {
+  "id": "c4-10-q",
+  "conceptId": "c4-10",
+  "stem": "For an anticipated ('money-back') endowment that pays cash sums at intervals, how is the death benefit affected by cash payments already received?",
+  "options": {
+   "A": "The death benefit is NOT reduced by cash payments already received",
+   "B": "The death benefit is paid only if no cash payments were taken",
+   "C": "The death benefit is reduced by every cash payment already made",
+   "D": "The policy pays only on survival and nothing on death"
+  },
+  "answer": "A",
+  "explanation": "For an anticipated (money-back) endowment the death benefit is NOT reduced by the periodic cash payments already received. A pure endowment, by contrast, pays only on survival and nothing on death.",
+  "calc": false
+ },
+ {
+  "id": "c4-11-q",
+  "conceptId": "c4-11",
+  "stem": "Ranking Term, Whole Life and Endowment by premium from lowest to highest, the correct order is:",
+  "options": {
+   "D": "Endowment, Whole Life, Term",
+   "A": "Term, Whole Life, Endowment",
+   "B": "Whole Life, Term, Endowment",
+   "C": "Term, Endowment, Whole Life"
+  },
+  "answer": "A",
+  "explanation": "Premium ranking is Term lowest, Whole Life in the middle, Endowment highest, because endowment carries the heaviest savings element. The reverse order (Endowment, Whole Life, Term) is therefore incorrect.",
+  "calc": false
+ },
+ {
+  "id": "c4-12-q",
+  "conceptId": "c4-12",
+  "stem": "Which point-of-sale document is required only for Investment-Linked Policies and not for traditional life policies?",
+  "options": {
+   "A": "The Product Summary",
+   "B": "The Product Highlights Sheet",
+   "C": "The Policy Illustration",
+   "D": "The Cover Page"
+  },
+  "answer": "B",
+  "explanation": "Under MAS Notice FAA-N16 the Product Highlights Sheet is required for ILPs only. The Cover Page, Product Summary and Policy Illustration are given for life policies generally.",
+  "calc": false
+ },
+ {
+  "id": "c5-01-q",
+  "conceptId": "c5-01",
+  "stem": "Which statement best describes a rider (supplementary benefit)?",
+  "options": {
+   "A": "A supplementary benefit attached to a basic policy that adds cover for an extra premium",
+   "B": "A standalone policy sold independently of any basic plan",
+   "C": "A discount applied to the basic premium",
+   "D": "A mandatory feature that comes free with every policy"
+  },
+  "answer": "A",
+  "explanation": "A rider is a supplementary benefit attaching to a basic policy, adding cover the basic contract lacks, for an extra premium and shown in the schedule with an endorsement. It cannot exist as a standalone policy.",
+  "calc": false
+ },
+ {
+  "id": "c5-02-q",
+  "conceptId": "c5-02",
+  "stem": "Which statement about the general rules for riders is correct?",
+  "options": {
+   "A": "A rider can be bought without any basic policy",
+   "B": "Riders have no cash value and terminate when the policy converts to Extended Term Insurance",
+   "C": "A rider's term may exceed the basic policy's term",
+   "D": "You may cancel the basic policy but keep the rider running"
+  },
+  "answer": "B",
+  "explanation": "Riders carry no cash value and automatically terminate when the basic policy converts to ETI. You cannot buy a rider without a basic policy, nor keep a rider after cancelling the basic policy, and a rider's term cannot exceed the basic policy's.",
+  "calc": false
+ },
+ {
+  "id": "c5-03-q",
+  "conceptId": "c5-03",
+  "stem": "When is a Waiver of Premium on Critical Illness rider NOT worth recommending?",
+  "options": {
+   "A": "When the basic cover already gives 100% acceleration of the death benefit on CI",
+   "B": "When the client is young and healthy",
+   "C": "When the waiting period is only six months",
+   "D": "When the policy is a regular-premium whole life plan"
+  },
+  "answer": "A",
+  "explanation": "If the basic cover already accelerates 100% of the death benefit on CI, the policy pays out and terminates on a CI claim, so there are no future premiums left to waive. The WoP-on-CI rider would then be redundant.",
+  "calc": false
+ },
+ {
+  "id": "c5-04-q",
+  "conceptId": "c5-04",
+  "stem": "Once TPD instalment payments begin under a Total and Permanent Disability rider, what happens to the other riders on the policy?",
+  "options": {
+   "A": "The death benefit is doubled",
+   "B": "All other riders terminate except an Extended TPD rider",
+   "C": "Only the Critical Illness rider survives",
+   "D": "All riders continue unaffected"
+  },
+  "answer": "B",
+  "explanation": "Once TPD instalments begin, all other riders terminate except an Extended TPD rider. Aggregate TPD is typically capped around $2m per insurer, and nothing is paid for intentionally self-inflicted injury.",
+  "calc": false
+ },
+ {
+  "id": "c5-05-q",
+  "conceptId": "c5-05",
+  "stem": "How does an Acceleration (accelerator) Critical Illness rider differ from an Additional Benefit CI rider?",
+  "options": {
+   "B": "Acceleration pays on top of the basic sum assured, leaving death cover intact",
+   "C": "Acceleration pre-pays part or all of the basic sum assured, so it reduces the basic cover",
+   "D": "Both pay entirely separately from the basic sum assured",
+   "A": "Additional Benefit reduces the basic sum assured while Acceleration adds to it"
+  },
+  "answer": "C",
+  "explanation": "Acceleration pre-pays part or all of the BASIC sum assured, so it reduces the basic cover; 100% acceleration terminates the policy. Additional Benefit instead pays ON TOP of the basic sum assured, leaving death cover intact, so saying Additional Benefit reduces cover while Acceleration adds to it reverses the two.",
+  "calc": false
+ },
+ {
+  "id": "c5-06-q",
+  "conceptId": "c5-06",
+  "stem": "Regarding Critical Illness rider periods, which statement is correct?",
+  "options": {
+   "A": "There is no waiting period for CI riders in Singapore",
+   "B": "A 90-day waiting period applies to all CI riders, while a 30-day survival period applies only to the Additional Benefit",
+   "C": "A 30-day waiting period applies to all CI riders",
+   "D": "A 90-day survival period applies to the Acceleration Benefit only"
+  },
+  "answer": "B",
+  "explanation": "The 90-day waiting period (to defeat anti-selection) applies to all CI riders; the 30-day survival period applies only to the Additional Benefit. The 37 covered critical illnesses are standardised across insurers in Singapore.",
+  "calc": false
+ },
+ {
+  "id": "c5-07-q",
+  "conceptId": "c5-07",
+  "stem": "To which type of basic policy can a term rider be attached?",
+  "options": {
+   "A": "Any policy including another term policy",
+   "B": "Only a permanent policy such as whole life",
+   "C": "Only a term policy",
+   "D": "Only a single-premium ILP"
+  },
+  "answer": "B",
+  "explanation": "A term rider only attaches to a PERMANENT policy, never to a term policy; on a term policy you simply raise the term sum assured instead. It is sized as a ratio to the basic SA, e.g. 3:1 or 5:1.",
+  "calc": false
+ },
+ {
+  "id": "c5-08-q",
+  "conceptId": "c5-08",
+  "stem": "The Family Income Benefit rider on a juvenile policy is structured as which type of rider?",
+  "options": {
+   "A": "A whole life rider",
+   "B": "An increasing term rider",
+   "C": "A decreasing term rider",
+   "D": "A level term rider"
+  },
+  "answer": "C",
+  "explanation": "Family Income Benefit is a decreasing term rider paying a regular income to a child: the earlier the payor dies, the more total income the child receives, because more payments remain. Later death leaves fewer payments, hence decreasing.",
+  "calc": false
+ },
+ {
+  "id": "c5-09-q",
+  "conceptId": "c5-09",
+  "stem": "Under a Payor Benefit rider on a juvenile policy, what happens if the paying parent dies or becomes disabled before the child reaches the specified age?",
+  "options": {
+   "A": "The child must begin paying premiums immediately",
+   "B": "The policy immediately pays out the full sum assured",
+   "C": "The policy lapses with no value",
+   "D": "Premiums are waived until the child reaches that specified age"
+  },
+  "answer": "D",
+  "explanation": "If the payor dies or becomes disabled before the child reaches the specified age (e.g. 21 or 25), premiums are waived until the child reaches that age, keeping the policy in force. Some versions add CI to the triggering events.",
+  "calc": false
+ },
+ {
+  "id": "c5-10-q",
+  "conceptId": "c5-10",
+  "stem": "What does a Guaranteed Insurability Option (GIO) rider actually provide?",
+  "options": {
+   "A": "A right to buy additional insurance at set intervals or life events without evidence of insurability",
+   "B": "Immediate additional life cover at no cost",
+   "C": "A waiver of premiums on disability",
+   "D": "A guaranteed investment return on the policy"
+  },
+  "answer": "A",
+  "explanation": "GIO is not cover itself but a RIGHT to buy future additional insurance at set intervals or life events (e.g. ages 30/35/40, marriage, birth of a child) without evidence of insurability. Skipping one option date does not forfeit the next.",
+  "calc": false
+ },
+ {
+  "id": "c5-11-q",
+  "conceptId": "c5-11",
+  "stem": "An Accidental Death Benefit rider is often called 'double indemnity' because it:",
+  "options": {
+   "A": "Covers two lives under one rider",
+   "B": "Pays twice the premium back on maturity",
+   "C": "Doubles the cash value each year",
+   "D": "Pays an additional amount, usually equal to the basic sum assured, on accidental death"
+  },
+  "answer": "D",
+  "explanation": "ADB pays an additional amount, usually equal to the basic sum assured, on accidental death, hence 'double indemnity'. Sold standalone by a general insurer, it becomes a Personal Accident policy.",
+  "calc": false
+ },
+ {
+  "id": "c5-12-q",
+  "conceptId": "c5-12",
+  "stem": "Compared with the Accidental Death Benefit rider, the Accidental Death and Dismemberment (AD&D) rider additionally covers:",
+  "options": {
+   "A": "Loss of employment income",
+   "B": "Dismemberment or functional permanent loss of limbs, sight, hearing or speech",
+   "C": "Hospitalisation cash for any admission",
+   "D": "Death from any cause including illness"
+  },
+  "answer": "B",
+  "explanation": "AD&D is ADB plus cover for dismemberment (severance/amputation) or functional permanent loss of limbs, sight, hearing or speech, paid as a percentage of the rider SA. It suits blue-collar and higher-risk occupations.",
+  "calc": false
+ },
+ {
+  "id": "c5-13-q",
+  "conceptId": "c5-13",
+  "stem": "How does a Hospital Cash (Income) Benefit rider pay out?",
+  "options": {
+   "A": "It pays a fixed daily benefit for hospital confinement regardless of actual charges",
+   "B": "It pays only if the stay exceeds 90 days",
+   "C": "It reimburses the exact hospital bill incurred",
+   "D": "It pays a lump sum equal to the sum assured on admission"
+  },
+  "answer": "A",
+  "explanation": "Hospital Cash pays a fixed daily benefit (e.g. $150/day) for confinement regardless of actual charges, subject to limits and a waiting period. Because it pays from the first dollar it is useful to cover the co-payment or deductible under a separate Medical Expense policy.",
+  "calc": false
+ },
+ {
+  "id": "c6-01-q",
+  "conceptId": "c6-01",
+  "stem": "Which statement about a participating ('with-profits') policy is correct?",
+  "options": {
+   "A": "Participating policies never pay any bonuses",
+   "B": "Each policy owner holds visible, identifiable units in the par fund",
+   "C": "The guaranteed benefits need not be paid if the par fund underperforms",
+   "D": "Par fund assets are pooled and not identifiable per policy owner, and guaranteed benefits must be paid regardless of fund performance"
+  },
+  "answer": "D",
+  "explanation": "Par fund assets are pooled and NOT identifiable per policy owner, and the insurer must pay guaranteed benefits regardless of fund performance, injecting capital if needed. This contrasts with an ILP where each owner holds visible units.",
+  "calc": false
+ },
+ {
+  "id": "c6-02-q",
+  "conceptId": "c6-02",
+  "stem": "In a participating policy, which of the following is a NON-guaranteed benefit?",
+  "options": {
+   "A": "The guaranteed cash value",
+   "B": "The bonuses",
+   "C": "The face amount shown on page one",
+   "D": "The sum assured"
+  },
+  "answer": "B",
+  "explanation": "Non-guaranteed benefits are the bonuses, whose level depends on investment performance, expenses and claims. The sum assured and guaranteed cash values are guaranteed. Note that once a bonus is added it generally cannot be taken away.",
+  "calc": false
+ },
+ {
+  "id": "c6-03-q",
+  "conceptId": "c6-03",
+  "stem": "What is the purpose of 'smoothing' in a participating fund?",
+  "options": {
+   "A": "To eliminate all investment risk from the fund",
+   "B": "To hold back bonuses in good years so they can be sustained in bad years",
+   "C": "To guarantee a fixed bonus rate for the life of the policy",
+   "D": "To make declared bonuses exactly track market movements each year"
+  },
+  "answer": "B",
+  "explanation": "Smoothing means insurers hold back bonuses in good years to sustain them in bad years, so declared bonuses do not track market swings. It reduces volatility of declarations, it does not make them track the market or become fixed.",
+  "calc": false
+ },
+ {
+  "id": "c6-04-q",
+  "conceptId": "c6-04",
+  "stem": "How does a Compound Reversionary Bonus (CRB) differ from a Simple Reversionary Bonus (SRB)?",
+  "options": {
+   "A": "CRB is calculated on the sum assured plus bonuses already attached, giving increasing bonuses",
+   "B": "CRB can be removed once declared",
+   "C": "CRB is paid only at termination of the policy",
+   "D": "CRB is calculated on the sum assured only, giving level bonuses"
+  },
+  "answer": "A",
+  "explanation": "CRB is calculated on the sum assured PLUS bonuses already attached, so it compounds and gives increasing bonuses. SRB is calculated on the sum assured only, giving level bonuses. Once declared, either bonus is guaranteed.",
+  "calc": false
+ },
+ {
+  "id": "c6-05-q",
+  "conceptId": "c6-05",
+  "stem": "Which statement about the terminal bonus is correct?",
+  "options": {
+   "A": "It is added to the sum assured of an in-force policy each year",
+   "B": "It is always a fixed dollar amount unrelated to performance",
+   "C": "It is guaranteed from the first policy anniversary",
+   "D": "It is credited only on termination and tends to fluctuate more than the reversionary bonus"
+  },
+  "answer": "D",
+  "explanation": "Terminal bonus is added only on termination (maturity, death, TPD or surrender), usually after a minimum period in force, and fluctuates more than the reversionary bonus because it fine-tunes smoothing. It is never credited to a live in-force policy.",
+  "calc": false
+ },
+ {
+  "id": "c6-06-q",
+  "conceptId": "c6-06",
+  "stem": "An interim bonus is paid to a participating policy that:",
+  "options": {
+   "A": "Has been in force for over 25 years",
+   "B": "Has never claimed any bonus before",
+   "C": "Elects to receive cash dividends instead of bonuses",
+   "D": "Terminates early in the year before the annual bonus declaration is finalised"
+  },
+  "answer": "D",
+  "explanation": "An interim bonus is paid to policies terminating early in the year before the annual bonus declaration is finalised (declaration is typically March or April after audited accounts). Cash dividends are a separate alternative distribution method.",
+  "calc": false
+ },
+ {
+  "id": "c6-07-q",
+  "conceptId": "c6-07",
+  "stem": "Who analyses the participating fund each year and recommends both the bonus to allocate and the amount to reserve?",
+  "options": {
+   "A": "The external auditor",
+   "B": "The Board of Directors alone",
+   "C": "The Appointed Actuary, whose recommendation the Board approves",
+   "D": "The Monetary Authority of Singapore"
+  },
+  "answer": "C",
+  "explanation": "The Appointed Actuary analyses the fund and recommends the bonus and the reserve; the Board of Directors approves it. Guiding considerations include fairness between generations, solvency, and consistency with stable long-term returns.",
+  "calc": false
+ },
+ {
+  "id": "c6-08-q",
+  "conceptId": "c6-08",
+  "stem": "Under the 90/10 rule, how is the insurer's profit from the participating fund limited?",
+  "options": {
+   "C": "To 10% of the total value of the entire par fund",
+   "D": "To one-ninth of the amount allocated to policy owners as bonus",
+   "A": "To 90% of the distributable surplus",
+   "B": "To a fixed annual dollar cap set by MAS"
+  },
+  "answer": "D",
+  "explanation": "The insurer's profit is limited to one-ninth of the amount allocated to policy owners as bonus, i.e. 90% of distributable surplus to owners and 10% to the insurer. It is not 10% of the whole par fund computed separately, which is the trap.",
+  "calc": false
+ },
+ {
+  "id": "c6-09-q",
+  "conceptId": "c6-09",
+  "stem": "Under the Risk-Based Capital framework, which of the following must the actuary reserve for when valuing the policy liability?",
+  "options": {
+   "A": "Only the guaranteed benefits",
+   "B": "Only future bonuses, since guaranteed benefits need no reserve",
+   "C": "Guaranteed benefits, future non-guaranteed bonuses, and a Provision for Adverse Deviation",
+   "D": "Only the Provision for Adverse Deviation"
+  },
+  "answer": "C",
+  "explanation": "Under the RBC framework the actuary reserves for guaranteed benefits, future non-guaranteed bonuses, and a Provision for Adverse Deviation (PAD). Reserving only for guaranteed benefits would understate the liability.",
+  "calc": false
+ },
+ {
+  "id": "c6-10-q",
+  "conceptId": "c6-10",
+  "stem": "Regarding the Policy Illustration for a participating policy, which statement is correct?",
+  "options": {
+   "A": "Only the representative needs to sign the cover page",
+   "B": "The higher projection rate is capped by LIA's maximum best-estimate long-term return and both parties sign every page",
+   "C": "The projection uses a single guaranteed rate of return",
+   "D": "'Your Guide to Participating Policies' must always be handed over at point of sale"
+  },
+  "answer": "B",
+  "explanation": "The Policy Illustration projects at two rates (e.g. 3.75% and 5.25%), the higher of which cannot exceed LIA's maximum best-estimate long-term return, and client and representative sign every page. 'Your Guide to Participating Policies' is generic and provided on request, not compulsory.",
+  "calc": false
+ },
+ {
+  "id": "c6-11-q",
+  "conceptId": "c6-11",
+  "stem": "Which statement about the Internal Governance Policy for a participating fund is correct?",
+  "options": {
+   "D": "It must be published to all consumers by law",
+   "A": "It must be approved and reviewed annually by the board, and need not be disclosed to consumers",
+   "B": "It is optional and many insurers do not maintain one",
+   "C": "It is prepared by MAS on the insurer's behalf"
+  },
+  "answer": "A",
+  "explanation": "Every insurer with a par fund must maintain an Internal Governance Policy approved and reviewed annually by the board; it need not be disclosed to consumers, though insurers may choose to. It is mandatory, so calling it optional is wrong.",
+  "calc": false
+ },
+ {
+  "id": "c7-01-q",
+  "conceptId": "c7-01",
+  "stem": "What is the single most important consequence of an Investment-Linked Policy for the policy owner?",
+  "options": {
+   "A": "It provides no guaranteed cash value, and the owner bears the investment risk",
+   "B": "It pays annual reversionary bonuses",
+   "C": "It cannot ever lapse regardless of fund performance",
+   "D": "It guarantees a minimum surrender value"
+  },
+  "answer": "A",
+  "explanation": "An ILP provides NO guaranteed cash value; its value rises and falls entirely with sub-fund performance and the owner bears the investment risk. It does not pay reversionary bonuses, which belong to participating traditional policies.",
+  "calc": false
+ },
+ {
+  "id": "c7-02-q",
+  "conceptId": "c7-02",
+  "stem": "ILPs can be classified by premium frequency. A single-premium plan built up over time through repeated top-ups is often described as a:",
+  "options": {
+   "A": "Recurring single premium ILP",
+   "B": "Limited payment ILP",
+   "C": "Yearly renewable ILP",
+   "D": "Regular premium ILP"
+  },
+  "answer": "A",
+  "explanation": "Single-premium ILPs are savings-focused, and repeated top-ups form a 'recurring single premium'. Regular-premium ILPs are usually for protection with variable cover, which is a different classification.",
+  "calc": false
+ },
+ {
+  "id": "c7-03-q",
+  "conceptId": "c7-03",
+  "stem": "Under an ILP, what does a 'premium holiday' feature allow?",
+  "options": {
+   "A": "The policy is converted into a traditional whole life plan",
+   "B": "The insurer refunds all premiums for a year",
+   "C": "The owner doubles the sum assured for free",
+   "D": "The owner stops paying premiums while the insurer sells units to cover charges"
+  },
+  "answer": "D",
+  "explanation": "A premium holiday lets the owner stop paying while the insurer sells units to cover ongoing charges, provided the value is sufficient. It is not a refund of premiums, and it does not convert the policy.",
+  "calc": false
+ },
+ {
+  "id": "c7-04-q",
+  "conceptId": "c7-04",
+  "stem": "Why is a regular-premium ILP generally unsuitable for an older client whose main aim is investment?",
+  "options": {
+   "A": "Heavy early-year charges combined with a short horizon and inability to sustain premiums cripple returns",
+   "B": "ILPs guarantee returns only for those under 40",
+   "C": "The sub-funds are unavailable to older investors",
+   "D": "Older clients cannot legally buy ILPs"
+  },
+  "answer": "A",
+  "explanation": "Regular-premium ILPs carry heavy early-year charges, so a long horizon matters; for older clients the deciding issue is usually the ability to sustain premiums into retirement. High initial costs plus a short horizon cripple returns.",
+  "calc": false
+ },
+ {
+  "id": "c7-05-q",
+  "conceptId": "c7-05",
+  "stem": "Under the CPF Investment Scheme (CPFIS), which type of ILP may a member newly fund with CPF savings?",
+  "options": {
+   "A": "Yearly renewable term ILPs only",
+   "B": "Any ILP regardless of premium type",
+   "C": "Regular-premium ILPs only",
+   "D": "Single-premium ILPs only"
+  },
+  "answer": "D",
+  "explanation": "Under CPFIS only single-premium ILPs are allowed. Members who bought regular-premium plans before 2001 may continue paying with CPF, but those are grandfathered, not newly permitted.",
+  "calc": false
+ },
+ {
+  "id": "c7-06-q",
+  "conceptId": "c7-06",
+  "stem": "Which is a key difference between an ILP and a traditional participating policy?",
+  "options": {
+   "A": "An ILP guarantees no minimum surrender value, while a participating policy guarantees a minimum",
+   "B": "Participating sub-funds publish daily unit prices while ILPs do not",
+   "C": "A participating policy guarantees no minimum surrender value, while an ILP does",
+   "D": "ILP charges are bundled while participating premiums are unbundled"
+  },
+  "answer": "A",
+  "explanation": "An ILP guarantees no minimum surrender value, whereas a participating policy guarantees a minimum. ILP charges are unbundled and transparent while par premiums are bundled, and it is the ILP sub-fund that publishes daily unit prices, so the reversed statements are wrong.",
+  "calc": false
+ },
+ {
+  "id": "c7-07-q",
+  "conceptId": "c7-07",
+  "stem": "Under a bid-offer (dual) pricing model, at which prices does the policy owner buy and sell units?",
+  "options": {
+   "A": "Buy at bid, sell at offer",
+   "B": "Buy at offer, sell at bid",
+   "C": "Buy at bid, sell at bid",
+   "D": "Buy and sell at the same single price"
+  },
+  "answer": "B",
+  "explanation": "Under bid-offer (dual) pricing you buy at offer and sell at bid, with a spread of about 5% acting as the initial sales charge (remember BOSB: Buy at Offer, Sell at Bid). Single pricing uses one price with the sales charge disclosed separately.",
+  "calc": false
+ },
+ {
+  "id": "c7-08-q",
+  "conceptId": "c7-08",
+  "stem": "Under a front-end loaded regular-premium ILP, how does the premium allocation rate typically behave?",
+  "options": {
+   "A": "It starts at 100% and falls over time",
+   "B": "It allocates less than 100% in early years, rising to 100% later",
+   "C": "It is fixed at 50% throughout the policy",
+   "D": "It allocates 100% from the start but charges a fee on early surrender"
+  },
+  "answer": "B",
+  "explanation": "Front-end loading allocates less than 100% in the early years, rising to 100% (sometimes above) later. Allocating 100% from the start but charging a fee on early surrender describes back-end loading instead.",
+  "calc": false
+ },
+ {
+  "id": "c7-09-q",
+  "conceptId": "c7-09",
+  "stem": "Under forward pricing for an ILP, orders to buy or sell units are settled at:",
+  "options": {
+   "A": "A price fixed at the start of each month",
+   "B": "The last published price before the order",
+   "C": "An average of the day's high and low prices",
+   "D": "The next computed price after the order"
+  },
+  "answer": "D",
+  "explanation": "With forward pricing the manager recomputes the NAV after market close, and orders settle at the next computed price: buying at the next offer, selling at the next bid. It is not the last-published or a fixed price.",
+  "calc": false
+ },
+ {
+  "id": "c7-10-q",
+  "conceptId": "c7-10",
+  "stem": "When ILP charges are met by selling units, at which price are the charges converted into units to be cancelled?",
+  "options": {
+   "A": "The average of bid and offer",
+   "B": "The bid price",
+   "C": "The offer price",
+   "D": "The original issue price"
+  },
+  "answer": "B",
+  "explanation": "Charges met by selling units are converted at the BID price, so the spread bites. The first sub-fund switch each year is usually free, and the sub-fund management fee runs 0.5% to 2% p.a., but the conversion price for charges is the bid.",
+  "calc": false
+ },
+ {
+  "id": "c7-11-q",
+  "conceptId": "c7-11",
+  "stem": "In a regular-premium ILP the premium can stay level even though the cost of insurance rises with age. What risk does this create if the sub-fund performs poorly?",
+  "options": {
+   "A": "The units may become inadequate to meet rising insurance charges, forcing a top-up or reduced cover",
+   "B": "The sum assured automatically increases each year",
+   "C": "The insurer must refund all past charges",
+   "D": "The bid-offer spread is waived permanently"
+  },
+  "answer": "A",
+  "explanation": "The level premium works because units are sold each month to pay the rising insurance charge; if the fund performs poorly the units may become inadequate, forcing the owner to raise premiums or cut cover. Higher chosen protection consumes more units, leaving fewer to build value.",
+  "calc": false
+ },
+ {
+  "id": "c7-12-q",
+  "conceptId": "c7-12",
+  "stem": "For a regular-premium ILP, when may an insurer revise the scale of insurance coverage charges?",
+  "options": {
+   "B": "On any single policy at the insurer's discretion at any time",
+   "C": "Only across an entire class of policies and only on a general, sustained worsening of claims experience",
+   "D": "Never, since the charges are always guaranteed",
+   "A": "Only when the stock market falls"
+  },
+  "answer": "C",
+  "explanation": "The insurance charge scale can be revised, but only across an entire class of policies and only on a general and sustained worsening of claims experience, never in isolation on a single policy. The charges are not guaranteed, so 'never revised' is wrong.",
+  "calc": false
+ },
+ {
+  "id": "c7-13-q",
+  "conceptId": "c7-13",
+  "stem": "Which statement correctly distinguishes an ILP from a unit trust?",
+  "options": {
+   "A": "Both fall under the Code on Collective Investment Schemes",
+   "B": "An ILP provides insurance cover plus investment and has a 14-day free-look, while a unit trust is investment only with a 7-day cancellation period",
+   "C": "A unit trust provides a death benefit while an ILP does not",
+   "D": "An ILP has a 7-day free-look while a unit trust has 14 days"
+  },
+  "answer": "B",
+  "explanation": "An ILP provides insurance cover (a death benefit) plus investment and has a 14-day free-look; a unit trust is investment only with a 7-day cancellation period. ILPs fall under the Insurance Act and MAS Notice 307, unit trusts under the Code on CIS and the SFA.",
+  "calc": false
+ },
+ {
+  "id": "c8-01-q",
+  "conceptId": "c8-01",
+  "stem": "What is the key difference between an accumulation and a distribution sub-fund structure?",
+  "options": {
+   "A": "Accumulation pays income out to owners; distribution reinvests it",
+   "B": "Accumulation has a fixed unit price while distribution's price floats",
+   "C": "Accumulation reinvests income back into the fund; distribution pays income out to owners",
+   "D": "Both pay income out but at different times"
+  },
+  "answer": "C",
+  "explanation": "Accumulation ploughs investment income back into the fund, enhancing unit prices; distribution pays income out to owners as additional units or dividends. The unit price still moves with capital gains and losses in both.",
+  "calc": false
+ },
+ {
+  "id": "c8-02-q",
+  "conceptId": "c8-02",
+  "stem": "Which statement correctly describes the relationship between fund types?",
+  "options": {
+   "A": "A feeder fund feeds directly into the mother fund and experiences the same price fluctuations",
+   "B": "A mirror fund feeds directly into a mother fund and shares its price movements",
+   "C": "A mother fund is a preset mix of funds matched to a risk profile",
+   "D": "A portfolio duplicates the composition of a single existing fund"
+  },
+  "answer": "A",
+  "explanation": "A feeder fund feeds directly into the mother fund and shares its price fluctuations. A mirror fund merely copies an existing fund's composition, and a portfolio is a preset mix of funds matched to a risk profile, so the other statements misattribute these definitions.",
+  "calc": false
+ },
+ {
+  "id": "c8-03-q",
+  "conceptId": "c8-03",
+  "stem": "Which type of sub-fund is generally lowest risk with a short recommended horizon and capital unlikely to fall?",
+  "options": {
+   "A": "Cash / money-market sub-fund",
+   "B": "Geographically specialised sub-fund",
+   "C": "Property sub-fund",
+   "D": "Equity sub-fund"
+  },
+  "answer": "A",
+  "explanation": "A cash / money-market sub-fund is low risk with a horizon up to about 3 years and capital unlikely to fall. Equity and geographically specialised funds are higher risk with roughly 10-year horizons.",
+  "calc": false
+ },
+ {
+  "id": "c8-04-q",
+  "conceptId": "c8-04",
+  "stem": "Because property is illiquid, a property fund may defer unit redemptions for up to 12 months, EXCEPT in the case of:",
+  "options": {
+   "A": "A switch to another fund",
+   "B": "A premium holiday request",
+   "C": "A partial withdrawal",
+   "D": "A death claim"
+  },
+  "answer": "D",
+  "explanation": "Property fund redemptions can be deferred for up to 12 months due to illiquidity, but never on a death claim. Death is the exception where redemption cannot be deferred.",
+  "calc": false
+ },
+ {
+  "id": "c8-05-q",
+  "conceptId": "c8-05",
+  "stem": "How does a capital-guaranteed fund typically try to preserve capital while offering some growth?",
+  "options": {
+   "A": "By holding only cash and money-market instruments",
+   "B": "By investing entirely in property",
+   "C": "By holding mostly equities with a small bond allocation",
+   "D": "By putting most money in bonds to preserve capital and the balance in derivatives for growth"
+  },
+  "answer": "D",
+  "explanation": "Capital-guaranteed funds put most money in bonds to preserve capital and the balance in derivatives (usually options) for upside. They are commonly closed-end with a fixed maturity, tenure around 4-7 years.",
+  "calc": false
+ },
+ {
+  "id": "c8-06-q",
+  "conceptId": "c8-06",
+  "stem": "What distinguishes a managed (balanced) fund from a managed portfolio?",
+  "options": {
+   "A": "Both pick individual assets but with different managers",
+   "B": "A managed fund picks which funds to invest in; a managed portfolio picks assets",
+   "C": "A managed portfolio is always single-manager while a managed fund is multi-manager",
+   "D": "A managed fund picks which assets to buy; a managed portfolio picks which funds to invest in"
+  },
+  "answer": "D",
+  "explanation": "A managed (balanced) fund is one fund whose manager chooses which assets to buy; a managed portfolio (risk-rated/lifestyle fund) is multiple funds whose manager chooses which funds to invest in. Managed fund picks assets, managed portfolio picks funds.",
+  "calc": false
+ },
+ {
+  "id": "c8-07-q",
+  "conceptId": "c8-07",
+  "stem": "As an education or retirement target date approaches, how is the switching facility typically used?",
+  "options": {
+   "A": "Stop switching altogether to lock in current prices",
+   "B": "Switch from cash into volatile equity funds to chase returns",
+   "C": "Switch from volatile equity funds into more stable cash or fixed-income funds",
+   "D": "Switch entirely into property funds for the final year"
+  },
+  "answer": "C",
+  "explanation": "As the target date nears, the owner switches from volatile equity funds into more stable cash or fixed-income funds to protect accumulated value. Moving into more volatile equities near the target would raise the risk of a shortfall.",
+  "calc": false
+ },
+ {
+  "id": "c8-08-q",
+  "conceptId": "c8-08",
+  "stem": "An adviser persuades a client to surrender one ILP and buy another with no real benefit, purely to earn fresh commission. This is best described as:",
+  "options": {
+   "A": "Improper product switching (churning), which is prohibited misconduct",
+   "B": "A permitted automatic sub-fund switch",
+   "C": "Dollar cost averaging",
+   "D": "Legitimate fund switching within an ILP"
+  },
+  "answer": "A",
+  "explanation": "Getting a client to surrender one product and buy another with no real benefit, purely to churn commissions, is improper product switching and prohibited misconduct. Legitimate fund switching simply moves money between sub-funds within the same ILP.",
+  "calc": false
+ },
+ {
+  "id": "c9-01-q",
+  "conceptId": "c9-01",
+  "stem": "Which type of interest does the M9 syllabus use throughout its computations, and why does it matter?",
+  "options": {
+   "A": "Compound interest, because interest is earned on principal plus accumulated interest",
+   "B": "Nominal interest with no compounding at all",
+   "C": "A blend of simple and compound interest depending on the product",
+   "D": "Simple interest, because it applies the rate to the original principal only"
+  },
+  "answer": "A",
+  "explanation": "M9 uses compound interest throughout: interest is earned on principal plus previously accumulated interest, giving a higher balance over time than simple interest, which applies the rate to the original principal only.",
+  "calc": false
+ },
+ {
+  "id": "c9-02-q",
+  "conceptId": "c9-02",
+  "stem": "Using PV = FV / (1 + i)^n, what happens to the present value as the interest rate i or the number of periods n rises?",
+  "options": {
+   "A": "The present value falls",
+   "B": "The present value stays the same",
+   "C": "The present value first rises then falls",
+   "D": "The present value rises"
+  },
+  "answer": "A",
+  "explanation": "In discounting, PV falls as i or n rises, because a higher rate or longer time means you need less money today to reach the same future value. In compounding, by contrast, FV rises with i and n.",
+  "calc": false
+ },
+ {
+  "id": "c9-03-q",
+  "conceptId": "c9-03",
+  "stem": "A rate of 10% per annum is quoted nominal but compounded semi-annually. Which statement is correct?",
+  "options": {
+   "C": "The effective rate equals the nominal rate at 10%",
+   "D": "The effective rate is 10.25%, higher than the nominal rate",
+   "A": "The effective rate is 9.75%, lower than the nominal rate",
+   "B": "The effective and nominal rates are equal only when compounding is monthly"
+  },
+  "answer": "D",
+  "explanation": "10% nominal compounded semi-annually gives an effective rate of 10.25% ((1.05 x 1.05) - 1). The effective rate is always higher than the nominal rate, and the two are equal only under annual compounding, so 'effective equals nominal at 10%' is the trap.",
+  "calc": false
+ },
+ {
+  "id": "c9-04-q",
+  "conceptId": "c9-04",
+  "stem": "When a question asks for the offer price at the 'beginning of Year 4', how many compounding periods should you apply to the current offer price?",
+  "options": {
+   "A": "4 periods",
+   "B": "5 periods",
+   "C": "3 periods",
+   "D": "2 periods"
+  },
+  "answer": "C",
+  "explanation": "'Beginning of Year 4' means the end of Year 3, which is 3 compounding periods, not 4. Miscounting the periods is the classic error in these questions.",
+  "calc": false
+ },
+ {
+  "id": "c9-05-q",
+  "conceptId": "c9-05",
+  "stem": "Where u is the value of units at bid price and v is the sum assured, which pairing of death benefit methods is correct?",
+  "options": {
+   "A": "DB3 = u only; DB4 = v only",
+   "B": "DB3 = higher of u or v; DB4 = u + v",
+   "C": "DB3 = v only; DB4 = u + v",
+   "D": "DB3 = u + v; DB4 = higher of u or v"
+  },
+  "answer": "D",
+  "explanation": "DB3 = units + sum assured (u + v); DB4 = the higher of units or sum assured. Do not swap these two, which is the common error. DB1 is units only and DB2 is sum assured only.",
+  "calc": false
+ },
+ {
+  "id": "c9-06-q",
+  "conceptId": "c9-06",
+  "stem": "For the same sum assured, how does the death benefit and mortality charge under DB3 compare with DB4?",
+  "options": {
+   "A": "DB3 and DB4 always pay exactly the same benefit",
+   "B": "DB3 pays less and costs less in mortality charges",
+   "C": "DB4 always pays more than DB3",
+   "D": "DB3 pays more and therefore costs more in mortality charges"
+  },
+  "answer": "D",
+  "explanation": "DB3 (u + v) always pays a higher death benefit than DB4 (higher of u or v) for the same sum assured, and a higher death benefit means a higher mortality charge. So DB3 always costs more in mortality charges.",
+  "calc": false
+ },
+ {
+  "id": "c9-07-q",
+  "conceptId": "c9-07",
+  "stem": "How is the monthly mortality charge determined under DB4 (higher of u or v) when the value of units u is less than the sum assured v?",
+  "options": {
+   "D": "(q/12) x v, the full sum assured",
+   "A": "(q/12) x (v - u), the excess of sum assured over units",
+   "B": "(q/12) x u, the value of the units",
+   "C": "Zero, because units always cover the sum assured"
+  },
+  "answer": "A",
+  "explanation": "Under DB4 the units offset the sum assured, so the mortality charge is (q/12) x (v - u), or zero if u is at least v. Under DB3 the units offset nothing and the charge would be (q/12) x v on the full sum assured.",
+  "calc": false
+ },
+ {
+  "id": "c9-08-q",
+  "conceptId": "c9-08",
+  "stem": "For a single premium or a top-up into an ILP, what allocation rate is usually applied to purchase units?",
+  "options": {
+   "A": "15%",
+   "B": "100%",
+   "C": "50%",
+   "D": "It varies each year under a front-end loading scale"
+  },
+  "answer": "B",
+  "explanation": "Single premiums and top-ups usually allocate 100% to purchase units. The rising scale (e.g. Year 1 15%, Year 2 30%) applies to regular premiums under front-end loading, not to single premiums or top-ups.",
+  "calc": false
+ },
+ {
+  "id": "c9-09-q",
+  "conceptId": "c9-09",
+  "stem": "When charges are deducted AFTER units have been allocated, at which price are the charges converted into units to be cancelled?",
+  "options": {
+   "A": "The offer price",
+   "B": "The mid price between bid and offer",
+   "C": "The bid price",
+   "D": "The original allocation price"
+  },
+  "answer": "C",
+  "explanation": "Charges deducted after allocation are always converted to units at the BID price, so the bid-offer spread bites and fewer units remain. Converting at the offer price would understate the units cancelled.",
+  "calc": false
+ },
+ {
+  "id": "c9-10-q",
+  "conceptId": "c9-10",
+  "stem": "At which price are units valued when a policy owner makes a partial withdrawal or a full surrender of an ILP?",
+  "options": {
+   "A": "The offer price for withdrawal and bid price for surrender",
+   "B": "The bid price for withdrawal and offer price for surrender",
+   "C": "The offer price for both",
+   "D": "The bid price for both"
+  },
+  "answer": "D",
+  "explanation": "You always cash out at the BID price, whether making a partial withdrawal or a full surrender. For a withdrawal, units cancelled = withdrawal amount / bid price; for surrender, value = units x bid price less any surrender charges.",
+  "calc": false
+ },
+ {
+  "id": "c9-11-q",
+  "conceptId": "c9-11",
+  "stem": "The 'return on gross premium' on a single-premium ILP is best described as:",
+  "options": {
+   "A": "The total dollar profit minus all fees",
+   "B": "The bid-offer spread charged at outset",
+   "C": "The simple interest earned on the premium each year",
+   "D": "The compound rate that turns the single premium into the eventual surrender value"
+  },
+  "answer": "D",
+  "explanation": "Return on gross premium is the compound rate that grows the single premium into the eventual surrender value; you set Premium x (1 + i)^n = cash value, solve for the factor, then match it to the closest FVIF. It is a compound growth rate, not simple interest.",
+  "calc": false
+ },
+ {
+  "id": "c2-calc-01",
+  "conceptId": "c2-02",
+  "stem": "At the age of 10, a mortality table shows 98,509 lives are living at the start of the year and 119 of them will die during the year. If each death claim is S$10,000, what pure death-protection premium must each living person pay for the year (ignoring expenses and investment income)?",
+  "options": {
+   "A": "S$12.08",
+   "B": "S$11.90",
+   "C": "S$1.19",
+   "D": "S$120.80"
+  },
+  "answer": "A",
+  "explanation": "Total claims = 119 x S$10,000 = S$1,190,000. Spread across the 98,509 living: S$1,190,000 / 98,509 = S$12.08 per person. The value S$1.19 wrongly divides the S$10,000 claim by the number of deaths incorrectly instead of computing the pooled cost per living member.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-01",
+  "conceptId": "c9-05",
+  "stem": "An ILP account holds 5,000 units, the bid price is S$3.04, and the sum assured is 150% of the S$10,000 single premium. Using the DB3 method (units plus sum assured), what is the death benefit?",
+  "options": {
+   "A": "S$15,000",
+   "B": "S$15,200",
+   "C": "S$30,200",
+   "D": "S$25,000"
+  },
+  "answer": "C",
+  "explanation": "Value of units u = 5,000 x S$3.04 = S$15,200. Sum assured v = 150% x S$10,000 = S$15,000. DB3 = u + v = S$15,200 + S$15,000 = S$30,200. The tempting S$15,200 is the DB4 answer (higher of u or v), not DB3.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-02",
+  "conceptId": "c9-05",
+  "stem": "Using the same figures (5,000 units at bid price S$3.04, sum assured S$15,000), what is the death benefit under the DB4 method (higher of units or sum assured)?",
+  "options": {
+   "B": "S$30,200",
+   "C": "S$15,200",
+   "D": "S$15,000",
+   "A": "S$45,200"
+  },
+  "answer": "C",
+  "explanation": "Value of units u = 5,000 x S$3.04 = S$15,200; sum assured v = S$15,000. DB4 = higher of u or v = S$15,200. The value S$30,200 is DB3 (u + v), while S$15,000 wrongly picks the lower of the two instead of the higher.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-03",
+  "conceptId": "c9-04",
+  "stem": "The offer price of an ILP sub-fund in Year 1 is S$1.49 and it grows at 4% per annum. What is the offer price at the beginning of Year 3?",
+  "options": {
+   "C": "S$1.55",
+   "D": "S$1.61",
+   "A": "S$1.68",
+   "B": "S$1.49"
+  },
+  "answer": "D",
+  "explanation": "Beginning of Year 3 means the end of Year 2, so 2 compounding periods: S$1.49 x 1.04^2 = S$1.49 x 1.0816 = S$1.61. Applying only 1 period gives S$1.55, and 3 periods gives S$1.68.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-04",
+  "conceptId": "c9-09",
+  "stem": "A single premium of S$10,000 buys units at an offer price of S$1.50. Total fees and charges are S$400 (a S$150 policy fee plus a S$250 admin and mortality charge), deducted after allocation with a 5% bid-offer spread. How many units remain after charges?",
+  "options": {
+   "A": "6,666.67 units",
+   "B": "6,346.67 units",
+   "C": "6,400.00 units",
+   "D": "6,386.95 units"
+  },
+  "answer": "D",
+  "explanation": "Units purchased = S$10,000 / S$1.50 = 6,666.67. Bid price = 0.95 x S$1.50 = S$1.43. Units cancelled for charges = S$400 / S$1.43 = 279.72. Remaining = 6,666.67 - 279.72 = 6,386.95. The value 6,400.00 wrongly converts the charges at the offer price (S$400/1.50 = 266.67) instead of the bid price.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-05",
+  "conceptId": "c9-07",
+  "stem": "An ILP uses the DB3 method with a sum assured of S$100,000. The annual cost of life cover is S$1.50 per S$1,000. What is the monthly mortality charge?",
+  "options": {
+   "A": "S$18.13",
+   "B": "S$1.25",
+   "C": "S$150.00",
+   "D": "S$12.50"
+  },
+  "answer": "D",
+  "explanation": "Under DB3 the charge is (q/12) x v = (S$1.50 / 1,000 / 12) x S$100,000 = S$150 / 12 = S$12.50 per month. The S$150.00 figure is the full annual charge without dividing by 12.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-06",
+  "conceptId": "c9-07",
+  "stem": "An ILP uses the DB4 method with a sum assured of S$100,000 and units currently worth S$581.40. The annual cost of life cover is S$1.50 per S$1,000. What is the monthly mortality charge?",
+  "options": {
+   "A": "S$0.07",
+   "B": "S$12.50",
+   "C": "S$149.13",
+   "D": "S$12.43"
+  },
+  "answer": "D",
+  "explanation": "Under DB4 the charge is (q/12) x (v - u) = (S$1.50 / 1,000 / 12) x (S$100,000 - S$581.40) = 0.000125 x S$99,418.60 = S$12.43. The value S$12.50 is the DB3 charge on the full S$100,000, ignoring the unit offset.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-07",
+  "conceptId": "c9-10",
+  "stem": "A policy owner makes a partial withdrawal of S$3,000 from an ILP when the bid price is S$2.00. How many units are cancelled?",
+  "options": {
+   "A": "3,000 units",
+   "B": "1,500 units",
+   "C": "1,429 units",
+   "D": "6,000 units"
+  },
+  "answer": "B",
+  "explanation": "Units cancelled = withdrawal amount / bid price = S$3,000 / S$2.00 = 1,500 units. Using an offer price of S$2.10 (a 5% spread) instead of the bid price would wrongly give about 1,429 units.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-08",
+  "conceptId": "c9-10",
+  "stem": "An ILP holds 9,015.77 units. At surrender the applicable bid price is S$2.20 and there are no surrender charges. What is the surrender value?",
+  "options": {
+   "A": "S$9,015.77",
+   "B": "S$20,876.52",
+   "C": "S$18,031.54",
+   "D": "S$19,834.69"
+  },
+  "answer": "D",
+  "explanation": "Surrender value = number of units x current bid price = 9,015.77 x S$2.20 = S$19,834.69. Valuing the units at S$2.00 instead of the S$2.20 bid price would wrongly give S$18,031.54.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-09",
+  "conceptId": "c9-11",
+  "stem": "A single premium of S$10,000 grows to a surrender value of S$17,947.33 after 10 years. Using the FVIF table (the closest factor to 1.7947 at n=10 is 1.7908), what is the approximate return on gross premium?",
+  "options": {
+   "A": "10% per annum",
+   "B": "8% per annum",
+   "C": "6% per annum",
+   "D": "5% per annum"
+  },
+  "answer": "C",
+  "explanation": "S$10,000 x (1 + i)^10 = S$17,947.33, so (1 + i)^10 = 1.7947. At n=10 the closest FVIF is 1.7908, which corresponds to 6% per annum. It is a compound growth rate, not the simple average of about 8% per year.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-10",
+  "conceptId": "c9-02",
+  "stem": "S$5,000 is deposited today at 9% compound annual interest. Using FV = PV x (1 + i)^n, what is the future value at the end of Year 7 (1.09^7 = 1.828039)?",
+  "options": {
+   "D": "S$8,150.00",
+   "A": "S$9,140.20",
+   "B": "S$9,743.59",
+   "C": "S$5,450.00"
+  },
+  "answer": "A",
+  "explanation": "FV = S$5,000 x 1.09^7 = S$5,000 x 1.828039 = S$9,140.20. The value S$8,150 mistakenly applies simple interest (S$5,000 x (1 + 0.09 x 7)); S$9,743.59 is the result at 10% instead of 9%.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-11",
+  "conceptId": "c9-02",
+  "stem": "You will need S$100,000 in four years for a house down-payment and can earn 4% compound interest. Using PV = FV / (1 + i)^n (1.04^4 = 1.16986), how much should you set aside today?",
+  "options": {
+   "B": "S$85,477.39",
+   "C": "S$82,270.67",
+   "D": "S$88,896.79",
+   "A": "S$86,000.00"
+  },
+  "answer": "B",
+  "explanation": "PV = S$100,000 / 1.04^4 = S$100,000 / 1.16986 = S$85,477.39. The value S$82,270.67 discounts at 5% instead of 4%, and S$88,896.79 discounts over 3 years instead of 4.",
+  "calc": true
+ },
+ {
+  "id": "c9-calc-12",
+  "conceptId": "c9-09",
+  "stem": "Following a single-premium ILP, a top-up of S$5,000 is made in the third year. The initial offer price was S$1.50 growing at 7% p.a. (1.07^3 = 1.2250), a 5% bid-offer spread applies, the top-up fee is S$80 and the admin-with-mortality charge is 1.5% of the top-up. How many net units does the top-up add?",
+  "options": {
+   "A": "2,717.39 units",
+   "B": "2,633.33 units",
+   "C": "2,545.45 units",
+   "D": "2,628.82 units"
+  },
+  "answer": "D",
+  "explanation": "Offer price = S$1.50 x 1.07^3 = S$1.84; bid = 0.95 x S$1.84 = S$1.75. Units purchased = S$5,000 / S$1.84 = 2,717.39. Charges = S$80 + (1.5% x S$5,000 = S$75) = S$155; units cancelled = S$155 / S$1.75 = 88.57. Net = 2,717.39 - 88.57 = 2,628.82. The figure 2,717.39 omits the charge deduction entirely.",
+  "calc": true
+ },
+ {
+  "id": "c10-01-q",
+  "conceptId": "c10-01",
+  "stem": "A client worries about outliving his retirement savings. Which product is specifically designed to address this concern?",
+  "options": {
+   "A": "An annuity, because it provides guaranteed income for as long as the annuitant lives",
+   "B": "A term life insurance policy, because it pays a lump sum on death",
+   "C": "A whole life policy, because it builds cash value over time",
+   "D": "A personal accident policy, because it covers disability"
+  },
+  "answer": "A",
+  "explanation": "An annuity protects against living too long (longevity risk) by paying income for life; it is the mirror image of life insurance, which protects against dying too soon. Term life pays only on death and does nothing for someone who outlives their savings.",
+  "calc": false
+ },
+ {
+  "id": "c10-02-q",
+  "conceptId": "c10-02",
+  "stem": "Under CPF LIFE, which statement about the payout plans and deferment is correct?",
+  "options": {
+   "A": "The Basic plan is the default and gives the highest payouts",
+   "B": "The Escalating plan starts lower and rises about 2% each year",
+   "C": "Deferring the payout age reduces future payouts by about 7% per year",
+   "D": "Members must start payouts at age 62"
+  },
+  "answer": "B",
+  "explanation": "The Escalating plan begins with a lower payout that rises roughly 2% yearly. The Standard plan (not Basic) is the default with higher payouts, and deferring the payout age raises payouts by about 7% per year, not reduces them.",
+  "calc": false
+ },
+ {
+  "id": "c10-03-q",
+  "conceptId": "c10-03",
+  "stem": "In an annuity, the period running from the first premium until income payments begin is known as the:",
+  "options": {
+   "A": "Payout period",
+   "B": "Grace period",
+   "C": "Accumulation period",
+   "D": "Vesting period"
+  },
+  "answer": "C",
+  "explanation": "The accumulation period runs from the first premium until payouts start, while the insurer invests the premiums. The payout period is the later phase during which income is actually paid.",
+  "calc": false
+ },
+ {
+  "id": "c10-04-q",
+  "conceptId": "c10-04",
+  "stem": "A client wants an annuity whose payouts begin one payment period after purchase. Which statement about this annuity is true?",
+  "options": {
+   "A": "It can be funded by regular premiums spread over several years",
+   "B": "It can only be bought using CPF Minimum Sum monies",
+   "C": "Death before payouts begin forfeits the entire purchase price",
+   "D": "It must be purchased with a single lump-sum premium"
+  },
+  "answer": "D",
+  "explanation": "An immediate annuity pays out one period after purchase and can only be bought with a single lump-sum premium. Before payouts begin, death usually refunds the purchase price rather than forfeiting it.",
+  "calc": false
+ },
+ {
+  "id": "c10-05-q",
+  "conceptId": "c10-05",
+  "stem": "CPF Minimum Sum monies can be used to purchase which kind of annuity?",
+  "options": {
+   "A": "A deferred annuity only",
+   "B": "An immediate annuity only",
+   "C": "Either an immediate or a deferred annuity",
+   "D": "A fixed-amount temporary annuity only"
+  },
+  "answer": "A",
+  "explanation": "CPF Minimum Sum monies can only fund a deferred annuity, not an immediate one. Deferred annuities can also be bought with single or regular premiums, but the CPF restriction is the key distinction here.",
+  "calc": false
+ },
+ {
+  "id": "c10-06-q",
+  "conceptId": "c10-06",
+  "stem": "An annuitant is concerned that if he dies soon after payouts begin, his estate loses out. Which option leaves the estate nothing after his death?",
+  "options": {
+   "A": "Life Annuity with Period Certain",
+   "B": "Pure Life (straight life) Annuity",
+   "C": "Life Income with Refund",
+   "D": "Joint and survivor annuity"
+  },
+  "answer": "B",
+  "explanation": "A pure life annuity stops at death with nothing paid afterwards, so early death means receiving far less than the purchase price. The guaranteed-minimum versions pay less income but protect the estate through a period certain or a refund.",
+  "calc": false
+ },
+ {
+  "id": "c10-07-q",
+  "conceptId": "c10-07",
+  "stem": "A Fixed Amount annuity pays income until:",
+  "options": {
+   "A": "A specified number of years has elapsed, or death, whichever is first",
+   "B": "The annuitant reaches age 85",
+   "C": "The total payments reach a specified maximum, or death, whichever is first",
+   "D": "The insurer declares that bonuses have been exhausted"
+  },
+  "answer": "C",
+  "explanation": "A Fixed Amount annuity pays until the total reaches a specified maximum or the annuitant dies, whichever comes first. Paying until a specified period ends describes a Fixed Period annuity instead.",
+  "calc": false
+ },
+ {
+  "id": "c10-08-q",
+  "conceptId": "c10-08",
+  "stem": "Under a joint and survivor annuity, what typically happens after the first annuitant dies?",
+  "options": {
+   "A": "All payments stop immediately",
+   "B": "The full purchase price is refunded to the estate",
+   "C": "The surviving annuitant must buy a new policy",
+   "D": "Payments continue, though the benefit may drop to a reduced percentage such as 50%"
+  },
+  "answer": "D",
+  "explanation": "A joint and survivor annuity pays until all annuitants die, though the benefit may reduce (for example to 50%) after the first death. Payments stopping when one annuitant dies describes a joint life annuity, not a joint and survivor one.",
+  "calc": false
+ },
+ {
+  "id": "c10-09-q",
+  "conceptId": "c10-09",
+  "stem": "Annuity payouts are generally free from income tax EXCEPT when the annuity is:",
+  "options": {
+   "A": "From a partnership, the SRS, or an employer annuity replacing a pension",
+   "B": "Bought with cash by a self-employed person",
+   "C": "A single-life participating annuity",
+   "D": "Purchased before the annuitant reaches age 55"
+  },
+  "answer": "A",
+  "explanation": "Annuity payouts are tax-free except those from a partnership, the SRS, or an employer-bought annuity replacing a pension or employment benefit. A privately bought cash annuity by a self-employed person is not one of these exceptions.",
+  "calc": false
+ },
+ {
+  "id": "c11-01-q",
+  "conceptId": "c11-01",
+  "stem": "Why is the proposal form so important in a life insurance contract?",
+  "options": {
+   "A": "It is only a marketing document and not legally binding",
+   "B": "It is the primary source of risk information and forms the basis of the contract",
+   "C": "It replaces the need for a medical examination in all cases",
+   "D": "It becomes valid only after the free-look period expires"
+  },
+  "answer": "B",
+  "explanation": "The proposal form is the primary source of risk information, is incorporated into the policy, and forms the basis of the contract and any claim, so it must be completed truthfully under utmost good faith. It is far more than a marketing document.",
+  "calc": false
+ },
+ {
+  "id": "c11-02-q",
+  "conceptId": "c11-02",
+  "stem": "A client asks the adviser to sign the proposal form for her because she is busy. What is the correct position?",
+  "options": {
+   "A": "The adviser may sign if the client verbally agrees",
+   "B": "The adviser may sign as long as the client countersigns later",
+   "C": "The adviser must never sign the proposal form for the client",
+   "D": "The adviser may sign only for third-party policies"
+  },
+  "answer": "C",
+  "explanation": "The adviser must never sign the proposal form on behalf of the proposer, and the client must countersign any change. Non-disclosure would let the insurer void the policy from inception with nothing payable.",
+  "calc": false
+ },
+ {
+  "id": "c11-03-q",
+  "conceptId": "c11-03",
+  "stem": "Which statement about backdating a life policy is correct?",
+  "options": {
+   "A": "It raises the premium and can extend up to 12 months",
+   "B": "It is freely available on all policy types including ILPs",
+   "C": "It has no effect on premium and is used only for record-keeping",
+   "D": "It lowers the premium, is capped at 6 months, and is not allowed on ILPs"
+  },
+  "answer": "D",
+  "explanation": "Backdating to just before the last birthday secures a lower premium (charged on a next-birthday basis), is capped at 6 months, and is not available for some policies such as ILPs. It lowers rather than raises the premium.",
+  "calc": false
+ },
+ {
+  "id": "c11-04-q",
+  "conceptId": "c11-04",
+  "stem": "The section of a proposal form headed 'particulars of the proposer' is completed only when:",
+  "options": {
+   "A": "The policy is a third-party policy where insurable interest must be confirmed",
+   "B": "The proposer is also the life insured",
+   "C": "The policy is an investment-linked plan",
+   "D": "The premium is paid by CPF"
+  },
+  "answer": "A",
+  "explanation": "Particulars of the proposer are completed only for third-party policies, where the relationship confirms insurable interest. Where the proposer is also the life insured this separate confirmation is unnecessary.",
+  "calc": false
+ },
+ {
+  "id": "c11-05-q",
+  "conceptId": "c11-05",
+  "stem": "During the 14-day free-look period, if the client cancels a standard policy, what refund applies, and what restriction applies to undischarged bankrupts?",
+  "options": {
+   "A": "Full premium refund; bankrupts may buy freely",
+   "B": "Premium refund less the risk-assessment cost; bankrupts need the Official Assignee's consent to buy new policies",
+   "C": "No refund at all; bankrupts are barred entirely from insurance",
+   "D": "Half the premium refunded; bankrupts need court approval"
+  },
+  "answer": "B",
+  "explanation": "Free-look cancellation refunds the premium less the risk-assessment cost (or a full refund if the insurer rejects the proposal), and undischarged bankrupts cannot buy new policies without the Official Assignee's consent. A full refund applies only where the insurer itself rejects the proposal.",
+  "calc": false
+ },
+ {
+  "id": "c11-06-q",
+  "conceptId": "c11-06",
+  "stem": "In underwriting, which factor is the key indicator of moral hazard and guards against over-insurance?",
+  "options": {
+   "A": "Age, described as the point of departure",
+   "B": "Occupation and physical condition",
+   "C": "Financial condition, ensuring the sum assured bears a reasonable relationship to income",
+   "D": "Medical history and family history"
+  },
+  "answer": "C",
+  "explanation": "Financial condition is the main moral-hazard check, ensuring the sum assured is justified by income and preventing over-insurance. Age is the point of departure from the mortality table but is a physical, not a moral, hazard indicator.",
+  "calc": false
+ },
+ {
+  "id": "c11-07-q",
+  "conceptId": "c11-07",
+  "stem": "At what point does a compulsory HIV antibody test and the Lifestyle questionnaire generally kick in?",
+  "options": {
+   "A": "For every proposal regardless of sum assured",
+   "B": "Only when the applicant is over age 60",
+   "C": "Only when premiums are paid by CPF",
+   "D": "When the sum assured exceeds $1 million, or for certain occupations"
+  },
+  "answer": "D",
+  "explanation": "The HIV test and Lifestyle questionnaire apply above a $1m sum assured (all ages) or for certain occupations, the latter used solely to assess AIDS risk. They are not required on every proposal.",
+  "calc": false
+ },
+ {
+  "id": "c11-08-q",
+  "conceptId": "c11-08",
+  "stem": "An insurer decides to accept a higher-than-standard risk. Which set correctly lists the four ways it may do so?",
+  "options": {
+   "A": "Lien, change of plan, exclusion, or extra premium",
+   "B": "Backdating, reinstatement, surrender, or assignment",
+   "C": "Free-look, grace period, non-forfeiture, or lapse",
+   "D": "Decline, postpone, refer, or counter-offer"
+  },
+  "answer": "A",
+  "explanation": "The four ways to accept a higher risk are a lien, a change of plan, an exclusion, or extra premiums. Decline and postpone describe treatment of an uninsurable risk, not acceptance of a higher risk.",
+  "calc": false
+ },
+ {
+  "id": "c11-09-q",
+  "conceptId": "c11-09",
+  "stem": "On standard terms where the first premium did NOT accompany the application, when does cover commence?",
+  "options": {
+   "A": "Immediately when the application is signed",
+   "B": "On receipt of the first premium within the set window after the letter of acceptance",
+   "C": "Only after the free-look period ends",
+   "D": "On the policy's first anniversary"
+  },
+  "answer": "B",
+  "explanation": "On standard terms the insurer sends a letter of acceptance and cover starts on receipt of the first premium within a set window. Cover starting immediately on acceptance applies only where the premium accompanied the application.",
+  "calc": false
+ },
+ {
+  "id": "c11-10-q",
+  "conceptId": "c11-10",
+  "stem": "For a contributory group life plan, roughly what minimum participation level is required to control anti-selection?",
+  "options": {
+   "A": "About 25-40% of eligible members",
+   "B": "About 50% of eligible members",
+   "C": "About 70-90% of eligible members",
+   "D": "100% of eligible members without exception"
+  },
+  "answer": "C",
+  "explanation": "Contributory group plans need about 70-90% participation to guard against anti-selection. Lower thresholds would allow healthier members to opt out, defeating the pooling that group underwriting relies on.",
+  "calc": false
+ },
+ {
+  "id": "c12-01-q",
+  "conceptId": "c12-01",
+  "stem": "Which statement about paying premiums via CPFIS or SRS is correct?",
+  "options": {
+   "A": "Both can pay regular monthly premiums like GIRO",
+   "B": "Only SRS can fund an ILP; CPFIS cannot",
+   "C": "Neither can be used for endowment policies",
+   "D": "Both can only pay single or recurrent single premiums"
+  },
+  "answer": "D",
+  "explanation": "CPFIS and SRS can only pay single or recurrent single premiums, not regular premiums. CPFIS can in fact fund endowment, annuity and ILP policies, so the restriction is on the premium mode, not the product.",
+  "calc": false
+ },
+ {
+  "id": "c12-02-q",
+  "conceptId": "c12-02",
+  "stem": "The Conditional Premium Deposit Receipt issued at the close of sale provides interim cover for:",
+  "options": {
+   "A": "Accidental death only, subject to a cap, pending official acceptance",
+   "B": "Death from any cause, up to the full sum applied for",
+   "C": "Critical illness only, for up to 90 days",
+   "D": "Hospitalisation expenses only"
+  },
+  "answer": "A",
+  "explanation": "The conditional receipt binds the insurer to conditional cover for accidental death only, typically within about 90 days and capped (often under $500,000 or the sum applied for, whichever is lower), pending acceptance. It does not cover death from any cause.",
+  "calc": false
+ },
+ {
+  "id": "c12-03-q",
+  "conceptId": "c12-03",
+  "stem": "Increasing the sum assured on an existing policy is generally allowed only for which type of policy?",
+  "options": {
+   "A": "Term life policies",
+   "B": "Investment-linked policies (ILPs)",
+   "C": "Whole life policies",
+   "D": "Endowment policies"
+  },
+  "answer": "B",
+  "explanation": "Increasing the sum assured is generally not allowed except for ILPs; non-ILPs usually permit it only in the first year with a health declaration. Insurers otherwise refuse alterations that increase their liability.",
+  "calc": false
+ },
+ {
+  "id": "c12-04-q",
+  "conceptId": "c12-04",
+  "stem": "A policyholder loses the physical policy document. What is the effect on the contract?",
+  "options": {
+   "A": "The contract is void and cover ends immediately",
+   "B": "The insurer may cancel the policy without refund",
+   "C": "The contract still exists; the document is only evidence, so claims are usually still paid with a letter of indemnity",
+   "D": "The policyholder must reapply as a new customer"
+  },
+  "answer": "C",
+  "explanation": "The policy document is only evidence of the contract, which exists independently, so insurers will usually still pay a claim with a letter of indemnity. Losing the paper does not void cover.",
+  "calc": false
+ },
+ {
+  "id": "c12-05-q",
+  "conceptId": "c12-05",
+  "stem": "Under section 4(8) of the Civil Law Act, a valid absolute assignment of a life policy requires that it be:",
+  "options": {
+   "A": "Made orally before two witnesses",
+   "B": "Registered with MAS within 30 days",
+   "C": "Approved by the Official Assignee",
+   "D": "Absolute, in writing, and with written notice served on the insurer"
+  },
+  "answer": "D",
+  "explanation": "An absolute assignment must be absolute, in writing, and accompanied by written notice served on the insurer. All three elements are required; oral assignment or MAS registration is not.",
+  "calc": false
+ },
+ {
+  "id": "c12-06-q",
+  "conceptId": "c12-06",
+  "stem": "What happens when the outstanding policy loan plus accrued interest exceeds the cash value of the policy?",
+  "options": {
+   "A": "The insurer terminates the policy with no premium refund",
+   "B": "The insurer writes off the excess loan",
+   "C": "The insurer increases the sum assured to cover it",
+   "D": "The interest rate is automatically reduced"
+  },
+  "answer": "A",
+  "explanation": "If loan plus accrued interest exceeds the cash value, the insurer terminates the policy with no premium refund. Interest typically accrues daily and compounds each anniversary, so unpaid balances can erode the cash value quickly.",
+  "calc": false
+ },
+ {
+  "id": "c12-07-q",
+  "conceptId": "c12-07",
+  "stem": "A policy is switched by a competing adviser from another company through misrepresentation. This practice is known as:",
+  "options": {
+   "A": "Churning",
+   "B": "Twisting",
+   "C": "Lapsing",
+   "D": "Reinstatement"
+  },
+  "answer": "B",
+  "explanation": "Twisting is improper replacement by a competing adviser; churning is done by the client's own errant adviser. Both are causes of lapsing but are distinguished by who is responsible.",
+  "calc": false
+ },
+ {
+  "id": "c12-08-q",
+  "conceptId": "c12-08",
+  "stem": "What is the MOST important condition an insurer requires before reinstating a lapsed policy?",
+  "options": {
+   "A": "Payment of a small administrative fee only",
+   "B": "A fresh 14-day free-look period",
+   "C": "Evidence of continued insurability",
+   "D": "Consent of the original beneficiary"
+  },
+  "answer": "C",
+  "explanation": "Evidence of continued insurability is the key reinstatement condition because it prevents anti-selection. The owner must also pay all arrears plus interest, and the incontestability and suicide clauses restart.",
+  "calc": false
+ },
+ {
+  "id": "c12-09-q",
+  "conceptId": "c12-09",
+  "stem": "An insurer must pay a surrender value once the policy has cash value and has been in force for at least:",
+  "options": {
+   "A": "1 year",
+   "B": "2 years",
+   "C": "5 years",
+   "D": "3 years"
+  },
+  "answer": "D",
+  "explanation": "Surrender value is payable for policies with cash value that have been in force at least 3 years. Note too that a bankrupt cannot surrender, since the interest vests in the Official Assignee.",
+  "calc": false
+ },
+ {
+  "id": "c13-01-q",
+  "conceptId": "c13-01",
+  "stem": "The core principle underlying all life insurance claims rules is that the insurer must:",
+  "options": {
+   "A": "Pay the right person the right amount, promptly",
+   "B": "Minimise the amount paid on every claim",
+   "C": "Delay payment until all beneficiaries agree",
+   "D": "Pay only after a court order in every case"
+  },
+  "answer": "A",
+  "explanation": "The core idea of claims is that the insurer must pay the right person the right amount, promptly; every claims rule is machinery for establishing entitlement. Minimising payment is not the governing principle.",
+  "calc": false
+ },
+ {
+  "id": "c13-02-q",
+  "conceptId": "c13-02",
+  "stem": "Which of the following would generally be treated as a proper claimant?",
+  "options": {
+   "A": "A creditor of the deceased with no assignment",
+   "B": "The deceased's illegitimate child, treated as legitimate",
+   "C": "A former employer with no insurable interest",
+   "D": "A neighbour who arranged the funeral"
+  },
+  "answer": "B",
+  "explanation": "Proper claimants include the executors, spouse, child, parent, sibling or relatives, and an illegitimate child is treated as legitimate. A creditor without an assignment or a neighbour is not a proper claimant.",
+  "calc": false
+ },
+ {
+  "id": "c13-03-q",
+  "conceptId": "c13-03",
+  "stem": "Under section 61(2), what is the maximum amount an insurer may advance without a Grant of Probate or Letter of Administration?",
+  "options": {
+   "A": "$50,000",
+   "B": "$100,000",
+   "C": "$150,000",
+   "D": "$200,000"
+  },
+  "answer": "C",
+  "explanation": "The no-probate advance limit is $150,000. Larger amounts require a Grant of Probate or Letter of Administration before payment.",
+  "calc": false
+ },
+ {
+  "id": "c13-04-q",
+  "conceptId": "c13-04",
+  "stem": "Under a joint tenancy, on the death of one owner the deceased's share:",
+  "options": {
+   "A": "Passes to the deceased's own estate and beneficiaries",
+   "B": "Is paid to the Government",
+   "C": "Is frozen until probate is granted",
+   "D": "Passes to the surviving tenant(s)"
+  },
+  "answer": "D",
+  "explanation": "Under joint tenancy the share passes to the surviving tenant(s), which is why joint-life policies are usually written this way. Passing to the deceased's own estate describes tenancy in common instead.",
+  "calc": false
+ },
+ {
+  "id": "c13-05-q",
+  "conceptId": "c13-05",
+  "stem": "Proof of age is required in a death claim only when:",
+  "options": {
+   "A": "Age was not admitted when the policy was issued",
+   "B": "The policy was assigned",
+   "C": "The claim exceeds $150,000",
+   "D": "The deceased died overseas"
+  },
+  "answer": "A",
+  "explanation": "Proof of age (NRIC or birth certificate) is needed only if age was not admitted at inception. If age was already admitted when the policy was issued, this proof is unnecessary.",
+  "calc": false
+ },
+ {
+  "id": "c13-06-q",
+  "conceptId": "c13-06",
+  "stem": "The deceased left a valid Will. Who proves title to the policy proceeds and with what document?",
+  "options": {
+   "A": "An administrator with a Letter of Administration",
+   "B": "An executor with a Grant of Probate",
+   "C": "The assignee with the deed of assignment",
+   "D": "The nominee with a statutory declaration"
+  },
+  "answer": "B",
+  "explanation": "Where there is a Will, an executor proves title with a Grant of Probate. An administrator with a Letter of Administration is the route only when there is no Will.",
+  "calc": false
+ },
+ {
+  "id": "c13-07-q",
+  "conceptId": "c13-07",
+  "stem": "A person has been missing without trace for over seven years. Regarding the statutory presumption of death:",
+  "options": {
+   "A": "The court's presumption automatically binds the insurer to pay",
+   "B": "The presumption requires only 3 years of absence",
+   "C": "A presumption may be sought after 7 years, but it does not bind the insurer, which can make its own enquiries",
+   "D": "The insurer must pay double the sum assured"
+  },
+  "answer": "C",
+  "explanation": "A presumption of death needs 7 or more years missing and can be sought from the court, but it does not bind the insurer, which may make its own enquiries. The court presumption is not automatically conclusive against the insurer.",
+  "calc": false
+ },
+ {
+  "id": "c13-08-q",
+  "conceptId": "c13-08",
+  "stem": "For a Pure Endowment maturity claim, what must be established?",
+  "options": {
+   "A": "Proof that the insured has died",
+   "B": "A Grant of Probate",
+   "C": "Consent of all nominees",
+   "D": "Proof that the insured survived to maturity"
+  },
+  "answer": "D",
+  "explanation": "A Pure Endowment maturity claim requires proof the insured survived to maturity, since it pays only on survival. Proof of death is relevant to a death claim, not a Pure Endowment maturity.",
+  "calc": false
+ },
+ {
+  "id": "c13-09-q",
+  "conceptId": "c13-09",
+  "stem": "The LIA Register of Unclaimed Proceeds allows the public to search for proceeds unclaimed for more than:",
+  "options": {
+   "A": "12 months",
+   "B": "3 months",
+   "C": "6 months",
+   "D": "24 months"
+  },
+  "answer": "A",
+  "explanation": "Launched on 4 January 2016, the register lets the public search for death or maturity proceeds unclaimed for more than 12 months, and it is updated every 6 months. The 6-month figure is the update cycle, not the unclaimed threshold.",
+  "calc": false
+ },
+ {
+  "id": "c14-01-q",
+  "conceptId": "c14-01",
+  "stem": "A contract that one party may choose to set aside but which remains in force until then is described as:",
+  "options": {
+   "A": "Void",
+   "B": "Voidable",
+   "C": "Valid and irrevocable",
+   "D": "Illegal"
+  },
+  "answer": "B",
+  "explanation": "A voidable contract stands until the innocent party chooses to avoid it. A void contract, by contrast, never had legal existence at all.",
+  "calc": false
+ },
+ {
+  "id": "c14-02-q",
+  "conceptId": "c14-02",
+  "stem": "In a life insurance contract, which of the following constitutes the offer?",
+  "options": {
+   "A": "The insurer's advertisement of the product",
+   "B": "The insurer issuing the policy document",
+   "C": "The proposal form together with the first premium",
+   "D": "The adviser's illustration of benefits"
+  },
+  "answer": "C",
+  "explanation": "The proposal form plus first premium is the offer; the insurer issuing the policy is the acceptance. An advertisement is only an invitation to treat, not an offer.",
+  "calc": false
+ },
+ {
+  "id": "c14-03-q",
+  "conceptId": "c14-03",
+  "stem": "A 15-year-old wishes to take out an insurance policy. Which statement is correct?",
+  "options": {
+   "A": "A person under 10 may contract freely",
+   "B": "A minor can assign and surrender a policy at any age",
+   "C": "No one under 21 may hold any insurance policy",
+   "D": "A person over 10 may contract, but under 16 needs written parental consent; a minor cannot assign or surrender until 18"
+  },
+  "answer": "D",
+  "explanation": "A person over 10 can enter an insurance contract, but under 16 needs written parental consent, and a minor cannot assign, mortgage, surrender or give valid discharge until 18. A minor cannot freely assign or surrender.",
+  "calc": false
+ },
+ {
+  "id": "c14-04-q",
+  "conceptId": "c14-04",
+  "stem": "Insurance contracts are governed by uberrima fides rather than caveat emptor because:",
+  "options": {
+   "A": "Only the proposer knows their own risks, so utmost good faith is required from both parties",
+   "B": "The insurer alone knows the full risk",
+   "C": "Insurance is a form of gambling",
+   "D": "The buyer is always at fault for non-disclosure"
+  },
+  "answer": "A",
+  "explanation": "Insurance uses uberrima fides (utmost good faith) because only the proposer knows their own risks, and the duty binds both parties. Ordinary sales use caveat emptor (buyer beware), which is inadequate here.",
+  "calc": false
+ },
+ {
+  "id": "c14-05-q",
+  "conceptId": "c14-05",
+  "stem": "How is the materiality of a fact judged for the purposes of disclosure?",
+  "options": {
+   "A": "By the applicant's honest opinion of what matters",
+   "B": "Objectively, by whether it would influence a prudent insurer",
+   "C": "By whether the adviser thought it relevant",
+   "D": "By industry custom alone"
+  },
+  "answer": "B",
+  "explanation": "Materiality is judged objectively by the prudent-insurer test, so the insured's honest belief that a fact was immaterial does not excuse non-disclosure. The misrepresentation must also have induced the insurer to contract.",
+  "calc": false
+ },
+ {
+  "id": "c14-06-q",
+  "conceptId": "c14-06",
+  "stem": "Regarding the basis clause, which statement reflects the current LIA position?",
+  "options": {
+   "A": "It is freely allowed on all policies",
+   "B": "It has been abolished for every policy type",
+   "C": "It is no longer allowed on the owner's OWN life, though it remains valid for 'life of another' policies",
+   "D": "It turns all answers into representations, not warranties"
+  },
+  "answer": "C",
+  "explanation": "The LIA no longer allows a basis clause on the owner's own life, though it remains valid for 'life of another' policies. A basis clause actually turns proposal answers into warranties, not representations.",
+  "calc": false
+ },
+ {
+  "id": "c14-07-q",
+  "conceptId": "c14-07",
+  "stem": "The section 25(5) warning on a proposal form informs the proposer that:",
+  "options": {
+   "A": "Premiums are non-refundable after the free-look period",
+   "B": "The policy cannot be assigned without consent",
+   "C": "Claims must be made within 12 months",
+   "D": "Non-disclosure of facts known or ought to be known may mean nothing is payable and the contract can be voided from inception"
+  },
+  "answer": "D",
+  "explanation": "The section 25(5) warning must prominently state that non-disclosure of facts known or ought to be known may mean nothing is payable, letting the insurer declare the contract void from inception. It concerns disclosure, not free-look refunds.",
+  "calc": false
+ },
+ {
+  "id": "c14-08-q",
+  "conceptId": "c14-08",
+  "stem": "Where a question in a proposal form is genuinely ambiguous, the contra proferentem rule means it is construed:",
+  "options": {
+   "A": "Against the insurer who drafted it, so doubt favours the insured",
+   "B": "In favour of the insurer who drafted it",
+   "C": "According to the adviser's interpretation",
+   "D": "As void for uncertainty"
+  },
+  "answer": "A",
+  "explanation": "Contra proferentem construes an ambiguous question against the drafter (the insurer), so doubt favours the insured. It does not favour the insurer, nor does it void the term.",
+  "calc": false
+ },
+ {
+  "id": "c14-09-q",
+  "conceptId": "c14-09",
+  "stem": "In the case of innocent non-disclosure of a material fact, what is the correct outcome?",
+  "options": {
+   "A": "The insurer avoids the contract and keeps the premium",
+   "B": "The insurer avoids the contract ab initio but must return the premium",
+   "C": "The insurer pays the claim in full and keeps the premium",
+   "D": "The insurer may claim damages"
+  },
+  "answer": "B",
+  "explanation": "Innocent non-disclosure lets the insurer avoid ab initio if material, but the premium must be returned. The insurer keeps premiums only where there was fraud.",
+  "calc": false
+ },
+ {
+  "id": "c14-10-q",
+  "conceptId": "c14-10",
+  "stem": "Which set of vitiating factors renders a contract VOIDABLE (rather than void)?",
+  "options": {
+   "A": "Illegality and mistake",
+   "B": "Lack of insurable interest and illegality",
+   "C": "Misrepresentation, duress and undue influence",
+   "D": "Non est factum and mistake"
+  },
+  "answer": "C",
+  "explanation": "Misrepresentation, duress and undue influence make a contract voidable at the innocent party's choice. Illegality and mistake make it void, and a policy without insurable interest is a void wagering contract.",
+  "calc": false
+ },
+ {
+  "id": "c14-11-q",
+  "conceptId": "c14-11",
+  "stem": "The intentional and voluntary relinquishment of a known right, whether express or by conduct, is called:",
+  "options": {
+   "A": "Estoppel",
+   "B": "Ratification",
+   "C": "Rescission",
+   "D": "Waiver"
+  },
+  "answer": "D",
+  "explanation": "Waiver is the intentional, voluntary relinquishment of a known right. Estoppel is different: it arises when a party creates an impression, an innocent party relies and suffers, and the insurer is then barred from denying it.",
+  "calc": false
+ },
+ {
+  "id": "c14-12-q",
+  "conceptId": "c14-12",
+  "stem": "A policyholder understated his age at inception. On discovery, how is the benefit adjusted?",
+  "options": {
+   "A": "The sum assured is reduced to what the premium would have bought at his true age",
+   "B": "The excess premium is refunded with interest",
+   "C": "The policy is voided from inception",
+   "D": "The premium is increased retroactively with a penalty"
+  },
+  "answer": "A",
+  "explanation": "Understated age reduces the sum assured to what the premium would have bought at the true age. Overstated age, by contrast, refunds the excess premium without interest.",
+  "calc": false
+ },
+ {
+  "id": "c14-13-q",
+  "conceptId": "c14-13",
+  "stem": "A life insured dies by suicide 18 months after the policy was issued, with a one-year suicide clause. What is the outcome?",
+  "options": {
+   "A": "The policy is void and premiums are refunded without interest",
+   "B": "The claim is paid, since the death occurred after the suicide period",
+   "C": "Nothing is payable because suicide is always excluded",
+   "D": "Only the cash value is paid"
+  },
+  "answer": "B",
+  "explanation": "Suicide after the specified period (usually 1 year) is paid, sane or insane. Voiding and refunding premiums applies only where suicide occurs within the suicide period.",
+  "calc": false
+ },
+ {
+  "id": "c14-14-q",
+  "conceptId": "c14-14",
+  "stem": "Non-forfeiture options that prevent lapse for non-payment apply to:",
+  "options": {
+   "A": "All policies including ILPs",
+   "B": "Term policies only",
+   "C": "Cash-value traditional policies only, not ILPs",
+   "D": "Group insurance only"
+  },
+  "answer": "C",
+  "explanation": "Non-forfeiture options apply to cash-value traditional policies only, never to ILPs; such a policy in force over 3 years will not lapse for non-payment. ILPs are expressly excluded from these options.",
+  "calc": false
+ },
+ {
+  "id": "c15-01-q",
+  "conceptId": "c15-01",
+  "stem": "As an agent of the insurer, an adviser owes a fiduciary duty that means he must:",
+  "options": {
+   "A": "Maximise his own commission",
+   "B": "Follow only the client's instructions",
+   "C": "Guarantee the policy's investment returns",
+   "D": "Act in the principal's best interest"
+  },
+  "answer": "D",
+  "explanation": "An agent is a fiduciary who must act in the principal's (insurer's) best interest, and life agents are legally 'representatives' under the FAA. Maximising personal commission would breach the fiduciary duty.",
+  "calc": false
+ },
+ {
+  "id": "c15-02-q",
+  "conceptId": "c15-02",
+  "stem": "Under the Insurance Act, the agency agreement between an insurer and its agent must be:",
+  "options": {
+   "A": "In writing",
+   "B": "Oral and confirmed by conduct",
+   "C": "Implied from the parties' dealings",
+   "D": "Registered with the court"
+  },
+  "answer": "A",
+  "explanation": "The Insurance Act requires the insurer-agent agreement to be in writing. While agency can arise by implication or by operation of law generally, this particular relationship must be a written agreement.",
+  "calc": false
+ },
+ {
+  "id": "c15-03-q",
+  "conceptId": "c15-03",
+  "stem": "Which of the following is a FIDUCIARY duty of an agent (as distinct from a common-law duty)?",
+  "options": {
+   "A": "To exercise due care and skill",
+   "B": "To avoid conflicts of interest and take no secret commissions",
+   "C": "To account for and separate money received",
+   "D": "To inform the principal of material facts"
+  },
+  "answer": "B",
+  "explanation": "Avoiding conflicts of interest, not delegating authority, and taking no bribes or secret commissions are fiduciary duties. Exercising due care and skill and accounting for money are common-law duties.",
+  "calc": false
+ },
+ {
+  "id": "c15-04-q",
+  "conceptId": "c15-04",
+  "stem": "Under the dual-agency rule, an intermediary acts as agent of the INSURED when:",
+  "options": {
+   "A": "Collecting premiums on the insurer's behalf",
+   "B": "Issuing a cover note",
+   "C": "Advising on the cover required and completing (but not signing) the proposal form",
+   "D": "Acting under delegated authority from the insurer"
+  },
+  "answer": "C",
+  "explanation": "Advising on cover required and completing (but not signing) the proposal form makes the intermediary the insured's agent. Collecting premiums or issuing a cover note make him the insurer's agent.",
+  "calc": false
+ },
+ {
+  "id": "c15-05-q",
+  "conceptId": "c15-05",
+  "stem": "Apparent (ostensible) authority arises based on:",
+  "options": {
+   "A": "The agent's own representations about his powers",
+   "B": "A written clause in the agency contract",
+   "C": "Whatever is necessary to carry out express authority",
+   "D": "The principal's conduct leading a third party reasonably to believe authority exists"
+  },
+  "answer": "D",
+  "explanation": "Apparent authority rests on the principal's conduct, not the agent's, and binds the insurer to transactions made under it. Authority necessary to carry out express authority describes implied authority instead.",
+  "calc": false
+ },
+ {
+  "id": "c15-06-q",
+  "conceptId": "c15-06",
+  "stem": "Under usual authority, an agent may explain proposal questions and policy terms but CANNOT:",
+  "options": {
+   "A": "Enter, renew or revive a contract, vary terms, or waive conditions",
+   "B": "Describe the product's benefits",
+   "C": "Answer a client's questions about exclusions",
+   "D": "Provide a benefit illustration"
+  },
+  "answer": "A",
+  "explanation": "Usual authority explains but cannot bind: an agent cannot enter, renew or revive a contract, vary terms, or waive conditions. Explaining terms and providing illustrations are within usual authority.",
+  "calc": false
+ },
+ {
+  "id": "c15-07-q",
+  "conceptId": "c15-07",
+  "stem": "When an agent acts outside his authority, which of the following is true?",
+  "options": {
+   "A": "The principal is always bound to the third party",
+   "B": "The principal is not bound, but the agent may incur personal liability",
+   "C": "The agent automatically retains full commission",
+   "D": "The contract is void for illegality"
+  },
+  "answer": "B",
+  "explanation": "If an agent acts outside authority the principal is not bound, but the agent can incur personal liability, and indemnity is lost if the act was unauthorised. The principal is not automatically bound.",
+  "calc": false
+ },
+ {
+  "id": "c15-08-q",
+  "conceptId": "c15-08",
+  "stem": "A principal ratifies an unauthorised act done by his agent. From what date does ratification take effect?",
+  "options": {
+   "A": "The date the principal signs the ratification",
+   "B": "The date the third party is notified",
+   "C": "The date of the agent's original act",
+   "D": "The date the policy is issued"
+  },
+  "answer": "C",
+  "explanation": "Ratification takes effect from the date of the agent's act, not the date of ratification, and it must cover the whole deal. Note too that an undisclosed principal cannot ratify.",
+  "calc": false
+ },
+ {
+  "id": "c15-09-q",
+  "conceptId": "c15-09",
+  "stem": "Which of the following terminates an agency by operation of law?",
+  "options": {
+   "A": "Revocation by the principal",
+   "B": "Renunciation by the agent",
+   "C": "A dispute over commission",
+   "D": "Death, bankruptcy or unsoundness of mind of either party"
+  },
+  "answer": "D",
+  "explanation": "Termination by operation of law includes expiry of agreed time, complete performance, frustration or illegality, and death, bankruptcy, disability or unsoundness of mind of either party. Revocation and renunciation are terminations by the parties, not by operation of law.",
+  "calc": false
+ },
+ {
+  "id": "c16-01-q",
+  "conceptId": "c16-01",
+  "stem": "Which of the following is NOT taxable as income in Singapore?",
+  "options": {
+   "A": "A capital gain on the sale of shares",
+   "B": "Employment salary derived in Singapore",
+   "C": "Rental income received in Singapore",
+   "D": "Trade profits accruing in Singapore"
+  },
+  "answer": "A",
+  "explanation": "Singapore has no capital gains tax, and gifts, legacies and lottery winnings are not income. Salary, rental income and trade profits are all taxable income.",
+  "calc": false
+ },
+ {
+  "id": "c16-02-q",
+  "conceptId": "c16-02",
+  "stem": "In the income tax funnel, Chargeable Income is arrived at by taking:",
+  "options": {
+   "A": "Statutory income less allowable expenses only",
+   "B": "Assessable income less personal reliefs",
+   "C": "Assessable income plus approved donations",
+   "D": "Statutory income plus personal reliefs"
+  },
+  "answer": "B",
+  "explanation": "Chargeable Income equals assessable income less personal reliefs and is what is taxed. Deducting allowable expenses and donations from statutory income gets you only as far as assessable income.",
+  "calc": false
+ },
+ {
+  "id": "c16-03-q",
+  "conceptId": "c16-03",
+  "stem": "A resident individual has chargeable income of $18,000. How is this taxed?",
+  "options": {
+   "A": "At a flat 15%",
+   "B": "At the top rate of 22%",
+   "C": "No tax is payable, as chargeable income is $20,000 or below",
+   "D": "At 2% on the full amount"
+  },
+  "answer": "C",
+  "explanation": "Resident rates are progressive from 2% to 22%, with no tax if chargeable income is $20,000 or below, so $18,000 attracts no tax. The flat 15% applies to non-residents, not residents.",
+  "calc": false
+ },
+ {
+  "id": "c16-04-q",
+  "conceptId": "c16-04",
+  "stem": "To claim Qualifying Child Relief, the child must be unmarried, under 16 (or studying full-time), and earning under:",
+  "options": {
+   "A": "$2,000",
+   "B": "$6,000",
+   "C": "$8,000",
+   "D": "$4,000"
+  },
+  "answer": "D",
+  "explanation": "Qualifying Child Relief requires the child to be unmarried, under 16 or studying full-time, and earning under $4,000. Foreign Maid Levy Relief, by contrast, is twice the levy paid.",
+  "calc": false
+ },
+ {
+  "id": "c16-05-q",
+  "conceptId": "c16-05",
+  "stem": "A taxpayer's total CPF contribution in the previous year was $5,000. Can he claim life insurance relief?",
+  "options": {
+   "A": "No, because his CPF contribution is $5,000 or more, exhausting the combined cap",
+   "B": "Yes, up to 7% of the sum assured",
+   "C": "Yes, up to the full premiums paid",
+   "D": "Yes, but only half the premium"
+  },
+  "answer": "A",
+  "explanation": "A taxpayer is not eligible for life insurance relief if total CPF contributions are $5,000 or more, since the relief shares a combined $5,000 cap with CPF relief. Only where CPF is below $5,000 can the relief be claimed.",
+  "calc": false
+ },
+ {
+  "id": "c16-06-q",
+  "conceptId": "c16-06",
+  "stem": "Who tends to benefit MOST from life insurance relief?",
+  "options": {
+   "A": "Salaried employees whose CPF already hits $5,000",
+   "B": "The self-employed with no voluntary CPF, and foreigners exempt from CPF",
+   "C": "Retirees drawing CPF LIFE payouts",
+   "D": "Undischarged bankrupts"
+  },
+  "answer": "B",
+  "explanation": "The self-employed with no voluntary CPF and foreigners exempt from CPF benefit most, because their CPF is not already using up the $5,000 cap. Employees whose CPF already hits $5,000 get no life insurance relief.",
+  "calc": false
+ },
+ {
+  "id": "c16-07-q",
+  "conceptId": "c16-07",
+  "stem": "SRS contribution relief for a Singapore citizen or PR is capped at what percentage of the Absolute Income Base?",
+  "options": {
+   "A": "22%",
+   "B": "35%",
+   "C": "15%",
+   "D": "50%"
+  },
+  "answer": "C",
+  "explanation": "SRS relief is capped at 15% of the Absolute Income Base for a citizen or PR, and 35% for a foreigner. The AIB is 17 months of the CPF salary ceiling.",
+  "calc": false
+ },
+ {
+  "id": "c16-08-q",
+  "conceptId": "c16-08",
+  "stem": "What is the key difference between a tax relief and a tax rebate?",
+  "options": {
+   "A": "A relief reduces the tax payable; a rebate reduces chargeable income",
+   "B": "Both reduce chargeable income equally",
+   "C": "Both reduce the tax payable equally",
+   "D": "A relief reduces chargeable income; a rebate reduces the tax payable"
+  },
+  "answer": "D",
+  "explanation": "A relief reduces chargeable income, while a rebate reduces the tax payable directly. The Parenthood Tax Rebate, for example, offsets tax at $5k, $10k and $20k for the 1st, 2nd and 3rd-plus child.",
+  "calc": false
+ },
+ {
+  "id": "c16-09-q",
+  "conceptId": "c16-09",
+  "stem": "An SRS member withdraws funds BEFORE the statutory retirement age. What is the tax treatment?",
+  "options": {
+   "A": "The full amount is 100% taxed plus a 5% penalty",
+   "B": "Only 50% is taxed, with no penalty",
+   "C": "The withdrawal is entirely tax-free",
+   "D": "Only the investment gains are taxed"
+  },
+  "answer": "A",
+  "explanation": "Premature SRS withdrawal is 100% taxed plus a 5% penalty. The 50%-taxed concession applies only on or after the statutory retirement age, on death, on medical grounds, or for a foreigner holding the account 10-plus years.",
+  "calc": false
+ },
+ {
+  "id": "c17-01-q",
+  "conceptId": "c17-01",
+  "stem": "Under the current nomination framework, if a policy owner makes no nomination and leaves no Will, the death proceeds pass:",
+  "options": {
+   "A": "Automatically to the insurer",
+   "B": "Under the Intestate Succession Act",
+   "C": "To the adviser who sold the policy",
+   "D": "To the first person to submit a claim"
+  },
+  "answer": "B",
+  "explanation": "With no nomination, proceeds pass by Will, or failing that under the Intestate Succession Act. The framework offers two deliberate choices (revocable and trust) but nomination is not compulsory.",
+  "calc": false
+ },
+ {
+  "id": "c17-02-q",
+  "conceptId": "c17-02",
+  "stem": "The statutory nomination framework applies only to which policies, and who may nominate?",
+  "options": {
+   "A": "Indemnity (hospital and surgical) policies; any owner over 16",
+   "B": "Group insurance policies; the employer",
+   "C": "Non-indemnity policies; the nominator must be both owner and life insured, and at least 18",
+   "D": "All policies; anyone with insurable interest"
+  },
+  "answer": "C",
+  "explanation": "Nomination applies only to non-indemnity policies (life and personal accident with death benefits), and the nominator must be both the policy owner and the life insured, and at least 18. Indemnity policies are excluded because they reimburse the owner's own losses.",
+  "calc": false
+ },
+ {
+  "id": "c17-03-q",
+  "conceptId": "c17-03",
+  "stem": "Under a trust (irrevocable) nomination, which statement is correct?",
+  "options": {
+   "A": "The owner keeps living benefits and full control",
+   "B": "Anyone including a corporation may be nominated",
+   "C": "The owner may surrender freely without consent",
+   "D": "Only spouse and/or children may be nominated, and changes need all nominees' consent"
+  },
+  "answer": "D",
+  "explanation": "A trust nomination allows only spouse and/or children as nominees, and the owner needs the written consent of all nominees to change, revoke, take a loan or surrender. The owner loses all rights, so both living and death benefits belong to the nominees.",
+  "calc": false
+ },
+ {
+  "id": "c17-04-q",
+  "conceptId": "c17-04",
+  "stem": "Under a TRUST nomination, if a nominee dies before the policy owner, that nominee's share goes to:",
+  "options": {
+   "A": "The nominee's own estate",
+   "B": "The surviving nominees proportionally",
+   "C": "The policy owner",
+   "D": "The Government"
+  },
+  "answer": "A",
+  "explanation": "Under a trust nomination a deceased nominee's share goes to their estate. This contrasts with a revocable nomination, where the deceased nominee's share is redistributed to the surviving nominees.",
+  "calc": false
+ },
+ {
+  "id": "c17-05-q",
+  "conceptId": "c17-05",
+  "stem": "Under a revocable nomination, which statement is correct?",
+  "options": {
+   "A": "Both living and death benefits pass to the nominees",
+   "B": "Only death benefits go to nominees; the owner keeps living benefits and full control and may change it without the nominee's consent",
+   "C": "The owner needs the nominee's consent to revoke",
+   "D": "An animal may be nominated"
+  },
+  "answer": "B",
+  "explanation": "Under a revocable nomination only death benefits go to nominees, the owner keeps living benefits and full control, and can change or revoke anytime without the nominee's consent. Any legal entity except an animal may be nominated.",
+  "calc": false
+ },
+ {
+  "id": "c17-06-q",
+  "conceptId": "c17-06",
+  "stem": "Under a revocable nomination with several nominees, one nominee dies before the owner. What happens to that nominee's share?",
+  "options": {
+   "A": "The entire nomination is revoked",
+   "B": "It passes to the deceased nominee's estate",
+   "C": "It is redistributed proportionally to the surviving nominees",
+   "D": "It reverts to the insurer"
+  },
+  "answer": "C",
+  "explanation": "With multiple nominees under a revocable nomination, a deceased nominee's share is redistributed proportionally to the survivors, and the nomination is revoked only when ALL die. It does not go to the deceased nominee's estate, which is the trust-nomination rule.",
+  "calc": false
+ },
+ {
+  "id": "c17-07-q",
+  "conceptId": "c17-07",
+  "stem": "Which nomination is permitted on CPFIS, CPF LIFE, DPS and SRS policies?",
+  "options": {
+   "A": "Trust nomination only",
+   "B": "Either revocable or trust",
+   "C": "No nomination is allowed",
+   "D": "Revocable nomination only"
+  },
+  "answer": "D",
+  "explanation": "CPFIS, CPF LIFE, DPS and SRS policies allow revocable nomination only, since the money is for the member's own retirement. Group insurance, by contrast, allows no nomination at all.",
+  "calc": false
+ },
+ {
+  "id": "c17-08-q",
+  "conceptId": "c17-08",
+  "stem": "A policy owner makes a revocable nomination, then later writes a Will leaving 'all my property' to charity, without naming the policy. Which prevails over the proceeds?",
+  "options": {
+   "A": "The nomination, because a general Will does not override it without specific policy details",
+   "B": "The Will, because it is the later document",
+   "C": "Neither; the proceeds pass under intestacy",
+   "D": "The proceeds are split equally"
+  },
+  "answer": "A",
+  "explanation": "A general Will does not override a nomination; the Will must name the specific policy (insurer, policy number, proceeds). A Will covering 'all property' is not enough to displace the nomination.",
+  "calc": false
+ },
+ {
+  "id": "c17-09-q",
+  "conceptId": "c17-09",
+  "stem": "For a Will to be valid, the testator must generally be:",
+  "options": {
+   "A": "18 or older and of sound mind, witnessed by one person",
+   "B": "21 or older and of sound mind, witnessed by two persons present together",
+   "C": "Of any age if witnessed by a lawyer",
+   "D": "A Singapore citizen only"
+  },
+  "answer": "B",
+  "explanation": "A valid Will needs a testator 21 or older of sound mind and two witnesses present together (with a narrow exception for soldiers on active service or mariners at sea). One witness or an age of 18 is insufficient.",
+  "calc": false
+ },
+ {
+  "id": "c17-10-q",
+  "conceptId": "c17-10",
+  "stem": "A man dies intestate leaving a spouse and two children. How is his estate distributed under the Intestate Succession Act?",
+  "options": {
+   "A": "All to the spouse",
+   "B": "One-third to the spouse, two-thirds to the children",
+   "C": "Half to the spouse, half divided equally between the children",
+   "D": "All divided equally among the children"
+  },
+  "answer": "C",
+  "explanation": "With a spouse and children, half goes to the spouse and the other half is divided equally among the children. 'All to spouse' applies only where there are no children or parents.",
+  "calc": false
+ },
+ {
+  "id": "c17-11-q",
+  "conceptId": "c17-11",
+  "stem": "Which of the following avoids the need for probate?",
+  "options": {
+   "A": "A valid Will naming an executor",
+   "B": "A testamentary trust created by the Will",
+   "C": "Dying intestate",
+   "D": "A trust set up during the settlor's lifetime"
+  },
+  "answer": "D",
+  "explanation": "Only a trust (set up during the settlor's lifetime) avoids probate. A Will does not, and even a testamentary trust, which arises through the Will, does not avoid probate.",
+  "calc": false
+ },
+ {
+  "id": "c16-calc-01",
+  "conceptId": "c16-05",
+  "stem": "A self-employed doctor makes no CPF contributions. He pays $6,000 in annual premiums on his own life policy, which has a sum assured of $60,000. What is his life insurance relief?",
+  "options": {
+   "A": "$4,200, being 7% of the $60,000 sum assured",
+   "B": "$6,000, the full premium paid",
+   "C": "$5,000, the combined CPF/life relief cap",
+   "D": "$3,600, being 6% of the sum assured"
+  },
+  "answer": "A",
+  "explanation": "Relief is the lowest of ($5,000 - CPF = $5,000), 7% of the sum assured ($60,000 x 7% = $4,200), and premiums paid ($6,000). The lowest is $4,200. Choosing $5,000 forgets the 7%-of-sum-assured cap, which binds here.",
+  "calc": true
+ },
+ {
+  "id": "c16-calc-02",
+  "conceptId": "c16-05",
+  "stem": "A foreigner exempt from CPF pays $3,000 in premiums on a policy with a $100,000 sum assured. What life insurance relief can she claim?",
+  "options": {
+   "A": "$7,000, being 7% of the sum assured",
+   "B": "$3,000, the premiums paid",
+   "C": "$5,000, the combined cap",
+   "D": "$2,000, half the cap"
+  },
+  "answer": "B",
+  "explanation": "Relief is the lowest of ($5,000 - CPF = $5,000), 7% of $100,000 = $7,000, and premiums paid = $3,000. The lowest is the actual premium of $3,000. The 7% figure of $7,000 is not the binding limit here.",
+  "calc": true
+ },
+ {
+  "id": "c16-calc-03",
+  "conceptId": "c16-05",
+  "stem": "A self-employed taxpayer made $2,000 of voluntary CPF contributions last year, pays $4,500 in premiums, and holds a $80,000 sum assured policy. What is his life insurance relief?",
+  "options": {
+   "A": "$5,600, being 7% of the sum assured",
+   "B": "$4,500, the premiums paid",
+   "C": "$3,000, being $5,000 less the $2,000 CPF contribution",
+   "D": "$5,000, the full combined cap"
+  },
+  "answer": "C",
+  "explanation": "Relief is the lowest of ($5,000 - $2,000 CPF = $3,000), 7% of $80,000 = $5,600, and premiums = $4,500. The lowest is $3,000. Forgetting to subtract the $2,000 CPF from the $5,000 cap would wrongly give $5,000.",
+  "calc": true
+ },
+ {
+  "id": "c16-calc-04",
+  "conceptId": "c16-08",
+  "stem": "A married Singapore resident couple have their first and second Singaporean children. What is their total Parenthood Tax Rebate?",
+  "options": {
+   "A": "$10,000",
+   "B": "$20,000",
+   "C": "$30,000",
+   "D": "$15,000"
+  },
+  "answer": "D",
+  "explanation": "The PTR is $5,000 for the 1st child and $10,000 for the 2nd, totalling $15,000. Using $10,000 + $20,000 wrongly applies the 3rd-child rate to the 2nd child.",
+  "calc": true
+ },
+ {
+  "id": "c16-calc-05",
+  "conceptId": "c16-09",
+  "stem": "A retiree past the statutory retirement age withdraws $40,000 from her SRS account in a single year. How much is subject to tax?",
+  "options": {
+   "A": "$20,000, being 50% of the withdrawal",
+   "B": "$40,000, the full amount",
+   "C": "$2,000, being 5% of the withdrawal",
+   "D": "Nothing, SRS withdrawals are tax-free"
+  },
+  "answer": "A",
+  "explanation": "Withdrawal on or after the statutory retirement age is only 50% taxed, so $40,000 x 50% = $20,000 is taxable. The full $40,000 and a 5% penalty apply only to premature withdrawals.",
+  "calc": true
+ },
+ {
+  "id": "c17-calc-01",
+  "conceptId": "c17-10",
+  "stem": "A woman dies intestate leaving an estate of $600,000, survived by her husband and three children. How much does the husband receive?",
+  "options": {
+   "A": "$600,000, the whole estate",
+   "B": "$300,000, being half the estate",
+   "C": "$200,000, an equal one-third share",
+   "D": "$150,000, being a quarter share"
+  },
+  "answer": "B",
+  "explanation": "With a spouse and children, half goes to the spouse: $600,000 x 1/2 = $300,000. The remaining $300,000 is split among the three children ($100,000 each). Dividing the estate equally among all four would wrongly give $150,000.",
+  "calc": true
+ },
+ {
+  "id": "c17-calc-02",
+  "conceptId": "c17-10",
+  "stem": "A man dies intestate with an estate of $500,000, leaving no spouse and no children, survived only by both his parents. How much does each parent receive?",
+  "options": {
+   "A": "$500,000 to one parent only",
+   "B": "$166,667 each, a one-third share",
+   "C": "$250,000 each",
+   "D": "$125,000 each"
+  },
+  "answer": "C",
+  "explanation": "With parents only and no spouse or children, all goes to the parents equally: $500,000 / 2 = $250,000 each. The half-to-spouse rule does not apply because there is no surviving spouse.",
+  "calc": true
+ },
+ {
+  "id": "c17-calc-03",
+  "conceptId": "c17-10",
+  "stem": "A man dies intestate leaving an estate of $400,000, survived by his wife and both parents but no children. How is the estate distributed?",
+  "options": {
+   "A": "All $400,000 to the wife",
+   "B": "$133,333 to the wife and each parent equally",
+   "C": "$300,000 to the wife, $50,000 to each parent",
+   "D": "$200,000 to the wife, $100,000 to each parent"
+  },
+  "answer": "D",
+  "explanation": "With a spouse and parents (no children), half goes to the spouse and half is divided equally between the parents: wife $200,000, and $200,000 / 2 = $100,000 to each parent. The wife does not take the whole estate when parents survive and there are no children.",
+  "calc": true
+ }
+]
