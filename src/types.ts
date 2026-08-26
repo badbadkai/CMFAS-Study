@@ -55,6 +55,39 @@ export type PlayableQuestion = {
   explanation?: string
 }
 
+/** A fully worked calculation example shown step by step in Computations > Learn. */
+export interface CompExample {
+  title: string
+  /** The scenario: what is given and what is asked. */
+  given: string
+  /** Worked lines, revealed one at a time. */
+  steps: string[]
+  /** The final answer, shown boxed. */
+  answer: string
+}
+
+/** One computation topic: concept, formulas, and worked examples. */
+export interface CompTopic {
+  id: string
+  num: number
+  title: string
+  /** One-line hook shown on the topic list. */
+  tagline: string
+  /** Teaching paragraphs. */
+  teach: string[]
+  /** Formulas for this topic, one per line. */
+  formulas: string[]
+  examples: CompExample[]
+  /** The mistake that costs marks on this topic. */
+  trap?: string
+}
+
+/** A group of formulas for the quick-recall reference sheet. */
+export interface FormulaGroup {
+  title: string
+  items: string[]
+}
+
 export interface Module {
   id: string
   name: string
@@ -64,5 +97,7 @@ export interface Module {
   mocks: MockPaper[]
   /** Authored quiz bank. When present, Quiz Me uses this instead of mock questions. */
   quiz?: QuizItem[]
+  /** True when the module has a Computations section. */
+  comp?: boolean
 }
 

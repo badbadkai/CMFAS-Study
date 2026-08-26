@@ -6,6 +6,11 @@ import Study from './screens/Study'
 import Quiz from './screens/Quiz'
 import MockSelect from './screens/MockSelect'
 import MockExam from './screens/MockExam'
+import CompHome from './screens/comp/CompHome'
+import CompTopics from './screens/comp/CompTopics'
+import CompLearn from './screens/comp/CompLearn'
+import CompFormulas from './screens/comp/CompFormulas'
+import CompDrill from './screens/comp/CompDrill'
 
 export default function App() {
   return (
@@ -18,6 +23,11 @@ export default function App() {
         <Route path="/m/:moduleId/quiz" element={<Quiz />} />
         <Route path="/m/:moduleId/mock" element={<MockSelect />} />
         <Route path="/m/:moduleId/mock/:paper" element={<MockExam />} />
+        <Route path="/m/:moduleId/comp" element={<CompHome />} />
+        <Route path="/m/:moduleId/comp/learn" element={<CompTopics />} />
+        <Route path="/m/:moduleId/comp/learn/:topicId" element={<CompLearn />} />
+        <Route path="/m/:moduleId/comp/formulas" element={<CompFormulas />} />
+        <Route path="/m/:moduleId/comp/drill" element={<CompDrill />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </div>

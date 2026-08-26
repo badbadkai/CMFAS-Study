@@ -14,6 +14,9 @@ export default function ModeSelect() {
     { key: 'study', label: 'Study', desc: 'Swipe through the material like flashcards.', disabled: noChapters, soon: 'Flashcards coming soon for this module.' },
     { key: 'quiz', label: 'Quiz Me', desc: '15 random exam questions with instant feedback.', disabled: noMocks, soon: 'Questions coming soon for this module.' },
     { key: 'mock', label: 'Mock Exam', desc: 'Full timed paper, then review what you got wrong.', disabled: noMocks, soon: 'Mock papers coming soon for this module.' },
+    ...(mod.comp
+      ? [{ key: 'comp', label: 'Computations', desc: 'Learn, memorise, and drill every calculation type.', disabled: false, soon: '' }]
+      : []),
   ]
 
   return (

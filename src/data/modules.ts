@@ -27,6 +27,7 @@ export const modules: Module[] = [
     chapters: m9Chapters,
     mocks: m9Mocks,
     quiz: m9Quiz,
+    comp: true,
   },
   {
     id: 'M9A',
