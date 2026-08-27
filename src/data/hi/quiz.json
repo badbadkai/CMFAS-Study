@@ -4005,5 +4005,789 @@
     "answer": "C",
     "explanation": "Yearly income needed = S$2,000 x 12 = S$24,000. Funds required = S$24,000 x 15.3238 = S$367,771. Only existing policies carrying a TPD benefit may be deducted, so S$367,771 - S$150,000 = S$217,771 of additional cover is needed.",
     "calc": true
+  },
+  {
+    "id": "h1-qNEW02",
+    "conceptId": "h1-12",
+    "stem": "Which statement best describes Singapore's restructured hospitals?",
+    "options": {
+      "A": "Government-owned private companies managed as non-profit organisations receiving an annual Government subvention",
+      "B": "Fully privatised for-profit companies with no Government funding",
+      "C": "Facilities run by Voluntary Welfare Organisations to provide rehabilitation after acute discharge",
+      "D": "Statutory boards that operate directly under the Ministry of Health's civil service structure"
+    },
+    "answer": "A",
+    "explanation": "The Government has restructured all its acute hospitals and specialty centres to operate as government-owned private companies, giving them management autonomy, but they are managed as non-profit organisations and receive an annual Government subvention. They are neither fully privatised for-profit entities nor statutory boards, and running rehabilitation care after acute discharge describes community hospitals (run by VWOs or healthcare clusters), not restructured hospitals.",
+    "calc": false
+  },
+  {
+    "id": "h1-qNEW03",
+    "conceptId": "h1-12",
+    "stem": "How many community hospitals are there currently in Singapore, and what is their primary role?",
+    "options": {
+      "A": "Nine; providing rehabilitation and continuing care to patients, typically after discharge from acute hospitals",
+      "B": "Nine; providing emergency and acute tertiary care to reduce the load on public hospitals",
+      "C": "Seven; providing subsidised outpatient primary care in the community",
+      "D": "Twelve; providing inpatient hospice palliative care exclusively"
+    },
+    "answer": "A",
+    "explanation": "There are currently nine community hospitals in Singapore, run by either VWOs or healthcare clusters. Their role is rehabilitation and continuing care, typically after discharge from acute hospitals. They do not provide emergency or acute tertiary care, outpatient primary care is the role of polyclinics and GPs, and inpatient hospice care is a separate residential care facility type.",
+    "calc": false
+  },
+  {
+    "id": "h1-qNEW04",
+    "conceptId": "h1-13",
+    "stem": "Under the Intermediate and Long-Term Care (ILTC) framework, nursing homes, chronic sick hospitals and inpatient hospices are classified as which type of service?",
+    "options": {
+      "A": "Residential care facilities",
+      "B": "Centre-based services",
+      "C": "Home-based services",
+      "D": "Palliative care services"
+    },
+    "answer": "A",
+    "explanation": "Residential care facilities are for patients who stay in the facility both day and night, and comprise chronic sick hospitals, nursing homes, inpatient hospices, as well as rehabilitation homes and sheltered homes. Centre-based services cater to seniors who need care during the day only, home-based services are delivered in the senior's own home, and palliative care services support individuals at end-of-life across various settings.",
+    "calc": false
+  },
+  {
+    "id": "h2-qNEW03",
+    "conceptId": "h2-04",
+    "stem": "Under the major organ transplant benefit of a Medical Expense Insurance policy, which of the following is NOT among the listed organs or tissues covered?",
+    "options": {
+      "A": "Pancreas",
+      "B": "Cornea",
+      "C": "Musculoskeletal tissue",
+      "D": "Skin"
+    },
+    "answer": "A",
+    "explanation": "The major organ transplant benefit covers surgeries for the transplantation of kidneys, lungs, heart, liver, skin, cornea or musculoskeletal tissue where the insured person is the recipient. The pancreas is not in the listed organs. Note also that the benefit is not payable if the transplantation is illegal or arises from any illegal transaction or practice.",
+    "calc": false
+  },
+  {
+    "id": "h2-calcNEW03",
+    "conceptId": "h2-07",
+    "stem": "Mr Lim applies for a Medical Expense Insurance policy covering himself (annual premium S$900), his wife (S$600) and his son (S$300), submitting all applications at the same time. His insurer offers a 5% family discount. How much premium is payable?",
+    "options": {
+      "A": "S$1,710",
+      "B": "S$1,800",
+      "C": "S$1,620",
+      "D": "S$1,890"
+    },
+    "answer": "A",
+    "explanation": "Total gross premium = S$900 + S$600 + S$300 = S$1,800. Family discount = 5% x S$1,800 = S$90. Premium payable = S$1,800 - S$90 = S$1,710. Paying S$1,800 ignores the discount, S$1,620 wrongly applies a 10% discount, and S$1,890 wrongly adds the 5% instead of deducting it. Medical Expense Insurance in Singapore is stand-alone but most policies allow inclusion of immediate family members, and some insurers give a family discount (e.g. 5%) if the applications are submitted at the same time.",
+    "calc": true
+  },
+  {
+    "id": "h2-qNEW04",
+    "conceptId": "h2-08",
+    "stem": "Which of the following correctly lists the three expense participation methods used in Medical Expense Insurance?",
+    "options": {
+      "A": "Deductible, co-insurance and pro-ration factor",
+      "B": "Deductible, waiting period and benefit limit",
+      "C": "Co-insurance, sub-limit and exclusion",
+      "D": "Pro-ration factor, grace period and deductible"
+    },
+    "answer": "A",
+    "explanation": "The three expense participation methods are deductible, co-insurance and pro-ration factor, and all Integrated Shield Plans, including the MediShield Life Scheme, come with these features. Waiting periods, benefit limits, sub-limits, exclusions and grace periods are policy features but are not expense participation methods. Plans with no expense participation cost a lot more and are payable by cash only (not MediSave-approved).",
+    "calc": false
+  },
+  {
+    "id": "h2-calcNEW04",
+    "conceptId": "h2-08",
+    "stem": "An insured holds an Integrated Shield Plan entitling him to a single-bed restructured hospital ward, but is admitted to a private hospital. His covered bill is S$40,000. The plan applies a pro-ration factor of 50%, an annual deductible of S$3,500 and co-insurance of 10%. How much will the insurer pay?",
+    "options": {
+      "A": "S$14,850",
+      "B": "S$16,500",
+      "C": "S$32,850",
+      "D": "S$18,000"
+    },
+    "answer": "A",
+    "explanation": "Step 1: apply the pro-ration factor: S$40,000 x 50% = S$20,000. Step 2: deduct the deductible: S$20,000 - S$3,500 = S$16,500. Step 3: apply co-insurance: 10% x S$16,500 = S$1,650 borne by the insured. Insurer pays S$16,500 - S$1,650 = S$14,850. Paying S$16,500 omits the co-insurance, S$32,850 omits the pro-ration factor ((S$40,000 - S$3,500) x 90%), and S$18,000 omits the deductible (S$20,000 x 90%).",
+    "calc": true
+  },
+  {
+    "id": "h2-qNEW05",
+    "conceptId": "h2-14",
+    "stem": "Under most Individual Medical Expense Insurance policies, what typically happens if the insured resides outside Singapore for more than a specified period, such as 180 days?",
+    "options": {
+      "A": "The policy automatically terminates, although some insurers terminate only if the insured is not a Singapore Citizen or SPR",
+      "B": "The policy continues unchanged, with overseas bills reimbursed in full at the overseas hospital's actual charges",
+      "C": "The policy is suspended and premiums are refunded on a pro-rata basis",
+      "D": "The policy converts automatically into an international health plan at no extra premium"
+    },
+    "answer": "A",
+    "explanation": "Most Individual Medical Expense Insurance policies automatically terminate if the insured resides outside Singapore for more than a specified period of time (e.g. 180 days), though some insurers terminate only if the insured is not a Singapore Citizen or Singapore Permanent Resident. Where insurers do continue to pay for overseas treatment, reimbursement is based on the reasonable and customary charges for that treatment in Singapore, subject to policy limits, not the full overseas charges. There is no automatic suspension with refund or conversion to an international plan.",
+    "calc": false
+  },
+  {
+    "id": "h3-qNEW02",
+    "conceptId": "h3-15",
+    "stem": "Under the Transferable Medical Insurance Scheme (TMIS), the continuation of coverage feature allows an employee whose employment has been terminated to continue enjoying hospitalisation coverage for up to how long?",
+    "options": {
+      "A": "12 months from the employment termination date, not exceeding the prescribed statutory age",
+      "B": "6 months from the employment termination date",
+      "C": "24 months, but only if the employer terminated the employment",
+      "D": "Indefinitely, until the employee finds new employment"
+    },
+    "answer": "A",
+    "explanation": "The continuation of coverage feature enables an employee whose employment is terminated, either by his employer or on his own accord, to continue enjoying hospitalisation coverage from the employment termination date for up to 12 months (not exceeding the prescribed statutory age). It is not limited to employer-initiated termination, and it does not run for 6 months, 24 months or indefinitely.",
+    "calc": false
+  },
+  {
+    "id": "h3-qNEW03",
+    "conceptId": "h3-15",
+    "stem": "Which condition must be met for an employee to enjoy the TMIS transferability benefit, including the waiver of exclusions on pre-existing conditions?",
+    "options": {
+      "A": "Both the old and new employers must hold TMIS policies, and the employee must have been continuously insured under TMIS for 12 months before joining the new employer for the pre-existing waiver",
+      "B": "Only the new employer needs to hold a TMIS policy; the previous employer's plan type is irrelevant",
+      "C": "The employee must pass a medical examination arranged by the new employer's insurer",
+      "D": "The employee must have served the previous employer for at least 24 months"
+    },
+    "answer": "A",
+    "explanation": "Transferability applies only when the employee moves from one employer holding a TMIS policy to another employer that also holds a TMIS policy; it is not available when moving between a non-TMIS plan and a TMIS plan. The employee gets automatic coverage under the new employer's GHS plan without evidence of health (so no medical examination is required), plus waiver of pre-existing condition exclusions if he has been continuously insured under TMIS for 12 months before joining. There is no 24-month service requirement.",
+    "calc": false
+  },
+  {
+    "id": "h4-qNEW03",
+    "conceptId": "h4-13",
+    "stem": "An insured pays his Disability Income Insurance premium annually in advance. Three months into the policy year, he becomes totally disabled and starts receiving disability benefits. How is the waiver of premium benefit applied?",
+    "options": {
+      "A": "The waiver takes effect from the next premium due date; the premium already paid is not refunded",
+      "B": "The insurer refunds the unused nine months of premium immediately",
+      "C": "The waiver is backdated to the date disability commenced and a pro-rata refund is made",
+      "D": "No waiver applies because the disability is total rather than partial"
+    },
+    "answer": "A",
+    "explanation": "Premiums due under a Disability Income Insurance policy are waived during the disability benefit payout period, applicable to both total and partial disability. If the insured has paid the premium annually in advance, the waiver takes effect only from the next premium due date, and the premiums already paid will not be refunded. There is no immediate or pro-rata refund, and the waiver applies to total disability as well as partial disability.",
+    "calc": false
+  },
+  {
+    "id": "h5-qNEW03",
+    "conceptId": "h5-02",
+    "stem": "What are the two key advantages of buying Long-Term Care Insurance while still young and healthy?",
+    "options": {
+      "A": "The product costs less since premiums rise considerably with age, and there is less risk of being rejected for cover owing to existing disabilities or medical history",
+      "B": "Premiums are fully tax-deductible, and the benefit amount is guaranteed to increase with inflation",
+      "C": "The policy acquires cash value faster, and claims are processed more quickly",
+      "D": "Coverage automatically includes critical illness benefits, and no ADL assessment is ever required"
+    },
+    "answer": "A",
+    "explanation": "The two key advantages of buying LTC Insurance while young and healthy are: firstly, the product will cost less as premiums rise considerably with age; and secondly, buying at a younger age means less risk of being rejected for cover owing to existing disabilities or medical history. Tax deductibility, inflation-linked benefits, cash value accumulation, faster claims and bundled critical illness cover are not the stated advantages.",
+    "calc": false
+  },
+  {
+    "id": "h5-calcNEW01",
+    "conceptId": "h5-04",
+    "stem": "Mdm Tan's LTC policy pays a monthly benefit of S$2,000 on a graduated scale: 50% is payable if she cannot perform two of the six ADLs, and 100% if she cannot perform four of the six ADLs. She is certified by an approved registered medical practitioner as unable to perform two of the six ADLs. What monthly benefit is payable?",
+    "options": {
+      "A": "S$1,000",
+      "B": "S$2,000",
+      "C": "S$0",
+      "D": "S$667"
+    },
+    "answer": "A",
+    "explanation": "Under the graduated scale, failing two of the six ADLs triggers 50% of the monthly benefit: 50% x S$2,000 = S$1,000. The full S$2,000 would only be payable if she could not perform four of the six ADLs. A nil payout is wrong because the graduated scale starts paying at two failed ADLs, and S$667 wrongly pro-rates the benefit by two-sixths instead of applying the stated 50% tier.",
+    "calc": true
+  },
+  {
+    "id": "h5-qNEW04",
+    "conceptId": "h5-09",
+    "stem": "Which statement about the benefit payment term of a Long-Term Care Insurance policy is TRUE?",
+    "options": {
+      "A": "Premiums for a shorter benefit payment term (e.g. 12 years of benefits) are cheaper, and premiums payable are waived during the benefit payment period",
+      "B": "All private LTC policies must provide lifetime payouts by law",
+      "C": "A shorter benefit payment term costs more because benefits are paid out sooner",
+      "D": "Premiums continue to be payable while benefits are being paid, to keep the policy in force"
+    },
+    "answer": "A",
+    "explanation": "Some insurers allow customers to choose the benefit payment term (e.g. 12 years of benefits). Premiums for a shorter benefit payment term are cheaper and more affordable, and during the benefit payment period, premiums payable are waived. Lifetime payouts are a feature of schemes such as CareShield Life, not a legal requirement for all private LTC policies, and a shorter payment term reduces rather than increases the premium.",
+    "calc": false
+  },
+  {
+    "id": "h6-qNEW04",
+    "conceptId": "h6-03",
+    "stem": "A client purchased a Critical Illness policy on 1 September 2020. Which set of CI definitions applies to his policy?",
+    "options": {
+      "A": "The 2019 CI definitions, because any CI policy purchased from 26 August 2020 is subject to them",
+      "B": "The Version 2014 definitions, because they remain valid for products filed before 2022",
+      "C": "Either version, at the insurer's discretion",
+      "D": "The 2019 definitions, which also retroactively replaced the definitions in all policies issued before 26 August 2020"
+    },
+    "answer": "A",
+    "explanation": "On and after 26 August 2020, CI products using the Version 2014 definitions may not be sold in Singapore, and any CI policy purchased from 26 August 2020 is subject to the 2019 CI definitions. Insurers have no discretion to keep selling the 2014 definitions after that date. However, CI policies issued before 26 August 2020 were not impacted, so there is no retroactive replacement of definitions in older policies.",
+    "calc": false
+  },
+  {
+    "id": "h6-qNEW05",
+    "conceptId": "h6-03",
+    "stem": "Which change to the Critical Illness framework took effect from 16 November 2022?",
+    "options": {
+      "A": "Insurers can independently determine suitable waiting periods, and the S$25,000 cap on the sum payable for Angioplasty and Other Invasive Treatment for Coronary Artery was removed",
+      "B": "A standard 90-day waiting period became mandatory for all CI policies",
+      "C": "The cap on the sum payable for angioplasty was raised from S$25,000 to S$50,000",
+      "D": "The 2019 CI definitions were replaced by a new 2022 set of definitions"
+    },
+    "answer": "A",
+    "explanation": "From 16 November 2022, insurers can independently determine suitable waiting periods in all of their insurance policies, and the S$25,000 cap on the sum payable in respect of Angioplasty and Other Invasive Treatment for Coronary Artery was removed entirely, not raised to a higher cap. No mandatory standard waiting period was imposed, and the 2019 CI definitions were not replaced.",
+    "calc": false
+  },
+  {
+    "id": "h6-qNEW06",
+    "conceptId": "h6-14",
+    "stem": "Under the common aircraft-related exclusion in a Critical Illness policy, bodily injury from air travel remains covered for which of the following persons?",
+    "options": {
+      "A": "A fare-paying passenger on a regularly scheduled passenger flight of a licensed commercial aircraft",
+      "B": "A passenger on a friend's private jet",
+      "C": "A pilot flying his own light aircraft for leisure",
+      "D": "A skydiver during a jump flight chartered by his club"
+    },
+    "answer": "A",
+    "explanation": "CI policies commonly exclude bodily injury sustained as a result of travel in or on any type of aircraft, except as a fare-paying passenger or as a crew member of an international airline operating on a regularly scheduled passenger flight of a licensed commercial aircraft. Private jet travel, leisure flying of one's own aircraft and chartered jump flights all fall outside that exception and remain excluded. Note that exclusions vary from insurer to insurer, so the precise wording of each policy should be checked.",
+    "calc": false
+  },
+  {
+    "id": "h7-qNEW01",
+    "conceptId": "h7-05",
+    "stem": "Which of the following events does NOT terminate a Hospital Cash Insurance cover?",
+    "options": {
+      "A": "The insured changes employer",
+      "B": "The premium is not paid at the end of the grace period",
+      "C": "The per lifetime limit on hospitalisation days is reached",
+      "D": "The basic policy to which the rider is attached lapses or matures"
+    },
+    "answer": "A",
+    "explanation": "Hospital Cash cover terminates when the premium is unpaid at the end of the grace period, the insured reaches the expiry age stated in the policy, the per lifetime limit is reached, the basic policy lapses or matures, or the insured dies. Changing employer is not a termination event because Hospital Cash Insurance is an individual policy that is not tied to employment.",
+    "calc": false
+  },
+  {
+    "id": "h7-qNEW02",
+    "conceptId": "h7-05",
+    "stem": "Which set of documents does an insurer usually require for a Hospital Cash Insurance claim?",
+    "options": {
+      "A": "A completed claim form together with the hospital discharge summary and bills",
+      "B": "A police report and a pre-authorisation form",
+      "C": "Only the insured's identity card and a letter from his employer",
+      "D": "A Letter of Guarantee issued by the hospital"
+    },
+    "answer": "A",
+    "explanation": "For a Hospital Cash claim, the insurer requires submission of a claim form together with the hospital discharge summary and bills. The insurer also reserves the right to call for additional documentary evidence, such as an Attending Physician's Report and other relevant supporting documents. Police reports, pre-authorisation forms, employer letters and Letters of Guarantee are not the standard claim documents for this cover.",
+    "calc": false
+  },
+  {
+    "id": "h7-qNEW03",
+    "conceptId": "h7-08",
+    "stem": "Which of the following is NOT one of the usual medical benefits provided under a Travel Insurance policy?",
+    "options": {
+      "A": "Waiver of premium during disability",
+      "B": "Hospital confinement allowance",
+      "C": "Emergency medical evacuation",
+      "D": "Repatriation"
+    },
+    "answer": "A",
+    "explanation": "The medical benefits under Travel Insurance usually include medical expenses and other related benefits, hospital confinement allowance, emergency medical evacuation and repatriation. Waiver of premium during disability is a feature of Disability Income Insurance, not a Travel Insurance medical benefit. Travel policies also typically reimburse follow-up treatment in Singapore within a specified period and TCM treatment up to a limit, and because there is no age limit to apply, insurers set lower benefit limits for children below 18 and different limits for seniors above 70.",
+    "calc": false
+  },
+  {
+    "id": "h8-qNEW01",
+    "conceptId": "h8-10",
+    "stem": "Under the Managed Healthcare (MHC) model in Singapore, why must an employee obtain a General Practitioner's referral before seeing a specialist?",
+    "options": {
+      "A": "The GP acts as a gatekeeper to minimise unnecessary specialist visits, and the referral ensures the specialist cost is covered",
+      "B": "MOH regulations prohibit specialists from seeing patients without any referral",
+      "C": "The referral entitles the employee to Government subsidies at private specialist clinics",
+      "D": "Specialists on the panel only accept patients who pay cash upfront"
+    },
+    "answer": "A",
+    "explanation": "In the Singapore MHC model, employers engage an MHCO or an insurer to offer cashless outpatient GP and specialist consultation visits. To ensure the specialist cost is covered, the employee needs to obtain a GP's referral, and the GP acts as a gatekeeper to minimise unnecessary specialist visits. This is a scheme design feature, not an MOH prohibition, and it has nothing to do with Government subsidies at private clinics or upfront cash payment.",
+    "calc": false
+  },
+  {
+    "id": "h8-qNEW02",
+    "conceptId": "h8-10",
+    "stem": "An employee covered under a Managed Healthcare arrangement chooses to visit a clinic that is not on the selected panel. What is the likely outcome?",
+    "options": {
+      "A": "The cost is either not covered or only partially covered, subject to co-payments and/or benefit limits",
+      "B": "The cost is fully covered as long as he submits the receipts for reimbursement",
+      "C": "The visit is covered cashlessly through a letter of guarantee",
+      "D": "The visit is covered only if it is for a specialist consultation"
+    },
+    "answer": "A",
+    "explanation": "Employees have to go to the selected panel to enjoy cashless facilities, since the cost and quality of care are managed by the MHCO or insurer. If an employee chooses to visit a non-panel clinic, the cost is either not covered or partially covered, subject to co-payments and/or benefit limits. Full reimbursement is not available for non-panel visits, and the letter of guarantee relates to hospitalisation cover under an insured scheme, not non-panel outpatient visits.",
+    "calc": false
+  },
+  {
+    "id": "h9-qNEW05",
+    "conceptId": "h9-02",
+    "stem": "For Specialist Outpatient Clinic (SOC) services at public healthcare institutions, what range of subsidies can eligible Singapore Citizens receive, and what do Permanent Residents receive?",
+    "options": {
+      "A": "30% to 70% depending on Per Capita Household Income and Annual Value; Permanent Residents receive 25%",
+      "B": "50% to 80% depending on ward class; Permanent Residents receive 50%",
+      "C": "A flat 50% for all patients regardless of income",
+      "D": "25% to 50% depending on age; Permanent Residents receive nothing"
+    },
+    "answer": "A",
+    "explanation": "For SOC services, eligible patients can receive subsidies ranging from 30% to 70%, depending on their Per Capita Household Income (PCHI) and Annual Value of Residence where applicable, with lower- to middle-income patients receiving higher subsidies; Permanent Residents receive a 25% subsidy. The 50% to 80% range applies to day surgery for Singapore Citizens, not SOC services, and SOC subsidies are means-tested rather than flat or age-based.",
+    "calc": false
+  },
+  {
+    "id": "h9-calcNEW05",
+    "conceptId": "h9-02",
+    "stem": "A Singapore Citizen undergoes a day surgery with a bill of S$10,000 at a public hospital and qualifies for the maximum day surgery subsidy of 80%. How much does he pay after the subsidy?",
+    "options": {
+      "A": "S$2,000",
+      "B": "S$8,000",
+      "C": "S$5,000",
+      "D": "S$7,500"
+    },
+    "answer": "A",
+    "explanation": "Day surgeries are subsidised at between 50% to 80% for Singapore Citizens. At the maximum 80% subsidy: subsidy amount = 80% x S$10,000 = S$8,000, so the patient pays S$10,000 - S$8,000 = S$2,000. The S$8,000 figure is the subsidy itself, not the amount payable; S$5,000 assumes only a 50% subsidy; and S$7,500 corresponds to receiving only a 25% subsidy, which is the lower bound for Permanent Residents.",
+    "calc": true
+  },
+  {
+    "id": "h9-qNEW06",
+    "conceptId": "h9-12",
+    "stem": "Which statement about the MediShield Life Fund is TRUE?",
+    "options": {
+      "A": "All premiums collected are used solely for the benefit of policyholders and administration of the scheme, and the Fund's audited accounts are submitted to Parliament every year",
+      "B": "Surplus premiums are distributed to private Integrated Shield Plan insurers as commissions",
+      "C": "The Fund's accounts are audited internally by the CPF Board and kept confidential",
+      "D": "The Fund operates on a for-profit basis to build national healthcare reserves"
+    },
+    "answer": "A",
+    "explanation": "MediShield Life is a non-profit scheme. All premiums collected are placed in the MediShield Life Fund and used solely for the benefit of policyholders and in the administration of the scheme. The financial accounts of the Fund are audited by an external auditor, not internally, and are submitted to Parliament every year rather than kept confidential. No surpluses are distributed to private insurers, and the scheme is not run for profit.",
+    "calc": false
+  },
+  {
+    "id": "h9-qNEW07",
+    "conceptId": "h9-15",
+    "stem": "How can an Integrated Shield Plan (IP) policyholder pay his premiums using MediSave?",
+    "options": {
+      "A": "The MediShield Life component is fully payable by MediSave, while the additional private insurance component is payable by MediSave only up to the Additional Withdrawal Limit, with the remainder in cash",
+      "B": "The entire IP premium, including the private component, is fully payable by MediSave without limit",
+      "C": "IP premiums must be paid entirely in cash since MediSave covers only MediShield Life",
+      "D": "MediSave can pay the private component in full, but the MediShield Life component must be paid in cash"
+    },
+    "answer": "A",
+    "explanation": "For an IP, the MediShield Life component of the premium is fully payable by MediSave. The additional private insurance component is payable by MediSave only up to the Additional Withdrawal Limit (AWL), which is often exceeded at older ages, so the excess must be paid in cash. It is therefore wrong to say the whole IP premium is MediSave-payable without limit, that IP premiums are cash-only, or that the private component is MediSave-payable in full while the MediShield Life component is not.",
+    "calc": false
+  },
+  {
+    "id": "h9-qNEW08",
+    "conceptId": "h9-15",
+    "stem": "Which of the following correctly contrasts the MediShield Life Scheme with an Integrated Shield Plan (IP)?",
+    "options": {
+      "A": "MediShield Life covers all pre-existing conditions with no minimum or maximum age limit, whereas an IP may decline cover, exclude conditions or impose loadings, and may have entry age limits",
+      "B": "MediShield Life has no sub-limits on benefits, whereas IPs impose sub-limits on every benefit item",
+      "C": "MediShield Life is administered by private insurers, whereas IPs are administered by the CPF Board",
+      "D": "MediShield Life requires an application with health declarations, whereas IPs cover all residents automatically"
+    },
+    "answer": "A",
+    "explanation": "MediShield Life is administered by the CPF Board, covers all Singapore Citizens and PRs automatically for life, covers all pre-existing conditions and has no minimum or maximum age limit. An IP is administered by MOH-approved private insurers, requires an application, may decline, exclude or apply loadings for pre-existing conditions, and may have entry age limits. On sub-limits the position is the reverse of the common misconception: MediShield Life has sub-limits, while IPs mostly have no sub-limits.",
+    "calc": false
+  },
+  {
+    "id": "h9-qNEW09",
+    "conceptId": "h9-20",
+    "stem": "Which statement about pre-authorisation for Integrated Shield Plans (IPs) is TRUE?",
+    "options": {
+      "A": "It is designed for elective treatments in the private healthcare sector, all IP insurers offering it must use the standard LIA Pre-Authorisation Form, and pre-authorised bills are settled directly with the hospital",
+      "B": "It is mandatory for all emergency admissions to public hospitals",
+      "C": "It is another name for the Letter of Guarantee issued at hospital admission",
+      "D": "Each insurer designs its own pre-authorisation form to differentiate its service"
+    },
+    "answer": "A",
+    "explanation": "Pre-authorisation is a service where the IP insurer gives prior approval to the hospitalisation and/or treatment and associated costs before the actual surgery or admission. It is designed for elective treatments in the private healthcare sector, for policyholders seeking specialist care by private doctors in private hospitals, not for emergency public hospital admissions. All IP insurers offering the service must use the standard LIA Pre-Authorisation Form rather than their own designs, and they settle pre-authorised bills directly with the hospital, day surgery centre or clinic. It is not the same thing as a Letter of Guarantee.",
+    "calc": false
+  },
+  {
+    "id": "h9-calcNEW06",
+    "conceptId": "h9-25",
+    "stem": "A patient spends 30 days as an inpatient at an approved community hospital for rehabilitative care in one year. MediSave can be used at S$250 per day, subject to a limit of S$5,000 per annum. What is the maximum MediSave amount that can be used for this stay?",
+    "options": {
+      "A": "S$5,000",
+      "B": "S$7,500",
+      "C": "S$3,000",
+      "D": "S$1,500"
+    },
+    "answer": "A",
+    "explanation": "At S$250 per day for 30 days, the computed amount is 30 x S$250 = S$7,500. However, MediSave use for rehabilitative care at an approved community hospital is capped at S$5,000 per annum, so only S$5,000 can be withdrawn. The S$7,500 figure ignores the annual cap, S$3,000 is the annual cap for an approved convalescent hospital or day hospital, and S$1,500 is the annual cap for an outpatient day rehabilitation centre.",
+    "calc": true
+  },
+  {
+    "id": "h9-qNEW10",
+    "conceptId": "h9-25",
+    "stem": "Under MediSave Care, which group can withdraw cash from MediSave for long-term care needs, and how much?",
+    "options": {
+      "A": "Singapore Residents aged 30 and above with severe disability, up to a total of S$200 per month from their own or their spouse's MediSave account",
+      "B": "Singapore Residents aged 65 and above, up to S$600 per month from any family member's MediSave account",
+      "C": "All CPF members regardless of disability, up to S$200 per month",
+      "D": "Severely disabled residents of any age, up to S$250 per day"
+    },
+    "answer": "A",
+    "explanation": "Under MediSave Care, Singapore Residents aged 30 and above with severe disability can withdraw up to a total of S$200 per month in cash from their own or their spouse's MediSave account for their long-term care needs, with the withdrawal quantum depending on the MediSave balance at the point of monthly withdrawal. The age threshold is 30, not 65; severe disability is required; withdrawals are monthly, not daily; and only the member's own or spouse's account may be used.",
+    "calc": false
+  },
+  {
+    "id": "h9-qNEW11",
+    "conceptId": "h9-30",
+    "stem": "How much does an ElderShield severe disability assessment cost, and when is the fee reimbursed?",
+    "options": {
+      "A": "S$100 at the assessor's clinic or S$250 for a house call, reimbursed if the assessment outcome is severe disability",
+      "B": "S$250 at the assessor's clinic or S$100 for a house call, reimbursed in all cases",
+      "C": "The assessment is free of charge for all ElderShield policyholders",
+      "D": "S$100 regardless of location, and the fee is never reimbursed"
+    },
+    "answer": "A",
+    "explanation": "The disability assessment by an MOH-accredited severe disability assessor costs S$100 at the assessor's clinic and S$250 if the assessor makes a house call. The fees for initial or subsequent assessments are reimbursed to the insured only if the outcome of the assessment is severe disability. The clinic and house-call fees are not the other way around, the assessment is not free, and reimbursement is conditional rather than automatic or unavailable.",
+    "calc": false
+  },
+  {
+    "id": "h9-calcNEW07",
+    "conceptId": "h9-30",
+    "stem": "Mr Ng is covered under ElderShield 400, which pays S$400 per month for up to 72 months in total. He previously claimed 40 months of payouts, then recovered, and premiums resumed. Two years later he becomes severely disabled again. What is the maximum further amount he can receive?",
+    "options": {
+      "A": "S$12,800",
+      "B": "S$28,800",
+      "C": "S$8,000",
+      "D": "S$16,000"
+    },
+    "answer": "A",
+    "explanation": "On recovery, the payout stops and premiums resume, but the insured can claim again later as long as he has not claimed more than the plan's total of 72 months (ElderShield 400). Remaining months = 72 - 40 = 32 months. Maximum further payout = 32 x S$400 = S$12,800. The S$28,800 figure wrongly assumes a fresh full 72 months (72 x S$400), S$8,000 wrongly applies the ElderShield 300 total of 60 months ((60 - 40) x S$400), and S$16,000 is the amount already claimed (40 x S$400).",
+    "calc": true
+  },
+  {
+    "id": "h10-qNEW02",
+    "conceptId": "h10-02",
+    "stem": "Which statement about the policy schedule of a Health Insurance policy is TRUE?",
+    "options": {
+      "A": "It is not a stand-alone document and must always be read together with the policy wording as one contract",
+      "B": "It overrides the policy wording whenever the two documents conflict",
+      "C": "It is a marketing summary with no contractual effect",
+      "D": "It contains only the insurer's registered address and premium payment instructions"
+    },
+    "answer": "A",
+    "explanation": "The schedule contains details of the policy owner, insured person(s), the insurance coverage, coverage limits and sum insured, and it also outlines additional clauses or exclusions specific to the policy owner's circumstances. It is not a stand-alone document and must always be read together with the policy wording as one contract. It is neither a document that overrides the wording nor a non-contractual marketing summary, and it contains far more than administrative payment details.",
+    "calc": false
+  },
+  {
+    "id": "h10-qNEW03",
+    "conceptId": "h10-10",
+    "stem": "An employee is on sick leave on the day his employer's Group Insurance coverage takes effect. Under the actively-at-work provision, what is the consequence?",
+    "options": {
+      "A": "He is not eligible for coverage because he is absent from work due to illness on the effective date",
+      "B": "He is covered automatically, but with a 30-day waiting period",
+      "C": "He is covered provided he returns to work within the grace period",
+      "D": "He is covered because sick leave counts as active employment"
+    },
+    "answer": "A",
+    "explanation": "Group Insurance policies contain an actively-at-work clause requiring an employee to be actively at work on the day the insurance coverage takes effect in order to be eligible. An employee who is on sick leave on that day will not be covered by the Group Insurance policy. The provision does not merely impose a waiting period or allow coverage upon returning within a grace period, and being on sick leave is not treated as being actively at work. In Disability Income Insurance, a related provision terminates cover when the person is not working due to illness or termination of service.",
+    "calc": false
+  },
+  {
+    "id": "h10-qNEW04",
+    "conceptId": "h10-10",
+    "stem": "Which statement about the termination of cover under a Health Insurance policy is TRUE?",
+    "options": {
+      "A": "Termination does not affect claims that arose before the termination, and there is no premium refund for terminating before the policy expires",
+      "B": "Termination cancels all claims, including those that arose before the termination date",
+      "C": "The insured receives a pro-rata premium refund whenever cover terminates early",
+      "D": "Cover can terminate only upon the death of the insured"
+    },
+    "answer": "A",
+    "explanation": "Cover ceases upon events such as death, failure to pay the renewal premium by the end of the grace period, claims reaching the limit of indemnity, or the insured reaching the specified maximum age. Termination does not affect any claim which arose before the termination, and there is no refund of premiums for terminating the policy before its expiry. Claims arising before termination remain valid, no pro-rata refund is given, and death is only one of several termination events.",
+    "calc": false
+  },
+  {
+    "id": "h10-qNEW05",
+    "conceptId": "h10-18",
+    "stem": "Under the Benefit Provisions of a Medical Expense Insurance policy, the Surgical Benefit typically covers which charges?",
+    "options": {
+      "A": "The surgeon's fees, the anaesthetist's fees and the operating theatre or facility fees",
+      "B": "Routine eye refraction and the cost of eyeglasses",
+      "C": "Treatment for an illness that arises within the waiting period",
+      "D": "Charges above the reasonable charges customarily made for the treatment"
+    },
+    "answer": "A",
+    "explanation": "The Benefit Provisions of a Medical Expense Insurance policy include daily room, board and medical related services, Intensive Care Unit charges, and Surgical Benefits comprising the surgeon's fees, the anaesthetist's fees and the operating theatre or facility fees. Refraction and eyeglasses are listed exclusions, no benefit is paid for illness occurring within the waiting period, and charges exceeding reasonable charges are likewise excluded.",
+    "calc": false
+  },
+  {
+    "id": "h11-qNEW02",
+    "conceptId": "h11-03",
+    "stem": "How do an insurer's operating expenses affect the price of its Health Insurance products?",
+    "options": {
+      "A": "They increase the price, because premiums must cover not just claims but also costs such as staff salaries, commissions, taxes, office rent, advertising and computer systems",
+      "B": "They have no effect, because premiums are calculated purely from claims experience",
+      "C": "They reduce the price, because higher expenses signal greater operational efficiency",
+      "D": "They affect only group policies, since individual policies are priced on mortality alone"
+    },
+    "answer": "A",
+    "explanation": "Operating expenses increase the price of insurance. Insurers collect premiums not only to cover the cost of insurance (claims) but also to cover the cost of running the company, including staff salaries, commissions for those selling the products, taxes, office rent, advertising, computer systems and supplies. It is therefore incorrect that premiums reflect claims alone, that higher expenses lower the price, or that the effect is confined to group business.",
+    "calc": false
+  },
+  {
+    "id": "h11-qNEW03",
+    "conceptId": "h11-05",
+    "stem": "Following the profound impact of Covid-19, what additional consideration do insurers now take into account when pricing Health Insurance?",
+    "options": {
+      "A": "The change in health of the general demographics and its potential impact on health insurance claims",
+      "B": "Only the vaccination status of each individual applicant",
+      "C": "The exchange rate between the Singapore dollar and the US dollar",
+      "D": "Nothing new, since pandemics are always fully excluded from Health Insurance policies"
+    },
+    "answer": "A",
+    "explanation": "Following the profound impact of Covid-19, including new vaccination developments and mandatory government rules, insurers now take into consideration the change in health of the general demographics and its potential impact on health insurance claims when pricing health insurance. This is a population-level pricing consideration rather than an individual vaccination check, it is unrelated to currency exchange rates, and it is not the case that pandemics are always excluded from cover.",
+    "calc": false
+  },
+  {
+    "id": "h11-qNEW04",
+    "conceptId": "h11-07",
+    "stem": "Which statement about the profit loading in a Health Insurance premium is TRUE?",
+    "options": {
+      "A": "The loading depends on the insurer's profit target and strategy, and an insurer chasing market share may settle for a thinner profit margin",
+      "B": "The loading is a fixed percentage prescribed by MAS for all insurers",
+      "C": "Non-profit distribution rules prohibit insurers from adding any profit margin to Health Insurance premiums",
+      "D": "The loading is charged only on group policies, never on individual policies"
+    },
+    "answer": "A",
+    "explanation": "Insurers enter the market primarily to make a profit, and when pricing a product they add a profit margin, or loading, into the premium. The loading depends on the insurer's profit target and strategy and the nature of the business; for example, an insurer chasing market share may settle for a thinner profit margin. The loading is not prescribed by MAS, insurers are not prohibited from pricing in a profit, and the loading applies to product pricing generally, not only to group policies.",
+    "calc": false
+  },
+  {
+    "id": "h11-qNEW05",
+    "conceptId": "h11-10",
+    "stem": "Why is age a key parameter in rating Health Insurance premiums?",
+    "options": {
+      "A": "Different age groups differ in both claim frequency and claim severity; for example, a 50-year-old is more likely to need a longer recovery period than a 30-year-old",
+      "B": "Older insureds pay less because they have fewer active years left on the policy",
+      "C": "Age affects only the underwriting decision, never the premium amount",
+      "D": "Age matters for group plans only, because individual plans use flat community rating"
+    },
+    "answer": "A",
+    "explanation": "Age is a key premium-rating parameter for both individual and group plans because different age groups differ in claim frequency and claim severity. For instance, a 50-year-old insured is more likely to need a longer recovery period than a 30-year-old, which drives higher expected claims. Premiums generally rise rather than fall with age, age directly affects pricing and not just underwriting, and it applies to individual as well as group plans.",
+    "calc": false
+  },
+  {
+    "id": "h11-qNEW06",
+    "conceptId": "h11-13",
+    "stem": "How do insurers use occupation when setting Health Insurance premiums?",
+    "options": {
+      "A": "They group occupations into risk classes according to the risk of accident or illness, and the higher the occupational risk, the higher the premium",
+      "B": "They decline all applicants whose occupations are not on the published risk-class list",
+      "C": "They charge every occupation the same premium but vary the benefit limits",
+      "D": "They consider occupation only for Disability Income Insurance, not other Health Insurance"
+    },
+    "answer": "A",
+    "explanation": "Insurers group occupations into risk classes according to the risk of accident or illness associated with the occupation, and set premiums on that occupational hazard. For example, a high-rise construction worker is more likely to suffer injury than an office administrator. The higher the occupational risk of injury or illness, the higher the premium. Not every occupation appears on the risk-class list, but most jobs can be broadly classified rather than declined, and occupation is a rating factor across Health Insurance generally, with premiums (not just benefit limits) varying by class.",
+    "calc": false
+  },
+  {
+    "id": "h11-qNEW07",
+    "conceptId": "h11-16",
+    "stem": "Under claims-based pricing, how might an insured's premium be affected at renewal?",
+    "options": {
+      "A": "A renewal discount may be given if no claims are made, and an insured who kept claim costs low by electing treatment at a public hospital is not penalised",
+      "B": "Every claim, however small, automatically doubles the renewal premium",
+      "C": "Premiums are adjusted based on the claims of all policyholders nationwide, never the individual's own claims",
+      "D": "The insured loses his no-claim discount permanently once any claim is made, regardless of the treatment setting"
+    },
+    "answer": "A",
+    "explanation": "Some insurers use claims-based pricing to adjust an individual's health insurance premium based on his own claims on the policy. For example, a renewal discount may be given if no claims are made, and if a claim is made, the insured is not penalised where he attempted to keep claims costs low by electing to receive treatment at a public hospital. Claims do not automatically double the premium, the adjustment is based on the individual's claims rather than only nationwide experience, and low-cost claiming behaviour is treated favourably rather than punished permanently.",
+    "calc": false
+  },
+  {
+    "id": "h12-qNEW04",
+    "conceptId": "h12-02",
+    "stem": "How will an underwriter typically treat an applicant's past acute disorder, such as a simple bone fracture or an appendectomy?",
+    "options": {
+      "A": "It may be disregarded if recovery has been prompt and complete, without evidence of any residual impairment",
+      "B": "It always leads to a permanent exclusion of the affected body part",
+      "C": "It automatically requires a premium loading for life",
+      "D": "It results in outright declinature of the application"
+    },
+    "answer": "A",
+    "explanation": "When reviewing past medical history, insurers consider the possibility of recurrence, the effect on general health, possible later complications and the normal progression of any impairment. Many acute disorders, such as simple bone fractures or an appendectomy, may be disregarded if recovery has been prompt and complete and there is no evidence of any residual impairment. Such fully resolved conditions do not automatically attract permanent exclusions, lifetime loadings or declinature.",
+    "calc": false
+  },
+  {
+    "id": "h12-qNEW05",
+    "conceptId": "h12-04",
+    "stem": "Why is an occupation involving the handling of asbestos products significant to a Health Insurance underwriter?",
+    "options": {
+      "A": "It carries a higher health hazard over time, as asbestos exposure can lead to asbestosis",
+      "B": "It carries only an accident hazard, such as falls from height",
+      "C": "It is significant only if the applicant also smokes",
+      "D": "It is irrelevant because occupational diseases are covered by the employer under work injury law"
+    },
+    "answer": "A",
+    "explanation": "Occupation can influence risk through accident hazards or health hazards. Occupations involving the handling of asbestos products have a higher risk of health hazard over time, as exposure can lead to asbestosis, a disease caused by inhaling asbestos fibres and dust that can lead to respiratory failure and other complications. This is a health hazard rather than an accident hazard, it is significant regardless of smoking status, and the existence of work injury compensation does not make it irrelevant to health insurance underwriting.",
+    "calc": false
+  },
+  {
+    "id": "h12-qNEW06",
+    "conceptId": "h12-05",
+    "stem": "In Health Insurance underwriting, habits such as smoking, alcohol and drug use, which represent serious risks that can cause health problems or accidents, are also known as what?",
+    "options": {
+      "A": "The Proximate Cause",
+      "B": "Moral hazard",
+      "C": "Anti-selection",
+      "D": "The utmost good faith factor"
+    },
+    "answer": "A",
+    "explanation": "Habits such as smoking, alcohol and drug use by the proposer represent serious risks, as either activity can result in significant health problems or cause serious accidents while driving or engaging in leisure activities; this is also known as the Proximate Cause. Moral hazard refers to behaviour changes due to being insured, anti-selection refers to higher-risk individuals seeking insurance, and utmost good faith is the duty of disclosure, none of which is the term used here. Insurers may also require a supplementary lifestyle questionnaire for avocation and lifestyle risks such as motor racing, mountaineering, parachuting and scuba diving.",
+    "calc": false
+  },
+  {
+    "id": "h13-qNEW03",
+    "conceptId": "h13-07",
+    "stem": "Under MAS Notice 120, what must an A&H insurance intermediary disclose regarding its remuneration and conflicts of interest?",
+    "options": {
+      "A": "It must disclose in writing all remuneration, including any commission, fee and other benefit, and any actual or potential conflict of interest arising from any connection to or association with any insurer",
+      "B": "It must disclose remuneration only if the policy owner specifically asks for it",
+      "C": "It must disclose commissions only where they exceed 10% of the annual premium",
+      "D": "Oral disclosure of remuneration at the point of sale is sufficient"
+    },
+    "answer": "A",
+    "explanation": "An A&H insurance intermediary must disclose in writing to a policy owner all remuneration, including any commission, fee and other benefit, that it has received or will be receiving for providing advice on or arranging the policy. It must also disclose in writing any actual or potential conflict of interest arising from any connection to or association with any insurer. The disclosure is mandatory rather than on request, applies to all remuneration without a percentage threshold, and must be in writing rather than oral.",
+    "calc": false
+  },
+  {
+    "id": "h13-qNEW04",
+    "conceptId": "h13-08",
+    "stem": "When providing advice on an A&H policy to an individual policy owner, which of the following must the intermediary disclose about the contractual rights and obligations?",
+    "options": {
+      "A": "The amount and frequency of premium, the premium payment period, and whether the premium rate is guaranteed or non-guaranteed",
+      "B": "The intermediary's internal sales targets for the quarter",
+      "C": "The insurer's confidential claims loss ratio for the product",
+      "D": "The premium rates charged by competing intermediaries for similar products"
+    },
+    "answer": "A",
+    "explanation": "The disclosure-when-providing-advice requirements cover, among other items, the contractual rights and obligations, including the policy owner's responsibility for the accuracy and completeness of information given, the fact that mis-statement or non-disclosure may affect the validity of the policy, the amount and frequency of premium, the premium payment period, and whether the premium rate is guaranteed or non-guaranteed. Other required items include the nature and objective of the policy, details of the insurer, benefits, risks, the free-look provision, claim procedures, and all warnings, exclusions and disclaimers. Sales targets, confidential loss ratios and competitors' pricing are not part of the required disclosures.",
+    "calc": false
+  },
+  {
+    "id": "h13-qNEW05",
+    "conceptId": "h13-09",
+    "stem": "When arranging a personal accident policy, what must the A&H insurance intermediary ensure the policy owner is aware of?",
+    "options": {
+      "A": "That policy moneys shall be paid as a result of accident only",
+      "B": "That policy moneys are payable for both accident and illness",
+      "C": "That policy moneys are payable only on death from any cause",
+      "D": "That the policy automatically includes critical illness coverage"
+    },
+    "answer": "A",
+    "explanation": "In the case of a personal accident policy, the A&H insurance intermediary must ensure that the policy owner is aware that policy moneys shall be paid as a result of accident only. It would be wrong to suggest the policy pays for illness, that it pays only on death from any cause, or that critical illness coverage is automatically included, since those descriptions do not match the accident-only nature of the product.",
+    "calc": false
+  },
+  {
+    "id": "h13-qNEW06",
+    "conceptId": "h13-09",
+    "stem": "In addition to the standard disclosure items, what extra information must an intermediary disclose when arranging a group A&H policy?",
+    "options": {
+      "A": "The duration of the coverage and whether the premium qualifies for special tax treatment; and where any insured person is liable to pay any premium, disclosure must be made to every person in the group as if dealing with each individually",
+      "B": "Only the number of employees covered under the scheme",
+      "C": "The individual medical histories of all group members",
+      "D": "Nothing extra, because group policies are exempt from disclosure requirements"
+    },
+    "answer": "A",
+    "explanation": "For a group policy, the intermediary must disclose the standard advice-stage information plus the duration of the coverage and whether the premium qualifies for special tax treatment. Furthermore, where any insured person in the group is liable to pay any premium, the intermediary must make the disclosures to every person in the group as if it were dealing with each of them individually. Group policies are not exempt from disclosure requirements, and a headcount or the members' medical histories are not the prescribed additional disclosure items.",
+    "calc": false
+  },
+  {
+    "id": "h13-qNEW07",
+    "conceptId": "h13-14",
+    "stem": "When advising on a group A&H policy, which information about the group must the intermediary collect and document?",
+    "options": {
+      "A": "The objectives, the size and composition of the group (including a breakdown by gender, age, income and occupation), the claims history of the group, and any medical conditions of its members",
+      "B": "Only the company's audited financial statements",
+      "C": "The personal credit scores of all group members",
+      "D": "The names of the group members' previous insurance agents"
+    },
+    "answer": "A",
+    "explanation": "For a group policy, the intermediary must collect and document the objectives (such as the financial impact protected against, the mode of payment of policy moneys and the class of hospital ward sought), the size and composition of the group including a breakdown by gender, age, income and occupation, the claims history of the group, and any medical conditions that members of the group may have. The intermediary must also highlight in writing that this information is the basis on which advice is made, and that inaccurate or incomplete information may affect the suitability of the advice. Financial statements, credit scores and previous agents' names are not the prescribed know-your-client items.",
+    "calc": false
+  },
+  {
+    "id": "h13-qNEW08",
+    "conceptId": "h13-15",
+    "stem": "A policy owner declines the intermediary's advice and chooses to buy a different A&H policy instead. What should the intermediary do?",
+    "options": {
+      "A": "It may proceed with the transaction, but must document the owner's decision and inform him that it is his responsibility to ensure the suitability of the chosen policy",
+      "B": "It must refuse to arrange the policy the owner has chosen",
+      "C": "It must report the policy owner to MAS before proceeding",
+      "D": "It may proceed without any documentation since the owner rejected the advice"
+    },
+    "answer": "A",
+    "explanation": "Where the policy owner declines the advice and chooses another policy, the intermediary may proceed but must document the owner's decision and inform him that it is his responsibility to ensure the suitability of the policy selected. The intermediary is not required to refuse the transaction or report the owner to MAS, but neither can it proceed without documentation. Similarly, where the owner declines to provide requested information or chooses to receive no advice at all, those decisions must be properly documented, and if the intermediary is unable to identify a suitable policy, it must inform the policy owner.",
+    "calc": false
+  },
+  {
+    "id": "h14-qNEW01",
+    "conceptId": "h14-05",
+    "stem": "A prospective client is not proficient in written and spoken English and has only primary school education. Under the fact-finding safeguards, what should happen?",
+    "options": {
+      "A": "The client may be considered vulnerable, and the representative's supervisor will make a call-back to ensure the client understood the recommendations and products applied for",
+      "B": "The sale must be cancelled because vulnerable clients cannot buy Health Insurance",
+      "C": "The client must be referred directly to MAS for approval of the purchase",
+      "D": "The representative simply proceeds as normal, since language and education are irrelevant to the sales process"
+    },
+    "answer": "A",
+    "explanation": "The Fact-Find Document may ask for information about the prospective client's language proficiency, educational level and accompaniment, which is useful to establish whether the client is considered vulnerable. A client who is not proficient in written and spoken English and/or possesses only primary school education may be considered vulnerable, and the supervisor of the insurance representative will make a call-back to the client to ensure that he has understood the recommendations and the products applied for. Vulnerability does not bar the client from buying insurance, and no MAS approval is involved; equally, the representative cannot simply ignore these indicators.",
+    "calc": false
+  },
+  {
+    "id": "h14-qNEW02",
+    "conceptId": "h14-06",
+    "stem": "At which stage of a client's life cycle is it most crucial to protect his earnings against disability?",
+    "options": {
+      "A": "During the active employment years",
+      "B": "During retirement",
+      "C": "During childhood",
+      "D": "It is equally crucial at every life stage"
+    },
+    "answer": "A",
+    "explanation": "During the active employment years, it is crucial to protect earnings against disability, since disability would interrupt the income the client and his dependants rely on. The need for protection against ill health applies to everyone, with older people needing more Critical Illness, Medical Expense and Long-Term Care Insurance, but earnings protection specifically matters most while the client is working. The representative also checks whether the client has an emergency fund, which guards against events like job loss or short-term disability and covers expenses that insurance does not.",
+    "calc": false
+  },
+  {
+    "id": "h14-qNEW03",
+    "conceptId": "h14-13",
+    "stem": "When selecting a Health Insurance policy for a client, why should the representative recommend covering only the shortfall in the client's existing coverage?",
+    "options": {
+      "A": "To minimise over-insurance",
+      "B": "To reduce the medical underwriting requirements",
+      "C": "To qualify the client for a family discount",
+      "D": "Because insurers are prohibited from issuing full coverage"
+    },
+    "answer": "A",
+    "explanation": "A key point in policy selection is to cover only the shortfall, which minimises over-insurance. Other points include securing the longest coverage possible, ensuring long-term premium affordability, insuring the right life (the breadwinner first), using a rider where it saves premiums, and ensuring additional Medical Expense cover complements the employer's coverage. Covering only the shortfall is not about reducing underwriting requirements or earning discounts, and insurers are not prohibited from issuing higher coverage.",
+    "calc": false
+  },
+  {
+    "id": "h14-qNEW04",
+    "conceptId": "h14-14",
+    "stem": "Which of the following is NOT one of the stated circumstances for conducting a review of an existing client's Health Insurance portfolio?",
+    "options": {
+      "A": "The arrival of the client's annual premium payment date",
+      "B": "A change in the client's personal circumstances, such as the birth of a child",
+      "C": "External developments, such as changes in the CPF ruling affecting the client's financial position",
+      "D": "The launch of new products in the market"
+    },
+    "answer": "A",
+    "explanation": "A review should generally be done upon a change in the client's personal circumstances such as the birth of a child, external developments such as changes in the CPF ruling which may impact the client's financial position or the appropriateness of products already held, the original products becoming inadequate to cover all the client's needs, and the launch of new products in the market. The routine arrival of a premium due date is not one of the stated review triggers; the process simply does not stop at initial implementation because circumstances change and new needs surface.",
+    "calc": false
+  },
+  {
+    "id": "h15-qNEW01",
+    "conceptId": "h15-01",
+    "stem": "What is the purpose of the two Health Insurance case studies (individual and group) presented in the study text?",
+    "options": {
+      "A": "To illustrate how the whole needs-based sales process is carried out; they are not meant as a comprehensive guide for every situation",
+      "B": "To provide a legally binding template that representatives must follow in every sale",
+      "C": "To replace the LIA and GIA Guidelines on disclosure and the needs-based sales process",
+      "D": "To demonstrate product pricing methods used by actuaries"
+    },
+    "answer": "A",
+    "explanation": "The two case studies, one on individual and one on group Health Insurance, serve to illustrate how the whole needs-based sales process is carried out, and are not a comprehensive guide covering every situation. They neither bind representatives as templates nor replace the LIA and GIA Guidelines On Disclosure Requirements and Needs-Based Sales Process for A&H Insurance Products, which representatives should keep abreast of, alongside MoneySENSE and LIA materials such as 'Your Guide To Health Insurance' and the 'Evaluating My Health Insurance Coverage' sheet. They are not about actuarial pricing.",
+    "calc": false
   }
 ]
