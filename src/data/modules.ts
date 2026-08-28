@@ -2,6 +2,7 @@ import type { Module, MockPaper, QuizItem } from '../types'
 import { m9Chapters } from './m9/factbank'
 import { m9aChapters } from './m9a/factbank'
 import { hiChapters } from './hi/factbank'
+import { res5Chapters } from './res5/factbank'
 import mockData from './m9/mocks.json'
 import m9aMockData from './m9a/mocks.json'
 import hiMockData from './hi/mocks.json'
@@ -9,6 +10,7 @@ import res5MockData from './res5/mocks.json'
 import m9QuizData from './m9/quiz.json'
 import m9aQuizData from './m9a/quiz.json'
 import hiQuizData from './hi/quiz.json'
+import res5QuizData from './res5/quiz.json'
 
 const m9Mocks = (mockData as { papers: MockPaper[] }).papers
 const m9aMocks = (m9aMockData as { papers: MockPaper[] }).papers
@@ -17,6 +19,7 @@ const res5Mocks = (res5MockData as { papers: MockPaper[] }).papers
 const m9Quiz = m9QuizData as QuizItem[]
 const m9aQuiz = m9aQuizData as QuizItem[]
 const hiQuiz = hiQuizData as QuizItem[]
+const res5Quiz = res5QuizData as QuizItem[]
 
 export const modules: Module[] = [
   {
@@ -52,8 +55,9 @@ export const modules: Module[] = [
     name: 'RES5',
     subtitle: 'Rules & Regulations for Financial Advisory Services',
     available: true,
-    chapters: [],
+    chapters: res5Chapters,
     mocks: res5Mocks,
+    quiz: res5Quiz,
   },
 ]
 

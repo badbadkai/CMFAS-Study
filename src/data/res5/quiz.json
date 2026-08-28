@@ -1,0 +1,1724 @@
+[
+  {
+    "id": "r1-q01",
+    "conceptId": "r1-01",
+    "stem": "When did the Financial Advisers Act come into force in Singapore?",
+    "options": {
+      "A": "26 November 2010",
+      "B": "1 October 2002",
+      "C": "2 December 2005",
+      "D": "1 January 2012"
+    },
+    "answer": "B",
+    "explanation": "The FAA came into force on 1 October 2002. The 2010 date relates to the Representative Notification Framework, 2005 to structured deposits becoming investment products, and 2012 to FAA-N16 taking effect.",
+    "calc": false
+  },
+  {
+    "id": "r1-q02",
+    "conceptId": "r1-02",
+    "stem": "Which of the following is NOT one of the principles underlying the FAA and FAR?",
+    "options": {
+      "A": "Protecting the interests of customers",
+      "B": "Accountability of financial advisers for their representatives",
+      "C": "Safeguarding the independence of advice",
+      "D": "Maximising the profitability of the financial advisory industry"
+    },
+    "answer": "D",
+    "explanation": "Industry profitability is not a legislative principle. The framework is built on customer protection, consistency of regulation, accountability of advisers for their representatives and independence of advice.",
+    "calc": false
+  },
+  {
+    "id": "r1-q03",
+    "conceptId": "r1-03",
+    "stem": "Which type of entity may apply for a financial adviser's licence under the FAA?",
+    "options": {
+      "A": "A corporation only",
+      "B": "Any individual with the required qualifications",
+      "C": "A partnership of licensed representatives",
+      "D": "A sole proprietorship registered with ACRA"
+    },
+    "answer": "A",
+    "explanation": "Only a corporation may hold a financial adviser's licence. Individuals act as representatives of a principal; partnerships and sole proprietorships cannot be licensed as financial advisers.",
+    "calc": false
+  },
+  {
+    "id": "r1-q04",
+    "conceptId": "r1-03",
+    "stem": "An unlicensed company describes itself in marketing materials as a licensed financial adviser. Which provision does it contravene?",
+    "options": {
+      "A": "Section 36, for lacking a reasonable basis",
+      "B": "Section 45, for failing to disclose interests",
+      "C": "Section 18(1), for holding out as a licensed financial adviser",
+      "D": "Section 73, for omitting the public register entry"
+    },
+    "answer": "C",
+    "explanation": "Holding oneself out as a licensed financial adviser without a licence breaches the holding-out prohibition. The reasonable basis and interest disclosure provisions govern conduct of licensed advisers, and the register provision concerns representatives.",
+    "calc": false
+  },
+  {
+    "id": "r1-q05",
+    "conceptId": "r1-04",
+    "stem": "Which of the following is an exempt financial adviser under Section 20(1) of the FAA?",
+    "options": {
+      "A": "A law firm giving incidental investment advice",
+      "B": "A financial journalist",
+      "C": "A bank licensed under the Banking Act",
+      "D": "A person advising 30 accredited investors"
+    },
+    "answer": "C",
+    "explanation": "Banks are among the institutions exempted from holding a financial adviser's licence under Section 20(1). Lawyers and journalists are excluded persons under the First Schedule, and the 30 accredited investors exemption arises under Regulation 27(1)(d).",
+    "calc": false
+  },
+  {
+    "id": "r1-q06",
+    "conceptId": "r1-04",
+    "stem": "What is the effect of being an exempt financial adviser under Section 20(1)?",
+    "options": {
+      "A": "Exemption from licensing but continued compliance with FAA conduct of business requirements",
+      "B": "Complete exemption from the FAA and all MAS Notices",
+      "C": "Exemption from conduct rules but not from licensing",
+      "D": "Exemption only from paying licence fees"
+    },
+    "answer": "A",
+    "explanation": "Exempt financial advisers need not hold a licence but remain bound by the conduct of business provisions and applicable MAS Notices. The exemption is from licensing, not from regulation.",
+    "calc": false
+  },
+  {
+    "id": "r1-q07",
+    "conceptId": "r1-05",
+    "stem": "An accountant occasionally comments on investment matters strictly as part of preparing clients' accounts. Under the FAA she is most likely:",
+    "options": {
+      "A": "An exempt financial adviser under Section 20(1)",
+      "B": "A provisional representative",
+      "C": "Required to hold a financial adviser's licence",
+      "D": "An excluded person under the First Schedule"
+    },
+    "answer": "D",
+    "explanation": "Professionals such as accountants and lawyers whose advice is incidental to their practice are excluded from the definition of financial adviser under the First Schedule. The Section 20(1) exemptions cover institutions like banks and insurers.",
+    "calc": false
+  },
+  {
+    "id": "r1-q08",
+    "conceptId": "r1-06",
+    "stem": "Which of the following is a financial advisory service under the Second Schedule to the FAA?",
+    "options": {
+      "A": "Arranging a contract of motor insurance",
+      "B": "Arranging a contract of insurance in respect of life policies",
+      "C": "Providing custody services for securities",
+      "D": "Dealing in capital markets products as principal"
+    },
+    "answer": "B",
+    "explanation": "Arranging life policies (other than reinsurance) is a listed financial advisory service. Arranging general insurance such as motor cover, custody services and dealing as principal are not financial advisory services.",
+    "calc": false
+  },
+  {
+    "id": "r1-q09",
+    "conceptId": "r1-06",
+    "stem": "Which activity does NOT fall within the financial advisory services regulated under the FAA?",
+    "options": {
+      "A": "Issuing research reports on investment products",
+      "B": "Advising a client on the purchase of a general insurance fire policy",
+      "C": "Marketing a collective investment scheme",
+      "D": "Advising others concerning life policies"
+    },
+    "answer": "B",
+    "explanation": "Advice on general insurance such as fire policies is not a financial advisory service. Issuing research on investment products, marketing collective investment schemes and advising on life policies are all within the Second Schedule.",
+    "calc": false
+  },
+  {
+    "id": "r1-q10",
+    "conceptId": "r1-07",
+    "stem": "From which date were structured deposits prescribed as investment products under the FAA?",
+    "options": {
+      "A": "1 October 2002",
+      "B": "1 March 2006",
+      "C": "8 October 2018",
+      "D": "2 December 2005"
+    },
+    "answer": "D",
+    "explanation": "Structured deposits became prescribed investment products with effect from 2 December 2005. The 2006 date is when the Dual Currency Investments Notice took effect, and 2018 relates to overseas-listed product risk warnings.",
+    "calc": false
+  },
+  {
+    "id": "r1-q11",
+    "conceptId": "r1-08",
+    "stem": "Since 26 November 2010, what is the position on renewal of a financial adviser's licence?",
+    "options": {
+      "A": "The licence no longer requires periodic renewal and remains in force until revoked, suspended or surrendered",
+      "B": "The licence must be renewed every year",
+      "C": "The licence must be renewed every three years",
+      "D": "The licence lapses automatically unless business volume targets are met"
+    },
+    "answer": "A",
+    "explanation": "Licences granted under the FAA ceased to require periodic renewal from 26 November 2010; they continue in force until revoked, suspended or surrendered. There is no annual or triennial renewal cycle.",
+    "calc": false
+  },
+  {
+    "id": "r1-q12",
+    "conceptId": "r1-09",
+    "stem": "Under Regulation 27(1)(d) of the FAR, a person is exempt from holding a financial adviser's licence if he provides financial advisory services concerning investment products (other than life policies) to not more than how many accredited investors?",
+    "options": {
+      "A": "10",
+      "B": "50",
+      "C": "30",
+      "D": "100"
+    },
+    "answer": "C",
+    "explanation": "The exemption is capped at not more than 30 accredited investors. Exceeding that number, or advising retail investors, takes the person outside the exemption.",
+    "calc": false
+  },
+  {
+    "id": "r1-q13",
+    "conceptId": "r1-09",
+    "stem": "Which product type can NEVER be advised on under the Regulation 27(1)(d) exemption?",
+    "options": {
+      "A": "Securities",
+      "B": "Life policies",
+      "C": "Units in collective investment schemes",
+      "D": "Exchange-traded derivatives"
+    },
+    "answer": "B",
+    "explanation": "The exemption covers advice on investment products other than life policies. Advice on life policies to accredited investors cannot rely on Regulation 27(1)(d).",
+    "calc": false
+  },
+  {
+    "id": "r1-q14",
+    "conceptId": "r1-10",
+    "stem": "Mr Tan earned S$320,000 in the preceding 12 months but has net personal assets of only S$800,000. Does he qualify as an accredited investor?",
+    "options": {
+      "A": "No, because his net personal assets are below S$2 million",
+      "B": "No, because he must satisfy both the income and asset tests",
+      "C": "Only if MAS grants an individual waiver",
+      "D": "Yes, because his income in the preceding 12 months is not less than S$300,000"
+    },
+    "answer": "D",
+    "explanation": "The tests are alternatives. Income of at least S$300,000 in the preceding 12 months qualifies him even though his assets fall short of the S$2 million net personal asset and S$1 million net financial asset thresholds.",
+    "calc": true
+  },
+  {
+    "id": "r1-q15",
+    "conceptId": "r1-10",
+    "stem": "A private company has total assets of S$18 million and liabilities of S$9 million. Does it meet the accredited investor test for corporations?",
+    "options": {
+      "A": "No, because its net assets of S$9 million do not exceed S$10 million",
+      "B": "Yes, because total assets exceed S$10 million",
+      "C": "Yes, because any incorporated company is an accredited investor",
+      "D": "No, because only listed companies can be accredited investors"
+    },
+    "answer": "A",
+    "explanation": "The corporate test looks at net assets exceeding S$10 million. Net assets here are S$18 million minus S$9 million, which equals S$9 million, so the company does not qualify even though gross assets exceed the threshold.",
+    "calc": true
+  },
+  {
+    "id": "r1-q16",
+    "conceptId": "r1-11",
+    "stem": "What is the maximum penalty under Section 17 for improper use of the title 'financial adviser' or 'life insurance broker'?",
+    "options": {
+      "A": "S$25,000 and S$2,500 per day for a continuing offence",
+      "B": "S$50,000 and S$5,000 per day for a continuing offence",
+      "C": "S$12,500 and S$1,250 per day for a continuing offence",
+      "D": "S$100,000 or 2 years imprisonment"
+    },
+    "answer": "C",
+    "explanation": "Misuse of the restricted titles attracts a fine up to S$12,500 with a further S$1,250 for each day of a continuing offence. The larger figures relate to other offences such as Notice breaches and officer liability.",
+    "calc": false
+  },
+  {
+    "id": "r1-q17",
+    "conceptId": "r1-11",
+    "stem": "Under Regulation 21, a financial adviser may use the word 'independent' only if, among other conditions, it:",
+    "options": {
+      "A": "Has been licensed for at least ten years",
+      "B": "Receives no commission or other benefit from product providers that creates product bias, and operates free of any restriction or conflict of interest from its connections with product providers",
+      "C": "Advises only accredited investors",
+      "D": "Is a member of an industry association for independent advisers"
+    },
+    "answer": "B",
+    "explanation": "'Independent' may be used only where there is no commission or benefit creating product bias, no restriction on the products advised upon, and no conflict of interest arising from connections with product providers. Tenure, clientele and association membership are irrelevant.",
+    "calc": false
+  },
+  {
+    "id": "r1-q18",
+    "conceptId": "r1-12",
+    "stem": "A licence applicant aggrieved by an MAS refusal wishes to appeal. What is the correct route?",
+    "options": {
+      "A": "Apply to the High Court within 6 months",
+      "B": "Request arbitration through the industry association",
+      "C": "Submit a fresh application to MAS within 14 days",
+      "D": "Appeal to the Minister within 30 days, whose decision is final"
+    },
+    "answer": "D",
+    "explanation": "Appeals against MAS decisions under the FAA are made to the Minister within 30 days, and the Minister's decision is final. There is no appeal to the courts or arbitration route.",
+    "calc": false
+  },
+  {
+    "id": "r1-q19",
+    "conceptId": "r1-12",
+    "stem": "Which of the following is a ground on which MAS may refuse to enter an individual's appointment as a representative?",
+    "options": {
+      "A": "The individual is an undischarged bankrupt",
+      "B": "The individual is above 50 years of age",
+      "C": "The individual previously worked for a competitor",
+      "D": "The individual holds only a polytechnic diploma"
+    },
+    "answer": "A",
+    "explanation": "Undischarged bankruptcy, unsatisfied judgment debts, compromises with creditors and convictions involving fraud or dishonesty are refusal grounds. Age, prior employers and holding a polytechnic diploma are not.",
+    "calc": false
+  },
+  {
+    "id": "r1-q20",
+    "conceptId": "r1-13",
+    "stem": "In which situations may a representative act for more than one principal?",
+    "options": {
+      "A": "Whenever the representative discloses the arrangement to clients",
+      "B": "Only where the principals operate in different product markets",
+      "C": "Where MAS approves it in writing, or where the principals are related corporations",
+      "D": "Never - the one-principal rule has no exceptions"
+    },
+    "answer": "C",
+    "explanation": "Section 27(1) allows multiple principals only with MAS written approval or where the principals are related corporations. Client disclosure or serving different markets does not create an exception.",
+    "calc": false
+  },
+  {
+    "id": "r1-q21",
+    "conceptId": "r1-13",
+    "stem": "What is the maximum penalty for a representative who breaches the one-principal rule in Section 27(1)?",
+    "options": {
+      "A": "A fine of S$12,500 only",
+      "B": "A fine up to S$25,000 or imprisonment up to 12 months or both, with up to S$2,500 per day for a continuing offence",
+      "C": "A fine up to S$100,000 or imprisonment up to 2 years",
+      "D": "Suspension of the principal's licence"
+    },
+    "answer": "B",
+    "explanation": "Contravening the one-principal rule attracts a fine up to S$25,000 or up to 12 months imprisonment or both, plus up to S$2,500 for each day the offence continues. The S$100,000 and 2 years figures apply to officer liability offences.",
+    "calc": false
+  },
+  {
+    "id": "r1-q22",
+    "conceptId": "r1-14",
+    "stem": "A principal permits an individual who is not an appointed representative to provide financial advisory services on its behalf. What is the principal's maximum liability under Section 22(9)?",
+    "options": {
+      "A": "A fine up to S$25,000 or 12 months imprisonment",
+      "B": "A fine up to S$12,500 plus S$1,250 per day",
+      "C": "A written warning for a first offence",
+      "D": "A fine up to S$50,000, with a further S$5,000 per day for a continuing offence"
+    },
+    "answer": "D",
+    "explanation": "The principal faces a fine up to S$50,000 plus up to S$5,000 per day for a continuing offence - double the penalty faced by the individual who acts without appointment.",
+    "calc": false
+  },
+  {
+    "id": "r1-q23",
+    "conceptId": "r1-14",
+    "stem": "A principal is charged under Section 32(1) with providing false information to MAS in a representative's appointment lodgment. Which defence is available?",
+    "options": {
+      "A": "It had made all reasonable inquiries and believed on reasonable grounds the statement was true",
+      "B": "The representative supplied the information, so only he is liable",
+      "C": "The error was corrected within 30 days",
+      "D": "The false information caused no loss to any client"
+    },
+    "answer": "A",
+    "explanation": "Section 32 provides a defence where the person made all reasonable inquiries and reasonably believed the statement to be true. Blaming the representative, later correction or absence of client loss is not a defence.",
+    "calc": false
+  },
+  {
+    "id": "r1-q24",
+    "conceptId": "r1-15",
+    "stem": "Under Regulation 8A, an appointed representative must commence business within what period of his appointment, and the principal must notify MAS of cessation of business within what period?",
+    "options": {
+      "A": "3 months to commence; 14 days to notify",
+      "B": "12 months to commence; 3 months to notify",
+      "C": "6 months to commence; 1 month to notify",
+      "D": "1 month to commence; 6 months to notify"
+    },
+    "answer": "C",
+    "explanation": "The representative must commence business within 6 months of appointment, and cessation of business must be notified within 1 month. Other timelines - next business day for particulars changes and 14 days for Form 18 - govern different events.",
+    "calc": false
+  },
+  {
+    "id": "r1-q25",
+    "conceptId": "r1-15",
+    "stem": "When a representative ceases to act for his principal, the principal must lodge Form 18 with MAS within:",
+    "options": {
+      "A": "1 month of cessation",
+      "B": "14 days of cessation",
+      "C": "6 months of cessation",
+      "D": "The next business day"
+    },
+    "answer": "B",
+    "explanation": "Form 18 notifying cessation of appointment must be lodged within 14 days. The next business day timeline applies to changes in particulars, and the other periods relate to commencing and ceasing business operations.",
+    "calc": false
+  },
+  {
+    "id": "r1-q26",
+    "conceptId": "r1-16",
+    "stem": "Which statement about a provisional representative is correct?",
+    "options": {
+      "A": "His status is valid for up to 12 months",
+      "B": "He may meet clients alone once he passes one CMFAS module",
+      "C": "He need not have been licensed overseas if he has a degree",
+      "D": "His status is valid for up to 3 months, and his principal undertakes that he will be accompanied at client meetings"
+    },
+    "answer": "D",
+    "explanation": "Provisional representative status lasts at most 3 months, and the principal gives undertakings including accompaniment at client meetings, copying the supervisor on emails and no unaccompanied telephone communications. Twelve months refers to the required continuous overseas licensing period, not the validity.",
+    "calc": false
+  },
+  {
+    "id": "r2-q01",
+    "conceptId": "r2-01",
+    "stem": "Under Section 34(1), a licensed financial adviser recommending a designated investment product must disclose to the client:",
+    "options": {
+      "A": "Only the projected returns of the product",
+      "B": "Only the fees payable to the adviser",
+      "C": "All material information, including terms and conditions, benefits, risks, and fees and charges",
+      "D": "Only information the client specifically requests"
+    },
+    "answer": "C",
+    "explanation": "The disclosure duty covers all material information on the product - its terms, benefits, risks and charges - not merely returns, fees or items the client happens to ask about.",
+    "calc": false
+  },
+  {
+    "id": "r2-q02",
+    "conceptId": "r2-01",
+    "stem": "A representative highlights a product's bonus features but stays silent on its surrender charges. This most directly breaches:",
+    "options": {
+      "A": "The obligation to disclose material product information under Section 34",
+      "B": "The premium account rules under Section 41",
+      "C": "The one-principal rule under Section 27",
+      "D": "The register of interests requirement under Regulation 20A"
+    },
+    "answer": "A",
+    "explanation": "Surrender charges are material information that must be disclosed when recommending the product. The premium account, one-principal and register of interests provisions deal with different obligations.",
+    "calc": false
+  },
+  {
+    "id": "r2-q03",
+    "conceptId": "r2-02",
+    "stem": "What is the maximum penalty under Section 35 for a licensed financial adviser who makes false or misleading statements in providing financial advisory services?",
+    "options": {
+      "A": "A fine up to S$12,500",
+      "B": "A fine up to S$25,000 only",
+      "C": "Revocation of licence with no criminal penalty",
+      "D": "A fine up to S$50,000 or imprisonment up to 12 months or both"
+    },
+    "answer": "D",
+    "explanation": "False or misleading statements attract a fine up to S$50,000 or up to 12 months imprisonment or both. The smaller amounts apply to title misuse and to representations about insurance proposals.",
+    "calc": false
+  },
+  {
+    "id": "r2-q04",
+    "conceptId": "r2-02",
+    "stem": "Can a licensed financial adviser be liable under Section 35 for omitting information rather than stating something untrue?",
+    "options": {
+      "A": "No, only affirmative false statements are caught",
+      "B": "Yes, where the omission of material facts makes what was said misleading",
+      "C": "Only if the client suffers actual loss",
+      "D": "Only if the omission was in a written document"
+    },
+    "answer": "B",
+    "explanation": "Liability extends to statements rendered misleading by the omission of material facts. Actual client loss and written form are not preconditions for the offence.",
+    "calc": false
+  },
+  {
+    "id": "r2-q05",
+    "conceptId": "r2-03",
+    "stem": "To satisfy Section 36, a recommendation must be based on:",
+    "options": {
+      "A": "The client's investment objectives, financial situation and particular needs",
+      "B": "The commission payable on the product",
+      "C": "The adviser's quarterly sales targets",
+      "D": "The most popular product among other clients"
+    },
+    "answer": "A",
+    "explanation": "A reasonable basis requires considering the client's objectives, financial situation and particular needs. Commissions, sales targets and product popularity are irrelevant to suitability.",
+    "calc": false
+  },
+  {
+    "id": "r2-q06",
+    "conceptId": "r2-03",
+    "stem": "A client loses money after acting on a recommendation made without a reasonable basis. Under Section 36(3), the client may:",
+    "options": {
+      "A": "Only lodge a complaint with MAS",
+      "B": "Demand automatic cancellation of the licence",
+      "C": "Bring a civil action to recover the loss as damages",
+      "D": "Claim from the Policy Owners' Protection Fund"
+    },
+    "answer": "C",
+    "explanation": "Section 36(3) creates a civil remedy allowing the client to sue for damages for loss caused by the breach. It operates in addition to, not instead of, any regulatory action.",
+    "calc": false
+  },
+  {
+    "id": "r2-q07",
+    "conceptId": "r2-04",
+    "stem": "Under Section 37, a lien claimed by a licensed financial adviser over a client's property is:",
+    "options": {
+      "A": "Always valid if disclosed in the client agreement",
+      "B": "Void unless it is for fees, charges or other amounts properly due from the client",
+      "C": "Valid for up to 90 days only",
+      "D": "Valid only with the approval of the client's bank"
+    },
+    "answer": "B",
+    "explanation": "A lien or claim on client property is void except to the extent of fees, charges or amounts properly owing. Disclosure in an agreement does not validate a wider lien.",
+    "calc": false
+  },
+  {
+    "id": "r2-q08",
+    "conceptId": "r2-04",
+    "stem": "A licensed financial adviser mortgages securities belonging to its clients to secure its own bank borrowing. The mortgage is:",
+    "options": {
+      "A": "Valid if the bank acted in good faith",
+      "B": "Valid up to the value of fees owed by clients",
+      "C": "Voidable at the adviser's option",
+      "D": "Void"
+    },
+    "answer": "D",
+    "explanation": "Any charge or mortgage over client's money or property to secure the adviser's own obligations is void. Good faith of the lender does not save it.",
+    "calc": false
+  },
+  {
+    "id": "r2-q09",
+    "conceptId": "r2-05",
+    "stem": "How must a licensed financial adviser carrying on insurance broking hold premium moneys received from clients?",
+    "options": {
+      "A": "In a separate insurance broking premium account with a bank",
+      "B": "In its general operating account, with proper bookkeeping",
+      "C": "In cash in a company safe",
+      "D": "In an overseas account earning higher interest"
+    },
+    "answer": "A",
+    "explanation": "Premium moneys must be paid into a separate insurance broking premium account maintained with a bank, keeping them segregated from the adviser's own funds.",
+    "calc": false
+  },
+  {
+    "id": "r2-q10",
+    "conceptId": "r2-05",
+    "stem": "Which withdrawal from an insurance broking premium account is permitted?",
+    "options": {
+      "A": "Payment of staff salaries during a cash flow shortage",
+      "B": "Payment of premiums to the insurer for the client's policies",
+      "C": "Investment in the adviser's own unit trust",
+      "D": "A short-term loan to a director"
+    },
+    "answer": "B",
+    "explanation": "Withdrawals are restricted to prescribed purposes such as paying premiums over to insurers or refunding clients. Using the account for salaries, investments or loans is prohibited.",
+    "calc": false
+  },
+  {
+    "id": "r2-q11",
+    "conceptId": "r2-06",
+    "stem": "Under Section 42, a licensed financial adviser may place a risk with an unlicensed insurer in which situation?",
+    "options": {
+      "A": "Whenever the premium quoted is lower",
+      "B": "Whenever the client signs a consent form",
+      "C": "For any risk located in Singapore",
+      "D": "For reinsurance, for risks outside Singapore, or with MAS permission for an exceptional risk"
+    },
+    "answer": "D",
+    "explanation": "The only exceptions are reinsurance, risks outside Singapore and MAS-permitted exceptional risks that cannot be placed with licensed insurers. Price advantage or client consent does not authorise placement with unlicensed insurers.",
+    "calc": false
+  },
+  {
+    "id": "r2-q12",
+    "conceptId": "r2-06",
+    "stem": "The main purpose of the Section 42 prohibition on negotiating or placing contracts with unlicensed insurers is to:",
+    "options": {
+      "A": "Increase premium income for local insurers",
+      "B": "Reduce paperwork for MAS",
+      "C": "Protect policy owners from dealing with insurers outside MAS supervision",
+      "D": "Encourage advisers to sell only life policies"
+    },
+    "answer": "C",
+    "explanation": "The prohibition protects policy owners by keeping insurance placements within the regulated, supervised sector. It is a consumer protection measure, not a revenue or administrative one.",
+    "calc": false
+  },
+  {
+    "id": "r2-q13",
+    "conceptId": "r2-07",
+    "stem": "What is the maximum penalty under Section 43 for false or misleading representations concerning insurance proposals or claims?",
+    "options": {
+      "A": "A fine up to S$50,000 or 2 years imprisonment",
+      "B": "A fine up to S$25,000 or imprisonment up to 12 months or both",
+      "C": "A fine up to S$12,500 only",
+      "D": "A fine up to S$100,000"
+    },
+    "answer": "B",
+    "explanation": "The Section 43 offence carries a fine up to S$25,000 or up to 12 months imprisonment or both - lower than the Section 35 penalty for false statements in advisory services generally.",
+    "calc": false
+  },
+  {
+    "id": "r2-q14",
+    "conceptId": "r2-08",
+    "stem": "A licensed financial adviser sends clients a circular recommending a Specified Product in which it holds an interest. Under Section 45 it must:",
+    "options": {
+      "A": "Include a concise statement of the nature of that interest in the circular",
+      "B": "Refrain from sending the circular at all",
+      "C": "Obtain MAS approval before sending the circular",
+      "D": "Send the circular only to accredited investors"
+    },
+    "answer": "A",
+    "explanation": "The adviser may make the recommendation but must disclose in the circular a concise statement of its interest (and those of associated persons). No MAS pre-approval or investor restriction applies.",
+    "calc": false
+  },
+  {
+    "id": "r2-q15",
+    "conceptId": "r2-08",
+    "stem": "Which person has a defence to a Section 45 charge concerning a circular?",
+    "options": {
+      "A": "The author who forgot about his shareholding",
+      "B": "The research head who approved the circular",
+      "C": "A director who signed off on the recommendation",
+      "D": "A person who merely distributed the circular in the ordinary course of business without knowledge of the non-disclosure"
+    },
+    "answer": "D",
+    "explanation": "Section 45(2) protects those who only distribute the document in the ordinary course of business without knowledge. Authors and approvers who held undisclosed interests cannot rely on it.",
+    "calc": false
+  },
+  {
+    "id": "r2-q16",
+    "conceptId": "r2-09",
+    "stem": "Under Regulation 20A, changes to interests in Listed Specified Products must be entered in the register within how many days, and entries retained for how long?",
+    "options": {
+      "A": "14 days; 3 years",
+      "B": "30 days; 7 years",
+      "C": "7 days; 5 years",
+      "D": "7 days; 3 years"
+    },
+    "answer": "C",
+    "explanation": "Particulars of changes must be entered within 7 days and each entry kept for 5 years. Confusing these with the 14-day misconduct reporting or other retention periods is a common error.",
+    "calc": false
+  },
+  {
+    "id": "r2-q17",
+    "conceptId": "r2-09",
+    "stem": "Where must a representative who is an individual keep his register of interests in Listed Specified Products?",
+    "options": {
+      "A": "At his principal place of business, with a copy kept in Singapore where required",
+      "B": "Deposited with MAS",
+      "C": "At the Singapore Exchange",
+      "D": "With his personal bank"
+    },
+    "answer": "A",
+    "explanation": "An individual keeps the register at his principal place of business; a corporation keeps it at a place of business in Singapore. It may be electronic provided MAS has full access - it is not lodged with MAS or the SGX.",
+    "calc": false
+  },
+  {
+    "id": "r2-q18",
+    "conceptId": "r2-10",
+    "stem": "A licensed financial adviser has already granted an unsecured loan of S$2,000 to a representative. What further unsecured credit may it extend to him under Regulation 18?",
+    "options": {
+      "A": "Up to S$3,000 more",
+      "B": "Any amount, if his supervisor guarantees it",
+      "C": "Nothing further under any circumstances",
+      "D": "Up to S$1,000 more, keeping the aggregate within S$3,000"
+    },
+    "answer": "D",
+    "explanation": "Unsecured loans and credit facilities are capped at S$3,000 in aggregate per person. With S$2,000 outstanding, only another S$1,000 may be extended; a guarantee from a supervisor is not security for this purpose.",
+    "calc": true
+  },
+  {
+    "id": "r2-q19",
+    "conceptId": "r2-10",
+    "stem": "For the Regulation 18 unsecured loan cap, a loan to a director who is not an employee includes:",
+    "options": {
+      "A": "Only loans documented in the director's own name",
+      "B": "Loans made to the director's family members",
+      "C": "Only loans exceeding one year in tenor",
+      "D": "Only interest-free loans"
+    },
+    "answer": "B",
+    "explanation": "Loans to a director's family members are treated as loans to the director, preventing circumvention of the S$3,000 aggregate cap through relatives.",
+    "calc": false
+  },
+  {
+    "id": "r2-q20",
+    "conceptId": "r2-11",
+    "stem": "Before appointing a new chief executive officer, a licensed financial adviser must:",
+    "options": {
+      "A": "Notify MAS within 14 days after the appointment",
+      "B": "Publish the appointment in the Gazette",
+      "C": "Obtain the prior approval of MAS, applying via Form 11",
+      "D": "Obtain shareholder approval only"
+    },
+    "answer": "C",
+    "explanation": "Section 63(1) requires prior MAS approval for the appointment of a CEO or director, sought via Form 11 and assessed against Regulation 13(2) criteria. Post-appointment notification is not sufficient.",
+    "calc": false
+  },
+  {
+    "id": "r2-q21",
+    "conceptId": "r2-12",
+    "stem": "A firm knowingly employs an individual who is subject to an MAS prohibition order. Under Section 69(2) the firm faces:",
+    "options": {
+      "A": "No liability, since the order binds only the individual",
+      "B": "A written caution",
+      "C": "A fine up to S$25,000",
+      "D": "A fine up to S$50,000"
+    },
+    "answer": "D",
+    "explanation": "Employing a person known to be under a prohibition order is itself an offence with a fine up to S$50,000. The order's effect is not confined to the prohibited individual.",
+    "calc": false
+  },
+  {
+    "id": "r2-q22",
+    "conceptId": "r2-12",
+    "stem": "A person aggrieved by an MAS prohibition order may:",
+    "options": {
+      "A": "Appeal to the Minister within 30 days",
+      "B": "Apply for judicial review within 7 days",
+      "C": "Ignore the order pending review",
+      "D": "Appeal to the Monetary Authority's board of directors"
+    },
+    "answer": "A",
+    "explanation": "The appeal lies to the Minister within 30 days of the decision. The order remains effective in the meantime, and there is no internal board appeal route.",
+    "calc": false
+  },
+  {
+    "id": "r2-q23",
+    "conceptId": "r2-13",
+    "stem": "Under Section 112(1), an officer of a licensed financial adviser who fails to take all reasonable steps to secure the company's compliance faces:",
+    "options": {
+      "A": "A fine up to S$25,000 only",
+      "B": "Disqualification for 6 months only",
+      "C": "A fine up to S$100,000 or imprisonment up to 2 years",
+      "D": "No personal liability"
+    },
+    "answer": "C",
+    "explanation": "Officers who fail to secure compliance are personally liable to a fine up to S$100,000 or imprisonment up to 2 years - the same maximum as for falsification of records.",
+    "calc": false
+  },
+  {
+    "id": "r2-q24",
+    "conceptId": "r2-13",
+    "stem": "When a corporation commits an offence under the FAA, which officers may also be prosecuted under Section 111?",
+    "options": {
+      "A": "None - only the corporation is liable",
+      "B": "Officers who consented to, connived in, or were negligent in relation to the offence",
+      "C": "Only the company secretary",
+      "D": "All shareholders holding more than 5 percent"
+    },
+    "answer": "B",
+    "explanation": "Personal liability attaches to officers whose consent, connivance or neglect contributed to the corporate offence. Shareholding alone does not create liability.",
+    "calc": false
+  },
+  {
+    "id": "r12-q01",
+    "conceptId": "r12-01",
+    "stem": "Under the SFA, false trading and market rigging transactions are prohibited by which section?",
+    "options": {
+      "A": "Section 197",
+      "B": "Section 199",
+      "C": "Section 201",
+      "D": "Section 218"
+    },
+    "answer": "A",
+    "explanation": "False trading and market rigging fall under s.197. False or misleading statements fall under s.199, manipulative and deceptive devices under s.201, and insider trading by connected persons under s.218.",
+    "calc": false
+  },
+  {
+    "id": "r12-q02",
+    "conceptId": "r12-01",
+    "stem": "The employment of manipulative and deceptive devices in connection with dealing in securities is prohibited under which SFA section?",
+    "options": {
+      "A": "Section 197",
+      "B": "Section 199",
+      "C": "Section 201",
+      "D": "Section 202"
+    },
+    "answer": "C",
+    "explanation": "Manipulative and deceptive devices are prohibited under s.201. Section 197 covers false trading and market rigging, s.199 covers false or misleading statements, and s.202 covers dissemination of information about illegal transactions.",
+    "calc": false
+  },
+  {
+    "id": "r12-q03",
+    "conceptId": "r12-02",
+    "stem": "A trader based overseas manipulates the price of securities quoted on a Singapore exchange. Which statement best describes his position under the SFA?",
+    "options": {
+      "A": "He is outside the reach of the SFA because he acted outside Singapore",
+      "B": "He is only liable if he is a Singapore Citizen",
+      "C": "He is only liable under the law of the country where he acted",
+      "D": "He can be caught by the SFA because acts outside Singapore that affect Singapore's markets are covered"
+    },
+    "answer": "D",
+    "explanation": "Section 196 gives the market conduct provisions extraterritorial effect: conduct outside Singapore that affects Singapore's markets is caught, as is conduct in Singapore affecting foreign markets. Nationality is not the deciding factor.",
+    "calc": false
+  },
+  {
+    "id": "r12-q04",
+    "conceptId": "r12-03",
+    "stem": "What is the defining characteristic of a wash sale?",
+    "options": {
+      "A": "The trade is executed at a price far above the market",
+      "B": "The transaction involves no change in the beneficial ownership of the securities",
+      "C": "The buy and sell orders come from two colluding parties",
+      "D": "The trade is executed after market hours"
+    },
+    "answer": "B",
+    "explanation": "A wash sale is a purchase or sale that involves no change in beneficial ownership, creating a false appearance of active trading. Orders placed by two colluding parties at substantially the same price and time are matched orders, a related but distinct practice.",
+    "calc": false
+  },
+  {
+    "id": "r12-q05",
+    "conceptId": "r12-04",
+    "stem": "In an insider trading prosecution against a person connected to the corporation, what advantage does the prosecution have?",
+    "options": {
+      "A": "A rebuttable presumption that the person knew the information was price-sensitive and not generally available",
+      "B": "No need to prove the person possessed the information at all",
+      "C": "A presumption that the person intended to profit from the trade",
+      "D": "The connected person bears the burden of proving the information was false"
+    },
+    "answer": "A",
+    "explanation": "For connected persons there is a rebuttable presumption of knowledge that the information was price-sensitive and not generally available. The prosecution must still show the person possessed the information and traded.",
+    "calc": false
+  },
+  {
+    "id": "r12-q06",
+    "conceptId": "r12-04",
+    "stem": "For insider trading by a person NOT connected to the corporation, the prosecution must prove that the person:",
+    "options": {
+      "A": "Was an officer of the corporation within the past 6 months",
+      "B": "Obtained the information directly from a director",
+      "C": "Knew the information was not generally available and was price-sensitive",
+      "D": "Held at least 5% of the corporation's shares"
+    },
+    "answer": "C",
+    "explanation": "Against a non-connected person, the prosecution must prove actual knowledge that the information was not generally available and, if generally available, would materially affect the price. No connection to the corporation needs to be shown.",
+    "calc": false
+  },
+  {
+    "id": "r12-q07",
+    "conceptId": "r12-05",
+    "stem": "Under s.215 SFA, information announced by a listed company becomes 'generally available' when:",
+    "options": {
+      "A": "The announcement is drafted and approved by the board",
+      "B": "It has been made known in a manner likely to bring it to investors' attention and a reasonable period for dissemination has elapsed",
+      "C": "At least one analyst has published a report on it",
+      "D": "The company's directors have all been informed"
+    },
+    "answer": "B",
+    "explanation": "Information is generally available once it is made known in a manner likely to bring it to the attention of investors and a reasonable period for it to be disseminated has passed. Internal board approval alone does not make information public.",
+    "calc": false
+  },
+  {
+    "id": "r12-q08",
+    "conceptId": "r12-06",
+    "stem": "A dealing representative executes a buy order for a client without knowing that the client possesses inside information. Which provision protects the representative?",
+    "options": {
+      "A": "Section 218, because he is a connected person",
+      "B": "Section 309, the hawking exemption",
+      "C": "Section 197, because no false appearance was created",
+      "D": "Section 230, which exempts a licence holder or representative executing a client's order without knowledge of the inside information"
+    },
+    "answer": "D",
+    "explanation": "Section 230 exempts a CMS licence holder or its representative who merely executes a client's order without knowledge of the inside information. The client who traded on the information remains liable.",
+    "calc": false
+  },
+  {
+    "id": "r12-q09",
+    "conceptId": "r12-07",
+    "stem": "In the insider trading enforcement example cited in the study text, the civil penalty imposed was:",
+    "options": {
+      "A": "S$2.9 million",
+      "B": "S$250,000",
+      "C": "S$50,000",
+      "D": "S$11.7 million"
+    },
+    "answer": "A",
+    "explanation": "The cited case resulted in a civil penalty of S$2.9 million. Civil penalties are court-imposed monetary sanctions that MAS can seek as an alternative to criminal prosecution.",
+    "calc": false
+  },
+  {
+    "id": "r12-q10",
+    "conceptId": "r12-08",
+    "stem": "The prohibition on securities hawking under s.309 SFA does NOT apply to offers made to:",
+    "options": {
+      "A": "Retail clients aged above 62",
+      "B": "Existing clients of the dealer",
+      "C": "Institutional investors and accredited investors",
+      "D": "Clients who have signed a risk disclosure form"
+    },
+    "answer": "C",
+    "explanation": "Offers to institutional investors and accredited investors under ss.304 and 305 are exempt from the hawking prohibition. Offers to ordinary retail clients arising from unsolicited meetings or calls remain prohibited.",
+    "calc": false
+  },
+  {
+    "id": "r12-q11",
+    "conceptId": "r12-09",
+    "stem": "A short sale is described as 'naked' or uncovered when the seller:",
+    "options": {
+      "A": "Sells more than 5% of the company's issued shares",
+      "B": "Has neither borrowed the securities nor arranged to borrow them at the time of sale",
+      "C": "Fails to mark the order as a short sell",
+      "D": "Sells securities he has borrowed from another broker"
+    },
+    "answer": "B",
+    "explanation": "An uncovered or naked short sale is made without owning the securities and without any borrowing arrangement in place at the time of sale. Selling borrowed securities is a covered short sale.",
+    "calc": false
+  },
+  {
+    "id": "r12-q12",
+    "conceptId": "r12-10",
+    "stem": "If a seller fails to deliver securities to settle a trade on the exchange, what happens?",
+    "options": {
+      "A": "The trade is automatically cancelled with no consequences",
+      "B": "The buyer must source the securities himself",
+      "C": "MAS suspends trading in the counter",
+      "D": "CDP conducts a buying-in against the failing seller at the seller's cost"
+    },
+    "answer": "D",
+    "explanation": "The Central Depository conducts a buying-in, purchasing the securities in the market on behalf of the defaulting seller and at his cost, to ensure the trade settles.",
+    "calc": false
+  },
+  {
+    "id": "r12-q13",
+    "conceptId": "r12-11",
+    "stem": "The requirement to mark sell orders as short sells when they are placed is imposed by:",
+    "options": {
+      "A": "Section 137ZJ SFA",
+      "B": "Section 137ZK SFA",
+      "C": "Section 309 SFA",
+      "D": "Regulation 45 SFR (Licensing and Conduct of Business)"
+    },
+    "answer": "A",
+    "explanation": "Section 137ZJ requires short sell orders to be marked when placed, while s.137ZK requires reporting of short positions above the prescribed threshold. Regulation 45 deals with securities borrowing and lending collateral.",
+    "calc": false
+  },
+  {
+    "id": "r12-q14",
+    "conceptId": "r12-12",
+    "stem": "Under Regulation 45 of the SFR (Licensing and Conduct of Business), a borrower of specified products must provide the lender with collateral of at least:",
+    "options": {
+      "A": "50% of the market value of the borrowed products",
+      "B": "70% of the market value of the borrowed products",
+      "C": "100% of the market value of the borrowed products",
+      "D": "120% of the market value of the borrowed products"
+    },
+    "answer": "C",
+    "explanation": "Collateral of at least 100% of the market value of the borrowed specified products must be provided. The requirement does not apply where the lender is an accredited, expert or institutional investor.",
+    "calc": false
+  },
+  {
+    "id": "r12-q15",
+    "conceptId": "r12-13",
+    "stem": "Which of the following is a duty owed by a representative to his CLIENTS?",
+    "options": {
+      "A": "Whistle-blowing on colleagues' misconduct",
+      "B": "Preserving the confidentiality of information and ensuring suitability of recommendations",
+      "C": "Refusing all compensation other than salary",
+      "D": "Affirming the fitness and propriety of other representatives"
+    },
+    "answer": "B",
+    "explanation": "Duties to clients include loyalty, prudence and care, fair dealing, suitability, fair presentation of performance, and confidentiality. Whistle-blowing is a duty owed to the employer.",
+    "calc": false
+  },
+  {
+    "id": "r12-q16",
+    "conceptId": "r12-14",
+    "stem": "A representative is offered a fee by a third party for work that may conflict with his employer's interests. He may accept it only if:",
+    "options": {
+      "A": "The fee is below S$500",
+      "B": "He declares it in his next tax return",
+      "C": "The work is done outside office hours",
+      "D": "He obtains written consent from all parties involved"
+    },
+    "answer": "D",
+    "explanation": "Additional compensation that may create a conflict with the employer's interest can only be accepted with written consent from all parties involved. The amount and timing of the work do not remove the conflict.",
+    "calc": false
+  },
+  {
+    "id": "r13-q01",
+    "conceptId": "r13-01",
+    "stem": "The CPF Board administers the CPF under which ministry?",
+    "options": {
+      "A": "Ministry of Finance",
+      "B": "Ministry of Manpower",
+      "C": "Ministry of Health",
+      "D": "Ministry of Social and Family Development"
+    },
+    "answer": "B",
+    "explanation": "The CPF Board operates under the Ministry of Manpower. The scheme itself commenced on 1 July 1955.",
+    "calc": false
+  },
+  {
+    "id": "r13-q02",
+    "conceptId": "r13-02",
+    "stem": "An employee aged 40 earns a monthly ordinary wage of S$5,000. Under the rates effective 1 Jan 2024, how much is deducted from his wage as his own (employee) CPF contribution?",
+    "options": {
+      "A": "S$750",
+      "B": "S$850",
+      "C": "S$1,000",
+      "D": "S$1,850"
+    },
+    "answer": "C",
+    "explanation": "For employees aged 55 and below the employee contribution rate is 20%, so 20% x S$5,000 = S$1,000. S$850 would be the employer's 17% share and S$1,850 would be the combined 37%.",
+    "calc": true
+  },
+  {
+    "id": "r13-q03",
+    "conceptId": "r13-02",
+    "stem": "Under the CPF contribution rates effective 1 Jan 2024, the TOTAL (employer plus employee) contribution rate for a worker aged above 60 to 65 earning above S$750 a month is:",
+    "options": {
+      "A": "22%",
+      "B": "31%",
+      "C": "37%",
+      "D": "16.5%"
+    },
+    "answer": "A",
+    "explanation": "The total rate for above 60 to 65 is 22% (11.5% employer + 10.5% employee). 31% applies to above 55 to 60, 37% to age 55 and below, and 16.5% to above 65 to 70.",
+    "calc": false
+  },
+  {
+    "id": "r13-q04",
+    "conceptId": "r13-03",
+    "stem": "A self-employed person must make compulsory CPF contributions to which account, and under what condition?",
+    "options": {
+      "A": "Ordinary Account, if income exceeds S$50 a month",
+      "B": "Special Account, if income exceeds S$6,000 a year",
+      "C": "All three accounts, regardless of income",
+      "D": "MediSave only, if net trade income exceeds S$6,000 a year"
+    },
+    "answer": "D",
+    "explanation": "Self-employed persons are only required to contribute to MediSave, and only when their yearly net trade income exceeds S$6,000. Contributions to the other accounts are voluntary.",
+    "calc": false
+  },
+  {
+    "id": "r13-q05",
+    "conceptId": "r13-04",
+    "stem": "What is the maximum annual tax relief a member can claim for cash top-ups made to his OWN Special or Retirement Account?",
+    "options": {
+      "A": "S$7,000",
+      "B": "S$8,000",
+      "C": "S$14,000",
+      "D": "S$16,000"
+    },
+    "answer": "B",
+    "explanation": "Since 2022 the relief is up to S$8,000 per year for top-ups to the member's own account, with a separate S$8,000 for top-ups to loved ones. S$16,000 is the combined maximum, and S$7,000 was the old limit.",
+    "calc": false
+  },
+  {
+    "id": "r13-q06",
+    "conceptId": "r13-05",
+    "stem": "A 40-year-old member has S$50,000 in his Ordinary Account and S$40,000 in his Special Account. How much EXTRA interest does he earn in a year under the extra interest scheme?",
+    "options": {
+      "A": "S$600",
+      "B": "S$900",
+      "C": "S$500",
+      "D": "S$1,200"
+    },
+    "answer": "A",
+    "explanation": "Members below 55 earn an extra 1% on the first S$60,000 of combined balances, with the OA capped at S$20,000. So (S$20,000 OA + S$40,000 SA) x 1% = S$600. Using the full S$50,000 OA would wrongly ignore the S$20,000 cap.",
+    "calc": true
+  },
+  {
+    "id": "r13-q07",
+    "conceptId": "r13-06",
+    "stem": "Before opening a CPFIS account, a new investor must first:",
+    "options": {
+      "A": "Set aside the Full Retirement Sum",
+      "B": "Obtain his employer's consent",
+      "C": "Buy a Dependants' Protection Scheme policy",
+      "D": "Complete the Self-Awareness Questionnaire (SAQ)"
+    },
+    "answer": "D",
+    "explanation": "From 1 Oct 2018, new CPFIS investors must complete the Self-Awareness Questionnaire. He must also be at least 18, not an undischarged bankrupt, and can only invest OA above S$20,000 and SA above S$40,000.",
+    "calc": false
+  },
+  {
+    "id": "r13-q08",
+    "conceptId": "r13-07",
+    "stem": "The Basic Retirement Sum for the 2026 cohort is S$110,200. What is the Full Retirement Sum for that cohort?",
+    "options": {
+      "A": "S$205,800",
+      "B": "S$213,000",
+      "C": "S$220,400",
+      "D": "S$228,200"
+    },
+    "answer": "C",
+    "explanation": "The FRS is 2 times the BRS, so 2 x S$110,200 = S$220,400. The other figures are the FRS for the 2024, 2025 and 2027 cohorts respectively.",
+    "calc": true
+  },
+  {
+    "id": "r13-q09",
+    "conceptId": "r13-07",
+    "stem": "From 2025, the Enhanced Retirement Sum (ERS) is set at:",
+    "options": {
+      "A": "2 times the Basic Retirement Sum",
+      "B": "4 times the Basic Retirement Sum",
+      "C": "3 times the Basic Retirement Sum",
+      "D": "5 times the Basic Retirement Sum"
+    },
+    "answer": "B",
+    "explanation": "From 2025 the ERS was raised from 3 times to 4 times the BRS, allowing members to top up for higher CPF LIFE payouts. The FRS remains 2 times the BRS.",
+    "calc": false
+  },
+  {
+    "id": "r13-q10",
+    "conceptId": "r13-08",
+    "stem": "A member is automatically included in CPF LIFE if he is a Singapore Citizen or PR who:",
+    "options": {
+      "A": "Was born in 1958 or after and has at least S$60,000 in his Retirement Account when payouts are due to start",
+      "B": "Has reached age 55 with any Retirement Account balance",
+      "C": "Was born before 1958 and has at least S$40,000 at age 55",
+      "D": "Has set aside the Enhanced Retirement Sum"
+    },
+    "answer": "A",
+    "explanation": "Auto-inclusion requires being born in 1958 or later and having at least S$60,000 in the Retirement Account when payouts are due to start. Members not auto-included may still apply to join.",
+    "calc": false
+  },
+  {
+    "id": "r13-q11",
+    "conceptId": "r13-09",
+    "stem": "Which CPF LIFE plan is the default plan for members who do not choose one?",
+    "options": {
+      "A": "Basic Plan",
+      "B": "Escalating Plan",
+      "C": "Standard Plan",
+      "D": "Flexi Plan"
+    },
+    "answer": "C",
+    "explanation": "The Standard Plan, which pays level monthly payouts, is the default. The Escalating Plan starts lower and rises 2% yearly, while the Basic Plan is a legacy plan whose payouts fall when combined balances drop below S$60,000.",
+    "calc": false
+  },
+  {
+    "id": "r13-q12",
+    "conceptId": "r13-10",
+    "stem": "From age 55, what amount can a member withdraw from his CPF unconditionally, even if he cannot set aside his retirement sum?",
+    "options": {
+      "A": "S$2,000",
+      "B": "S$5,000",
+      "C": "S$10,000",
+      "D": "20% of his retirement savings"
+    },
+    "answer": "B",
+    "explanation": "A member can withdraw up to S$5,000 unconditionally from age 55. The additional withdrawal of up to 20% of retirement savings (less the S$5,000) is only available from age 65 for those born in 1958 or after.",
+    "calc": false
+  },
+  {
+    "id": "r13-q13",
+    "conceptId": "r13-11",
+    "stem": "From 1 Jan 2025, the Matched Retirement Savings Scheme provides dollar-for-dollar matching of cash top-ups up to:",
+    "options": {
+      "A": "S$600 per year with no lifetime cap",
+      "B": "S$1,000 per year with a S$10,000 lifetime cap",
+      "C": "S$3,000 per year with a S$30,000 lifetime cap",
+      "D": "S$2,000 per year with a S$20,000 lifetime cap"
+    },
+    "answer": "D",
+    "explanation": "From 1 Jan 2025 the matching cap is S$2,000 per year with a S$20,000 lifetime limit, and the upper age limit is removed. The previous cap was S$600 per year.",
+    "calc": false
+  },
+  {
+    "id": "r13-q14",
+    "conceptId": "r13-12",
+    "stem": "The Basic Healthcare Sum (BHS) applicable to a member is fixed for life when the member:",
+    "options": {
+      "A": "Reaches age 65",
+      "B": "Reaches age 55",
+      "C": "Starts CPF LIFE payouts",
+      "D": "Makes his first MediSave withdrawal"
+    },
+    "answer": "A",
+    "explanation": "The BHS (S$71,500 in 2024) is adjusted yearly but becomes fixed for a member once he turns 65. It is not tied to age 55 or to CPF LIFE payouts.",
+    "calc": false
+  },
+  {
+    "id": "r13-q15",
+    "conceptId": "r13-13",
+    "stem": "Under CareShield Life, a claimant qualifies for payouts when he is unable to perform at least:",
+    "options": {
+      "A": "2 of the 6 activities of daily living",
+      "B": "4 of the 6 activities of daily living",
+      "C": "3 of the 6 activities of daily living",
+      "D": "All 6 activities of daily living"
+    },
+    "answer": "C",
+    "explanation": "Severe disability means being unable to perform at least 3 of the 6 ADLs (washing, dressing, feeding, toileting, mobility, transferring). CareShield Life covers cohorts born in 1980 or later.",
+    "calc": false
+  },
+  {
+    "id": "r13-q16",
+    "conceptId": "r13-14",
+    "stem": "Under the Dependants' Protection Scheme, the maximum sum assured for a member aged 58 is:",
+    "options": {
+      "A": "S$55,000",
+      "B": "S$70,000",
+      "C": "S$46,000",
+      "D": "S$100,000"
+    },
+    "answer": "B",
+    "explanation": "DPS provides cover of up to S$70,000 until age 60, stepping down to S$55,000 from above 60 to 65. DPS is administered solely by Great Eastern Life.",
+    "calc": false
+  },
+  {
+    "id": "r13-q17",
+    "conceptId": "r13-15",
+    "stem": "The Home Protection Scheme (HPS) is compulsory for a member who:",
+    "options": {
+      "A": "Buys any private property with a bank loan",
+      "B": "Owns an Executive Condominium",
+      "C": "Rents out his HDB flat",
+      "D": "Uses his CPF savings to pay the monthly instalments on his HDB flat"
+    },
+    "answer": "D",
+    "explanation": "HPS is a mortgage-reducing term insurance for public housing and is compulsory when CPF savings are used for the monthly instalments. Private properties, ECs and privatised HUDC flats are not covered by HPS.",
+    "calc": false
+  },
+  {
+    "id": "r13-q18",
+    "conceptId": "r13-16",
+    "stem": "A CPF member dies without making a CPF nomination. What happens to his CPF savings?",
+    "options": {
+      "A": "They are transferred to the Public Trustee's Office for distribution under intestacy law, which can take up to 6 months and incurs a fee",
+      "B": "They are distributed according to his will",
+      "C": "They are forfeited to the CPF Board",
+      "D": "They are paid immediately to his next-of-kin within 17 working days"
+    },
+    "answer": "A",
+    "explanation": "CPF savings do not form part of the estate and cannot pass under a will; without a nomination they go to the Public Trustee's Office, taking up to 6 months with a fee charged. The roughly 17 working day timeline applies only where a valid nomination exists.",
+    "calc": false
+  },
+  {
+    "id": "r14-q01",
+    "conceptId": "r14-01",
+    "stem": "Which statement best captures the relationship between ethics and compliance?",
+    "options": {
+      "A": "Compliance and ethics are the same thing expressed differently",
+      "B": "Compliance follows the letter of the law, while ethics honours the spirit behind it - an act can be legal yet unethical",
+      "C": "Ethics applies only where no regulations exist",
+      "D": "Compliance is voluntary while ethics is legally enforced"
+    },
+    "answer": "B",
+    "explanation": "Compliance means observing the letter of the rules; ethics goes further and honours their spirit. Conduct can satisfy every regulation and still be unethical, which is why compliance alone is not enough.",
+    "calc": false
+  },
+  {
+    "id": "r14-q02",
+    "conceptId": "r14-04",
+    "stem": "In Charles H. Green's trust equation, which factor REDUCES trust as it increases?",
+    "options": {
+      "A": "Credibility",
+      "B": "Reliability",
+      "C": "Intimacy",
+      "D": "Self interest"
+    },
+    "answer": "D",
+    "explanation": "The equation is Trust = (Credibility + Reliability + Intimacy) / Self Interest. Because self interest is the denominator, more apparent self-interest means less trust, while credibility, reliability and intimacy all add to trust.",
+    "calc": false
+  },
+  {
+    "id": "r14-q03",
+    "conceptId": "r14-04",
+    "stem": "Which three factors are ADDED together in the numerator of the trust equation?",
+    "options": {
+      "A": "Credibility, reliability and intimacy",
+      "B": "Honesty, competence and profit",
+      "C": "Credibility, self interest and empathy",
+      "D": "Reliability, compliance and loyalty"
+    },
+    "answer": "A",
+    "explanation": "The numerator of the trust equation is credibility plus reliability plus intimacy. Self interest is not added; it divides the total, lowering trust as it grows.",
+    "calc": false
+  },
+  {
+    "id": "r14-q04",
+    "conceptId": "r14-03",
+    "stem": "In the 18 months to June 2020, the civil penalties imposed through MAS enforcement actions amounted to:",
+    "options": {
+      "A": "S$3.4 million",
+      "B": "S$2.9 million",
+      "C": "S$11.7 million",
+      "D": "S$6.2 million"
+    },
+    "answer": "C",
+    "explanation": "Civil penalties in that period totalled S$11.7 million. The S$3.4 million figure was for financial penalties and compositions, S$2.9 million was a single insider trading civil penalty example, and S$6.2 million relates to the fake policies fraud case.",
+    "calc": false
+  },
+  {
+    "id": "r14-q05",
+    "conceptId": "r14-02",
+    "stem": "The study text underlines the importance of ethics in financial services partly because the industry:",
+    "options": {
+      "A": "Employs more workers than any other sector",
+      "B": "Contributes more than 15% of Singapore's GDP and runs on clients' trust in promises of future benefits",
+      "C": "Is exempt from MAS supervision",
+      "D": "Guarantees returns on all products sold"
+    },
+    "answer": "B",
+    "explanation": "Financial services contribute over 15% of Singapore's GDP with more than 15,000 financial institutions, and the business fundamentally rests on trust: clients pay money today for promised future benefits.",
+    "calc": false
+  },
+  {
+    "id": "r14-q06",
+    "conceptId": "r14-06",
+    "stem": "A representative tells himself 'everyone pads their production numbers, so it is fine if I do too'. This is an example of:",
+    "options": {
+      "A": "Confirmation bias",
+      "B": "Moral motivation",
+      "C": "Peer supervision",
+      "D": "Rationalisation"
+    },
+    "answer": "D",
+    "explanation": "Inventing excuses such as 'everyone does it' to justify wrongdoing is rationalisation. It preserves self-image but does not make the conduct any less wrong.",
+    "calc": false
+  },
+  {
+    "id": "r14-q07",
+    "conceptId": "r14-05",
+    "stem": "According to the text, human behaviour is typically driven by:",
+    "options": {
+      "A": "A mix of self-interested, affection-based and moral motivations",
+      "B": "Self-interest alone",
+      "C": "Whatever the law requires and nothing more",
+      "D": "The single strongest financial incentive available"
+    },
+    "answer": "A",
+    "explanation": "People rarely act from one motive; self-interest, affection for others and moral motivation operate together. Ethical failure tends to occur when self-interest overwhelms the other motivations.",
+    "calc": false
+  },
+  {
+    "id": "r15-q01",
+    "conceptId": "r15-01",
+    "stem": "Which of the following is NOT one of the four characteristics of a professional described in the text?",
+    "options": {
+      "A": "Mastery of a particular subject matter",
+      "B": "Reliability",
+      "C": "Maximising personal commission on every sale",
+      "D": "A spirit of loyalty to fellow representatives"
+    },
+    "answer": "C",
+    "explanation": "The four characteristics are mastery of subject matter, reliability, management of self-interest, and a spirit of loyalty to fellow representatives. Maximising one's own commission is the opposite of managing self-interest.",
+    "calc": false
+  },
+  {
+    "id": "r15-q02",
+    "conceptId": "r15-02",
+    "stem": "Which of the following is a recognised hallmark of a profession?",
+    "options": {
+      "A": "A code of ethics enforced by a governing authority",
+      "B": "Guaranteed high income for members",
+      "C": "The absence of entry examinations",
+      "D": "Freedom from any professional societies"
+    },
+    "answer": "A",
+    "explanation": "Professions are marked by prolonged academic study, barriers to entry, independence, public recognition, a governing authority, professional societies and a code of ethics. High income is not a defining hallmark, and open entry with no examinations is the opposite of a barrier to entry.",
+    "calc": false
+  },
+  {
+    "id": "r15-q03",
+    "conceptId": "r15-03",
+    "stem": "The minimum entry and examination requirements for appointed representatives are set out in:",
+    "options": {
+      "A": "MAS Notice FAA-N03",
+      "B": "MAS Notice FAA-N16",
+      "C": "MAS Guidelines FAA-G11",
+      "D": "MAS Notice FAA-N26"
+    },
+    "answer": "D",
+    "explanation": "FAA-N26 prescribes the minimum entry and competency (examination) requirements. FAA-N16 covers recommendations, FAA-N03 covers information to clients and product disclosure, and FAA-G11 contains the fair dealing guidelines.",
+    "calc": false
+  },
+  {
+    "id": "r15-q04",
+    "conceptId": "r15-04",
+    "stem": "Regarding the handling of clients' money, a professional representative should:",
+    "options": {
+      "A": "Collect cash premiums personally to save the client time",
+      "B": "Not collect cash directly from clients",
+      "C": "Hold client cash for up to 30 days before forwarding it",
+      "D": "Deposit client cash into his own account and transfer it monthly"
+    },
+    "answer": "B",
+    "explanation": "Clients expect proper handling of money, which means the representative should not collect cash directly from clients; premiums should flow to the insurer. Holding or banking client cash personally creates obvious risks and conflicts.",
+    "calc": false
+  },
+  {
+    "id": "r15-q05",
+    "conceptId": "r15-06",
+    "stem": "Under s.27(1) FAA, a representative may act for more than one principal only if:",
+    "options": {
+      "A": "He obtains MAS approval each calendar year",
+      "B": "Both principals give verbal consent",
+      "C": "The principals are related corporations",
+      "D": "He limits himself to two principals"
+    },
+    "answer": "C",
+    "explanation": "The one-principal rule allows an exception only where the principals are related corporations. The rule exists to ensure close supervision and clarity of responsibility for the representative's conduct.",
+    "calc": false
+  },
+  {
+    "id": "r15-q06",
+    "conceptId": "r15-06",
+    "stem": "The one-principal rule for representatives exists mainly to achieve:",
+    "options": {
+      "A": "Close supervision of the representative and clarity of responsibility for his conduct",
+      "B": "Higher commissions for the principal",
+      "C": "A wider product range for clients",
+      "D": "Reduced training costs across the industry"
+    },
+    "answer": "A",
+    "explanation": "The objectives of the one-principal rule are close supervision of the representative and clear allocation of responsibility for his conduct to a single principal.",
+    "calc": false
+  },
+  {
+    "id": "r15-q07",
+    "conceptId": "r15-05",
+    "stem": "Under s.2(1) FAA, which person falls within the definition of a 'representative'?",
+    "options": {
+      "A": "Only a person who has completed at least ten advisory transactions",
+      "B": "Only salaried employees of a bank",
+      "C": "Only persons who hold a CMS licence in their own name",
+      "D": "A person who acts as, or holds himself out as, a representative in respect of a financial advisory service"
+    },
+    "answer": "D",
+    "explanation": "The definition covers a person acting as a representative in respect of any financial advisory service or holding himself out as doing so. Actually completing transactions, employment structure or holding one's own licence are not the tests.",
+    "calc": false
+  },
+  {
+    "id": "r16-q01",
+    "conceptId": "r16-01",
+    "stem": "Which of the following is one of the LIA's stated core values?",
+    "options": {
+      "A": "Profitable",
+      "B": "Proactive",
+      "C": "Competitive",
+      "D": "Aggressive"
+    },
+    "answer": "B",
+    "explanation": "The LIA core values are Unified, Professional, Ethical, Fair, Open and honest, and Proactive. Profitability, competitiveness and aggressiveness are not among them.",
+    "calc": false
+  },
+  {
+    "id": "r16-q02",
+    "conceptId": "r16-02",
+    "stem": "Which of the following is NOT one of the seven principles of ethical behaviour?",
+    "options": {
+      "A": "Objectivity",
+      "B": "Confidentiality",
+      "C": "Diligence",
+      "D": "Profitability"
+    },
+    "answer": "D",
+    "explanation": "The seven principles are Integrity, Objectivity, Competence, Fairness, Confidentiality, Professionalism and Diligence. Profitability is a business goal, not an ethical principle.",
+    "calc": false
+  },
+  {
+    "id": "r16-q03",
+    "conceptId": "r16-03",
+    "stem": "The word 'integrity' derives from the Latin 'integer', which means:",
+    "options": {
+      "A": "Truthful in speech",
+      "B": "Obedient to authority",
+      "C": "Whole, entire and undiminished",
+      "D": "Free from debt"
+    },
+    "answer": "C",
+    "explanation": "'Integer' means whole, entire and undiminished, so integrity denotes wholeness and consistency of character in public and private dealings, not merely truthful speech.",
+    "calc": false
+  },
+  {
+    "id": "r16-q04",
+    "conceptId": "r16-04",
+    "stem": "A representative researches only articles that support the fund he already intends to recommend and ignores contrary data. This illustrates:",
+    "options": {
+      "A": "Confirmation bias",
+      "B": "The Golden Rule",
+      "C": "Due diligence",
+      "D": "Twisting"
+    },
+    "answer": "A",
+    "explanation": "Noticing or seeking only information that confirms an existing belief is confirmation bias, a cognitive bias that undermines objectivity. It differs from a conflict of interest, which arises from misaligned incentives.",
+    "calc": false
+  },
+  {
+    "id": "r16-q05",
+    "conceptId": "r16-04",
+    "stem": "The two main obstacles to objectivity identified in the text are:",
+    "options": {
+      "A": "Poor grammar and inadequate training",
+      "B": "Cognitive bias and conflict of interest",
+      "C": "Low pay and long hours",
+      "D": "Client ignorance and market volatility"
+    },
+    "answer": "B",
+    "explanation": "Objectivity is undermined by cognitive bias - notably confirmation bias - and by conflicts of interest. Both distort advice away from the facts and the client's actual circumstances.",
+    "calc": false
+  },
+  {
+    "id": "r16-q06",
+    "conceptId": "r16-05",
+    "stem": "A client asks his insurance representative for detailed tax structuring advice outside the representative's expertise. The competent and ethical response is to:",
+    "options": {
+      "A": "Give his best guess to preserve the relationship",
+      "B": "Decline to help and end the relationship",
+      "C": "Charge a higher fee for the extra work",
+      "D": "Act only within his own expertise and refer the client to a suitable expert"
+    },
+    "answer": "D",
+    "explanation": "Competence requires acting only within one's own expertise and referring the client to other experts for matters outside it. Guessing breaches competence; refusing all help serves the client poorly.",
+    "calc": false
+  },
+  {
+    "id": "r16-q07",
+    "conceptId": "r16-06",
+    "stem": "The principle of fairness includes treating:",
+    "options": {
+      "A": "All clients identically regardless of circumstances",
+      "B": "Only paying clients with respect",
+      "C": "Like things in like ways and giving each party what is due",
+      "D": "The largest clients first"
+    },
+    "answer": "C",
+    "explanation": "Fairness means treating like things in like ways, applying the Golden Rule, and giving each party what is due - across clients, the principal, colleagues and the industry. Identical treatment of unlike situations is not fairness.",
+    "calc": false
+  },
+  {
+    "id": "r16-q08",
+    "conceptId": "r16-07",
+    "stem": "Under the PDPA 2012, an organisation that breaches data protection obligations faces a financial penalty of up to:",
+    "options": {
+      "A": "S$1 million or 10% of gross annual Singapore turnover, whichever is higher",
+      "B": "S$5,000 per breach",
+      "C": "S$100,000 in total",
+      "D": "2 years' suspension of business"
+    },
+    "answer": "A",
+    "explanation": "Organisations face penalties of up to S$1 million or 10% of gross annual Singapore turnover, whichever is higher. The fine of up to S$5,000 and/or up to 2 years' jail applies to individuals, not organisations.",
+    "calc": false
+  },
+  {
+    "id": "r16-q09",
+    "conceptId": "r16-08",
+    "stem": "The classic failure of diligence described in the text is:",
+    "options": {
+      "A": "Referring clients to other experts",
+      "B": "Over promising and under delivering",
+      "C": "Documenting recommendations too thoroughly",
+      "D": "Responding to clients too quickly"
+    },
+    "answer": "B",
+    "explanation": "Diligence demands prompt, thorough service with painstaking due care - the opposite of over promising and under delivering. Thorough documentation and quick responses are diligence in action, not failures.",
+    "calc": false
+  },
+  {
+    "id": "r17-q01",
+    "conceptId": "r17-01",
+    "stem": "Churning is best described as:",
+    "options": {
+      "A": "Recommending a diversified portfolio review each year",
+      "B": "Selling policies below the market premium",
+      "C": "Advising a client to hold his policies to maturity",
+      "D": "Inducing a client to terminate policies after a short period and switch to similar products for fresh commissions"
+    },
+    "answer": "D",
+    "explanation": "Churning is getting the client to drop policies early and buy similar replacements, generating commissions for the representative with no real benefit to the client. Annual reviews and holding to maturity are legitimate practices.",
+    "calc": false
+  },
+  {
+    "id": "r17-q02",
+    "conceptId": "r17-02",
+    "stem": "In the Straits Times case of 5 Oct 2015 cited in the text, the key sign of unethical selling was that the divorcee was sold a policy whose:",
+    "options": {
+      "A": "Annual premium of about S$40,000 exceeded her annual income",
+      "B": "Sum assured was below S$10,000",
+      "C": "Term exceeded 100 years",
+      "D": "Premiums were payable only in foreign currency"
+    },
+    "answer": "A",
+    "explanation": "After depositing about S$350,000 in divorce settlement money, the client was sold a policy with an annual premium of about S$40,000 - more than her annual income - a plainly unaffordable and unsuitable sale.",
+    "calc": false
+  },
+  {
+    "id": "r17-q03",
+    "conceptId": "r17-04",
+    "stem": "Which of the following is NOT one of the four obstacles to ethical decision making?",
+    "options": {
+      "A": "Corrupted character",
+      "B": "Giving in to temptation",
+      "C": "Excessive government regulation",
+      "D": "Rationalization"
+    },
+    "answer": "C",
+    "explanation": "The four obstacles are corrupted character, lack of moral perception, giving in to temptation, and rationalization. Regulation is external to the individual's decision making and is not one of the obstacles.",
+    "calc": false
+  },
+  {
+    "id": "r17-q04",
+    "conceptId": "r17-04",
+    "stem": "A representative genuinely does not notice that recommending a product for its higher commission raises any ethical issue at all. This obstacle is called:",
+    "options": {
+      "A": "Corrupted character",
+      "B": "Lack of moral perception",
+      "C": "Giving in to temptation",
+      "D": "Peer pressure"
+    },
+    "answer": "B",
+    "explanation": "Lack of moral perception is failing to recognise that a situation even involves an ethical issue. It differs from seeing the issue and yielding to temptation, and from a settled corrupted character.",
+    "calc": false
+  },
+  {
+    "id": "r17-q05",
+    "conceptId": "r17-05",
+    "stem": "Telling oneself 'the client is wealthy, he can afford the loss' before making an unsuitable sale is an example of:",
+    "options": {
+      "A": "Needs analysis",
+      "B": "Objectivity",
+      "C": "Fair dealing",
+      "D": "Rationalization"
+    },
+    "answer": "D",
+    "explanation": "Constructing a plausible-sounding excuse to justify unethical conduct is rationalization. It lets the person act wrongly while preserving his self-image, but does not change the wrongness of the act.",
+    "calc": false
+  },
+  {
+    "id": "r17-q06",
+    "conceptId": "r17-01",
+    "stem": "In a churning transaction, who typically benefits and who typically loses?",
+    "options": {
+      "A": "The representative gains commissions while the client gains no real benefit and often suffers loss",
+      "B": "The client gains better coverage while the representative earns nothing",
+      "C": "Both parties benefit equally from the replacement",
+      "D": "The insurer profits while both representative and client lose"
+    },
+    "answer": "A",
+    "explanation": "Churning generates fresh commissions for the representative, while the client incurs new charges and surrender losses for a product no better than the one terminated.",
+    "calc": false
+  },
+  {
+    "id": "r18-q01",
+    "conceptId": "r18-01",
+    "stem": "The text distinguishes two types of conflict of interest. They are conflicts that a representative:",
+    "options": {
+      "A": "Discloses and conflicts that he conceals",
+      "B": "Has with clients and conflicts he has with MAS",
+      "C": "Finds himself in (built into the arrangement) and conflicts he creates through his own actions",
+      "D": "Can insure against and conflicts he cannot"
+    },
+    "answer": "C",
+    "explanation": "A conflict may be built into the business arrangement the representative finds himself in, or it may be created by his own actions. Disclosure is a way of managing conflicts, not a way of classifying them.",
+    "calc": false
+  },
+  {
+    "id": "r18-q02",
+    "conceptId": "r18-02",
+    "stem": "Which of the following is one of the five misalignments of interests identified in the text?",
+    "options": {
+      "A": "Between MAS and the courts",
+      "B": "Between the financial institution and multiple clients",
+      "C": "Between two unrelated insurers",
+      "D": "Between the client and his own family"
+    },
+    "answer": "B",
+    "explanation": "The five misalignments are: representative vs client; institution-representative-client; institution vs client; representative vs multiple clients; and institution vs multiple clients. Regulators, courts and family members are not parties in this framework.",
+    "calc": false
+  },
+  {
+    "id": "r18-q03",
+    "conceptId": "r18-04",
+    "stem": "Involuntary cross-selling occurs when a client:",
+    "options": {
+      "A": "Must buy a bundled product he does not want in order to obtain the product he does want, or is placed into a disadvantageous default option",
+      "B": "Voluntarily buys two products after comparing alternatives",
+      "C": "Asks the representative to recommend an additional product",
+      "D": "Buys the same product from two different insurers"
+    },
+    "answer": "A",
+    "explanation": "The two forms of involuntary cross-selling are forced bundling and disadvantageous defaults. Cross-selling that the client freely chooses after comparison is legitimate.",
+    "calc": false
+  },
+  {
+    "id": "r18-q04",
+    "conceptId": "r18-05",
+    "stem": "A representative persuades a client to surrender an existing policy and buy a similar one from a DIFFERENT insurer, mainly to earn commissions. This practice is called:",
+    "options": {
+      "A": "Churning",
+      "B": "Hawking",
+      "C": "Cross-selling",
+      "D": "Twisting"
+    },
+    "answer": "D",
+    "explanation": "Replacement with a policy from another insurer is twisting; replacement with a policy from the same insurer is churning. Both are commission-driven abuses of the client's trust.",
+    "calc": false
+  },
+  {
+    "id": "r18-q05",
+    "conceptId": "r18-05",
+    "stem": "The feature that distinguishes churning from twisting is:",
+    "options": {
+      "A": "The size of the sum assured",
+      "B": "Whether the client signed a consent form",
+      "C": "Whether the replacement policy comes from the same insurer or another insurer",
+      "D": "Whether the policy is participating or non-participating"
+    },
+    "answer": "C",
+    "explanation": "Churning replaces a policy with one from the same insurer, while twisting replaces it with one from another insurer. The commission motive and harm to the client are common to both.",
+    "calc": false
+  },
+  {
+    "id": "r18-q06",
+    "conceptId": "r18-06",
+    "stem": "The 'vanished premiums' problem in life insurance illustrations led the NAIC to issue its Life Insurance Illustrations Model Regulation in:",
+    "options": {
+      "A": "1985",
+      "B": "1995",
+      "C": "2005",
+      "D": "2015"
+    },
+    "answer": "B",
+    "explanation": "The NAIC issued the Life Insurance Illustrations Model Regulation in 1995 to curb misleading projections, after policies marketed on the promise that premiums would 'vanish' failed to perform as illustrated.",
+    "calc": false
+  },
+  {
+    "id": "r18-q07",
+    "conceptId": "r18-07",
+    "stem": "The duties owed under the fiduciary standard are:",
+    "options": {
+      "A": "Care, Loyalty, Obedience and Good Faith",
+      "B": "Speed, Accuracy, Volume and Profit",
+      "C": "Disclosure, Documentation, Diligence and Delivery",
+      "D": "Know your client, needs analysis, documentation and review"
+    },
+    "answer": "A",
+    "explanation": "The fiduciary standard is principles-based and requires acting in the client's best interest through the duties of Care, Loyalty, Obedience and Good Faith. Know your client, needs analysis and documentation belong to the rules-based suitability regime under FAA-N16.",
+    "calc": false
+  },
+  {
+    "id": "r18-q08",
+    "conceptId": "r18-08",
+    "stem": "The requirement to have a reasonable basis for recommendations is found in:",
+    "options": {
+      "A": "Section 27 FAA",
+      "B": "Section 230 SFA",
+      "C": "Section 309 SFA",
+      "D": "Section 36 FAA"
+    },
+    "answer": "D",
+    "explanation": "Section 36 FAA requires a reasonable basis for recommendations, supported by FAA-N16's requirements of knowing your client, needs analysis and documentation. Section 27 FAA is the one-principal rule, and ss.230 and 309 SFA deal with insider trading defences and hawking.",
+    "calc": false
+  },
+  {
+    "id": "r18-q09",
+    "conceptId": "r18-08",
+    "stem": "Under the suitability regime, a Customer Knowledge Assessment (CKA) is required before a retail client transacts in:",
+    "options": {
+      "A": "Any life insurance policy",
+      "B": "Listed Specified Investment Products",
+      "C": "Unlisted Specified Investment Products",
+      "D": "Singapore Government Securities"
+    },
+    "answer": "C",
+    "explanation": "The CKA applies to unlisted Specified Investment Products, while a Customer Account Review applies to listed SIPs. Plain life policies and government securities do not trigger the CKA.",
+    "calc": false
+  },
+  {
+    "id": "r18-q10",
+    "conceptId": "r18-08",
+    "stem": "Why is a 'suitable' recommendation not necessarily in the client's best interest?",
+    "options": {
+      "A": "Suitability only applies to clients above age 62",
+      "B": "Several products may all be suitable, and the representative could pick the one paying him the highest commission",
+      "C": "Suitability is judged only after the policy matures",
+      "D": "Best interest and suitability are legally identical standards"
+    },
+    "answer": "B",
+    "explanation": "The suitability standard is satisfied by any product that fits the client's needs and profile, so a representative can meet it while still choosing the suitable product that pays him the most. The fiduciary best-interest standard demands more.",
+    "calc": false
+  }
+]
