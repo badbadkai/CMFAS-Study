@@ -700,6 +700,440 @@
     "calc": false
   },
   {
+    "id": "r9-q01",
+    "conceptId": "r9-01",
+    "stem": "To whom do the FAA-G09 Guidelines on structured deposits NOT apply?",
+    "options": {
+      "A": "Accredited, expert and institutional investors",
+      "B": "Clients who decline financial advice",
+      "C": "Clients transacting through an execution-only platform",
+      "D": "Retail clients aged 62 and above"
+    },
+    "answer": "A",
+    "explanation": "FAA-G09 carves out structured deposits sold to accredited investors, expert investors and institutional investors. Age, refusal of advice and the transaction channel do not remove the Guidelines' protection for a retail client.",
+    "calc": false
+  },
+  {
+    "id": "r9-q02",
+    "conceptId": "r9-01",
+    "stem": "A bank sells a structured deposit to a retail client who signs a declaration that she does not want advice. What is the position under FAA-G09?",
+    "options": {
+      "A": "Only the disclosure paragraphs continue to apply",
+      "B": "The Guidelines continue to apply in full because she is a retail client",
+      "C": "The Guidelines apply only if the deposit exceeds S$50,000",
+      "D": "The Guidelines cease to apply once advice is declined"
+    },
+    "answer": "B",
+    "explanation": "The only carve-out in FAA-G09 is by investor class, covering accredited, expert and institutional investors. A retail client keeps the full protection of the Guidelines whether or not she takes advice, and warnings must in fact be given where no advice is provided.",
+    "calc": false
+  },
+  {
+    "id": "r9-q03",
+    "conceptId": "r9-02",
+    "stem": "Which statement about structured deposits must be disclosed to clients under FAA-G09?",
+    "options": {
+      "A": "They may be described as a deposit regardless of whether they meet the definition",
+      "B": "They are protected under the Deposit Insurance Act up to S$100,000",
+      "C": "They are not insured under the Deposit Insurance Act",
+      "D": "The principal is guaranteed at all times, including on early withdrawal"
+    },
+    "answer": "C",
+    "explanation": "Clients must be told that structured deposits are not covered by deposit insurance, unlike conventional deposits, and that early withdrawal may mean the loss of part of the principal. A product must not be labelled a deposit unless it meets the definition.",
+    "calc": false
+  },
+  {
+    "id": "r9-q04",
+    "conceptId": "r9-02",
+    "stem": "Under which MAS Notice do dual currency investments fall?",
+    "options": {
+      "A": "Notice FAA-N06",
+      "B": "Notice FAA-N16",
+      "C": "Notice FAA-N20",
+      "D": "Notice FAA-N11"
+    },
+    "answer": "D",
+    "explanation": "FAA-G09 states that dual currency investments fall under Notice FAA-N11. The others deal with anti-money laundering, the basis of recommendations and the balanced scorecard remuneration framework respectively.",
+    "calc": false
+  },
+  {
+    "id": "r9-q05",
+    "conceptId": "r9-03",
+    "stem": "Which CMFAS modules should a representative marketing structured deposits have passed under FAA-G09, absent equivalent firm training?",
+    "options": {
+      "A": "Modules 5 and 8",
+      "B": "Modules 9 and 9A",
+      "C": "Modules 6A and 8A",
+      "D": "Modules 1A and 6"
+    },
+    "answer": "A",
+    "explanation": "FAA-G09 points to CMFAS Module 5 and Module 8, or equivalent training provided by the financial adviser, as the competency expectation for representatives marketing structured deposits.",
+    "calc": false
+  },
+  {
+    "id": "r9-q06",
+    "conceptId": "r9-03",
+    "stem": "A bank sets up a booth in a shopping mall that accepts completed structured deposit applications. What follows under FAA-G09?",
+    "options": {
+      "A": "It requires only internal compliance sign-off",
+      "B": "It constitutes a new place of business requiring MAS approval under section 12 of the Banking Act",
+      "C": "It is permitted only if staffed by bank tellers",
+      "D": "Nothing, since a temporary booth is never a place of business"
+    },
+    "answer": "B",
+    "explanation": "A booth that accepts applications is a new place of business needing MAS approval under section 12 of the Banking Act. A booth that merely distributes brochures is different. Separately, bank tellers should not be marketing structured deposits at all.",
+    "calc": false
+  },
+  {
+    "id": "r9-q07",
+    "conceptId": "r9-04",
+    "stem": "Under FAA-G10, which combination of steps is required when a financial adviser recommends a switch?",
+    "options": {
+      "A": "A cooling-off period of 14 days with no further documentation",
+      "B": "Verbal disclosure of charges and a supervisor's review only",
+      "C": "Written disclosure of fees, charges and disadvantages with a prescribed warning, a client declaration, a representative declaration on free switching entitlement, and supervisor review",
+      "D": "A client declaration alone, since the client bears the decision"
+    },
+    "answer": "C",
+    "explanation": "FAA-G10 requires all four elements together: written disclosure with the prescribed warning, the client's written declaration on whether he was advised to switch, the representative's declaration of any free switching entitlement, and supervisor review in line with paragraph 42 of FAA-N16.",
+    "calc": false
+  },
+  {
+    "id": "r9-q08",
+    "conceptId": "r9-04",
+    "stem": "A representative argues that the client's signed switching declaration also covers the representative's and supervisor's obligations. Is this correct?",
+    "options": {
+      "A": "No, but only where the switch involves a life policy",
+      "B": "Yes, a single client signature discharges the firm's switching duties",
+      "C": "Yes, provided the supervisor countersigns within 30 days",
+      "D": "No, the client, representative and supervisor each have a distinct declaration or review role"
+    },
+    "answer": "D",
+    "explanation": "The client declares whether he was advised to switch, the representative declares any free switching entitlement, and the supervisor separately reviews the transaction. One signature cannot discharge three distinct roles, and this applies across switching recommendations generally.",
+    "calc": false
+  },
+  {
+    "id": "r9-q09",
+    "conceptId": "r9-05",
+    "stem": "What does FAA-G10 expect of a financial adviser at the firm level in relation to switching?",
+    "options": {
+      "A": "Back-end monitoring of switching trends to detect undesirable practices",
+      "B": "Monthly reporting of every switch to MAS",
+      "C": "A prohibition on all switching within the first policy year",
+      "D": "Front-end supervisor review only, since post-sale review would duplicate it"
+    },
+    "answer": "A",
+    "explanation": "Back-end monitoring of switching trends is expected at firm level in addition to front-end supervisor reviews. FAA-G10 also says representatives should not be remunerated solely on sales volume.",
+    "calc": false
+  },
+  {
+    "id": "r9-q10",
+    "conceptId": "r9-05",
+    "stem": "Which remuneration practice does FAA-G10 caution against?",
+    "options": {
+      "A": "Linking part of remuneration to client satisfaction",
+      "B": "Remunerating representatives solely on the basis of sales volume",
+      "C": "Deferring a portion of commission",
+      "D": "Paying representatives a fixed salary"
+    },
+    "answer": "B",
+    "explanation": "Remunerating representatives solely on sales volume is what the Guidelines warn against, because it drives the switching behaviour the safeguards are designed to catch.",
+    "calc": false
+  },
+  {
+    "id": "r9-q11",
+    "conceptId": "r9-06",
+    "stem": "Which of these is one of the five fair dealing outcomes under FSG-G04?",
+    "options": {
+      "A": "Customers pay no more than a prescribed maximum fee",
+      "B": "Customers achieve positive investment returns over the long term",
+      "C": "Customers receive clear, relevant and timely information",
+      "D": "Customers are guaranteed access to a dedicated relationship manager"
+    },
+    "answer": "C",
+    "explanation": "Clear, relevant and timely information to customers is one of the five outcomes. The others are fair dealing central to corporate culture, products suitable for their target segments, competent representatives, and independent, effective and prompt complaints handling. Investment returns and fee caps are not outcomes.",
+    "calc": false
+  },
+  {
+    "id": "r9-q12",
+    "conceptId": "r9-06",
+    "stem": "Fair dealing Outcome One under FSG-G04 is primarily directed at which level of the organisation?",
+    "options": {
+      "A": "The independent sales audit unit",
+      "B": "External auditors reviewing the annual accounts",
+      "C": "Front-line representatives dealing with customers",
+      "D": "The board and senior management, as corporate culture"
+    },
+    "answer": "D",
+    "explanation": "Outcome One concerns fair dealing being central to corporate culture, driven by the board and senior management. Reading it as a front-line conduct rule misses its point.",
+    "calc": false
+  },
+  {
+    "id": "r9-q13",
+    "conceptId": "r9-07",
+    "stem": "What remuneration mix does FSG-G04 cite as good practice?",
+    "options": {
+      "A": "40% sales and 60% non-sales measures",
+      "B": "50% sales and 50% non-sales measures",
+      "C": "100% non-sales measures for all representatives",
+      "D": "60% sales and 40% non-sales measures"
+    },
+    "answer": "A",
+    "explanation": "The Guidelines cite 40% sales and 60% non-sales measures as good practice. It is presented as good practice rather than a mandated ratio.",
+    "calc": false
+  },
+  {
+    "id": "r9-q14",
+    "conceptId": "r9-07",
+    "stem": "Under FSG-G04, how long must complaints records be kept and how much notice is expected for fee changes?",
+    "options": {
+      "A": "3 years of records, at least 14 days' notice",
+      "B": "5 years of records, at least 30 days' notice",
+      "C": "6 years of records, at least 60 days' notice",
+      "D": "5 years of records, at least 14 days' notice"
+    },
+    "answer": "B",
+    "explanation": "Complaints records are kept for 5 years and fee changes require at least 30 days' notice. Unresolved complaints may be referred to FIDReC, and all Specified Investment Products are treated as complex products.",
+    "calc": false
+  },
+  {
+    "id": "r9-q15",
+    "conceptId": "r9-08",
+    "stem": "Under FAA-G14, a client is 64 years old and holds a university degree, but is proficient in English. Is he a selected client?",
+    "options": {
+      "A": "Yes, because he is above 62",
+      "B": "Yes, because age alone is decisive for selected client status",
+      "C": "No, because only one of the three criteria is met",
+      "D": "No, because selected client status applies only to clients aged 70 and above"
+    },
+    "answer": "C",
+    "explanation": "A selected client must meet any two of three criteria: aged 62 or older, not proficient in spoken or written English, and educational qualification below GCE O-level or N-level. Here only the age criterion is met, so he is not a selected client.",
+    "calc": false
+  },
+  {
+    "id": "r9-q16",
+    "conceptId": "r9-08",
+    "stem": "A client is 65, has no O-level qualification and reads English poorly. The firm documents an assessment showing she has extensive investment experience. What is the effect under FAA-G14?",
+    "options": {
+      "A": "She becomes a selected client only for life policies",
+      "B": "Selected client status is determined solely by the product type",
+      "C": "She remains a selected client because three criteria are met",
+      "D": "The documented assessment of adequate investment experience can displace selected client treatment"
+    },
+    "answer": "D",
+    "explanation": "The definition applies unless a documented assessment shows adequate investment experience. Without that documentation she would be a selected client, since she meets more than two of the criteria.",
+    "calc": false
+  },
+  {
+    "id": "r9-q17",
+    "conceptId": "r9-09",
+    "stem": "Under FAA-G14, what is the effective date of a transaction for a life policy?",
+    "options": {
+      "A": "The latest of the dates the policy is issued, takes effect, or cover commences",
+      "B": "The earliest of the dates the policy is issued or cover commences",
+      "C": "The date the application is signed by the client",
+      "D": "The date the first premium is received"
+    },
+    "answer": "A",
+    "explanation": "For a life policy the effective date is the latest of the date the policy is issued, the date it takes effect and the date cover commences. For other investment products it is the date the application is accepted by the product manufacturer.",
+    "calc": false
+  },
+  {
+    "id": "r9-q18",
+    "conceptId": "r9-09",
+    "stem": "For a unit trust purchase, when is the effective date of the transaction under FAA-G14?",
+    "options": {
+      "A": "The date the client signs the application",
+      "B": "The date the application is accepted by the product manufacturer",
+      "C": "The date units are allotted to the client's account",
+      "D": "The date the supervisor completes his review"
+    },
+    "answer": "B",
+    "explanation": "For investment products other than life policies, the effective date is the date the application is accepted by the product manufacturer. The latest-of-three test applies only to life policies.",
+    "calc": false
+  },
+  {
+    "id": "r9-q19",
+    "conceptId": "r9-10",
+    "stem": "How often must the ISA Unit perform post-transaction checks under FAA-G14, and what must each check comprise?",
+    "options": {
+      "A": "Every month, comprising a client survey only",
+      "B": "Annually, comprising a documentation review only",
+      "C": "Every calendar quarter, comprising a documentation review and a client survey on each sampled transaction",
+      "D": "Every calendar quarter, comprising either a documentation review or a client survey"
+    },
+    "answer": "C",
+    "explanation": "Post-transaction checks are performed every calendar quarter and must include both a documentation review and a client survey on each sampled transaction. One does not substitute for the other.",
+    "calc": false
+  },
+  {
+    "id": "r9-q20",
+    "conceptId": "r9-10",
+    "stem": "A client does not respond to the post-transaction phone survey. After how many unsuccessful call attempts may the survey be closed, and what is the effect on the representative?",
+    "options": {
+      "A": "Five attempts, and the transaction is voided",
+      "B": "Three attempts, and an infraction is recorded against the supervisor",
+      "C": "Two attempts, and the representative is graded down",
+      "D": "Three attempts, and the representative is not penalised for the client's non-participation"
+    },
+    "answer": "D",
+    "explanation": "A phone survey may be closed after three unsuccessful call attempts, and the representative is not penalised for a client's non-participation. A written survey may be closed after one month and an electronic survey after two weeks.",
+    "calc": false
+  },
+  {
+    "id": "r9-q21",
+    "conceptId": "r9-11",
+    "stem": "Which of these is a Category 1 infraction under the balanced scorecard framework?",
+    "options": {
+      "A": "Falsifying a client's responses in the fact-find",
+      "B": "Submitting documentation one day after the internal deadline",
+      "C": "A late filing of an internal activity report",
+      "D": "A typographical error in a client's address"
+    },
+    "answer": "A",
+    "explanation": "Falsifying client responses is among the Annex 3 Category 1 examples, alongside insufficient fact-finding, unsuitable recommendations, non-disclosure of key features and risks, misleading statements, pre-signed blank forms, harassment and allowing unauthorised persons to advise. Category 1 infractions have a material impact on clients' interests, while administrative lapses generally fall under Category 2.",
+    "calc": false
+  },
+  {
+    "id": "r9-q22",
+    "conceptId": "r9-11",
+    "stem": "What distinguishes a Category 1 infraction from a Category 2 infraction?",
+    "options": {
+      "A": "Category 1 arises only from pre-transaction checks",
+      "B": "Category 1 involves a material impact on clients' interests",
+      "C": "Category 1 applies only to supervisors",
+      "D": "Category 1 relates only to documentation completeness"
+    },
+    "answer": "B",
+    "explanation": "The dividing line is materiality to clients' interests. Administrative lapses generally sit in Category 2, and the categories apply to representatives as well as supervisors.",
+    "calc": false
+  },
+  {
+    "id": "r9-q23",
+    "conceptId": "r9-12",
+    "stem": "A representative is assigned grade E for a quarter. Which set of measures applies under FAA-G14?",
+    "options": {
+      "A": "A written warning and re-training, with no restriction on supervisory roles",
+      "B": "Close supervision by his own supervisor, accompaniment on three closed sales and full-scale checks for one month",
+      "C": "Close supervision overseen by the CEO or a designate other than his supervisor, accompaniment on at least five closed sales, full-scale checks on every transaction for at least three months, and no supervisory or managerial role for at least one year",
+      "D": "Immediate termination of his appointment as a representative"
+    },
+    "answer": "C",
+    "explanation": "Grade E triggers close supervision with oversight by the CEO or a designate other than his own supervisor, accompaniment on a minimum of five closed sales, full-scale checks by the ISA Unit on every transaction for a minimum of three months, and a bar from any supervisory or managerial role for at least one year.",
+    "calc": false
+  },
+  {
+    "id": "r9-q24",
+    "conceptId": "r9-12",
+    "stem": "For the purposes of the grade E accompaniment requirement, what counts as a closed sale?",
+    "options": {
+      "A": "Any client contact recorded in the firm's system",
+      "B": "Any prospecting meeting arranged by the representative",
+      "C": "A meeting where a product brochure is presented",
+      "D": "A transaction involving fact-find, needs analysis, recommendation and client acceptance"
+    },
+    "answer": "D",
+    "explanation": "A closed sale requires the full cycle of fact-find, needs analysis, recommendation and client acceptance. Accompanying five prospecting meetings does not satisfy the requirement.",
+    "calc": false
+  },
+  {
+    "id": "r9-q25",
+    "conceptId": "r9-13",
+    "stem": "A supervisor is graded Unsatisfactory in two consecutive quarters. What follows under FAA-G14?",
+    "options": {
+      "A": "He must not hold a supervisory or managerial role for at least one year from the second consecutive grade",
+      "B": "He must not hold a supervisory role for at least three years",
+      "C": "He is barred permanently from supervisory roles",
+      "D": "No restriction applies provided his own supervisor is graded satisfactorily"
+    },
+    "answer": "A",
+    "explanation": "Two consecutive Unsatisfactory quarters bar a supervisor from any supervisory or managerial role for at least one year from the second grade. Note the contrast with a representative, whose one-year bar is triggered by a single grade E.",
+    "calc": false
+  },
+  {
+    "id": "r9-q26",
+    "conceptId": "r9-13",
+    "stem": "A supervisor is graded Unsatisfactory and his own direct supervisor is graded Unsatisfactory in the same quarter. How should oversight be arranged?",
+    "options": {
+      "A": "The ISA Unit assumes the supervisory role",
+      "B": "A higher-tier supervisor performs the role",
+      "C": "An external consultant must be appointed",
+      "D": "Oversight is suspended until the next quarter's grades"
+    },
+    "answer": "B",
+    "explanation": "Where the direct supervisor is also Unsatisfactory in the same quarter, a higher-tier supervisor performs the role. The firm should also review the adequacy of oversight and may reduce the number of representatives under him or impose a recruitment moratorium.",
+    "calc": false
+  },
+  {
+    "id": "r9-q27",
+    "conceptId": "r9-14",
+    "stem": "When conducting reference checks on a prospective representative, what balanced scorecard information should an FA request?",
+    "options": {
+      "A": "The last grade from the immediately preceding quarter",
+      "B": "All grades ever assigned to the individual",
+      "C": "The individual's last four grades within the past 10 years",
+      "D": "The last four grades within the past 3 years"
+    },
+    "answer": "C",
+    "explanation": "The request covers the individual's last four balanced scorecard grades within the past 10 years, and the responding FA should disclose them, including both sets where the individual served as both representative and supervisor.",
+    "calc": false
+  },
+  {
+    "id": "r9-q28",
+    "conceptId": "r9-14",
+    "stem": "An individual served as both a representative and a supervisor at his former firm. What should the responding FA disclose on a reference check?",
+    "options": {
+      "A": "A single averaged grade combining both roles",
+      "B": "Only the representative grades, as supervisory grades are confidential",
+      "C": "Only the supervisory grades, as they are more senior",
+      "D": "Both sets of grades"
+    },
+    "answer": "D",
+    "explanation": "Where the individual served in both capacities, both sets of grades should be disclosed. Averaging or withholding either set would defeat the purpose of the check.",
+    "calc": false
+  },
+  {
+    "id": "r9-q29",
+    "conceptId": "r9-15",
+    "stem": "From 1 January 2016, what must supervisors do before documentation is submitted to product manufacturers under FAA-G14?",
+    "options": {
+      "A": "Review all documentation and the basis of every recommendation, except for specified rollovers",
+      "B": "Review only transactions involving selected clients",
+      "C": "Review only transactions where the client declined advice",
+      "D": "Review a random sample of at least 10% of recommendations"
+    },
+    "answer": "A",
+    "explanation": "Pre-transaction checks require supervisors to review all documentation and the basis of every recommendation before submission, with an exception for rollovers of dual currency investments or structured notes relating to equities or commodities.",
+    "calc": false
+  },
+  {
+    "id": "r9-q30",
+    "conceptId": "r9-15",
+    "stem": "An infraction is detected during a pre-transaction check. How does it affect the representative's balanced scorecard grade?",
+    "options": {
+      "A": "It is factored in only if the client complains",
+      "B": "It is not factored into the balanced scorecard",
+      "C": "It is factored in and also reduces the supervisor's grade",
+      "D": "It is factored in at half weighting"
+    },
+    "answer": "B",
+    "explanation": "Infractions found at the pre-transaction stage are not factored into the balanced scorecard grade or remuneration. Only post-transaction findings count. Records of these checks are kept for at least five years.",
+    "calc": false
+  },
+  {
+    "id": "r9-q31",
+    "conceptId": "r9-15",
+    "stem": "A time-sensitive product has no free-look or cancellation period and the pre-transaction check was not completed before the effective date. By when must it be completed?",
+    "options": {
+      "A": "By the end of the next calendar quarter",
+      "B": "Within one month",
+      "C": "Within 5 business days",
+      "D": "Within 14 calendar days"
+    },
+    "answer": "C",
+    "explanation": "Checks not completed before the effective date must be completed within the free-look or cancellation period, or within 5 business days for time-sensitive products that have no such period.",
+    "calc": false
+  },
+  {
     "id": "r12-q01",
     "conceptId": "r12-01",
     "stem": "Under the SFA, false trading and market rigging transactions are prohibited by which section?",
@@ -1719,6 +2153,314 @@
     },
     "answer": "B",
     "explanation": "The suitability standard is satisfied by any product that fits the client's needs and profile, so a representative can meet it while still choosing the suitable product that pays him the most. The fiduciary best-interest standard demands more.",
+    "calc": false
+  },
+  {
+    "id": "r23-q01",
+    "conceptId": "r23-01",
+    "stem": "Which statement correctly distinguishes the balance sheet from the income statement?",
+    "options": {
+      "A": "Both are point-in-time statements prepared on the same date",
+      "B": "The balance sheet records only cash movements while the income statement records only accruals",
+      "C": "The balance sheet covers a period while the income statement is a point-in-time snapshot",
+      "D": "The balance sheet shows assets, liabilities and net worth at a specific point in time while the income statement shows income against expenditure over a period"
+    },
+    "answer": "D",
+    "explanation": "The statement of net worth is a snapshot at a specific date. The statement of cash flows covers a period, usually one year. Reversing the two is a classic error.",
+    "calc": false
+  },
+  {
+    "id": "r23-q02",
+    "conceptId": "r23-02",
+    "stem": "A client buys an antique car purely in the expectation that it will appreciate in value. How should it be classified?",
+    "options": {
+      "A": "An investment asset, because it is held for capital gain",
+      "B": "It is excluded from the balance sheet entirely",
+      "C": "A personal asset, because cars are for consumption",
+      "D": "A liquid asset, because it can be sold at auction"
+    },
+    "answer": "A",
+    "explanation": "Classification depends on why the asset was acquired and how it will be used. Held for capital gain, the antique car is an investment asset, even though a car used for daily transport would be a personal asset.",
+    "calc": false
+  },
+  {
+    "id": "r23-q03",
+    "conceptId": "r23-02",
+    "stem": "A client holds a money market fund that he has earmarked for retirement in 20 years. How is it best classified?",
+    "options": {
+      "A": "A liquid asset, because money market funds are near-cash",
+      "B": "An investment asset, because it is held for a long-term objective",
+      "C": "A personal asset, because it is for his own future consumption",
+      "D": "A liability, because it is committed to a future purpose"
+    },
+    "answer": "B",
+    "explanation": "Intention governs classification. A money market fund kept for retirement is an investment asset rather than a liquid asset, even though the instrument itself is near-cash.",
+    "calc": false
+  },
+  {
+    "id": "r23-q04",
+    "conceptId": "r23-03",
+    "stem": "A self-employed client with irregular income asks how large his emergency fund should be. What does the text recommend?",
+    "options": {
+      "A": "3 months of expenses",
+      "B": "6 months of expenses",
+      "C": "12 months of expenses",
+      "D": "24 months of expenses"
+    },
+    "answer": "C",
+    "explanation": "The standard guideline is at least 3 to 6 months of expenses, but a person with irregular income should aim for 12 months.",
+    "calc": true
+  },
+  {
+    "id": "r23-q05",
+    "conceptId": "r23-03",
+    "stem": "A freelance designer has monthly expenses of S$3,500 and irregular income. Applying the guideline for irregular income earners, what emergency fund should she target?",
+    "options": {
+      "A": "S$84,000",
+      "B": "S$10,500",
+      "C": "S$21,000",
+      "D": "S$42,000"
+    },
+    "answer": "D",
+    "explanation": "Irregular income calls for 12 months of expenses. 12 x S$3,500 = S$42,000. The figure of S$10,500 reflects 3 months and S$21,000 reflects 6 months, which are the standard rather than the irregular-income guideline.",
+    "calc": true
+  },
+  {
+    "id": "r23-q06",
+    "conceptId": "r23-04",
+    "stem": "A client pays a monthly mortgage instalment of S$2,000, of which S$1,400 is interest and S$600 is principal. By how much does the reported liability fall this month?",
+    "options": {
+      "A": "S$600",
+      "B": "It does not change until the loan is fully repaid",
+      "C": "S$2,000",
+      "D": "S$1,400"
+    },
+    "answer": "A",
+    "explanation": "Liabilities are reported at outstanding principal, so only the S$600 principal portion reduces the liability. The S$1,400 interest is an expense in the income statement and does not reduce the balance owed.",
+    "calc": true
+  },
+  {
+    "id": "r23-q07",
+    "conceptId": "r23-04",
+    "stem": "How should assets be reported on a statement of net worth?",
+    "options": {
+      "A": "Always at original cost, for consistency",
+      "B": "At current fair market value, though hard-to-value assets may conservatively be shown at original cost",
+      "C": "At insured replacement value",
+      "D": "At the value net of any related loan"
+    },
+    "answer": "B",
+    "explanation": "Assets are reported at current fair market value. Where an asset is hard to value, showing it conservatively at original cost is acceptable. Related loans appear separately as liabilities rather than being netted off.",
+    "calc": false
+  },
+  {
+    "id": "r23-q08",
+    "conceptId": "r23-05",
+    "stem": "A client has total assets of S$310,000 and total liabilities of S$131,000. What is his net worth?",
+    "options": {
+      "A": "S$310,000",
+      "B": "S$441,000",
+      "C": "S$179,000",
+      "D": "S$131,000"
+    },
+    "answer": "C",
+    "explanation": "Net worth = total assets - total liabilities = S$310,000 - S$131,000 = S$179,000. Adding the two figures instead of subtracting gives S$441,000, which is a common slip.",
+    "calc": true
+  },
+  {
+    "id": "r23-q09",
+    "conceptId": "r23-05",
+    "stem": "A client owns a S$1.2 million condominium and drives a S$300,000 car, but owes S$1.45 million across his mortgage and car loan. What does this illustrate?",
+    "options": {
+      "A": "That personal assets should be excluded from net worth",
+      "B": "That liabilities are only counted once they fall into arrears",
+      "C": "That expensive assets always indicate high net worth",
+      "D": "That a person with expensive assets can still have a low net worth if heavily geared"
+    },
+    "answer": "D",
+    "explanation": "Net worth here is S$1,500,000 - S$1,450,000 = S$50,000. Expensive assets say nothing about net worth until the liabilities against them are deducted.",
+    "calc": true
+  },
+  {
+    "id": "r23-q10",
+    "conceptId": "r23-06",
+    "stem": "A client's annual inflows are S$90,000 and outflows are S$78,000. What is his net cash flow, and what does it mean?",
+    "options": {
+      "A": "A surplus of S$12,000, though its disposition is reflected in assets, liabilities and net worth",
+      "B": "A surplus of S$168,000",
+      "C": "A deficit of S$12,000 requiring immediate borrowing",
+      "D": "A surplus of S$12,000 that is necessarily available as spendable cash"
+    },
+    "answer": "A",
+    "explanation": "Net cash flow = S$90,000 - S$78,000 = S$12,000, a surplus. A surplus is not automatically spendable cash, because it may already have been directed into savings, investments or debt repayment.",
+    "calc": true
+  },
+  {
+    "id": "r23-q11",
+    "conceptId": "r23-06",
+    "stem": "What can a cash surplus be used for?",
+    "options": {
+      "A": "Only additional consumption",
+      "B": "Savings, investments or debt reduction",
+      "C": "Only repayment of debt, as a matter of prudence",
+      "D": "Nothing, because it is an accounting figure with no practical use"
+    },
+    "answer": "B",
+    "explanation": "A surplus can fund savings, investments or debt reduction. Where it went is reflected in the assets, liabilities and net worth on the balance sheet.",
+    "calc": false
+  },
+  {
+    "id": "r23-q12",
+    "conceptId": "r23-07",
+    "stem": "A client holds liquid assets of S$24,000 and has monthly expenses of S$4,000. What is his liquidity ratio?",
+    "options": {
+      "A": "16.7%",
+      "B": "4 months",
+      "C": "6 months",
+      "D": "0.17 months"
+    },
+    "answer": "C",
+    "explanation": "Liquidity ratio = liquid assets / monthly expenses = S$24,000 / S$4,000 = 6 months, which sits at the top of the 3 to 6 month guideline. The ratio is expressed in months, not as a percentage.",
+    "calc": true
+  },
+  {
+    "id": "r23-q13",
+    "conceptId": "r23-07",
+    "stem": "A client has liquid assets of S$30,000 and net worth of S$150,000. What is his liquid assets to net worth ratio, and does it meet the guideline?",
+    "options": {
+      "A": "20%, which fails the at-least-50% guideline",
+      "B": "15%, which exactly meets the guideline",
+      "C": "5 months, which meets the guideline",
+      "D": "20%, which meets the at-least-15% guideline"
+    },
+    "answer": "D",
+    "explanation": "S$30,000 / S$150,000 = 0.20, or 20%. The guideline for this ratio is at least 15%, so it is met. The 50% guideline belongs to the investment assets to net worth ratio.",
+    "calc": true
+  },
+  {
+    "id": "r23-q14",
+    "conceptId": "r23-08",
+    "stem": "A client saves and invests S$9,600 out of a total income of S$96,000. What is his savings ratio and how does it compare with the guideline?",
+    "options": {
+      "A": "10%, exactly at the minimum guideline",
+      "B": "10%, below the minimum guideline of 15%",
+      "C": "9.6%, below the minimum guideline",
+      "D": "S$9,600, which cannot be expressed as a ratio"
+    },
+    "answer": "A",
+    "explanation": "Savings ratio = savings and investments / total income = S$9,600 / S$96,000 = 10%, which meets the guideline of at least 10%.",
+    "calc": true
+  },
+  {
+    "id": "r23-q15",
+    "conceptId": "r23-08",
+    "stem": "A client has total liabilities of S$220,000 and total assets of S$400,000. What is his debt-to-asset ratio and does it meet the guideline?",
+    "options": {
+      "A": "55%, which meets the guideline of at most 50%",
+      "B": "55%, which exceeds the guideline of at most 50%",
+      "C": "45%, which meets the guideline",
+      "D": "182%, which exceeds the guideline"
+    },
+    "answer": "B",
+    "explanation": "S$220,000 / S$400,000 = 0.55, or 55%. The guideline is at most 50%, so this client is more geared than the benchmark suggests he should be.",
+    "calc": true
+  },
+  {
+    "id": "r23-q16",
+    "conceptId": "r23-08",
+    "stem": "A client makes annual loan payments of S$21,000 against annual take-home pay of S$60,000. What is his debt service ratio?",
+    "options": {
+      "A": "2.9 times, indicating insolvency",
+      "B": "28.6%, comfortably within the guideline",
+      "C": "35%, exactly at the guideline maximum",
+      "D": "35%, exceeding the guideline maximum of 30%"
+    },
+    "answer": "C",
+    "explanation": "Debt service ratio = annual loan payments / annual take-home pay = S$21,000 / S$60,000 = 35%, which is exactly the guideline maximum. Note the denominator is take-home pay, not gross income and not total assets.",
+    "calc": true
+  },
+  {
+    "id": "r23-q17",
+    "conceptId": "r23-08",
+    "stem": "Which figure belongs in the denominator of the debt service ratio?",
+    "options": {
+      "A": "Monthly expenses",
+      "B": "Total assets",
+      "C": "Total liabilities",
+      "D": "Annual take-home pay"
+    },
+    "answer": "D",
+    "explanation": "The debt service ratio puts annual loan payments over annual take-home pay. Putting liabilities over assets gives the debt-to-asset ratio instead, which is a different measure.",
+    "calc": false
+  },
+  {
+    "id": "r23-q18",
+    "conceptId": "r23-09",
+    "stem": "A client has investment assets of S$120,000 and net worth of S$200,000. What is his investment assets to net worth ratio and does it meet the guideline?",
+    "options": {
+      "A": "60%, meeting the guideline of at least 50%",
+      "B": "60%, failing the guideline of at least 75%",
+      "C": "167%, meeting the guideline",
+      "D": "40%, failing the guideline"
+    },
+    "answer": "A",
+    "explanation": "S$120,000 / S$200,000 = 60%, against a guideline of at least 50%. This ratio should increase as a person ages and accumulates toward retirement.",
+    "calc": true
+  },
+  {
+    "id": "r23-q19",
+    "conceptId": "r23-09",
+    "stem": "A client has net worth of S$179,000 and total assets of S$310,000. What is his solvency ratio?",
+    "options": {
+      "A": "42.3%",
+      "B": "57.7%",
+      "C": "173.2%",
+      "D": "73.2%"
+    },
+    "answer": "B",
+    "explanation": "Solvency ratio = net worth / total assets = S$179,000 / S$310,000 = 0.577, or 57.7%. The figure of 42.3% is the debt-to-asset ratio, and the two necessarily sum to 100%.",
+    "calc": true
+  },
+  {
+    "id": "r23-q20",
+    "conceptId": "r23-09",
+    "stem": "A client's debt-to-asset ratio is 42%. What is his solvency ratio?",
+    "options": {
+      "A": "42%",
+      "B": "50%",
+      "C": "58%",
+      "D": "It cannot be determined without the net worth figure"
+    },
+    "answer": "C",
+    "explanation": "The solvency ratio is the complement of the debt-to-asset ratio, so the two sum to 100%. 100% - 42% = 58%, and no further information is needed.",
+    "calc": true
+  },
+  {
+    "id": "r23-q21",
+    "conceptId": "r23-09",
+    "stem": "What does it mean when a client's liabilities exceed his assets?",
+    "options": {
+      "A": "His liquidity ratio must also be negative",
+      "B": "His debt service ratio automatically exceeds 35%",
+      "C": "His net worth is zero and his solvency ratio is 100%",
+      "D": "His net worth is negative and he is technically insolvent"
+    },
+    "answer": "D",
+    "explanation": "Where liabilities exceed assets, net worth is negative and the person is technically insolvent. The liquidity and debt service ratios measure different things and do not follow automatically.",
+    "calc": false
+  },
+  {
+    "id": "r23-q22",
+    "conceptId": "r23-01",
+    "stem": "A financial adviser wants to know how much a client has accumulated as at 31 December. Which statement should he look at?",
+    "options": {
+      "A": "The balance sheet, because it is a point-in-time statement of net worth",
+      "B": "Either, because both report the same information",
+      "C": "Neither, because accumulation is measured only by the savings ratio",
+      "D": "The income statement, because it summarises the year"
+    },
+    "answer": "A",
+    "explanation": "Accumulation as at a specific date is a point-in-time question, which the balance sheet answers. The income statement would tell him about income against expenditure over the year instead.",
     "calc": false
   }
 ]
