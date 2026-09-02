@@ -25,6 +25,8 @@ export interface MockQuestion {
   stem: string
   options: Record<Letter, string>
   answer: Letter
+  /** Present on authored (non-official) papers; shown in the review screen. */
+  explanation?: string
 }
 
 export interface MockPaper {

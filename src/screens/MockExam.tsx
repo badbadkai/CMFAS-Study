@@ -150,6 +150,12 @@ export default function MockExam() {
             )
           })}
           {!chosen && <p className="px-1 text-xs text-amber-400/80">You left this one blank.</p>}
+          {rq.explanation && (
+            <div className="rounded-2xl bg-panel/80 px-4 py-3 ring-1 ring-white/10">
+              <p className="text-xs font-bold uppercase tracking-wide text-slate-400">Why</p>
+              <p className="mt-1 whitespace-pre-line text-[14px] leading-snug text-slate-300">{rq.explanation}</p>
+            </div>
+          )}
         </div>
 
         <div className="mt-auto flex items-center justify-between gap-3 px-4 pb-6 pt-4">

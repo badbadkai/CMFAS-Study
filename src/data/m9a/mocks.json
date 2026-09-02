@@ -544,7 +544,7 @@
      "stem": "A recommendation should be:",
      "options": {
       "A": "Based primarily on commissions",
-      "B": "Suitable for the client’s needs",
+      "B": "Suitable for the client\u2019s needs",
       "C": "Identical for all clients",
       "D": "Based on marketing materials only"
      },
@@ -689,7 +689,7 @@
      "id": "M9A-P2-Q3",
      "paper": 2,
      "num": 3,
-     "stem": "An investor purchases a participation product linked to an equity index. If the participation rate is 80% and the index rises 25%, the investor’s participation gain is:",
+     "stem": "An investor purchases a participation product linked to an equity index. If the participation rate is 80% and the index rises 25%, the investor\u2019s participation gain is:",
      "options": {
       "A": "5%",
       "B": "20%",
@@ -913,7 +913,7 @@
      "stem": "Issuer credit deterioration would most directly affect:",
      "options": {
       "A": "Underlying asset volatility only",
-      "B": "The issuer’s ability to meet obligations",
+      "B": "The issuer\u2019s ability to meet obligations",
       "C": "Market index performance",
       "D": "Investor risk tolerance"
      },
@@ -1173,7 +1173,7 @@
      "stem": "A recommendation may be unsuitable if:",
      "options": {
       "A": "It matches objectives",
-      "B": "Risks exceed the client’s tolerance and capacity",
+      "B": "Risks exceed the client\u2019s tolerance and capacity",
       "C": "It includes disclosure documents",
       "D": "It is diversified"
      },
@@ -1198,10 +1198,10 @@
      "num": 42,
      "stem": "Which factor is LEAST relevant when assessing suitability of a structured ILP?",
      "options": {
-      "A": "Client’s risk tolerance",
-      "B": "Client’s investment horizon",
-      "C": "Representative’s sales target",
-      "D": "Client’s liquidity needs"
+      "A": "Client\u2019s risk tolerance",
+      "B": "Client\u2019s investment horizon",
+      "C": "Representative\u2019s sales target",
+      "D": "Client\u2019s liquidity needs"
      },
      "answer": "C"
     },
@@ -1304,7 +1304,7 @@
      "options": {
       "A": "Expected returns exceed inflation",
       "B": "Product commission is competitive",
-      "C": "Product features, risks and objectives align with the client’s profile",
+      "C": "Product features, risks and objectives align with the client\u2019s profile",
       "D": "Product has historically outperformed peers"
      },
      "answer": "C"
@@ -1318,11 +1318,11 @@
      "id": "M9A-P3-Q1",
      "paper": 3,
      "num": 1,
-     "stem": "A client says, “I want the highest possible return and I don’t care about risk.”",
+     "stem": "A client says, \u201cI want the highest possible return and I don\u2019t care about risk.\u201d",
      "options": {
       "A": "Recommend the highest-returning product available",
       "B": "Recommend a leveraged CFD",
-      "C": "Assess the client’s overall circumstances before making a recommendation",
+      "C": "Assess the client\u2019s overall circumstances before making a recommendation",
       "D": "Recommend an exotic structured product immediately"
      },
      "answer": "C"
@@ -1361,7 +1361,7 @@
      "options": {
       "A": "The product has performed well historically",
       "B": "The client understands the risks",
-      "C": "The product does not meet the client’s objectives",
+      "C": "The product does not meet the client\u2019s objectives",
       "D": "All disclosures were provided"
      },
      "answer": "C"
@@ -1438,7 +1438,7 @@
      "stem": "A client says he understands a product but cannot explain how returns are generated.",
      "options": {
       "A": "Proceed with the sale",
-      "B": "Reassess the client’s understanding",
+      "B": "Reassess the client\u2019s understanding",
       "C": "Ignore the issue",
       "D": "Focus on disclosures only"
      },
@@ -1474,7 +1474,7 @@
      "id": "M9A-P3-Q13",
      "paper": 3,
      "num": 13,
-     "stem": "A client’s risk tolerance is high but risk capacity is low.",
+     "stem": "A client\u2019s risk tolerance is high but risk capacity is low.",
      "options": {
       "A": "Risk capacity",
       "B": "Risk tolerance",
@@ -1556,7 +1556,7 @@
      "options": {
       "A": "It maximises expected return",
       "B": "It generates the highest commission",
-      "C": "It matches the client’s objectives, needs and risk profile",
+      "C": "It matches the client\u2019s objectives, needs and risk profile",
       "D": "It has outperformed peers"
      },
      "answer": "C"
@@ -1738,7 +1738,7 @@
      "options": {
       "A": "A suitable product is always the safest product",
       "B": "A suitable product is always the highest-returning product",
-      "C": "A suitable product matches the client’s objectives, circumstances and risk profile",
+      "C": "A suitable product matches the client\u2019s objectives, circumstances and risk profile",
       "D": "A suitable product must provide capital protection"
      },
      "answer": "C"
@@ -1830,7 +1830,7 @@
       "A": "Client objectives",
       "B": "Client investment horizon",
       "C": "Client risk profile",
-      "D": "Representative’s commission level"
+      "D": "Representative\u2019s commission level"
      },
      "answer": "D"
     },
@@ -1842,7 +1842,7 @@
      "options": {
       "A": "Highest return",
       "B": "Lowest risk",
-      "C": "Most suitable answer based on the client’s circumstances",
+      "C": "Most suitable answer based on the client\u2019s circumstances",
       "D": "Most complex solution"
      },
      "answer": "C"
@@ -1920,7 +1920,7 @@
      "options": {
       "A": "Generates strong commissions",
       "B": "Is easiest to sell",
-      "C": "Meets the client’s objectives and constraints",
+      "C": "Meets the client\u2019s objectives and constraints",
       "D": "Offers maximum leverage"
      },
      "answer": "C"
@@ -1999,7 +1999,7 @@
      "id": "M9A-P4-Q3",
      "paper": 4,
      "num": 3,
-     "stem": "Which statement best describes Mr Tan’s objective?",
+     "stem": "Which statement best describes Mr Tan\u2019s objective?",
      "options": {
       "A": "Aggressive growth",
       "B": "Capital preservation with income needs",
@@ -2015,7 +2015,7 @@
      "stem": "The proposed 7-year product may be unsuitable because:",
      "options": {
       "A": "It contains equities",
-      "B": "It exceeds the client’s likely liquidity horizon",
+      "B": "It exceeds the client\u2019s likely liquidity horizon",
       "C": "It is professionally managed",
       "D": "It offers diversification"
      },
@@ -2272,7 +2272,7 @@
      "id": "M9A-P4-Q24",
      "paper": 4,
      "num": 24,
-     "stem": "The client’s experience level suggests:",
+     "stem": "The client\u2019s experience level suggests:",
      "options": {
       "A": "Greater caution",
       "B": "Greater leverage",
@@ -2324,7 +2324,7 @@
      "id": "M9A-P4-Q28",
      "paper": 4,
      "num": 28,
-     "stem": "The client’s time horizon suggests:",
+     "stem": "The client\u2019s time horizon suggests:",
      "options": {
       "A": "Unlimited risk capacity",
       "B": "Moderate liquidity considerations",
@@ -2519,7 +2519,7 @@
      "id": "M9A-P4-Q43",
      "paper": 4,
      "num": 43,
-     "stem": "Client B’s primary concern is likely:",
+     "stem": "Client B\u2019s primary concern is likely:",
      "options": {
       "A": "Aggressive growth",
       "B": "Liquidity and income needs",
@@ -2597,7 +2597,7 @@
      "id": "M9A-P4-Q49",
      "paper": 4,
      "num": 49,
-     "stem": "The representative’s obligation is to:",
+     "stem": "The representative\u2019s obligation is to:",
      "options": {
       "A": "Recommend suitable solutions",
       "B": "Maximise commissions",
@@ -2618,6 +2618,2121 @@
       "D": "Most complex product"
      },
      "answer": "C"
+    }
+   ]
+  },
+  {
+   "paper": 5,
+   "questions": [
+    {
+     "id": "M9A-P5-Q1",
+     "paper": 5,
+     "num": 1,
+     "stem": "Ms Lim invests S$100,000 in a 5-year equity-linked note. A zero-coupon bond returns her principal at maturity and a call option provides market participation. The reference stock falls 40% over the term. The product issuer has not provided a separate guarantee. Which statement about Ms Lim's position at maturity is most accurate?",
+     "options": {
+      "A": "She loses 40% of her capital because the note mirrors the stock one-for-one",
+      "B": "Her capital is at risk only if the zero-coupon bond issuer defaults, not merely because the reference stock fell",
+      "C": "She receives the full market gain because the stock fall makes the call option more valuable",
+      "D": "The note guarantees S$100,000 regardless of any issuer's creditworthiness"
+     },
+     "answer": "B",
+     "explanation": "The zero-coupon bond returns principal at maturity if its issuer does not default. The call option simply expires worthless when the stock falls, producing no participation payoff. Capital risk arises from the bond issuer's credit, not from the reference stock's price move. The product provides downside protection through the bond component, not an unconditional guarantee."
+    },
+    {
+     "id": "M9A-P5-Q2",
+     "paper": 5,
+     "num": 2,
+     "stem": "An adviser must choose between wrapping a client's structured investment as a structured deposit or a structured fund (unit trust). Which distinction is most significant for the client's protection if the issuing institution fails?",
+     "options": {
+      "A": "A structured deposit ranks ahead of a fund unit in liquidation because deposits always receive priority",
+      "B": "A structured deposit is covered by the Deposit Insurance Scheme, unlike a structured fund",
+      "C": "A structured fund holds assets through an independent trustee, so the client has beneficial ownership separate from the issuer's balance sheet; a structured deposit holder is an unsecured creditor of the bank",
+      "D": "Both wrappers give identical creditor protection because MAS regulates both"
+     },
+     "answer": "C",
+     "explanation": "A structured fund (CIS) holds assets through a third-party trustee, so investors have beneficial ownership that is not part of the issuer's estate in insolvency. A structured deposit is excluded from the Deposit Insurance Scheme and makes the holder an unsecured creditor of the bank. This is the single most consequential difference between wrappers. The deposit does not rank ahead of fund units and is not DIS-covered."
+    },
+    {
+     "id": "M9A-P5-Q3",
+     "paper": 5,
+     "num": 3,
+     "stem": "A bank structures a 3-year note for Mr Goh who invests S$10,000. The reference zero-coupon yield for a 3-year senior unsecured issue is 3.20% per annum. An at-the-money 3-year call on the linked index costs 12.5% of notional. What participation rate does Mr Goh receive, to one decimal place?",
+     "options": {
+      "A": "90.2%",
+      "B": "80.2%",
+      "C": "65.4%",
+      "D": "72.1%"
+     },
+     "answer": "D",
+     "explanation": "Bond cost = S$10,000 / (1.032)^3 = S$10,000 / 1.09911 = S$9,098.30. Option budget = S$10,000 - S$9,098.30 = S$901.70. Option cost in dollars = 12.5% x S$10,000 = S$1,250. Participation rate = S$901.70 / S$1,250 = 72.1%. The 80.2% distractor uses a 3% yield instead of 3.2%. The 90.2% distractor divides the option budget by the bond cost rather than the option premium. The 65.4% distractor applies the participation rate to the bond cost rather than the notional."
+    },
+    {
+     "id": "M9A-P5-Q4",
+     "paper": 5,
+     "num": 4,
+     "stem": "A 1-year reverse convertible note of S$50,000 par is linked to a Singapore telco stock at S$4.00 on issue date. The kick-in level is 25% below the issue price. The note pays a 10% coupon. Delivery is 12,500 shares per S$50,000 par if the kick-in is breached. At maturity the share price is S$2.80. What does the investor receive in total?",
+     "options": {
+      "A": "S$40,000",
+      "B": "S$45,000",
+      "C": "S$55,000",
+      "D": "S$35,000"
+     },
+     "answer": "A",
+     "explanation": "Kick-in level = S$4.00 x (1 - 0.25) = S$3.00. At S$2.80 the kick-in IS breached. Investor receives shares: 12,500 x S$2.80 = S$35,000, plus coupon of 10% x S$50,000 = S$5,000. Total = S$40,000. The S$55,000 option assumes the kick-in is not breached (par + coupon). The S$45,000 option uses the wrong share price of S$3.20. The S$35,000 option omits the coupon."
+    },
+    {
+     "id": "M9A-P5-Q5",
+     "paper": 5,
+     "num": 5,
+     "stem": "A 2-year bonus certificate on a Singapore property stock is issued at S$3.00. The barrier is continuously monitored at 70% of the issue price. The bonus level is S$3.50. During month 8, the stock dips to S$2.09 then recovers. At maturity the stock is S$3.20. What does the investor receive?",
+     "options": {
+      "A": "S$3.50",
+      "B": "S$3.20",
+      "C": "S$3.00",
+      "D": "S$2.09"
+     },
+     "answer": "B",
+     "explanation": "The barrier is at 70% x S$3.00 = S$2.10. The stock touched S$2.09, breaching the barrier. Once the knock-out is triggered, the bonus protection is permanently lost even if the stock recovers. The investor receives the underlying price at maturity: S$3.20. The S$3.50 option applies the bonus level, which only survives if the barrier is never breached. The S$3.00 issue price and the intraday low are both incorrect."
+    },
+    {
+     "id": "M9A-P5-Q6",
+     "paper": 5,
+     "num": 6,
+     "stem": "An airbag certificate is issued at S$40.00 nominal with the airbag level at 35% of spot, S$14.00. At maturity the underlying stock closes at S$10.00. What is the redemption value?",
+     "options": {
+      "A": "S$10.00",
+      "B": "S$14.00",
+      "C": "S$28.57",
+      "D": "S$40.00"
+     },
+     "answer": "C",
+     "explanation": "The final price S$10.00 is below the airbag level S$14.00, so redemption = Nominal x (Final price / Airbag level) = S$40.00 x (10.00 / 14.00) = S$40.00 x 0.7143 = S$28.57. The S$40.00 option applies only at or above the airbag level. The S$14.00 option confuses the airbag level with the payout. The S$10.00 option is the stock price itself, which would apply to a bonus certificate after knock-out, not an airbag certificate."
+    },
+    {
+     "id": "M9A-P5-Q7",
+     "paper": 5,
+     "num": 7,
+     "stem": "A client holds a callable structured note. Singapore interest rates have fallen significantly since the note was issued. Which outcome is most likely, and which risk does it illustrate?",
+     "options": {
+      "A": "The issuer will call the note and the client must reinvest at lower prevailing rates, illustrating reinvestment risk",
+      "B": "The note price falls because rates have fallen, illustrating market risk",
+      "C": "The client will call the note themselves to lock in a price gain",
+      "D": "The issuer will call the note and pay the client a premium above par as compensation"
+     },
+     "answer": "A",
+     "explanation": "The callable feature gives the ISSUER the right to redeem early. When rates fall, the issuer refinances more cheaply by calling the note, and the investor must reinvest proceeds at the lower prevailing yields. This is reinvestment risk. The note's price would RISE when rates fall (not fall), so the market risk distractor is wrong in direction. The client does not hold the call."
+    },
+    {
+     "id": "M9A-P5-Q8",
+     "paper": 5,
+     "num": 8,
+     "stem": "Mr Goh invests S$10,000 in a 5-year STI-linked note with 100% capital protection at maturity and a participation rate of 72.1% on the index. At maturity the STI has risen 20% from inception. What is the total payout?",
+     "options": {
+      "A": "S$11,442",
+      "B": "S$12,000",
+      "C": "S$11,200",
+      "D": "S$11,721"
+     },
+     "answer": "A",
+     "explanation": "Payoff = Principal + (Principal x Participation rate x Index return) = S$10,000 + (S$10,000 x 0.721 x 0.20) = S$10,000 + S$1,442 = S$11,442. The S$12,000 option applies the full 20% gain without the participation rate discount. The S$11,200 option applies a 12% gross gain. The S$11,721 distractor uses 72.1% of the full 20% gain correctly but then adds to a wrong principal figure."
+    },
+    {
+     "id": "M9A-P5-Q9",
+     "paper": 5,
+     "num": 9,
+     "stem": "Mr Hassan holds S$50,000 of a bank's senior structured notes and S$50,000 of the same bank's subordinated structured notes. The bank is wound up with assets sufficient to repay senior creditors 70 cents in the dollar and nothing thereafter. What does Mr Hassan receive in total?",
+     "options": {
+      "A": "S$70,000",
+      "B": "S$35,000",
+      "C": "S$52,500",
+      "D": "S$50,000"
+     },
+     "answer": "B",
+     "explanation": "Senior debt ranks first. Senior holding: S$50,000 x 70% = S$35,000. Subordinated holding: nothing remains after senior creditors, so S$0. Total = S$35,000. The S$70,000 distractor applies 70% to both holdings. The S$52,500 distractor applies 70% to the senior and 35% to the subordinated. Structured notes are NOT deposit-insured, so the S$50,000 option is wrong."
+    },
+    {
+     "id": "M9A-P5-Q10",
+     "paper": 5,
+     "num": 10,
+     "stem": "A discount certificate on a Singapore REIT is issued at S$1.76 (a 12% discount to spot of S$2.00) with a cap-strike of S$2.10. At maturity the REIT is at S$2.40. What does the certificate investor receive and what is the percentage return on the purchase price?",
+     "options": {
+      "A": "S$2.40; +36.4%",
+      "B": "S$1.76; 0%",
+      "C": "S$2.10; +19.3%",
+      "D": "S$2.00; +13.6%"
+     },
+     "answer": "C",
+     "explanation": "The REIT price S$2.40 is above the cap-strike S$2.10. The investor receives a cash settlement equal to the cap-strike: S$2.10. Return = (S$2.10 - S$1.76) / S$1.76 = S$0.34 / S$1.76 = 19.3%. The S$2.40 option would apply to a direct REIT investment with no cap. The S$2.00 option confuses the spot price with the payout. The breakeven price is the purchase price S$1.76."
+    },
+    {
+     "id": "M9A-P5-Q11",
+     "paper": 5,
+     "num": 11,
+     "stem": "A 5-year note offers 100% capital protection at maturity and a 60% participation rate on the STI. At year 3, the bank that issued the zero-coupon bond component enters judicial management. The product issuer has not provided a separate guarantee. Which risk has crystallised and what is the most likely outcome?",
+     "options": {
+      "A": "Market risk: the STI could still fall before maturity",
+      "B": "Correlation risk: the bond and index now move together",
+      "C": "Counterparty credit risk from the bond issuer's failure, which may mean the investor receives less than full principal at maturity even if the index rises",
+      "D": "Liquidity risk: the secondary market for the note will freeze"
+     },
+     "answer": "C",
+     "explanation": "Capital protection is provided by the zero-coupon bond. If the bond issuer fails and the product issuer has not given a separate guarantee, the investor is an unsecured creditor of the failed bond issuer and may receive less than full principal at maturity. This is counterparty credit risk from the bond issuer. The index performance is irrelevant to this risk. Liquidity may also suffer but does not explain the principal shortfall."
+    },
+    {
+     "id": "M9A-P5-Q12",
+     "paper": 5,
+     "num": 12,
+     "stem": "An adviser recommends a USD-denominated structured note to a Singapore-based client. The note matures at par in USD and the underlying US equity basket rises 30%, giving a strong USD return. However the SGD strengthens 15% against the USD over the term. Which risk most directly reduces the client's SGD-equivalent return?",
+     "options": {
+      "A": "Structural risk from embedded leverage in the note",
+      "B": "Correlation risk between the equity basket components",
+      "C": "Early redemption risk if the note is called before maturity",
+      "D": "Foreign exchange risk from converting USD proceeds back to SGD"
+     },
+     "answer": "D",
+     "explanation": "The USD return is strong, but the SGD has strengthened 15% against USD, so the conversion back to SGD reduces the investor's real return. This is FX risk operating through the principal conversion and performance measurement channels simultaneously. No barrier or call trigger is mentioned, and correlation risk relates to payoff from multiple underlying assets, not currency conversion."
+    },
+    {
+     "id": "M9A-P5-Q13",
+     "paper": 5,
+     "num": 13,
+     "stem": "Which of the following is LEAST accurate about structural risk in a structured product?",
+     "options": {
+      "A": "Structural risk is completely eliminated by trading the product on an exchange with central clearing",
+      "B": "A kick-in barrier can suddenly expose the investor to full downside losses once breached",
+      "C": "Embedded leverage can amplify losses beyond the underlying asset's percentage move",
+      "D": "Concentration in a small number of reference entities is a form of structural risk"
+     },
+     "answer": "A",
+     "explanation": "Exchange listing and central clearing reduce counterparty risk but do not eliminate structural risk. Structural risk is built into the product design, including leverage, barriers, concentration and collateral quality. These product features remain regardless of the listing venue. The other three options all correctly describe structural risk as defined in the study text."
+    },
+    {
+     "id": "M9A-P5-Q14",
+     "paper": 5,
+     "num": 14,
+     "stem": "A structured product linked to a basket of five stocks has correlation assumptions built into its pricing model. A market crisis causes all five stocks to become highly positively correlated, moving together more than the model assumed. Which risk category best describes this development?",
+     "options": {
+      "A": "Modelling risk only, because correlation is not classified as a separate risk",
+      "B": "Correlation risk: the shift in correlations causes the payoff and the hedge to behave differently than modelled",
+      "C": "Liquidity risk: highly correlated stocks are harder to trade independently",
+      "D": "Legal risk: the product documentation assumed independent stock movements"
+     },
+     "answer": "B",
+     "explanation": "Correlation risk is the specific named risk in the study text: it runs from -1 to +1 and when correlations shift, multi-asset structured product payoffs and hedges diverge from the model. Modelling risk is closely related but refers to the model itself breaking down; correlation risk is the named category for this specific scenario. Liquidity and legal risks are separate categories."
+    },
+    {
+     "id": "M9A-P5-Q15",
+     "paper": 5,
+     "num": 15,
+     "stem": "An investor holds a 3-year structured note with 100% capital protection and a 70% participation rate. At year 2 she urgently needs cash and unwinds the note. The STI is up 10% from inception. The unwind quote is S$96,200 on a S$100,000 investment. Which best explains why she receives less than principal despite a positive index move?",
+     "options": {
+      "A": "The 70% participation rate is applied as a penalty on early redemption",
+      "B": "The capital protection applies only at maturity; the mark-to-market unwind includes a fall in the bond's value from rising yields and a reduction in the option's time value",
+      "C": "The issuer has applied a 3.8% early redemption fee as disclosed in the prospectus",
+      "D": "The STI gain of 10% x 70% = 7% is deducted from the principal on early exit"
+     },
+     "answer": "B",
+     "explanation": "Capital protection applies only at the scheduled maturity date. Early redemption triggers a mark-to-market unwind: if yields have risen since issue, the zero-coupon bond's current value is below the invested amount; and the option has lost time value by year 2. Both factors depress the unwind price below par even though the index moved favourably. No early redemption penalty or participation-rate deduction is implied."
+    },
+    {
+     "id": "M9A-P5-Q16",
+     "paper": 5,
+     "num": 16,
+     "stem": "An auto-callable structured note pays 8% per annum if all five reference stocks are at or above 100% of initial prices at each annual observation. At the 2-year observation all five stocks clear 100% and the note is automatically redeemed. Similar 3-year notes now offer only 5% per annum. Which risk has materialised?",
+     "options": {
+      "A": "Early redemption risk, which is a form of reinvestment risk: the investor must now reinvest at less favourable terms",
+      "B": "Credit risk, because the issuer is repaying early to reduce its obligations",
+      "C": "Market risk, because the stocks rose above their initial prices",
+      "D": "Liquidity risk, because the redemption proceeds may be in an illiquid currency"
+     },
+     "answer": "A",
+     "explanation": "Early redemption risk is a specific form of reinvestment risk identified in the study text for callable and auto-callable structures. The investor loses the remaining 3 years of the original 8% and must reinvest at the current 5% offer. No default, currency issue, or market directional risk has materialised; the trigger operated exactly as designed, creating reinvestment risk."
+    },
+    {
+     "id": "M9A-P5-Q17",
+     "paper": 5,
+     "num": 17,
+     "stem": "During extreme market stress a designated market-maker on SGX is quoting a structured note bid price 12% below the investor's purchase price. The market-maker is quoting validly but under severe pricing pressure. Which liquidity risk sub-type has occurred?",
+     "options": {
+      "A": "Institutional liquidity risk: the market for the instrument has dislocated, making a fair-price exit unavailable",
+      "B": "Investor liquidity risk: the investor personally cannot hold to maturity due to a cash need",
+      "C": "Counterparty credit risk: the market-maker may default",
+      "D": "Modelling risk: the pricing model has over-estimated the bid price"
+     },
+     "answer": "A",
+     "explanation": "Institutional liquidity risk is the study text's term for the market for an instrument drying up or becoming dislocated so that fair pricing is unavailable. The market-maker is still quoting (no default) but the bid is severely impaired, fitting the institutional liquidity definition. Investor liquidity risk describes a personal inability to remain invested, not a market pricing failure."
+    },
+    {
+     "id": "M9A-P5-Q18",
+     "paper": 5,
+     "num": 18,
+     "stem": "An airline enters a 6-month forward contract to buy jet fuel at US$90 per barrel. At delivery, the spot price is US$105 per barrel. Which statement correctly describes the airline's net cost position?",
+     "options": {
+      "A": "The airline pays US$105 spot and loses US$15 per barrel on the forward, net cost US$120",
+      "B": "The airline pays US$90 per barrel under the forward, locking in its budgeted cost regardless of the spot price",
+      "C": "The airline cancels the forward and buys at spot US$105 for a saving relative to the forward",
+      "D": "The airline must pay the higher of spot or forward, so US$105 per barrel"
+     },
+     "answer": "B",
+     "explanation": "A forward contract is an obligation on both sides. The airline locked in US$90 per barrel; it pays US$90 under the forward regardless of the US$105 spot price. Either the gain on the settled forward offsets the higher spot purchase, or delivery is taken at US$90 directly. This is a long hedge protecting a future purchase. Forward contracts cannot be unilaterally cancelled."
+    },
+    {
+     "id": "M9A-P5-Q19",
+     "paper": 5,
+     "num": 19,
+     "stem": "A fund manager has a Singapore portfolio worth S$1,200,000 with a portfolio beta of 1.5. The STI March futures contract is at 3,200, multiplier S$10 per point. How many contracts must the manager sell to fully hedge the portfolio's market exposure?",
+     "options": {
+      "A": "38 contracts",
+      "B": "32 contracts",
+      "C": "48 contracts",
+      "D": "56 contracts"
+     },
+     "answer": "D",
+     "explanation": "Price coverage per contract = 3,200 x S$10 = S$32,000. Hedge ratio = (Portfolio value / Price coverage) x Beta = (S$1,200,000 / S$32,000) x 1.5 = 37.5 x 1.5 = 56.25, rounded to 56 contracts. The 38-contract distractor comes from ignoring beta (1,200,000 / 32,000 = 37.5). The 48-contract distractor uses beta 1.2 instead of 1.5. The 32-contract distractor divides 1,200,000 by 37,500 instead of 32,000."
+    },
+    {
+     "id": "M9A-P5-Q20",
+     "paper": 5,
+     "num": 20,
+     "stem": "Gold spot is S$3,000 per ounce. The 6-month risk-free rate is 4.00% per annum. Combined storage and insurance costs 0.60% per annum of value. What is the 6-month forward price?",
+     "options": {
+      "A": "S$3,042.00",
+      "B": "S$3,057.00",
+      "C": "S$3,079.00",
+      "D": "S$3,069.00"
+     },
+     "answer": "D",
+     "explanation": "Interest cost over 6 months = S$3,000 x 0.04 x 0.5 = S$60.00. Storage and insurance = S$3,000 x 0.006 x 0.5 = S$9.00. Total carry = S$69.00. Forward price = S$3,000 + S$69 = S$3,069. The S$3,042 distractor adds only storage/insurance and ignores interest. The S$3,057 distractor adds only the interest component. The S$3,079 distractor applies the full annual rates without halving for the 6-month term."
+    },
+    {
+     "id": "M9A-P5-Q21",
+     "paper": 5,
+     "num": 21,
+     "stem": "Which of the following is EXCEPT an accurate statement about how futures and forwards differ?",
+     "options": {
+      "A": "Futures are exchange-traded and standardised; forwards are OTC and customised",
+      "B": "Futures are marked to market daily; forwards settle P&L only at maturity",
+      "C": "Both futures and forwards require ISDA margin documentation under all circumstances",
+      "D": "A forward price equals spot plus cost of carry and is an arbitrage-free relationship, not a price forecast"
+     },
+     "answer": "C",
+     "explanation": "Futures use exchange-mandated margin administered by the clearing house, not ISDA documentation. ISDA agreements with collateral and netting apply to OTC derivatives such as forwards and swaps, and even for OTC contracts ISDA margin is not always required. Options A, B, and D all correctly describe the futures-forward distinction per the study text."
+    },
+    {
+     "id": "M9A-P5-Q22",
+     "paper": 5,
+     "num": 22,
+     "stem": "A trader buys 3 stock index futures contracts at 3,000, multiplier S$10 per point. Initial margin S$7,000 per contract; maintenance margin S$5,600 per contract. On Day 1 the index settles at 2,940. What is the margin account balance after Day 1, and is a margin call triggered?",
+     "options": {
+      "A": "Balance S$21,000; no call",
+      "B": "Balance S$19,200; no call",
+      "C": "Balance S$16,800; call triggered",
+      "D": "Balance S$17,200; call triggered"
+     },
+     "answer": "B",
+     "explanation": "Initial total margin = 3 x S$7,000 = S$21,000. Maintenance total = 3 x S$5,600 = S$16,800. Day 1 move: (2,940 - 3,000) x S$10 x 3 = -60 x S$10 x 3 = -S$1,800. Balance = S$21,000 - S$1,800 = S$19,200. Since S$19,200 > S$16,800 maintenance, no call is triggered. The S$17,200 distractor uses only 2 contracts. The S$16,800 distractor confuses the maintenance margin with the remaining balance. The S$21,000 distractor shows no change."
+    },
+    {
+     "id": "M9A-P5-Q23",
+     "paper": 5,
+     "num": 23,
+     "stem": "A trader buys a long call: 1 contract of 100 shares, strike S$12.00, premium S$1.50 per share. At expiry the stock is S$15.00. What is the net profit on the full contract?",
+     "options": {
+      "A": "S$300",
+      "B": "S$450",
+      "C": "S$200",
+      "D": "S$150"
+     },
+     "answer": "D",
+     "explanation": "Intrinsic value at expiry = S$15.00 - S$12.00 = S$3.00 per share. Net profit per share = S$3.00 - S$1.50 premium = S$1.50. Total = S$1.50 x 100 shares = S$150. The S$300 distractor forgets to subtract the premium (S$3.00 x 100). The S$450 distractor uses the full stock price minus the strike without netting the premium. The S$200 distractor applies a wrong intrinsic value."
+    },
+    {
+     "id": "M9A-P5-Q24",
+     "paper": 5,
+     "num": 24,
+     "stem": "Michael owns 200 shares of ABC bought at S$8.00. He writes 2 covered call contracts (100 shares each) at a strike of S$8.00 for a premium of S$0.80 per share. At expiry ABC trades at S$11.00. What is Michael's total net profit from the covered call position?",
+     "options": {
+      "A": "S$600",
+      "B": "S$760",
+      "C": "S$160",
+      "D": "S$460"
+     },
+     "answer": "C",
+     "explanation": "The calls are exercised. Michael sells shares at the strike S$8.00, which equals his purchase cost, so stock gain = S$0. Premium income = S$0.80 x 200 shares = S$160. Total net gain = S$160. The S$600 distractor treats the position as uncapped (S$3.00 gain x 200). The S$760 distractor adds the premium on top of the uncapped gain. The S$460 distractor uses the stock gain but applies an incorrect premium calculation. The covered call caps the upside at the premium received."
+    },
+    {
+     "id": "M9A-P5-Q25",
+     "paper": 5,
+     "num": 25,
+     "stem": "A trader buys a long put on stock ZYX, strike S$10.00, premium S$0.90 per share, 1 contract of 100 shares. ZYX falls to S$7.50 at expiry. What is the net profit?",
+     "options": {
+      "A": "S$250",
+      "B": "S$340",
+      "C": "S$90",
+      "D": "S$160"
+     },
+     "answer": "D",
+     "explanation": "Intrinsic value of put = S$10.00 - S$7.50 = S$2.50 per share. Net profit per share = S$2.50 - S$0.90 = S$1.60. Total = S$1.60 x 100 = S$160. The S$250 distractor ignores the premium (S$2.50 x 100). The S$340 distractor adds the premium instead of subtracting it. The S$90 distractor is just the total premium paid, treating the position as a total loss."
+    },
+    {
+     "id": "M9A-P5-Q26",
+     "paper": 5,
+     "num": 26,
+     "stem": "An investor simultaneously buys a call and a put on stock PQR, both at strike S$20.00 with the same expiry. The call premium is S$1.20 and the put premium is S$1.00 per share (100 shares per contract). What are the upper and lower breakeven prices at expiry for this long straddle?",
+     "options": {
+      "A": "Upper S$22.20; Lower S$17.80",
+      "B": "Upper S$21.20; Lower S$18.80",
+      "C": "Upper S$22.00; Lower S$18.00",
+      "D": "Upper S$21.00; Lower S$19.00"
+     },
+     "answer": "A",
+     "explanation": "Total premium = S$1.20 + S$1.00 = S$2.20 per share. Upper breakeven = Strike + Total premium = S$20.00 + S$2.20 = S$22.20. Lower breakeven = Strike - Total premium = S$20.00 - S$2.20 = S$17.80. The S$21.20/S$18.80 distractor uses only the call premium. The S$22.00/S$18.00 distractor rounds S$2.20 to S$2.00. The S$21.00/S$19.00 distractor uses only the put premium."
+    },
+    {
+     "id": "M9A-P5-Q27",
+     "paper": 5,
+     "num": 27,
+     "stem": "A trader writes (sells) a straddle on stock MNO at strike S$50.00: she sells 1 call and 1 put, each at a premium of S$2.50 per share, on a 100-share contract. At expiry MNO is at S$54.00. What is her net profit or loss?",
+     "options": {
+      "A": "Loss of S$100",
+      "B": "Profit of S$500",
+      "C": "Profit of S$100",
+      "D": "Loss of S$500"
+     },
+     "answer": "C",
+     "explanation": "Total premium received = (S$2.50 + S$2.50) x 100 = S$500. At S$54.00, the call is exercised against her: loss = (S$54.00 - S$50.00) x 100 = S$400. The put expires worthless: gain = S$0. Net = S$500 premium - S$400 call loss = S$100 profit. Upper breakeven = S$50 + S$5 = S$55; S$54 is inside the upper breakeven, so a profit is made. The S$500 profit distractor ignores the call loss. The S$100 loss distractor gets the direction wrong."
+    },
+    {
+     "id": "M9A-P5-Q28",
+     "paper": 5,
+     "num": 28,
+     "stem": "In a credit default swap (CDS), Bank A (the protection buyer) pays 100 basis points per annum on S$5,000,000 notional. The reference entity defaults after exactly 18 months. Bank A did NOT hold any bonds issued by the reference entity. What is the legal position of Bank A's CDS claim?",
+     "options": {
+      "A": "Invalid: the protection buyer must own the underlying bond to make a CDS claim",
+      "B": "Valid: a CDS protection buyer need not own the reference asset; the CDS transfers credit risk regardless of whether the buyer holds the bonds",
+      "C": "Valid only if Bank A can demonstrate actual economic loss equal to the bond's fall in market value",
+      "D": "Invalid: CDS contracts terminate automatically when the protection buyer holds no underlying exposure"
+     },
+     "answer": "B",
+     "explanation": "A defining and examinable feature of the CDS is that the protection buyer need not own the reference asset. This is precisely what made CDS a speculative tool on credit: one can buy protection against a default without holding the underlying bond. Bank A has paid 18 months of premium and is entitled to the credit-event payment. The 'must own the bond' option states the exact opposite of the CDS rule."
+    },
+    {
+     "id": "M9A-P5-Q29",
+     "paper": 5,
+     "num": 29,
+     "stem": "Company X borrows from its bank at LIBOR + 1.00% floating. It then enters an interest rate swap, paying 4.50% fixed and receiving LIBOR. What is Company X's all-in fixed-rate cost of funds after the swap?",
+     "options": {
+      "A": "4.50%",
+      "B": "5.50%",
+      "C": "6.00%",
+      "D": "3.50%"
+     },
+     "answer": "B",
+     "explanation": "Company X pays its bank LIBOR + 1.00%, pays the swap counterparty 4.50% fixed, and receives LIBOR from the swap. Netting the LIBOR flows: net cost = (LIBOR + 1.00%) + 4.50% - LIBOR = 5.50% fixed. The 4.50% distractor ignores the bank spread. The 6.00% distractor double-counts the 1.00% bank spread. The 3.50% distractor subtracts the bank spread instead of adding it."
+    },
+    {
+     "id": "M9A-P5-Q30",
+     "paper": 5,
+     "num": 30,
+     "stem": "Which feature most clearly distinguishes a currency swap from a plain vanilla interest rate swap?",
+     "options": {
+      "A": "Both principal and interest are exchanged in full in both directions in a currency swap, with no netting, because the cash flows are in different currencies",
+      "B": "In a currency swap, interest payments on the same dates are netted and only the difference changes hands",
+      "C": "The notional principal is never exchanged in a currency swap",
+      "D": "A currency swap always exchanges a fixed rate for a floating rate, unlike an interest rate swap"
+     },
+     "answer": "A",
+     "explanation": "In an interest rate swap the same-currency flows are netted so only the difference changes hands, and principal is never exchanged. In a currency swap, netting is impossible because the flows are in different currencies, so both principal and interest are exchanged in full by both parties at inception and at maturity. The 'principal never exchanged' option describes the interest rate swap, not the currency swap."
+    },
+    {
+     "id": "M9A-P5-Q31",
+     "paper": 5,
+     "num": 31,
+     "stem": "Which of the following is LEAST characteristic of a contract for differences (CFD)?",
+     "options": {
+      "A": "CFDs are leveraged instruments with no fixed expiry date",
+      "B": "A long CFD position receives dividends and pays financing interest",
+      "C": "CFDs can be used to take both long and short positions",
+      "D": "A short CFD position is settled at maturity by physical delivery of shares"
+     },
+     "answer": "D",
+     "explanation": "CFDs have no expiry date and always settle in cash; physical delivery is never used. The study text states that CFDs differ from futures and options specifically because they have no expiry dates and are cash-only. Options A, B, and C all accurately describe CFD mechanics per the study text."
+    },
+    {
+     "id": "M9A-P5-Q32",
+     "paper": 5,
+     "num": 32,
+     "stem": "An investor buys 100 Apple CFDs at US$200.00 (offer). Margin 5% of notional, commission 0.15% of notional on each side, overnight financing 2.25% per annum on opening notional. She holds for exactly 1 day and closes at US$206.00 (bid). What is the approximate net profit?",
+     "options": {
+      "A": "US$600.00",
+      "B": "US$537.87",
+      "C": "US$480.50",
+      "D": "US$569.10"
+     },
+     "answer": "B",
+     "explanation": "Open notional = 100 x US$200 = US$20,000. Gross profit = 100 x (US$206 - US$200) = US$600. Open commission = US$20,000 x 0.15% = US$30.00. Close commission = US$20,600 x 0.15% = US$30.90. Overnight financing = US$20,000 x 2.25% / 365 = US$1.23. Total costs = US$30.00 + US$30.90 + US$1.23 = US$62.13. Net profit = US$600 - US$62.13 = US$537.87. The US$600 option ignores all costs. The US$569.10 distractor omits one commission leg. The US$480.50 distractor applies the commission rate to the gross profit rather than the notional."
+    },
+    {
+     "id": "M9A-P5-Q33",
+     "paper": 5,
+     "num": 33,
+     "stem": "A chooser option allows the holder to elect by a specified choice date whether the option will function as a call or a put. Which scenario would most benefit from a chooser option rather than a long straddle?",
+     "options": {
+      "A": "The investor knows the stock will move but wants to pay only one premium rather than two for the same expiry",
+      "B": "The investor expects a very large move in one direction only and wants uncapped upside",
+      "C": "The investor wants to receive dividends and pay financing charges on an open-ended position",
+      "D": "The investor wants to lock in the most favourable price over the entire holding period"
+     },
+     "answer": "A",
+     "explanation": "A chooser option pays one premium but lets the holder decide, on the choice date, whether it becomes a call or a put. A straddle buys both a call and a put simultaneously, paying two premiums. When direction is uncertain but a big move is expected, the chooser is more economical than the straddle because only one option premium is paid. The dividend-and-financing description matches a CFD. Locking in the best price over the period describes a lookback option."
+    },
+    {
+     "id": "M9A-P5-Q34",
+     "paper": 5,
+     "num": 34,
+     "stem": "Mrs Poh takes up a single-premium structured ILP with a S$80,000 single premium. A 5% front-end charge is immediately deducted from the sub-fund NAV. In month 3 she dies. The sub-fund NAV at that point is S$76,800. The policy provides a death benefit equal to 101% of the single premium or the cash value, whichever is higher. What is the death benefit?",
+     "options": {
+      "A": "S$76,800",
+      "B": "S$78,400",
+      "C": "S$80,800",
+      "D": "S$82,320"
+     },
+     "answer": "C",
+     "explanation": "Death benefit = higher of (101% x S$80,000) or cash value. 101% x S$80,000 = S$80,800. Cash value (NAV) = S$76,800. Since S$80,800 > S$76,800, the death benefit is S$80,800. This shows the insurance layer paying the difference when NAV falls below the guaranteed minimum. The S$82,320 distractor applies 101% to the NAV. The S$78,400 distractor applies 98% to the premium. The S$76,800 distractor is just the NAV."
+    },
+    {
+     "id": "M9A-P5-Q35",
+     "paper": 5,
+     "num": 35,
+     "stem": "An adviser tells a prospect: 'Your structured ILP sub-fund is valued daily just like a regular unit trust.' Is this accurate, and what does the study text say?",
+     "options": {
+      "A": "Accurate; structured ILP sub-funds are always valued daily as required by MAS Notice 307",
+      "B": "Inaccurate; structured ILP sub-funds need only be valued at least once a month, because derivative contracts are difficult to price reliably on a daily basis",
+      "C": "Inaccurate; structured ILP sub-funds are valued weekly by the independent trustee",
+      "D": "Accurate; the Insurance Act 1966 requires daily NAV publication for all ILP sub-funds"
+     },
+     "answer": "B",
+     "explanation": "MAS Notice 307 requires structured ILP sub-funds to be valued at least once a month, not daily. Derivative contracts used in these sub-funds are difficult to price and attach reliable market values to on a daily basis. Regular (non-structured) ILP sub-funds may be valued daily, but the structured variant has a lower monthly minimum, meaning investors may not be able to redeem immediately."
+    },
+    {
+     "id": "M9A-P5-Q36",
+     "paper": 5,
+     "num": 36,
+     "stem": "A structured ILP sub-fund has S$8,000,000 NAV and 8,000,000 units. Daily redemption is capped at 10% of units. Total redemption requests on one dealing day are 2,000,000 units. The unit price is S$1.00. Mr Tan submitted a request for 360,000 units. How many units can he redeem today, and what does he receive?",
+     "options": {
+      "A": "360,000 units; S$360,000",
+      "B": "36,000 units; S$36,000",
+      "C": "80,000 units; S$80,000",
+      "D": "144,000 units; S$144,000"
+     },
+     "answer": "D",
+     "explanation": "Daily cap = 10% x 8,000,000 = 800,000 units. Total requests = 2,000,000 units. Pro-rata factor = 800,000 / 2,000,000 = 0.40. Mr Tan's redeemable units = 360,000 x 0.40 = 144,000 units x S$1.00 = S$144,000. His remaining 216,000 units stay invested. The 360,000 option ignores the redemption cap. The 80,000 option applies a 10% deduction directly to Mr Tan's request. The 36,000 option applies a 10% deduction and then a further 10%."
+    },
+    {
+     "id": "M9A-P5-Q37",
+     "paper": 5,
+     "num": 37,
+     "stem": "Which combination of documents must a client receive BEFORE purchasing a structured ILP, and which is issued AFTER purchase?",
+     "options": {
+      "A": "Before: Policy document only. After: Product Summary and PHS",
+      "B": "Before: Product Summary, Benefit Illustration, PHS. After: Policy document with 14-day free-look right",
+      "C": "Before: Audited Report and PHS. After: Benefit Illustration",
+      "D": "Before: Policy document and Audited Report. After: PHS"
+     },
+     "answer": "B",
+     "explanation": "The Product Summary, Benefit Illustration, and Product Highlights Sheet are point-of-sale documents provided before purchase to ensure informed decision-making. The policy document is issued after purchase and triggers the 14-day free-look period during which the client may cancel with a market-value-adjusted refund. The Audited Report and Semi-Annual Report are ongoing post-inception disclosures."
+    },
+    {
+     "id": "M9A-P5-Q38",
+     "paper": 5,
+     "num": 38,
+     "stem": "A structured ILP sub-fund has S$60 million NAV. An OTC swap counterparty meeting the minimum long-term credit rating has a mark-to-market exposure of S$7,000,000. A second OTC swap with a below-minimum-rated counterparty has a S$2,800,000 exposure. Which position breaches the Code on CIS concentration limits?",
+     "options": {
+      "A": "Neither position breaches any limit",
+      "B": "The lower-rated counterparty swap breaches its 5% cap",
+      "C": "The higher-rated counterparty swap breaches its 10% cap",
+      "D": "Both positions breach their applicable limits"
+     },
+     "answer": "C",
+     "explanation": "For counterparties meeting minimum long-term credit rating, the OTC derivative cap is 10% of NAV = 10% x S$60M = S$6,000,000. The S$7,000,000 exposure exceeds this cap. For below-minimum-rated counterparties, the cap is 5% of NAV = S$3,000,000. The S$2,800,000 exposure is within limit. Only the higher-rated counterparty position breaches its limit. The counterintuitive result is that the higher-rated party has the larger absolute cap but the position still breaches it."
+    },
+    {
+     "id": "M9A-P5-Q39",
+     "paper": 5,
+     "num": 39,
+     "stem": "An adviser compares a structured ILP (5% front-end charge, 1.5% annual fee, quasi-trust legal structure) with a regular equity unit trust (3% sales charge, 1.0% annual fee, trust legal structure) for a client seeking capital appreciation over 7 years. Which consideration is specific to the structured ILP and not the unit trust?",
+     "options": {
+      "A": "The structured ILP sub-fund is legally owned by the insurer; the investor's priority in insolvency derives from the Insurance Act, not from beneficial trust ownership",
+      "B": "The structured ILP sub-fund is regulated by the SFA as a CIS, removing counterparty risk entirely",
+      "C": "The unit trust has a higher front-end charge, making the ILP more cost-effective",
+      "D": "The unit trust has no diversification rules unlike the structured ILP"
+     },
+     "answer": "A",
+     "explanation": "The critical ILP-specific distinction is legal ownership. In a unit trust, assets are held by a trustee and investors have beneficial ownership. In a structured ILP, the insurer is the legal owner of the sub-fund assets; investors are not beneficiaries in a trust but have priority claims under the Insurance Act. The ILP also has a HIGHER front-end charge (5% vs 3%), not lower. Both products are subject to diversification rules."
+    },
+    {
+     "id": "M9A-P5-Q40",
+     "paper": 5,
+     "num": 40,
+     "stem": "A structured ILP sub-fund reports an expense ratio of 1.60% on a daily average NAV of S$15,000,000. During the year the fund bought S$9,000,000 of securities and sold S$7,500,000. What are the annual operating expenses and the turnover ratio?",
+     "options": {
+      "A": "Operating expenses S$200,000; turnover ratio 60%",
+      "B": "Operating expenses S$240,000; turnover ratio 60%",
+      "C": "Operating expenses S$200,000; turnover ratio 50%",
+      "D": "Operating expenses S$240,000; turnover ratio 50%"
+     },
+     "answer": "D",
+     "explanation": "Operating expenses = 1.60% x S$15,000,000 = S$240,000. Turnover ratio = lesser of purchases or sales divided by daily average NAV = S$7,500,000 / S$15,000,000 = 50%. The lesser of S$9M (purchases) and S$7.5M (sales) is S$7.5M. Using the larger purchases figure (S$9M / S$15M = 60%) is the common wrong answer. The S$200,000 options apply an incorrect expense ratio."
+    },
+    {
+     "id": "M9A-P5-Q41",
+     "paper": 5,
+     "num": 41,
+     "stem": "Under the Code on CIS, which activity is EXCEPT permitted for a retail structured ILP sub-fund?",
+     "options": {
+      "A": "Investing in liquid equities and bonds subject to the single-entity concentration limits",
+      "B": "Entering OTC financial derivative transactions with a regulated counterparty subject to prudential supervision",
+      "C": "Lending money to the fund manager to fund redemptions during a liquidity crunch",
+      "D": "Investing in cash and money market instruments for liquidity management"
+     },
+     "answer": "C",
+     "explanation": "The Code on CIS explicitly prohibits retail CIS sub-funds from lending money or granting guarantees. Lending to the fund manager is a prohibited activity regardless of the purpose. Investing in equities and bonds within concentration limits, OTC derivatives with regulated counterparties, and cash instruments are all permitted."
+    },
+    {
+     "id": "M9A-P5-Q42",
+     "paper": 5,
+     "num": 42,
+     "stem": "Mr Raj purchased a structured ILP with a S$120,000 single premium. On day 8 he cancels within the 14-day free-look period. The unit price fell from S$1.00 at purchase to S$0.96 at cancellation. How much does he receive?",
+     "options": {
+      "A": "S$120,000 plus accrued interest for 8 days",
+      "B": "S$120,000, because the free-look period guarantees a full refund",
+      "C": "S$114,000, because the front-end charge is retained on cancellation",
+      "D": "S$115,200, because the refund is adjusted for the downward market movement in unit price"
+     },
+     "answer": "D",
+     "explanation": "The free-look refund is adjusted downward for market price movements in the NAV per unit. If 120,000 units were allocated at S$1.00 and the unit price falls to S$0.96, the refund is 120,000 x S$0.96 = S$115,200. The full S$120,000 refund would apply only if prices had not fallen. The market value adjustment runs one way: downward falls reduce the refund, but upward moves do not increase it above the premium paid."
+    },
+    {
+     "id": "M9A-P5-Q43",
+     "paper": 5,
+     "num": 43,
+     "stem": "A client with S$500,000 wants to appoint her own choice of fund managers and access equities, bonds, and CIS within a single insurance wrapper. Her investment horizon is 4 years. Which statement best describes the adviser's suitability assessment?",
+     "options": {
+      "A": "A portfolio bond is suitable because it offers the broadest investment choice and flexibility",
+      "B": "A portfolio bond is unsuitable primarily because a 4-year horizon is too short for the higher charges to be recovered; the cost-benefit is unlikely to be attractive",
+      "C": "A portfolio bond is suitable because the tax advantages will outweigh the charges over 4 years",
+      "D": "A portfolio bond is suitable if the client selects lower-fee fund managers within the wrapper"
+     },
+     "answer": "B",
+     "explanation": "The study text explicitly states portfolio bonds are unsuitable for investors with a 3 to 5-year horizon because the higher front-end and ongoing charges need more time to be recovered. A 4-year horizon falls squarely in that unsuitable range. Wide investment choice is a feature, not a suitability override. Tax advantages can be outweighed by costs and may change."
+    },
+    {
+     "id": "M9A-P5-Q44",
+     "paper": 5,
+     "num": 44,
+     "stem": "A portfolio bond policy owner carries a product charge of 0.70%, fund charge of 1.10%, and embedded mortality charge of 0.15% annually. The portfolio is worth S$300,000. What is the approximate total annual cost in dollars, and what specifically does the mortality charge pay for?",
+     "options": {
+      "A": "S$5,850; paying for the portfolio rebalancing service",
+      "B": "S$4,500; paying for the consolidated fund manager reporting system",
+      "C": "S$5,850; paying for the small death benefit embedded in the insurance wrapper",
+      "D": "S$4,500; paying for the surrender charge protection"
+     },
+     "answer": "C",
+     "explanation": "Total annual charge = 0.70% + 1.10% + 0.15% = 1.95%. Annual cost = S$300,000 x 1.95% = S$5,850. The mortality charge is an annual charge specifically for death benefits, the insurance element that makes the product a life policy. It does not pay for rebalancing, reporting integration, or surrender-charge protection."
+    },
+    {
+     "id": "M9A-P5-Q45",
+     "paper": 5,
+     "num": 45,
+     "stem": "A portfolio bond investor receives a regular monthly payment of S$3,000. He describes this to a friend as 'my bond income'. Which aspect of this description is LEAST accurate?",
+     "options": {
+      "A": "The payment is not income in the sense of interest; it is funded by redeeming (selling) units, which reduces the invested capital base",
+      "B": "The payments are not guaranteed and depend on the unit price at the time of redemption",
+      "C": "The portfolio bond does not pay coupons the way a conventional bond does; its value tracks underlying investments, not interest rates",
+      "D": "The payment is tax-free in Singapore in all circumstances because portfolio bonds enjoy blanket insurance wrapper tax treatment"
+     },
+     "answer": "D",
+     "explanation": "The LEAST accurate claim is the blanket tax-free assertion. Tax treatment depends on the investor's jurisdiction and personal tax position; the study text notes that tax laws can change and the portfolio bond's cost of ownership may outweigh tax benefits. Options A, B, and C correctly describe the mechanics: the payment is unit redemption, it is not guaranteed, and a portfolio bond is not a conventional bond."
+    },
+    {
+     "id": "M9A-P5-Q46",
+     "paper": 5,
+     "num": 46,
+     "stem": "A portfolio bond policy owner instructs a gradual switch of S$48,000 from an equity fund to a bond fund over 6 monthly tranches of S$8,000 each. This describes which portfolio bond feature, and how does it differ from portfolio rebalancing?",
+     "options": {
+      "A": "Drip-feeding: a fund switch in small doses to avoid market disruption; rebalancing restores a drifted allocation automatically on a set schedule",
+      "B": "Portfolio rebalancing: restoring the 50/50 allocation that drifted to 63/37; drip-feeding is done in a single large trade",
+      "C": "A surrender charge trigger: switching more than once a year incurs a penalty in most portfolio bonds",
+      "D": "Mortality charge adjustment: switching funds changes the death benefit calculation"
+     },
+     "answer": "A",
+     "explanation": "Drip-feeding implements a fund switch in small doses over time to avoid market disruption from a large single trade. Portfolio rebalancing is different: it restores an original risk allocation that has drifted through market movements, and can run automatically monthly, quarterly, half-yearly or annually. The scenario describes an intentional gradual move, not a drift correction."
+    },
+    {
+     "id": "M9A-P5-Q47",
+     "paper": 5,
+     "num": 47,
+     "stem": "In the Superior Income Plan (SIP), a policy owner invests S$10,000. In policy year 2, all six reference stocks trade consistently between 92% and 108% of their initial prices on every trading day (n = N = 250). What is the annual payout, and which payout formula applies?",
+     "options": {
+      "A": "S$400; the guaranteed 4% floor applies because the non-guaranteed formula gives exactly 4%",
+      "B": "S$1,000; the non-guaranteed formula gives 10% because stocks averaged 100% of initial price",
+      "C": "S$2,000; the non-guaranteed formula gives 20% (20% x 250/250) which exceeds the 4% floor",
+      "D": "S$800; the guaranteed 4% floor doubles because all stocks held above 92%"
+     },
+     "answer": "C",
+     "explanation": "Annual payout = higher of (4% guaranteed) or (20% x n/N). With n = N = 250, the non-guaranteed result is 20% x 250/250 = 20%. Since 20% > 4%, the non-guaranteed 20% applies. Payout = S$10,000 x 20% = S$2,000. This is Scenario 3 in the case study and the BEST outcome for the policy owner: stocks staying inside the 92-108% band is what the policy owner wants, because breaching 108% triggers early redemption and cuts the policy short."
+    },
+    {
+     "id": "M9A-P5-Q48",
+     "paper": 5,
+     "num": 48,
+     "stem": "In the SIP, the early redemption trigger fires 6 months into the policy when all six stocks reach 108% of their initial prices. Assuming 250 trading days in a full year and 125 elapsed, what is the total amount received by the policy owner on a S$10,000 single premium?",
+     "options": {
+      "A": "S$11,000; the non-guaranteed pro-rata payout is 20% x 125/250 = 10%, giving S$1,000 plus S$10,000 principal",
+      "B": "S$10,480; the pro-rata non-guaranteed rate is 4.8% (20% x 60/250), applied at 3 months not 6",
+      "C": "S$10,800; the 108% trigger means the policy returns premium plus 8%",
+      "D": "S$10,400; the guaranteed 4% annual rate is applied in full regardless of days elapsed"
+     },
+     "answer": "A",
+     "explanation": "Pro-rata non-guaranteed payout = 20% x (125/250) = 10%. Pro-rata guaranteed = 4% x (125/250) = 2%. Since 10% > 2%, the non-guaranteed applies. Payout = S$10,000 x 10% = S$1,000. Total = S$10,000 principal + S$1,000 = S$11,000. The 108% figure is a REDEMPTION TRIGGER, not a return amount. The S$10,800 distractor treats 108% as an 8% return, which the study text explicitly warns against."
+    },
+    {
+     "id": "M9A-P5-Q49",
+     "paper": 5,
+     "num": 49,
+     "stem": "In the Lifestyle Plan case study, the Choice Fund has a Secure Price of S$1.00455 per unit. At maturity, the NAV per unit is S$0.9293. A policy owner holds 10,000 units. What is the maturity payout and why?",
+     "options": {
+      "A": "S$10,045.50; the Secure Price is a guaranteed floor the insurer must honour",
+      "B": "S$10,000.00; the policy always returns premiums paid at maturity",
+      "C": "S$10,045.50; in any capital-guaranteed ILP fund the payout is always the higher of NAV and guaranteed amount",
+      "D": "S$9,293.00; the Secure Price is an aspiration, not a guarantee; payout is based on the unit NAV"
+     },
+     "answer": "D",
+     "explanation": "The Secure Price is NOT a guaranteed floor; it is an investment target the manager strives to achieve. If the NAV per unit at maturity is S$0.9293, which is below the Secure Price, the payout is based on the actual unit price: 10,000 x S$0.9293 = S$9,293. The capital-guaranteed ILP rule (payout = higher of NAV and guaranteed amount) applies only to explicitly capital-guaranteed products, not to the Choice Fund whose Secure Price is discretionary."
+    },
+    {
+     "id": "M9A-P5-Q50",
+     "paper": 5,
+     "num": 50,
+     "stem": "An adviser presents two products to a client worried about issuer insolvency risk: (A) a structured ILP, where the insurer is the legal owner of the sub-fund assets; and (B) a structured fund (CIS unit trust), where assets are held by an independent trustee. Which statement correctly contrasts their protection against the issuing entity's insolvency?",
+     "options": {
+      "A": "Both provide identical protection because both comply with the CIS Code investment restrictions",
+      "B": "The structured ILP gives stronger protection because the Insurance Act gives policy owners priority over all other creditors in liquidation",
+      "C": "The structured fund gives stronger protection because the trustee holds assets independently of the fund manager's balance sheet; the ILP sub-fund investor relies on the Insurance Act priority rather than true beneficial trust ownership",
+      "D": "Neither provides any protection because both are unsecured creditors of their respective issuers"
+     },
+     "answer": "C",
+     "explanation": "In a structured fund (CIS trust), assets are held by an independent trustee, so they are off the fund manager's balance sheet and investors are beneficial owners. In a structured ILP, the insurer is the legal owner of sub-fund assets; investors are not beneficial owners in a trust sense but have a statutory priority claim under the Insurance Act if the insurer is wound up. The trust structure provides more direct protection from fund manager insolvency than the quasi-trust ILP structure."
+    }
+   ]
+  },
+  {
+   "paper": 6,
+   "questions": [
+    {
+     "id": "M9A-P6-Q1",
+     "paper": 6,
+     "num": 1,
+     "stem": "Priya invests S$50,000 in a 3-year capital-return note. The zero-coupon yield for the bond component is 2.80% per annum. How much of her S$50,000 must be placed in the zero-coupon bond today so that it grows back to S$50,000 at maturity?",
+     "options": {
+      "A": "S$46,026",
+      "B": "S$43,071",
+      "C": "S$48,500",
+      "D": "S$44,933"
+     },
+     "answer": "A",
+     "explanation": "Bond cost = 50,000 / (1.028)^3. (1.028)^2 = 1.056784; x 1.028 = 1.086374. Bond cost = 50,000 / 1.086374 = S$46,026. The S$43,071 figure comes from (1.038)^4, the wrong rate and term. The S$48,500 figure omits compounding. The S$44,933 figure uses an incorrect rate."
+    },
+    {
+     "id": "M9A-P6-Q2",
+     "paper": 6,
+     "num": 2,
+     "stem": "Using the same S$50,000 note (3-year, 2.80% ZC yield, so S$46,026 in the zero-coupon bond), the remaining S$3,974 is available for the option sleeve. The dealer quotes the at-the-money 3-year call at 13% of the notional investment. What is the participation rate?",
+     "options": {
+      "A": "79.5%",
+      "B": "30.6%",
+      "C": "61.1%",
+      "D": "100.0%"
+     },
+     "answer": "C",
+     "explanation": "Option budget = S$3,974. Option cost = 50,000 x 13% = S$6,500. Participation rate = 3,974 / 6,500 = 61.1%. The 79.5% figure uses an incorrect option cost of S$5,000. The 30.6% figure halves the budget by mistake. 100% would require the option budget to equal the full option cost, which it does not."
+    },
+    {
+     "id": "M9A-P6-Q3",
+     "paper": 6,
+     "num": 3,
+     "stem": "Gold spot is S$3,100 per ounce. The 6-month risk-free rate is 3.60% per annum and combined storage and insurance costs 0.40% per annum of value. What is the correct 6-month forward price per ounce?",
+     "options": {
+      "A": "S$3,162.00",
+      "B": "S$3,155.80",
+      "C": "S$3,168.20",
+      "D": "S$3,100.00"
+     },
+     "answer": "A",
+     "explanation": "Interest over 6 months = 3,100 x 0.036 x 0.5 = S$55.80. Storage and insurance = 3,100 x 0.004 x 0.5 = S$6.20. Forward price = 3,100 + 55.80 + 6.20 = S$3,162.00. The S$3,155.80 figure omits storage and insurance. The S$3,168.20 figure applies a blended rate of 4.40% incorrectly. S$3,100 ignores cost of carry entirely."
+    },
+    {
+     "id": "M9A-P6-Q4",
+     "paper": 6,
+     "num": 4,
+     "stem": "An equity index sits at 3,800 points. The 3-month funding rate is 3.20% per annum and the dividend yield is 4.80% per annum. What is the 3-month forward price, and is the index in contango or backwardation?",
+     "options": {
+      "A": "Forward = 3,814.6; contango because financing exceeds dividends",
+      "B": "Forward = 3,800.0; always at spot for equity indices",
+      "C": "Forward = 3,830.4; contango because dividends exceed financing",
+      "D": "Forward = 3,784.8; backwardation because dividends exceed financing"
+     },
+     "answer": "D",
+     "explanation": "Financing cost = 3,800 x 0.032 x 0.25 = 30.4 points. Dividend receipts = 3,800 x 0.048 x 0.25 = 45.6 points. Net carry = 30.4 - 45.6 = -15.2 points. Forward = 3,800 - 15.2 = 3,784.8. Because dividends exceed financing, the forward is below spot, which is backwardation. The 3,814.6 figure adds dividends rather than subtracting them. The 3,830.4 ignores dividends entirely."
+    },
+    {
+     "id": "M9A-P6-Q5",
+     "paper": 6,
+     "num": 5,
+     "stem": "Farhan buys 3 stock index futures at 4,600 points, multiplier S$20 per point. Initial margin is S$12,000 per contract and maintenance margin is S$9,600 per contract. Day 1 settles at 4,560; Day 2 settles at 4,475. How much variation margin must Farhan pay at the end of Day 2?",
+     "options": {
+      "A": "S$6,000",
+      "B": "S$9,900",
+      "C": "S$7,500",
+      "D": "S$2,400"
+     },
+     "answer": "B",
+     "explanation": "Total initial margin = 3 x 12,000 = S$36,000. Total maintenance = 3 x 9,600 = S$28,800. Day 1 loss = (4,600-4,560) x 20 x 3 = 40 x 60 = S$2,400. Balance = 36,000 - 2,400 = S$33,600, above maintenance, no call. Day 2 loss = (4,560-4,475) x 20 x 3 = 85 x 60 = S$5,100. Balance = 33,600 - 5,100 = S$28,500, below S$28,800, margin call triggered. Variation margin restores to initial: 36,000 - 28,500 = S$9,900. The S$7,500 figure is the Day 2 loss alone, not the top-up amount. The S$2,400 is only the Day 1 loss."
+    },
+    {
+     "id": "M9A-P6-Q6",
+     "paper": 6,
+     "num": 6,
+     "stem": "After paying the S$9,900 variation margin in Question 5 (account restored to S$36,000), the index rallies from 4,475 to 4,505 on Day 3. What is the margin account balance at the end of Day 3?",
+     "options": {
+      "A": "S$38,700",
+      "B": "S$34,200",
+      "C": "S$37,800",
+      "D": "S$36,000"
+     },
+     "answer": "C",
+     "explanation": "Day 3 gain = (4,505 - 4,475) x S$20 x 3 = 30 x 60 = S$1,800. Balance = 36,000 + 1,800 = S$37,800. The S$38,700 figure uses a 35-point move. The S$34,200 figure subtracts the gain instead of adding it. The S$36,000 figure ignores the Day 3 price movement entirely."
+    },
+    {
+     "id": "M9A-P6-Q7",
+     "paper": 6,
+     "num": 7,
+     "stem": "Wei Ling holds a portfolio worth S$2,400,000 with a portfolio beta of 1.35. She wants a short hedge using STI futures trading at 5,800 points with a multiplier of S$10 per point. How many contracts should she sell, rounded to the nearest whole number?",
+     "options": {
+      "A": "41",
+      "B": "56",
+      "C": "62",
+      "D": "44"
+     },
+     "answer": "B",
+     "explanation": "Price coverage per contract = 5,800 x S$10 = S$58,000. Hedge ratio = (2,400,000 / 58,000) x 1.35 = 41.379 x 1.35 = 55.86, rounded to 56 contracts. The 41 figure omits the beta adjustment entirely. The 62 figure applies beta 1.5 in error. The 44 figure uses an incorrect price coverage per contract."
+    },
+    {
+     "id": "M9A-P6-Q8",
+     "paper": 6,
+     "num": 8,
+     "stem": "Ng buys a call option on Singtel shares: strike S$46, premium S$3.20 per share, contract size 500 shares. At expiry the share price is S$54. What is Ng's total net profit on the contract?",
+     "options": {
+      "A": "S$2,400",
+      "B": "S$4,000",
+      "C": "S$1,600",
+      "D": "S$5,600"
+     },
+     "answer": "A",
+     "explanation": "Intrinsic value per share at expiry = 54 - 46 = S$8.00. Net profit per share = 8.00 - 3.20 = S$4.80. Total = 500 x 4.80 = S$2,400. The S$4,000 figure ignores the premium (8 x 500). The S$1,600 figure uses an incorrect intrinsic value. The S$5,600 adds the premium to the payoff instead of deducting it."
+    },
+    {
+     "id": "M9A-P6-Q9",
+     "paper": 6,
+     "num": 9,
+     "stem": "Using the same long call (strike S$46, premium S$3.20 per share), at what share price does Ng break even at expiry?",
+     "options": {
+      "A": "S$42.80",
+      "B": "S$46.00",
+      "C": "S$49.20",
+      "D": "S$43.60"
+     },
+     "answer": "C",
+     "explanation": "Long call breakeven = strike + premium = 46.00 + 3.20 = S$49.20. The S$46.00 figure ignores the premium cost entirely. The S$42.80 figure subtracts the premium from the strike, which is the breakeven formula for a long put, not a long call. The S$43.60 figure uses half the premium."
+    },
+    {
+     "id": "M9A-P6-Q10",
+     "paper": 6,
+     "num": 10,
+     "stem": "Lim buys a put option: strike S$38, premium S$2.50, contract size 200 shares. At expiry the share price is S$29. What is Lim's total net profit on the put position?",
+     "options": {
+      "A": "S$1,800",
+      "B": "S$1,000",
+      "C": "S$1,900",
+      "D": "S$1,300"
+     },
+     "answer": "D",
+     "explanation": "Intrinsic value = 38 - 29 = S$9.00. Net profit per share = 9.00 - 2.50 = S$6.50. Total = 200 x 6.50 = S$1,300. The S$1,800 figure uses the full intrinsic value without deducting the premium (9 x 200 = 1,800). The S$1,000 figure uses an incorrect intrinsic value of S$7.50. The S$1,900 figure adds the premium to the gross payoff instead of deducting it."
+    },
+    {
+     "id": "M9A-P6-Q11",
+     "paper": 6,
+     "num": 11,
+     "stem": "Rajan owns 1,000 shares of Keppel Corp purchased at S$28.00 per share. He writes a covered call at a strike of S$30.00 and receives a premium of S$1.80 per share. At expiry the share price is S$35.00. What is Rajan's net profit per share on the combined position?",
+     "options": {
+      "A": "S$3.80 profit",
+      "B": "S$7.00 profit",
+      "C": "S$1.80 profit",
+      "D": "S$5.00 loss"
+     },
+     "answer": "A",
+     "explanation": "The call is exercised at S$30.00. Capital gain vs cost = 30.00 - 28.00 = S$2.00 per share. Add premium received = S$1.80. Net profit = S$3.80. The S$7.00 figure is the unhedged stock gain at S$35 minus cost, ignoring the call cap at S$30. The S$1.80 is the premium alone, omitting the capital gain. There is no loss on this covered call at S$35."
+    },
+    {
+     "id": "M9A-P6-Q12",
+     "paper": 6,
+     "num": 12,
+     "stem": "Using the same covered call position (stock cost S$28.00, call strike S$30.00, premium received S$1.80), what is the breakeven price and the maximum profit per share?",
+     "options": {
+      "A": "Breakeven S$28.00, maximum profit S$1.80",
+      "B": "Breakeven S$26.20, maximum profit S$3.80",
+      "C": "Breakeven S$29.80, maximum profit S$1.80",
+      "D": "Breakeven S$26.20, maximum profit unlimited"
+     },
+     "answer": "B",
+     "explanation": "Breakeven = stock cost minus premium received = 28.00 - 1.80 = S$26.20. Maximum profit = (strike - cost) + premium = (30.00 - 28.00) + 1.80 = S$3.80 per share, achieved at any price at or above the strike. The S$28.00 breakeven ignores the premium income. The S$29.80 adds the premium to the cost instead of subtracting it. The short call caps the upside so maximum profit cannot be unlimited."
+    },
+    {
+     "id": "M9A-P6-Q13",
+     "paper": 6,
+     "num": 13,
+     "stem": "Siti owns 800 shares of SIA purchased at S$8.50. She buys a protective put with a strike of S$7.50 and pays S$0.60 per share. The shares fall to S$5.20 at expiry. What is Siti's net loss per share on the combined position?",
+     "options": {
+      "A": "S$1.60",
+      "B": "S$0.60",
+      "C": "S$3.30",
+      "D": "S$2.00"
+     },
+     "answer": "A",
+     "explanation": "The put is exercised at S$7.50. Loss on stock from purchase price down to the put strike = 8.50 - 7.50 = S$1.00. The put premium is an additional cost. Maximum loss = 1.00 + 0.60 = S$1.60 per share, fixed regardless of how far the stock falls below S$7.50. The S$0.60 is the premium alone. The S$3.30 is the unhedged stock loss (8.50 - 5.20). The S$2.00 omits the premium."
+    },
+    {
+     "id": "M9A-P6-Q14",
+     "paper": 6,
+     "num": 14,
+     "stem": "Using the same protective put (stock cost S$8.50, put strike S$7.50, premium S$0.60), at what share price does Siti break even at expiry?",
+     "options": {
+      "A": "S$7.50",
+      "B": "S$8.50",
+      "C": "S$9.10",
+      "D": "S$7.90"
+     },
+     "answer": "C",
+     "explanation": "Protective put breakeven = stock cost + premium paid = 8.50 + 0.60 = S$9.10. The premium is an extra cost that the stock must recover. The S$7.50 is the put strike, not the breakeven. The S$8.50 is the stock cost ignoring the premium. The S$7.90 subtracts the premium from the stock cost, which is the formula for a covered call breakeven."
+    },
+    {
+     "id": "M9A-P6-Q15",
+     "paper": 6,
+     "num": 15,
+     "stem": "Aisha enters a plain vanilla interest rate swap on S$8,000,000 notional: she pays fixed 4.20% per annum and receives SIBOR. The current semi-annual SIBOR rate is 3.50% per annum. What is the net cash flow for Aisha this period?",
+     "options": {
+      "A": "S$28,000 net payment",
+      "B": "S$168,000 payment",
+      "C": "S$140,000 payment",
+      "D": "S$28,000 net receipt"
+     },
+     "answer": "A",
+     "explanation": "Fixed payment = 8,000,000 x 4.20% x 0.5 = S$168,000. Floating receipt = 8,000,000 x 3.50% x 0.5 = S$140,000. Net payment = 168,000 - 140,000 = S$28,000. Because Aisha's fixed rate exceeds the floating rate, she is the net payer. Interest rate swaps in the same currency net the cash flows. The S$168,000 ignores the floating receipt. The S$140,000 is the receipt alone. She is a net payer, not a net receiver."
+    },
+    {
+     "id": "M9A-P6-Q16",
+     "paper": 6,
+     "num": 16,
+     "stem": "Cost-Cutter Airlines enters a commodity swap paying fixed US$95 per barrel and receiving the Platts jet fuel index. This quarter the volume is 400,000 barrels and the Platts index settles at US$108. Who pays whom, and how much?",
+     "options": {
+      "A": "The airline pays the bank US$5,200,000",
+      "B": "The bank pays the airline US$5,200,000",
+      "C": "The airline pays the bank US$3,800,000",
+      "D": "The bank pays the airline US$700,000"
+     },
+     "answer": "B",
+     "explanation": "When the Platts floating price (US$108) exceeds the fixed rate (US$95), the bank pays the airline. Net settlement = (108 - 95) x 400,000 = 13 x 400,000 = US$5,200,000 received by the airline. This offsets the extra cost of buying physical fuel at US$108 against the budgeted US$95. The US$3,800,000 multiplies the fixed rate by volume incorrectly. The US$700,000 applies the wrong differential."
+    },
+    {
+     "id": "M9A-P6-Q17",
+     "paper": 6,
+     "num": 17,
+     "stem": "Farhan buys 200 CFDs on ABC stock at an offer price of S$18.50. His broker requires 5% margin and charges a financing rate of SIBOR (2.00%) + 2.50% per annum. After 3 days he closes at a bid of S$19.80. Ignoring commissions, what is his approximate net profit after 3 days of financing costs?",
+     "options": {
+      "A": "S$261.37",
+      "B": "S$258.63",
+      "C": "S$260.00",
+      "D": "S$259.99"
+     },
+     "answer": "B",
+     "explanation": "Gross profit = 200 x (19.80 - 18.50) = 200 x 1.30 = S$260.00. Notional = 200 x 18.50 = S$3,700. Daily financing = 3,700 x 0.045 / 365 = S$0.4562. For 3 days = S$1.37. Net profit = 260.00 - 1.37 = S$258.63. The S$261.37 adds the financing cost instead of deducting it. The S$260.00 ignores financing entirely. The S$259.99 uses a different financing rate."
+    },
+    {
+     "id": "M9A-P6-Q18",
+     "paper": 6,
+     "num": 18,
+     "stem": "A S$60,000 par reverse convertible note pays an 8.50% annual coupon. It is linked to a stock trading at S$64 at issue. The kick-in level is 25% below the issue price. At maturity the stock is at S$42. What does the investor receive in total?",
+     "options": {
+      "A": "S$65,100",
+      "B": "S$39,375",
+      "C": "S$44,475",
+      "D": "S$49,575"
+     },
+     "answer": "C",
+     "explanation": "Kick-in level = 64 x 0.75 = S$48. Since S$42 is below S$48, the kick-in is breached. Delivery ratio = 60,000 / 64 = 937.5 shares. Share delivery value = 937.5 x 42 = S$39,375. Annual coupon = 60,000 x 8.50% = S$5,100. Total = 39,375 + 5,100 = S$44,475. The S$65,100 figure incorrectly pays par plus coupon as if the kick-in were not breached. The S$39,375 omits the coupon. The S$49,575 uses the wrong share price."
+    },
+    {
+     "id": "M9A-P6-Q19",
+     "paper": 6,
+     "num": 19,
+     "stem": "A discount certificate on a Singapore-listed tech stock is purchased at S$5.20. The cap-strike is S$6.40. At maturity the stock trades at S$7.80. What does the investor receive and what is the approximate percentage return?",
+     "options": {
+      "A": "S$7.80 received; return +50.0%",
+      "B": "S$5.20 received; return 0.0%",
+      "C": "S$6.40 received; return +23.1%",
+      "D": "S$6.40 received; return +15.4%"
+     },
+     "answer": "C",
+     "explanation": "When the stock price exceeds the cap-strike at maturity, the investor receives the cap-strike in cash. Payout = S$6.40. Return = (6.40 - 5.20) / 5.20 = 1.20 / 5.20 = 23.08%, approximately 23.1%. The S$7.80 payout ignores the cap. The 15.4% return divides by S$7.80 instead of the purchase price."
+    },
+    {
+     "id": "M9A-P6-Q20",
+     "paper": 6,
+     "num": 20,
+     "stem": "An airbag certificate is issued at S$60 nominal on a stock at S$60. The airbag level is 30% of the issue price (S$18). At maturity the stock price is S$12. What is the redemption value per certificate?",
+     "options": {
+      "A": "S$12.00",
+      "B": "S$18.00",
+      "C": "S$60.00",
+      "D": "S$40.00"
+     },
+     "answer": "D",
+     "explanation": "Since S$12 is below the airbag level of S$18, the formula applies: redemption = nominal x (final price / airbag level) = 60 x (12 / 18) = 60 x 0.6667 = S$40.00. This is above the S$12 the share itself is worth, which is the airbag's protective effect. The S$12 ignores the airbag cushion. The S$18 confuses the airbag level with the redemption amount. The S$60 nominal is only paid when the stock is at or above the airbag level."
+    },
+    {
+     "id": "M9A-P6-Q21",
+     "paper": 6,
+     "num": 21,
+     "stem": "The Superior Income Plan (SIP) has N = 250 trading days in a year. In year 3, all six reference stocks were at or above 92% of their initial prices on n = 195 trading days. A policy owner has a S$15,000 single premium. What annual payout does he receive for year 3?",
+     "options": {
+      "A": "S$600",
+      "B": "S$2,340",
+      "C": "S$3,000",
+      "D": "S$780"
+     },
+     "answer": "B",
+     "explanation": "Non-guaranteed payout rate = 20% x (195 / 250) = 20% x 0.78 = 15.6%. Payout = 15,000 x 15.6% = S$2,340. The guaranteed floor = 15,000 x 4% = S$600. Since S$2,340 exceeds S$600, the higher figure applies. The S$3,000 applies 20% without the n/N adjustment. The S$780 misapplies 4% x (n/N) = 4% x 0.78 = 3.12%, which incorrectly applies the floor rate to the ratio."
+    },
+    {
+     "id": "M9A-P6-Q22",
+     "paper": 6,
+     "num": 22,
+     "stem": "A S$20,000 SIP policy is triggered for early redemption by ABC Insurance after 60 trading days (approximately 3 months), when all six stocks reach or exceed 108% of their initial prices. The year has N = 250 trading days. What total amount does the policy owner receive?",
+     "options": {
+      "A": "S$20,960",
+      "B": "S$21,600",
+      "C": "S$20,000",
+      "D": "S$24,000"
+     },
+     "answer": "A",
+     "explanation": "Non-guaranteed pro-rata payout rate = 20% x (60 / 250) = 4.8%. Since 4.8% exceeds the guaranteed floor of 4%, the payout is 20,000 x 4.8% = S$960. Total received = single premium S$20,000 + payout S$960 = S$20,960. The S$21,600 figure applies 8%, confusing the 108% trigger level with the return percentage. The S$24,000 applies the full annual 20% rate as if held for a full year."
+    },
+    {
+     "id": "M9A-P6-Q23",
+     "paper": 6,
+     "num": 23,
+     "stem": "In the SIP, all six reference stocks remain consistently between 92% and 108% of their initial prices for all five years (the moderate market scenario). A policy owner has a S$10,000 single premium. What is the total amount received over the full policy term?",
+     "options": {
+      "A": "S$12,000",
+      "B": "S$14,000",
+      "C": "S$20,000",
+      "D": "S$15,000"
+     },
+     "answer": "C",
+     "explanation": "When n = N every trading day, the non-guaranteed payout rate = 20% x N/N = 20%. Annual payout = 10,000 x 20% = S$2,000. Over 5 years, total payouts = 5 x S$2,000 = S$10,000. At maturity the S$10,000 single premium is also repaid. Total = S$10,000 + S$10,000 = S$20,000. The S$12,000 result applies the guaranteed 4% floor scenario (S$400 x 5 + S$10,000). The S$14,000 and S$15,000 use incorrect payout rates."
+    },
+    {
+     "id": "M9A-P6-Q24",
+     "paper": 6,
+     "num": 24,
+     "stem": "On a S$10,000 SIP single premium, a 5% initial fee is deducted from the NAV immediately. What percentage return must the remaining invested capital earn in the first year just to restore the NAV to S$10,000?",
+     "options": {
+      "A": "4.76%",
+      "B": "5.00%",
+      "C": "6.00%",
+      "D": "5.26%"
+     },
+     "answer": "D",
+     "explanation": "After the 5% fee, the fund NAV = 10,000 x 0.95 = S$9,500. Required gain = (10,000 - 9,500) / 9,500 = 500 / 9,500 = 5.263%, rounded to 5.26%. The 5.00% measures the fee as a percentage of the original premium, not of the money actually in the market. The 4.76% is an inverted ratio. The study text states the shorthand of 'earn 8%' is the charge measured against the original premium, but the actual return on invested capital required is higher."
+    },
+    {
+     "id": "M9A-P6-Q25",
+     "paper": 6,
+     "num": 25,
+     "stem": "The Choice Fund (Case Study 2) has a NAV per unit of S$0.9293 and a Secure Price of S$1.00455. A client pays a S$8,000 single premium and a 5% front-end charge is deducted. How many units does the client hold?",
+     "options": {
+      "A": "8,000.00 units",
+      "B": "8,178.20 units",
+      "C": "7,556.44 units",
+      "D": "8,392.10 units"
+     },
+     "answer": "B",
+     "explanation": "Net amount invested after 5% charge = 8,000 x 0.95 = S$7,600. Units = 7,600 / 0.9293 = 8,178.20. The 8,000 unit figure divides the gross premium by the NAV, ignoring the 5% front-end charge. The 7,556.44 figure divides S$7,600 by the Secure Price instead of the NAV per unit. The 8,392.10 figure uses an incorrect NAV."
+    },
+    {
+     "id": "M9A-P6-Q26",
+     "paper": 6,
+     "num": 26,
+     "stem": "Using the 8,178.20 units from Question 25, if the Choice Fund NAV per unit at maturity is S$0.9500, what is the maturity payout and is it above or below the Secure Price payout?",
+     "options": {
+      "A": "S$8,213.46; the Secure Price is a guaranteed floor so the payout is the higher amount",
+      "B": "S$7,769.29; the Secure Price is a target, not a guarantee, so the lower NAV-based payout applies",
+      "C": "S$8,169.31; the fund manager adjusts the payout to match the Secure Price",
+      "D": "S$7,600.00; the fund returns the net premium since NAV is below the Secure Price"
+     },
+     "answer": "B",
+     "explanation": "Maturity payout at NAV S$0.9500 = 8,178.20 x 0.9500 = S$7,769.29. The Secure Price payout would be 8,178.20 x 1.00455 = S$8,215.41. The Secure Price is an investment target, not a guaranteed floor. If the NAV per unit at maturity is below the Secure Price, the payout is based on the actual unit price. The S$8,213.46 figure incorrectly treats the Secure Price as a guarantee."
+    },
+    {
+     "id": "M9A-P6-Q27",
+     "paper": 6,
+     "num": 27,
+     "stem": "A structured ILP sub-fund has 10,000,000 units outstanding at S$1.20 each (NAV = S$12,000,000). The fund applies a daily redemption cap of 10% of units outstanding. On one dealing day, requests totalling 3,000,000 units arrive. A policy owner submitted a request for 150,000 units. How many units does he actually redeem that day?",
+     "options": {
+      "A": "150,000 units",
+      "B": "100,000 units",
+      "C": "60,000 units",
+      "D": "50,000 units"
+     },
+     "answer": "D",
+     "explanation": "Daily redemption cap = 10% x 10,000,000 = 1,000,000 units. Pro-rata factor = 1,000,000 / 3,000,000 = 1/3 = 33.33%. This policy owner redeems 150,000 x 1/3 = 50,000 units, worth S$60,000 at S$1.20. The remaining 100,000 units stay invested. The 150,000 figure ignores the cap entirely. The 100,000 applies a 2/3 ratio in error. The 60,000 assumes an incorrect 40% pro-rata."
+    },
+    {
+     "id": "M9A-P6-Q28",
+     "paper": 6,
+     "num": 28,
+     "stem": "A structured ILP sub-fund reports operating expenses of S$168,000 for the year and a daily average NAV of S$9,600,000. The fund bought S$7,200,000 and sold S$5,400,000 of securities during the year. What are the expense ratio and the turnover ratio?",
+     "options": {
+      "A": "Expense ratio 1.50%, turnover ratio 75.00%",
+      "B": "Expense ratio 1.75%, turnover ratio 56.25%",
+      "C": "Expense ratio 1.75%, turnover ratio 75.00%",
+      "D": "Expense ratio 2.00%, turnover ratio 56.25%"
+     },
+     "answer": "B",
+     "explanation": "Expense ratio = 168,000 / 9,600,000 = 1.75%. The turnover ratio uses the LESSER of purchases or sales as numerator: min(7,200,000; 5,400,000) = 5,400,000. Turnover ratio = 5,400,000 / 9,600,000 = 56.25%. Using the larger purchases figure gives 75%, a common error. The 1.50% expense ratio uses an incorrect denominator."
+    },
+    {
+     "id": "M9A-P6-Q29",
+     "paper": 6,
+     "num": 29,
+     "stem": "On a dual-priced ILP sub-fund, offer price is S$1.0800 and bid price is S$1.0300. Wei Ling uses a chargeable switch (bid-to-offer) to move 40,000 units from Fund A (same prices) into Fund B (same prices). How many units does she receive in Fund B?",
+     "options": {
+      "A": "40,000.00 units",
+      "B": "39,259.26 units",
+      "C": "38,148.15 units",
+      "D": "37,962.96 units"
+     },
+     "answer": "C",
+     "explanation": "Sell Fund A at bid: 40,000 x S$1.0300 = S$41,200. Buy Fund B at offer: 41,200 / S$1.0800 = 38,148.15 units. On a free switch (bid-to-bid) she would receive 40,000 units, keeping the same count. The chargeable switch costs 40,000 - 38,148.15 = 1,851.85 fewer units. The 39,259.26 figure uses an incorrect spread. The 40,000 units result is from the free switch, not the chargeable one."
+    },
+    {
+     "id": "M9A-P6-Q30",
+     "paper": 6,
+     "num": 30,
+     "stem": "The SIP policy document states that XYZ Bank's guarantee terminates if XYZ goes into liquidation. Without that explicit termination clause, what would the legal position be?",
+     "options": {
+      "A": "XYZ Bank would still be fully liable even in liquidation because guarantees are irrevocable",
+      "B": "ABC Insurance, as the primary insurer and party to the insurance contract, would be obligated to honour the guaranteed 4% payout and capital repayment even if XYZ Bank failed",
+      "C": "MAS would step in to fund the guarantee from the Policy Owners Protection Scheme",
+      "D": "The policy owner would have no claim on anyone if both XYZ and ABC became insolvent"
+     },
+     "answer": "B",
+     "explanation": "Without the explicit termination clause, ABC Insurance, as the primary party to the insurance contract, would be contractually obligated to honour the guaranteed floor and capital repayment regardless of XYZ Bank's fate. The clause is precisely what transfers the counterparty risk from ABC to the investor's exposure to XYZ. MAS does not guarantee structured ILP payouts through the Policy Owners Protection Scheme."
+    },
+    {
+     "id": "M9A-P6-Q31",
+     "paper": 6,
+     "num": 31,
+     "stem": "A long straddle is built on a stock at S$72: buy one call (premium S$4.20) and one put (premium S$3.80), both with the S$72 strike. At what two prices does the position break even at expiry?",
+     "options": {
+      "A": "S$64.00 and S$80.00",
+      "B": "S$67.80 and S$76.20",
+      "C": "S$68.00 and S$76.00",
+      "D": "S$63.60 and S$80.40"
+     },
+     "answer": "A",
+     "explanation": "Total premium paid = 4.20 + 3.80 = S$8.00. Upper breakeven = 72 + 8 = S$80.00. Lower breakeven = 72 - 8 = S$64.00. The S$67.80 / S$76.20 pair uses only the call premium. The S$68.00 / S$76.00 pair uses only the put premium. The S$63.60 / S$80.40 pair uses S$8.40 as the total, an arithmetic error."
+    },
+    {
+     "id": "M9A-P6-Q32",
+     "paper": 6,
+     "num": 32,
+     "stem": "The long straddle from Question 31 (strike S$72, total premium S$8.00) is held to expiry and the stock closes at S$85. What is the net profit or loss per share?",
+     "options": {
+      "A": "S$5.00 loss",
+      "B": "S$21.00 profit",
+      "C": "S$5.00 profit",
+      "D": "S$13.00 profit"
+     },
+     "answer": "C",
+     "explanation": "At S$85 the call is in the money: intrinsic value = 85 - 72 = S$13.00. The put expires worthless. Net profit = call intrinsic value minus total premium = 13.00 - 8.00 = S$5.00 per share. The S$21.00 figure adds the premium to the intrinsic value instead of deducting it. The S$13.00 figure ignores the premium cost. The S$5.00 loss applies the wrong sign."
+    },
+    {
+     "id": "M9A-P6-Q33",
+     "paper": 6,
+     "num": 33,
+     "stem": "All of the following correctly distinguish currency swaps from interest rate swaps EXCEPT one. Which statement is LEAST accurate?",
+     "options": {
+      "A": "Currency swaps exchange both principal and interest; interest rate swaps exchange only the net interest difference",
+      "B": "Currency swaps involve two different currencies; interest rate swaps operate in the same currency",
+      "C": "Interest rate swaps net the cash flows because both legs are in the same currency; currency swaps pay full interest on both legs",
+      "D": "Currency swaps are always exchange-traded while interest rate swaps are always over-the-counter"
+     },
+     "answer": "D",
+     "explanation": "Both currency swaps and interest rate swaps are predominantly OTC instruments. Neither is restricted to exchange-traded or OTC execution exclusively. All other statements correctly describe the distinction: currency swaps exchange principal at inception and maturity and pay full interest on both legs without netting, whereas interest rate swaps in the same currency net the cash flows and never exchange principal."
+    },
+    {
+     "id": "M9A-P6-Q34",
+     "paper": 6,
+     "num": 34,
+     "stem": "Ng, a portfolio manager, buys credit protection on a corporate bond issuer without owning any of the issuer's bonds. Which derivative makes this possible and why?",
+     "options": {
+      "A": "A credit default swap; because the CDS protection buyer does not need to own the reference asset, enabling a pure credit view",
+      "B": "An equity swap; because equity swaps can reference any asset class including credit",
+      "C": "A swaption; because it gives the right to enter any underlying swap",
+      "D": "An interest rate futures contract; because it trades credit spreads on exchange"
+     },
+     "answer": "A",
+     "explanation": "A CDS transfers credit risk from buyer to seller for a periodic premium. The protection buyer need NOT own the underlying bond or loan, which is the feature that allows pure credit speculation. Equity swaps reference equity returns, not credit risk. A swaption gives the right to enter an interest rate or other swap. Credit default swaps are OTC instruments, not exchange-traded interest rate futures."
+    },
+    {
+     "id": "M9A-P6-Q35",
+     "paper": 6,
+     "num": 35,
+     "stem": "Priya holds a SHORT CFD position in a Singapore REIT. Which statement about her cash flow treatment is LEAST accurate?",
+     "options": {
+      "A": "She receives interest adjustments because she is effectively borrowing and short-selling a financed position",
+      "B": "There is no fixed expiry date on the CFD",
+      "C": "She pays dividends to the CFD provider when the REIT distributes income",
+      "D": "She pays financing interest on the notional value of the position each day it remains open"
+     },
+     "answer": "D",
+     "explanation": "A SHORT CFD position receives interest (not pays it) and pays dividends. Paying financing interest on the notional value describes a LONG CFD position. The short CFD holder benefits from the interest credit because she is effectively lending the notional proceeds of the short sale. All other statements correctly describe a short CFD: receiving interest, no expiry, and paying dividends."
+    },
+    {
+     "id": "M9A-P6-Q36",
+     "paper": 6,
+     "num": 36,
+     "stem": "A bonus certificate on a Singapore airline stock is issued at S$6.00 with a continuously monitored barrier at 70% of spot (S$4.20) and a bonus level of S$7.50. During the certificate's life the stock briefly touches S$4.15 before recovering to S$6.40 at maturity. What does the investor receive at maturity?",
+     "options": {
+      "A": "S$7.50",
+      "B": "S$6.40",
+      "C": "S$6.00",
+      "D": "S$4.15"
+     },
+     "answer": "B",
+     "explanation": "The barrier at S$4.20 was breached when the stock touched S$4.15. On a continuously monitored barrier, once knock-out occurs the bonus protection is removed for the remainder of the certificate's life regardless of any price recovery. The investor receives the underlying price at maturity, S$6.40, not the bonus level of S$7.50. The barrier-touch price of S$4.15 is not locked in as the payout."
+    },
+    {
+     "id": "M9A-P6-Q37",
+     "paper": 6,
+     "num": 37,
+     "stem": "Lim wants an option that lets him lock in a profit while the option is in the money during its life, and still participate in any further upside. Which exotic option type fits his objective?",
+     "options": {
+      "A": "Asian option",
+      "B": "Lookback option",
+      "C": "Shout option",
+      "D": "Compound option"
+     },
+     "answer": "C",
+     "explanation": "A shout option lets the holder lock in (shout) a certain profit level when the option is in the money before expiry, then continue to participate in any further favourable move until expiry. The Asian option uses average prices but does not allow mid-life lock-in. The lookback selects the most favourable price at expiry only, not during the life. The compound option gives the right to purchase another option."
+    },
+    {
+     "id": "M9A-P6-Q38",
+     "paper": 6,
+     "num": 38,
+     "stem": "A fund manager uses an equity swap to gain exposure to a foreign equity market where direct investment is restricted. Which statement MOST accurately describes the risk profile of this arrangement?",
+     "options": {
+      "A": "The fund retains full market risk on the referenced equity and adds OTC counterparty risk on the swap itself",
+      "B": "The equity swap eliminates market risk because the bank counterparty absorbs all price movements",
+      "C": "The fund now has zero counterparty risk because it holds no securities directly",
+      "D": "Equity swaps are exchange-traded so the clearing house eliminates counterparty risk"
+     },
+     "answer": "A",
+     "explanation": "An equity swap replicates the economic exposure of owning the referenced shares, so full market risk is retained. Because most equity swaps are OTC instruments, the fund also takes on counterparty risk to the swap dealer. Market risk is not eliminated by the swap structure. There is no central clearing house for most equity swaps, so counterparty risk is present, not zero."
+    },
+    {
+     "id": "M9A-P6-Q39",
+     "paper": 6,
+     "num": 39,
+     "stem": "An Asian option is embedded in a capital-protection structured note to determine the equity-linked payoff. Which characteristic makes this choice particularly suitable?",
+     "options": {
+      "A": "The Asian option can be exercised at any time before expiry, giving maximum flexibility",
+      "B": "The Asian option has no expiry date, reducing the maturity mismatch risk",
+      "C": "The Asian option's payoff is based on average prices over a period, reducing sensitivity to a single adverse end-date price",
+      "D": "The Asian option is exchange-traded and therefore has tighter bid-offer spreads"
+     },
+     "answer": "C",
+     "explanation": "The Asian (average price) option computes the payoff from the average of the underlying price over a preset period rather than the price on one final date. This smoothing protects the investor against a sharp fall in the underlying on the maturity date alone, a key risk in point-in-time payoffs. The early-exercise feature describes an American option. The no-expiry description is false. Asian options are predominantly OTC, not exchange-traded."
+    },
+    {
+     "id": "M9A-P6-Q40",
+     "paper": 6,
+     "num": 40,
+     "stem": "Farhan holds a Bermuda-style option. On which dates can he exercise it?",
+     "options": {
+      "A": "Only at expiry",
+      "B": "Any trading day up to expiry",
+      "C": "Never; Bermuda options are non-exercisable and settled by cash only at maturity",
+      "D": "Only on a pre-set schedule of dates including the expiry date"
+     },
+     "answer": "D",
+     "explanation": "A Bermuda option is exercisable on a pre-determined set of dates that includes the expiry date, forming a hybrid between European (expiry only) and American (any day before expiry) styles. It is named by analogy with the island's location between Europe and America. Exercising only at expiry describes a European option. Exercising any day describes an American option."
+    },
+    {
+     "id": "M9A-P6-Q41",
+     "paper": 6,
+     "num": 41,
+     "stem": "Rajan holds four structured notes, all linked to Singapore property shares and all issued by the same European investment bank. He believes he has diversified his portfolio. What is the most significant risk he has overlooked?",
+     "options": {
+      "A": "He holds too many instruments and should consolidate into one note to reduce costs",
+      "B": "His FX risk is excessive because all the underlying companies are in Singapore dollars",
+      "C": "He has diversified market risk adequately by spreading across four different property names",
+      "D": "He has concentrated both his sector market exposure and his issuer credit exposure, so a single event at the issuing bank collapses all four positions simultaneously"
+     },
+     "answer": "D",
+     "explanation": "Four notes linked to the same sector means undiversified sector market risk. All four issued by the same bank means that a default at the bank ends all four positions regardless of the underlying property performance. True diversification requires varying both the underlying and the issuer. Fewer notes with the same issuer creates the same problem, not a better one."
+    },
+    {
+     "id": "M9A-P6-Q42",
+     "paper": 6,
+     "num": 42,
+     "stem": "A retail ILP sub-fund has NAV of S$40,000,000. The fund holds S$2,800,000 of bonds issued by a single unrated corporate entity and S$1,800,000 of a rated investment-grade bank. Which statement is correct?",
+     "options": {
+      "A": "Both positions are within limits; the single-entity cap is 10% for all issuers",
+      "B": "The unrated corporate holding breaches its concentration limit of 5% of NAV",
+      "C": "The rated bank holding breaches its limit because rated entities are capped at 5%",
+      "D": "Neither position breaches any limit because the fund manager has full discretion"
+     },
+     "answer": "B",
+     "explanation": "For unrated and non-investment-grade corporate debt, the single-entity cap is reduced to 5% of NAV = 5% x 40,000,000 = S$2,000,000. The S$2,800,000 holding exceeds this. The rated bank holding of S$1,800,000 is within the standard 10% cap of S$4,000,000. The 5% cap applies to unrated entities specifically, not to rated ones. Fund manager discretion does not override MAS Code concentration rules."
+    },
+    {
+     "id": "M9A-P6-Q43",
+     "paper": 6,
+     "num": 43,
+     "stem": "A policy owner receives her structured ILP policy document and decides to cancel on Day 10. She paid a S$100,000 single premium and 100,000 units were allocated at S$1.0000. At the time of cancellation the unit price has fallen to S$0.9650. How much refund does she receive under the free-look right?",
+     "options": {
+      "A": "S$100,000",
+      "B": "S$103,500",
+      "C": "S$101,000",
+      "D": "S$96,500"
+     },
+     "answer": "D",
+     "explanation": "The 14-day free-look refund equals the premium paid adjusted downward for any fall in unit NAV. Units = 100,000 / S$1.0000 = 100,000 units. Refund = 100,000 x S$0.9650 = S$96,500. The adjustment runs one way only: declines reduce the refund, but gains do not increase it beyond the original premium. The S$100,000 ignores the fall in unit price. The S$103,500 and S$101,000 figures both incorrectly pay out above the premium."
+    },
+    {
+     "id": "M9A-P6-Q44",
+     "paper": 6,
+     "num": 44,
+     "stem": "A Product Highlights Sheet for a structured ILP sub-fund contains 5 pages of body text, 2 pages of diagrams, a 1-page glossary, and a half-page disclaimer. Which rules has the insurer breached?",
+     "options": {
+      "A": "The body text exceeds the 4-page limit, the total including diagrams exceeds 8 pages, and disclaimers must not appear in a PHS",
+      "B": "The font must be 12-point Times New Roman; only the font rule is breached",
+      "C": "The glossary must not exceed half a page; only the glossary rule is breached",
+      "D": "No rules are breached; the 8-page limit applies only to diagrams"
+     },
+     "answer": "A",
+     "explanation": "Under Notice MAS 307: body text (excluding diagrams and glossary) must not exceed 4 pages (this PHS has 5, breaching it); the total including diagrams and glossary must not exceed 8 pages (5 + 2 + 1 + 0.5 = 8.5 pages, breaching it); and an insurer shall refrain from including disclaimers in a PHS at all. The required minimum font is 10-point Times New Roman, not 12-point."
+    },
+    {
+     "id": "M9A-P6-Q45",
+     "paper": 6,
+     "num": 45,
+     "stem": "Which set of after-sales reporting timelines for a structured ILP sub-fund correctly matches the Notice MAS 307 requirements?",
+     "options": {
+      "A": "Statement within 14 days of anniversary; Semi-Annual Report within 1 month; Audit Report within 2 months",
+      "B": "Statement within 60 days of anniversary; Semi-Annual Report within 2 months; Audit Report within 3 months",
+      "C": "Statement within 30 days of anniversary; Semi-Annual Report within 3 months; Audit Report within 6 months",
+      "D": "Statement within 30 days of anniversary; Semi-Annual Report within 2 months; Audit Report within 3 months"
+     },
+     "answer": "D",
+     "explanation": "Notice MAS 307 requires: Statement to Policy Owners within 30 days after each policy anniversary; Semi-Annual Report within 2 months of the period end; Relevant Audit Report within 3 months of the period end. The 14-day figure confuses the free-look period with the reporting deadline. The 6-month audit deadline has no basis in the rules. The 60-day statement deadline is too long."
+    },
+    {
+     "id": "M9A-P6-Q46",
+     "paper": 6,
+     "num": 46,
+     "stem": "A client asks whether a portfolio bond will pay him a fixed coupon like the Singapore Savings Bond he already holds. Which response is most accurate?",
+     "options": {
+      "A": "Yes; portfolio bonds pay a fixed coupon from the bond component of the structure",
+      "B": "No; any regular payment from a portfolio bond is funded by redeeming units, permanently reducing the capital base",
+      "C": "Yes; portfolio bonds are covered by the Deposit Insurance Scheme so the coupon is guaranteed",
+      "D": "No; portfolio bonds pay a variable coupon linked to an interest rate index"
+     },
+     "answer": "B",
+     "explanation": "A portfolio bond is not a bond. Any income drawn from it is generated by selling (redeeming) units, which reduces the number of units held and permanently erodes the capital base. There is no coupon, no par repayment, and no principal protection. Portfolio bonds are not covered by the Deposit Insurance Scheme. The value tracks underlying investments, not an interest rate index."
+    },
+    {
+     "id": "M9A-P6-Q47",
+     "paper": 6,
+     "num": 47,
+     "stem": "Wei Ling's portfolio bond started with S$160,000 in an equity fund and S$160,000 in a bond fund. Three years later the equity fund is worth S$206,000 and the bond fund is worth S$114,000. She rebalances to the original 50/50 split. How much moves from the equity fund to the bond fund?",
+     "options": {
+      "A": "S$46,000",
+      "B": "S$52,000",
+      "C": "S$26,000",
+      "D": "S$40,000"
+     },
+     "answer": "A",
+     "explanation": "Total portfolio = 206,000 + 114,000 = S$320,000. Each side needs 320,000 / 2 = S$160,000. The equity fund holds S$206,000, which is S$46,000 above its target. That S$46,000 transfers to the bond fund. This illustrates the opportunity cost of rebalancing: units are sold from the outperformer to restore the risk profile. The S$52,000 uses an incorrect total. The S$26,000 halves the required transfer by mistake."
+    },
+    {
+     "id": "M9A-P6-Q48",
+     "paper": 6,
+     "num": 48,
+     "stem": "The corn cash price in Farmerville is S$3.10 per bushel and the July futures price is S$3.55 per bushel. The historically expected basis for this delivery month is -S$0.50. Which statement correctly describes the current basis and its strength?",
+     "options": {
+      "A": "Basis = +S$0.45; the market is in backwardation",
+      "B": "Basis = -S$0.50; the basis is exactly at expectation",
+      "C": "Basis = -S$0.45; the basis is narrow/strong because cash is closer to futures than expected",
+      "D": "Basis = -S$0.45; the basis is wide/weak because cash is farther from futures than expected"
+     },
+     "answer": "C",
+     "explanation": "Basis = spot - futures = 3.10 - 3.55 = -S$0.45. The expected basis is -S$0.50. The observed basis (-S$0.45) is less negative than expected, meaning cash is closer to the futures price than usual. This is a narrow or strong basis. A positive basis would mean cash is above futures, which is not the case. The wide/weak description applies when cash is farther from futures than expected, i.e. more negative than -S$0.50."
+    },
+    {
+     "id": "M9A-P6-Q49",
+     "paper": 6,
+     "num": 49,
+     "stem": "Ng, aged 45, wants to invest S$120,000 for 18 months before using the funds for a property down payment. An adviser recommends a structured ILP with a 5% front-end charge and a 1.8% annual fund management fee. Which statement about suitability is most accurate?",
+     "options": {
+      "A": "The product is suitable if Ng has a medium risk tolerance",
+      "B": "The product is suitable once Ng reads the Product Highlights Sheet",
+      "C": "The product is suitable because the 5% charge is refunded if held to maturity",
+      "D": "The product is likely unsuitable; the 18-month horizon is too short for the fee drag to be recovered and Ng has a specific known liquidity need"
+     },
+     "answer": "D",
+     "explanation": "Structured ILPs are explicitly unsuitable for short-term investors. First-year costs can reach around 8% of the single premium, requiring the fund to earn that amount just to break even. Over 18 months, recovery is unlikely. A known liquidity event in 18 months compounds the mismatch further. The front-end charge is not refunded at maturity. Risk tolerance is secondary to the fundamental horizon and liquidity mismatch."
+    },
+    {
+     "id": "M9A-P6-Q50",
+     "paper": 6,
+     "num": 50,
+     "stem": "In the SIP case study, which scenario produces the HIGHEST total cash payout to the policy owner over the full five-year term on a S$10,000 single premium, and why is this counter-intuitive?",
+     "options": {
+      "A": "All six stocks remain below 92% for all five years; because the guaranteed 4% floor applies throughout",
+      "B": "All six stocks rise strongly to 108% in month three, triggering early redemption; because the trigger produces a bonus payment",
+      "C": "The six stocks fluctuate with at least one below 92% on every trading day; because mixed performance generates the highest average payout",
+      "D": "All six stocks consistently stay between 92% and 108% throughout all five years; because this moderate performance triggers the maximum 20% payout for the full five-year term"
+     },
+     "answer": "D",
+     "explanation": "The moderate scenario (stocks range-bound 92-108%, n=N all five years) pays 20% per year: S$10,000 principal + S$10,000 in payouts = S$20,000 total. The counter-intuitive result is that the BEST stock performance scenario (early redemption after 3 months) pays only S$10,000 + S$480 = S$10,480, the lowest total. The guaranteed-floor scenarios (all below 92%, or mixed) pay S$12,000. The 20% annual cap means stocks staying well-behaved inside the 92-108% band for all five years is the best outcome for the investor, not the strongest rally."
+    }
+   ]
+  },
+  {
+   "paper": 7,
+   "questions": [
+    {
+     "id": "M9A-P7-Q1",
+     "paper": 7,
+     "num": 1,
+     "stem": "Mdm Koh, age 58, is retiring in 2 years. She has S$80,000 to invest and tells her adviser she needs the money back in full no later than her retirement date. Her risk appetite is low. The adviser is considering a 3-year capital-protection structured note whose principal is returned only at maturity. Which statement about this recommendation is most accurate?",
+     "options": {
+      "A": "The product is unsuitable because the 3-year maturity extends beyond Mdm Koh's 2-year horizon; if she exits early she faces a mark-to-market loss and the capital-protection feature has not yet arrived",
+      "B": "The product is suitable because a capital-protection feature eliminates all risk regardless of when she exits",
+      "C": "The product is suitable because her low risk appetite matches the capital-protection objective of the note",
+      "D": "The product is unsuitable because structured notes always generate losses in falling markets"
+     },
+     "answer": "A",
+     "explanation": "Capital protection in a structured note applies only at maturity. A client who must exit before maturity receives the mark-to-market value, which can be below par if yields have risen or the option has lost value. Mdm Koh's 2-year horizon is shorter than the 3-year maturity, so early redemption is likely and the protection never arrives. Her low risk appetite makes this mismatch decisive. The 'suitable because capital-protection eliminates all risk' option ignores that the protection is time-conditional."
+    },
+    {
+     "id": "M9A-P7-Q2",
+     "paper": 7,
+     "num": 2,
+     "stem": "Mr Raj invests S$10,000 in a 5-year structured note. The zero-coupon bond portion costs S$8,000 at issue and will grow to S$10,000 at maturity. The remaining S$2,000 buys a call option on an index. At maturity the index has risen 30% and the option strike is at-the-money at inception. The option premium was 14% of notional. What is the participation rate and the total maturity payout? (Assume: participation rate = derivative budget / premium cost of the option.)",
+     "options": {
+      "A": "Participation rate 100%; payout S$13,000",
+      "B": "Participation rate 143%; payout S$14,290",
+      "C": "Participation rate approximately 142.9%; payout approximately S$14,286",
+      "D": "Participation rate 70%; payout S$12,100"
+     },
+     "answer": "C",
+     "explanation": "Option budget = S$2,000. Option premium amount = 14% x S$10,000 = S$1,400. Participation rate = 2,000 / 1,400 = 142.86%. Index rose 30%, so participation gain = S$10,000 x 1.4286 x 0.30 = S$4,286. Total payout = S$10,000 (from bond) + S$4,286 = S$14,286. The '100% participation; S$13,000' option ignores that the budget exceeds the premium cost, giving a rate above 100%."
+    },
+    {
+     "id": "M9A-P7-Q3",
+     "paper": 7,
+     "num": 3,
+     "stem": "Ms Chen, age 42, holds a structured ILP she purchased 18 months ago with a S$50,000 single premium. She paid a 5% front-end charge. The sub-fund has since gained 3%. Her adviser correctly tells her that her current surrender value is approximately S$48,825. All of the following statements about her position are correct EXCEPT:",
+     "options": {
+      "A": "Her S$50,000 premium was reduced by 5% to S$47,500 invested in the sub-fund on day one",
+      "B": "The sub-fund then grew by 3%, bringing the value to approximately S$47,500 x 1.03 = S$48,925, before annual fund charges are deducted",
+      "C": "The surrender value equals the market value of her units; there is no guaranteed surrender floor",
+      "D": "She is below her original S$50,000 premium because the front-end charge plus fund management fees have not yet been recovered by the 3% sub-fund gain"
+     },
+     "answer": "B",
+     "explanation": "The raw sub-fund gain gives S$47,500 x 1.03 = S$48,925 before annual fund charges. Once the ongoing management charge is deducted over 18 months, the net surrender value falls to the stated S$48,825, so the S$48,925 figure is the one statement that stops short of the full deduction and is incorrect. The rest are accurate: the 5% front-end charge is deducted first, the surrender value floats with NAV with no guaranteed floor, and the net position sits below the S$50,000 premium."
+    },
+    {
+     "id": "M9A-P7-Q4",
+     "paper": 7,
+     "num": 4,
+     "stem": "Encik Hassan, age 35, earns S$120,000 a year and has a 25-year investment horizon. He is considering either a portfolio bond or a standard structured ILP. He wants to appoint his own preferred external fund managers and hold a mix of equities, bonds and derivatives within one policy. Which product better fits this requirement, and why?",
+     "options": {
+      "A": "Standard structured ILP, because it allows unlimited fund manager appointments",
+      "B": "Standard structured ILP, because it gives the owner full trading discretion over individual securities",
+      "C": "Portfolio bond, because it also gives guaranteed capital protection at all times",
+      "D": "Portfolio bond, because it lets the owner appoint managers within the insurer's platform and access equities, bonds, derivatives and CIS, which a standard ILP does not permit"
+     },
+     "answer": "D",
+     "explanation": "A standard ILP restricts the owner to the insurer's own funds with no say over fund manager selection. A portfolio bond goes a step further, allowing the owner to appoint managers of their choice within the insurer's platform and access cash, equities, bonds, derivatives and CIS. Encik Hassan's requirement for external manager appointments is the decisive feature. Portfolio bonds do not provide guaranteed capital protection, so that distractor is wrong."
+    },
+    {
+     "id": "M9A-P7-Q5",
+     "paper": 7,
+     "num": 5,
+     "stem": "A reverse convertible note is linked to a Singapore-listed bank stock currently at S$28.00. The kick-in level is set at 75% of the current price and the note pays a 10% coupon. At maturity the stock is at S$18.00. The note specifies delivery of 3,571 shares per S$100,000 par if kick-in is breached. What does the investor receive per S$100,000 par, and what is the percentage loss?",
+     "options": {
+      "A": "3,571 shares x S$18.00 = S$64,278 plus S$10,000 coupon = S$74,278; a loss of approximately 25.7%",
+      "B": "Par S$100,000 plus coupon S$10,000; a gain of 10%",
+      "C": "3,571 shares x S$21.00 = S$74,991 plus coupon; kick-in was not breached",
+      "D": "S$100,000 par only; coupon is forfeited on breach"
+     },
+     "answer": "A",
+     "explanation": "Kick-in level = 75% x S$28.00 = S$21.00. The stock closed at S$18.00, which is below S$21.00, so the kick-in is breached. The investor receives 3,571 x S$18.00 = S$64,278 plus the S$10,000 coupon = S$74,278. Loss = (100,000 - 74,278) / 100,000 = 25.7%. The 'par plus coupon; 10% gain' option would only apply if the stock stayed above S$21.00 at maturity, which it did not."
+    },
+    {
+     "id": "M9A-P7-Q6",
+     "paper": 7,
+     "num": 6,
+     "stem": "A client holds 10,000 units in ILP Sub-fund A with a bid price of S$1.2000 and an offer price of S$1.2600. She instructs a chargeable switch into Sub-fund B, which has a bid price of S$0.9500 and an offer price of S$1.0000. There is no explicit switching fee, but the switch is executed bid-to-offer. How many units of Sub-fund B does she receive?",
+     "options": {
+      "A": "11,368 units",
+      "B": "12,000 units",
+      "C": "9,500 units",
+      "D": "10,000 units"
+     },
+     "answer": "B",
+     "explanation": "She sells Sub-fund A at the bid: 10,000 x S$1.2000 = S$12,000 proceeds. She buys Sub-fund B at the offer: S$12,000 / S$1.0000 = 12,000 units. On a bid-to-offer switch the sale proceeds are divided by the destination fund's offer price. The '11,368 units' distractor would arise from incorrectly dividing by S$1.0560 (an average). The '9,500 units' distractor uses the bid price of Sub-fund B incorrectly as the purchase price."
+    },
+    {
+     "id": "M9A-P7-Q7",
+     "paper": 7,
+     "num": 7,
+     "stem": "During a structured ILP sales process, which of the following is the CORRECT sequence of document delivery and the consumer action that the free-look period enables?",
+     "options": {
+      "A": "Policy document is issued first; client can cancel within 7 days for a guaranteed full premium refund with no adjustments",
+      "B": "Product Highlights Sheet is issued only after purchase; client cannot cancel once invested",
+      "C": "Product Summary and Benefit Illustration must be provided during the sales process; the PHS at the point of sale; the policy document is issued after purchase and triggers a 14-day free-look during which cancellation entitles a refund subject to market value adjustment on invested units",
+      "D": "The Audited Report is issued during the sales process; free-look is 30 days"
+     },
+     "answer": "C",
+     "explanation": "The Product Summary, Benefit Illustration and Product Highlights Sheet are all pre-purchase documents. The policy document is issued after purchase and starts the 14-day free-look. Cancellation within the free-look gives a refund adjusted for any downward market movement in the unit price, so the refund may be less than the premium paid if units have fallen. The '7-day period with guaranteed full refund' option understates the period and ignores the market value adjustment."
+    },
+    {
+     "id": "M9A-P7-Q8",
+     "paper": 7,
+     "num": 8,
+     "stem": "Mr Tan invests S$200,000 in a portfolio bond carrying: product charge 0.70% per year, average fund charge 1.30% per year, mortality charge 0.15% per year, and a one-off surrender charge of 3% if surrendered within 5 years. His adviser says the annual tax saving inside the insurance wrapper is approximately S$2,800 per year. In year one, does the cost of ownership exceed the tax benefit?",
+     "options": {
+      "A": "No, because the mortality charge offsets the tax saving exactly",
+      "B": "No, because fund charges are paid by the fund, not the investor",
+      "C": "Yes, because the surrender charge alone exceeds the tax saving",
+      "D": "Yes, because annual recurring charges total 0.70% + 1.30% + 0.15% = 2.15% x S$200,000 = S$4,300 per year, which exceeds the S$2,800 tax saving"
+     },
+     "answer": "D",
+     "explanation": "Total recurring annual charge = (0.70 + 1.30 + 0.15)% = 2.15% x S$200,000 = S$4,300. That exceeds the S$2,800 annual tax saving by S$1,500, so the cost outweighs the benefit in year one. The surrender charge is a one-off exit cost and does not affect this annual comparison. The portfolio bond study text specifically warns that the tax benefit can be outweighed by the cost of ownership."
+    },
+    {
+     "id": "M9A-P7-Q9",
+     "paper": 7,
+     "num": 9,
+     "stem": "Mdm Lim, age 61, retired last year. She wants a product that provides regular income and also preserves capital for her estate. Her adviser recommends a portfolio bond with monthly unit redemptions to generate income. Which risk must the adviser MOST prominently disclose?",
+     "options": {
+      "A": "That the portfolio bond is covered by the Deposit Insurance Scheme up to S$75,000",
+      "B": "That issuer credit risk is eliminated because assets are held by a trustee",
+      "C": "That the mortality charge increases with age and may consume a significant portion of her portfolio in later years",
+      "D": "That regular income from a portfolio bond is funded by redeeming units, so a falling market permanently reduces the capital base, and capital protection is not provided"
+     },
+     "answer": "D",
+     "explanation": "Regular income from a portfolio bond is funded by redeeming (selling) units. In a falling market this means Mdm Lim continuously liquidates units at depressed prices, permanently reducing the capital base. Portfolio bonds do not protect capital. This is the risk most relevant to a retired client seeking both income and capital preservation. The 'DIS coverage' option is false: ILP wrappers are not deposits. The 'trustee holds assets' option describes a CIS structure; in an ILP the insurer is the legal owner in a quasi-trust arrangement."
+    },
+    {
+     "id": "M9A-P7-Q10",
+     "paper": 7,
+     "num": 10,
+     "stem": "Under the Superior Income Plan (SIP) case study, on a S$10,000 single premium policy: in Scenario 1 (best market performance, early redemption at 3 months, 60 trading days elapsed out of 250), what is the exact annual payout received, and what is the total cash received when the policy terminates?",
+     "options": {
+      "A": "Non-guaranteed payout = 20% x 60/250 = 4.8% x S$10,000 = S$480; total received = S$10,480",
+      "B": "Non-guaranteed payout = 20% x 60/250 = 4.8%; guaranteed applies instead at 4% = S$400; total = S$10,400",
+      "C": "Payout = 20% x 250/250 = 20% = S$2,000; total = S$12,000",
+      "D": "Payout = 4% x 60/250 = 0.96% = S$96; total = S$10,096"
+     },
+     "answer": "A",
+     "explanation": "Non-guaranteed payout = 20% x 60/250 = 4.8%. Since 4.8% > 4% guaranteed, the payout is S$10,000 x 4.8% = S$480. At early redemption the single premium is also returned, so total = S$10,000 + S$480 = S$10,480. The policy terminates after three months. The 'guaranteed 4% applies instead' option is wrong because 4.8% > 4%, so the non-guaranteed figure is the higher one and applies."
+    },
+    {
+     "id": "M9A-P7-Q11",
+     "paper": 7,
+     "num": 11,
+     "stem": "Which of the following correctly distinguishes a structured fund from a structured ILP in terms of who bears issuer default risk?",
+     "options": {
+      "A": "Both are equally exposed to issuer default because both are unsecured debentures",
+      "B": "A structured ILP exposes the owner to issuer default, but a structured fund eliminates it entirely since assets are exchange-traded",
+      "C": "A structured fund holds assets through a third-party custodian (trustee), so investors are not exposed to the fund issuer's insolvency; a structured ILP is an insurance policy where the insurer is the legal owner in a quasi-trust, giving a different but not eliminated credit exposure",
+      "D": "There is no difference; both are covered by the Deposit Insurance Scheme"
+     },
+     "answer": "C",
+     "explanation": "In a structured fund (CIS trust structure) the trustee holds the assets for investors, so fund manager insolvency does not put investor assets at risk. In a structured ILP the insurer is the legal owner in a quasi-trust under the Insurance Act, not a true trust, giving a different legal position. Neither is covered by the Deposit Insurance Scheme. The 'both are unsecured debentures' description applies to structured notes, not funds or ILPs."
+    },
+    {
+     "id": "M9A-P7-Q12",
+     "paper": 7,
+     "num": 12,
+     "stem": "Ms Priya, age 29, wants to invest S$30,000 for 10 years in a regular-premium ILP. Her adviser quotes a plan where 50% of year-1 premiums are allocated (i.e. 50% front-loaded charge applies in year 1). Her annual premium is S$3,600. How many units does she receive in year 1 if the offer price is S$1.00 and the allocation rate is 50%?",
+     "options": {
+      "A": "3,600 units",
+      "B": "1,440 units",
+      "C": "2,880 units",
+      "D": "1,800 units"
+     },
+     "answer": "D",
+     "explanation": "Allocated premium in year 1 = S$3,600 x 50% = S$1,800. Units received = S$1,800 / S$1.00 = 1,800 units. The '3,600 units' option ignores the front-load and assumes full allocation. The '1,440 units' option would arise from a 40% allocation rate, not 50%. The '2,880 units' option would arise from an 80% rate. The factbank notes that for regular-premium plans the front-end allocation rate can be as low as 20-50% in year 1, making the first-year cost extremely high."
+    },
+    {
+     "id": "M9A-P7-Q13",
+     "paper": 7,
+     "num": 13,
+     "stem": "An adviser is reviewing two products for Mr Lim, age 50, who has a 7-year horizon and moderate risk appetite. Product X is a structured note with capital protection at maturity in year 7. Product Y is a structured ILP with no capital guarantee but a diversified sub-fund and 5% front-end charge. Mr Lim mentions he may need some of the funds in year 4 for his child's university fees. Which statement correctly identifies the suitability issue with Product X?",
+     "options": {
+      "A": "Product X is unsuitable because structured notes carry no market risk",
+      "B": "Product X is unsuitable because the front-end charge exceeds 10%",
+      "C": "Product X is unsuitable because its capital protection applies only at maturity in year 7; if Mr Lim exits in year 4 for university fees, he receives the mark-to-market value with no capital protection, potentially below his investment",
+      "D": "Product X is unsuitable because structured notes are not permitted to be sold to clients aged over 45"
+     },
+     "answer": "C",
+     "explanation": "Product X protects capital only at maturity in year 7. If Mr Lim exits in year 4 to fund university fees, he receives the mark-to-market value of the structured note, which reflects current rates and option time value and may be below par. The capital-protection feature has not matured. The horizon mismatch between his 7-year product and his year-4 liquidity need is the decisive suitability failure. Front-end charges on structured notes are typically embedded in pricing rather than explicit, so the 10% option is not the right concept here."
+    },
+    {
+     "id": "M9A-P7-Q14",
+     "paper": 7,
+     "num": 14,
+     "stem": "The Product Highlights Sheet (PHS) for a structured ILP sub-fund contains a disclaimer paragraph and runs to 5 pages of text plus 4 pages of charts. Which rule violations has the insurer committed?",
+     "options": {
+      "A": "Two violations: the PHS must carry no disclaimers, and text must not exceed 4 pages (total including diagrams must not exceed 8 pages, and here text alone is 5 pages, breaching both limits)",
+      "B": "One violation: the disclaimer is permitted but the 5-page text breaches the limit",
+      "C": "No violations: 9 pages total is within the 10-page limit",
+      "D": "One violation: the PHS must use 12-point Arial, not 10-point Times New Roman"
+     },
+     "answer": "A",
+     "explanation": "PHS rules under Notice MAS 307 state: no disclaimers permitted, text (excluding diagrams and glossary) must not exceed 4 pages, and total including diagrams must not exceed 8 pages. Here the text runs 5 pages (breaches the 4-page limit) and the total is 9 pages (breaches the 8-page ceiling). The disclaimer is never permitted in a PHS. The font rule is 10-point Times New Roman, not 12-point Arial."
+    },
+    {
+     "id": "M9A-P7-Q15",
+     "paper": 7,
+     "num": 15,
+     "stem": "Encik Farid, age 46, holds a portfolio bond. His original allocation was 60% equity fund and 40% bond fund on a S$250,000 investment. Three years later the equity fund has grown to S$172,500 and the bond fund to S$87,500, a total of S$260,000. He instructs a rebalance back to 60/40. How much must move from the equity fund to the bond fund?",
+     "options": {
+      "A": "S$12,500 from equity to bond",
+      "B": "S$9,000 from equity to bond",
+      "C": "S$16,500 from equity to bond",
+      "D": "S$10,400 from equity to bond"
+     },
+     "answer": "C",
+     "explanation": "Target allocation: 60% x S$260,000 = S$156,000 in equity; 40% x S$260,000 = S$104,000 in bond. Current equity = S$172,500; current bond = S$87,500. Transfer needed from equity to bond = S$172,500 - S$156,000 = S$16,500. Verify: equity after = S$156,000, bond after = S$87,500 + S$16,500 = S$104,000. Total still S$260,000 and 60/40 split. The S$12,500 distractor uses the original S$250,000 total rather than the current S$260,000."
+    },
+    {
+     "id": "M9A-P7-Q16",
+     "paper": 7,
+     "num": 16,
+     "stem": "A structured note is marketed to a client by the distributor with the phrase 'your investment is fully capital protected at all times.' The note is a 5-year product with capital return only at maturity. Which TWO problems does this marketing phrase create?",
+     "options": {
+      "A": "It is accurate because capital protection notes always protect capital intraday",
+      "B": "It misrepresents the product by implying protection exists before maturity, and it uses a phrase that has been banned in Singapore since September 2009 unless the product genuinely provides the capital protection at all times",
+      "C": "The only problem is that 'capital protected' should be replaced with 'capital guaranteed'",
+      "D": "It violates SGX listing rules but does not affect retail investors"
+     },
+     "answer": "B",
+     "explanation": "Two problems: first, the phrase 'capital protected at all times' is false because protection applies only at maturity, not during the 5-year term; exiting early means receiving a mark-to-market value. Second, since September 2009 MAS banned use of 'capital protected' or 'capital guaranteed' unless the product genuinely provides that protection as described. An intraday or at-all-times protection that does not exist is precisely the misleading label the ban addressed."
+    },
+    {
+     "id": "M9A-P7-Q17",
+     "paper": 7,
+     "num": 17,
+     "stem": "Ms Tan, age 38, has an existing portfolio of Singapore equities valued at S$800,000 with a portfolio beta of 1.35. She is worried about a near-term market correction but does not want to sell her holdings. The STI is at 3,200 and the June STI futures contract trades at 3,150 with a multiplier of S$10 per point. How many futures contracts should she short to hedge the portfolio?",
+     "options": {
+      "A": "34 contracts",
+      "B": "28 contracts",
+      "C": "25 contracts",
+      "D": "43 contracts"
+     },
+     "answer": "A",
+     "explanation": "Price coverage per contract = 3,150 x S$10 = S$31,500. Raw ratio = S$800,000 / S$31,500 = 25.40 contracts. Adjusted for beta: 25.40 x 1.35 = 34.29, rounded to 34 contracts. The '28 contracts' distractor arises from using the STI spot (3,200) instead of the futures price (3,150) and rounding down. The '25 contracts' distractor ignores the beta entirely. Short-selling the futures contracts creates a position that offsets the portfolio's market sensitivity."
+    },
+    {
+     "id": "M9A-P7-Q18",
+     "paper": 7,
+     "num": 18,
+     "stem": "In the Choice Fund under Case 2 (Lifestyle Plan), the Secure Price is set at S$1.08 per unit at maturity. The per-unit NAV at maturity is S$0.97. What amount does the policy owner receive per unit at maturity, and why?",
+     "options": {
+      "A": "S$1.08 per unit, because the Secure Price is a guaranteed floor",
+      "B": "S$0.97 per unit, because the Secure Price is a non-guaranteed target; if NAV is below the Secure Price at maturity, the policy owner receives the unit price, not the Secure Price",
+      "C": "S$1.00 per unit, because the death benefit floor applies at maturity",
+      "D": "S$0.97 per unit plus a top-up from XYZ Bank under the guarantee arrangement"
+     },
+     "answer": "B",
+     "explanation": "The Secure Price is a target the manager strives for, set yearly at the insurer's discretion. It is explicitly non-guaranteed. If the per-unit NAV is below the Secure Price at maturity, the policy owner receives the unit price (S$0.97), not the Secure Price. The 'guaranteed floor' option is the exact misconception the case study warns against: the Secure Price gives the impression of a floor but carries no legal commitment to pay it."
+    },
+    {
+     "id": "M9A-P7-Q19",
+     "paper": 7,
+     "num": 19,
+     "stem": "Mr Rajan is considering a bonus certificate on a stock currently at S$50.00. The certificate has a continuously monitored barrier at 70% of the spot price and a bonus level of S$58.00. During the 2-year term the stock briefly touches S$34.50 before recovering to S$51.00 at maturity. What does Mr Rajan receive per certificate?",
+     "options": {
+      "A": "S$58.00 because the barrier was not breached",
+      "B": "S$50.00 because the certificate returns the initial price",
+      "C": "S$51.00 because the barrier was breached and the investor receives the maturity price of the underlying",
+      "D": "S$0 because touching the barrier causes total loss"
+     },
+     "answer": "C",
+     "explanation": "Barrier level = 70% x S$50.00 = S$35.00. The stock touched S$34.50, which is below S$35.00, so the knock-out barrier is breached. Once knocked out, the bonus protection is gone for the remainder of the certificate's life, even if the stock recovers. At maturity the investor receives the value of the underlying: S$51.00. The S$58.00 bonus level would apply only if the barrier had never been touched. This is the discontinuity the study text describes: a single touch at S$34.50 costs the entire S$7.00 bonus."
+    },
+    {
+     "id": "M9A-P7-Q20",
+     "paper": 7,
+     "num": 20,
+     "stem": "Mdm Wong, age 52, instructs her adviser she wants 'income from her investment.' Her adviser recommends a portfolio bond and sets up monthly unit redemptions of S$1,500 from a S$300,000 portfolio bond. The portfolio drops 15% in the first year. Which statement about Mdm Wong's position at year-end is most accurate?",
+     "options": {
+      "A": "She has received S$18,000 income and her portfolio remains at S$300,000 because the bond guarantees capital",
+      "B": "She has received S$18,000 in cash from unit redemptions; her remaining portfolio value is approximately S$300,000 x 0.85 - S$18,000 = S$237,000, and there is no capital guarantee",
+      "C": "She has received S$18,000 income; her portfolio has risen to S$300,000 x 1.15 = S$345,000 because the bond protected her from losses",
+      "D": "She has received only S$9,000 because redemptions are capped at 3% per year"
+     },
+     "answer": "B",
+     "explanation": "A portfolio bond does not protect capital. Monthly redemptions of S$1,500 x 12 = S$18,000 are withdrawals funded by selling units. The remaining portfolio before redemptions at year-end = S$300,000 x 0.85 = S$255,000. After the S$18,000 redeemed during the year, the residual is approximately S$255,000 - S$18,000 = S$237,000. In a falling market she is selling units at depressed prices and permanently eroding her capital base. No portfolio bond guarantee exists."
+    },
+    {
+     "id": "M9A-P7-Q21",
+     "paper": 7,
+     "num": 21,
+     "stem": "A Singapore ILP sub-fund has total assets of S$62,400,000 and total liabilities of S$240,000. Units in issue are 60,000,000. The sub-fund is a capital-guaranteed fund with a guarantee of S$1.0000 per unit. What is the NAV per unit and what does the policy owner receive per unit at maturity?",
+     "options": {
+      "A": "NAV per unit S$1.0360; payout S$1.0360 because it exceeds the guarantee",
+      "B": "NAV per unit S$1.0360; payout S$1.0000 because the guarantee overrides NAV",
+      "C": "NAV per unit S$0.9920; payout S$1.0000 because the guarantee floor applies",
+      "D": "NAV per unit S$1.0400; payout S$1.0400 because it exceeds the guarantee"
+     },
+     "answer": "A",
+     "explanation": "NAV = S$62,400,000 - S$240,000 = S$62,160,000. NAV per unit = S$62,160,000 / 60,000,000 = S$1.0360. For a capital-guaranteed fund, the payout at maturity is the higher of NAV per unit and the guaranteed amount. S$1.0360 > S$1.0000, so the policy owner receives S$1.0360 per unit. The 'guarantee overrides NAV' option is incorrect: the guarantee is a floor, not a ceiling; when NAV exceeds the guarantee, the owner receives the higher NAV."
+    },
+    {
+     "id": "M9A-P7-Q22",
+     "paper": 7,
+     "num": 22,
+     "stem": "An ILP sub-fund has NAV of S$40,000,000. An investment manager wants to buy bonds issued by Alpha Corp, a single entity with no credit rating. What is the maximum amount the fund may invest in Alpha Corp's bonds under the MAS concentration rules?",
+     "options": {
+      "A": "S$2,000,000, because unrated single-entity exposure is capped at 5% of NAV",
+      "B": "S$4,000,000, because the 10% single-entity limit applies",
+      "C": "S$8,000,000, because the 20% group limit applies",
+      "D": "S$14,000,000, because Alpha Corp qualifies for the 35% government issuer ceiling"
+     },
+     "answer": "A",
+     "explanation": "Under the ILP sub-fund concentration rules, the single-entity limit is normally 10% of NAV (S$4,000,000). However, if the entity's paper is unrated or non-investment grade, the ceiling drops to 5% of NAV. Alpha Corp has no credit rating, so the tighter 5% limit applies: 5% x S$40,000,000 = S$2,000,000. The 10% general limit applies only to rated entities. The 35% ceiling is reserved for government or supranational issuers, which Alpha Corp is not."
+    },
+    {
+     "id": "M9A-P7-Q23",
+     "paper": 7,
+     "num": 23,
+     "stem": "Mr Ng, age 44, holds a structured ILP with a single premium of S$100,000 invested 3 years ago. The sub-fund has delivered a cumulative net return of 4% after all charges. He surrenders today. Assuming no surrender penalty and single (bid-only) pricing at NAV, what surrender value does he receive?",
+     "options": {
+      "A": "S$100,000 because the policy guarantees return of premium after 3 years",
+      "B": "S$104,000 less the 5% initial charge already taken = S$98,800",
+      "C": "S$104,000 because the 4% cumulative return is added to the original premium",
+      "D": "S$95,000 x 1.04 = S$98,800, because the 5% front-end charge was deducted on day one, giving S$95,000 invested, which grew 4% to S$98,800"
+     },
+     "answer": "C",
+     "explanation": "The surrender value of a structured ILP equals the current market value of units held, which is NAV. The question states the sub-fund has delivered a cumulative net return of 4% after all charges on the original S$100,000 investment. Net return of 4% on S$100,000 gives a current value of S$104,000. There is no guaranteed surrender floor, but the 4% net gain means the value exceeds the original premium. The S$95,000 x 1.04 working misapplies the 4% to the post-charge invested amount; the question states net return on the original premium."
+    },
+    {
+     "id": "M9A-P7-Q24",
+     "paper": 7,
+     "num": 24,
+     "stem": "A client in a high-tax bracket wants to invest S$500,000 for 15 years. Her adviser shortlists: (i) a direct portfolio of unit trusts, and (ii) a portfolio bond. She invests in only two funds and does not plan to change fund managers. Which statement gives the strongest reason to prefer the direct unit trust portfolio over the portfolio bond?",
+     "options": {
+      "A": "The unit trust portfolio is covered by the Policy Owners' Protection Scheme but the portfolio bond is not",
+      "B": "The direct unit trust portfolio avoids the additional layer of charges (product charge, mortality charge, surrender charge) that the portfolio bond stacks on top of the fund charges, and given she uses only two funds the flexibility premium is not justified",
+      "C": "The unit trust portfolio allows her to appoint external fund managers, unlike the portfolio bond",
+      "D": "The direct unit trust portfolio provides a capital guarantee that the portfolio bond does not"
+     },
+     "answer": "B",
+     "explanation": "The study text identifies three client types for whom portfolio bonds are unsuitable: those seeking insurance protection, those with short horizons, and those who do not need the flexibility because they hold only one or two funds. This client fits the third category. The portfolio bond stacks product charge, mortality charge, surrender charge and other fees on top of fund charges. If she uses only two funds and does not need the flexibility, the additional costs outweigh the benefits. Unit trusts do not provide a capital guarantee, so the guarantee claim is false."
+    },
+    {
+     "id": "M9A-P7-Q25",
+     "paper": 7,
+     "num": 25,
+     "stem": "In a plain vanilla interest rate swap, Company A pays 4.50% fixed and receives SIBOR floating on S$20 million notional, with payments exchanged semi-annually. SIBOR for the payment period is 3.80%. What net cash flow does Company A pay or receive on this payment date?",
+     "options": {
+      "A": "Company A pays S$140,000 net",
+      "B": "Company A receives S$140,000 net",
+      "C": "Company A pays S$900,000 and receives S$760,000 separately; no netting occurs",
+      "D": "Company A pays S$70,000 net, assuming semi-annual payments"
+     },
+     "answer": "D",
+     "explanation": "In an interest rate swap, same-currency flows are netted. Net annual rate = 4.50% - 3.80% = 0.70%, so 0.70% x S$20,000,000 = S$140,000 per year. With semi-annual exchanges, each payment date nets S$140,000 / 2 = S$70,000 paid by Company A. The S$140,000 figures use the full annual amount, and separate gross payments with no netting describe a currency swap, not an interest rate swap."
+    },
+    {
+     "id": "M9A-P7-Q26",
+     "paper": 7,
+     "num": 26,
+     "stem": "Mr Ahmad, age 55, has S$150,000 in a portfolio bond that he is considering surrendering to fund a property purchase. The surrender charge is 2.5% in year 5. The current portfolio value is S$158,000. He also faces a valuation charge of S$50 for requesting a special paper statement. What is his net surrender proceeds?",
+     "options": {
+      "A": "S$158,000 - 2.5% = S$158,000 - S$3,950 = S$154,050",
+      "B": "S58,000 x (1 - 0.025) = S54,050; then S54,050 - S0 valuation charge = S54,000 net proceeds",
+      "C": "S$158,000 with no deductions because surrender charges are illegal in Singapore",
+      "D": "S$150,000 because the portfolio bond guarantees a minimum return of capital"
+     },
+     "answer": "B",
+     "explanation": "Surrender charge = 2.5% x S58,000 = S,950. Value after surrender charge = S58,000 - S,950 = S54,050. Valuation charge for special paper statement = S0. Net surrender proceeds = S54,050 - S0 = S54,000. Portfolio bonds do not guarantee return of capital; the S50,000 option wrongly implies a capital guarantee. Surrender charges are a standard feature of portfolio bonds, not illegal."
+    },
+    {
+     "id": "M9A-P7-Q27",
+     "paper": 7,
+     "num": 27,
+     "stem": "A client asks her adviser whether a structured deposit she is considering is covered by the Deposit Insurance Scheme (DIS). Her current savings account is covered. The adviser correctly responds:",
+     "options": {
+      "A": "Yes, all bank products marketed as deposits are covered by the DIS",
+      "B": "No, structured deposits are specifically excluded from the DIS even though they carry the word 'deposit' in their name; only ordinary deposits are covered",
+      "C": "Yes, but only up to S$25,000 rather than the standard limit",
+      "D": "No, but a structured deposit is instead covered by the Policy Owners' Protection Scheme"
+     },
+     "answer": "B",
+     "explanation": "Structured deposits are excluded from the Deposit Insurance Scheme in Singapore. The word 'deposit' in the product name does not confer the same protection as an ordinary bank deposit. Only ordinary deposits (savings, current, fixed deposits) from DIS-scheme members are covered. The Policy Owners' Protection Scheme covers insurance policy owners, not structured deposit holders."
+    },
+    {
+     "id": "M9A-P7-Q28",
+     "paper": 7,
+     "num": 28,
+     "stem": "An airbag certificate is issued on a stock at S$60.00 with an airbag level of 35% of spot. At maturity the stock trades at S$18.00. What is the certificate's redemption value?",
+     "options": {
+      "A": "S$18.00 because the airbag level has been breached and the investor takes the full loss",
+      "B": "S$60.00 because the airbag protects above the airbag level",
+      "C": "S$51.43 because S$60.00 x (18.00 / 21.00) = S$51.43",
+      "D": "S$0 because a stock falling 70% triggers total loss"
+     },
+     "answer": "C",
+     "explanation": "Airbag level = 35% x S$60.00 = S$21.00. At maturity S$18.00 < S$21.00 so the below-airbag formula applies: Redemption = Nominal x (Final price / Airbag level) = S$60.00 x (18.00 / 21.00) = S$60.00 x 0.8571 = S$51.43. The investor loses less than the stock because the airbag cushions losses below the airbag level; the payout stays above the underlying's S$18.00 value. The full S$60.00 would only be paid if the stock finished at or above S$21.00."
+    },
+    {
+     "id": "M9A-P7-Q29",
+     "paper": 7,
+     "num": 29,
+     "stem": "Which of the following correctly describes how the SIP guarantee from XYZ Bank differs from ABC Insurance's own obligation, and what happens to the guarantee if XYZ is liquidated?",
+     "options": {
+      "A": "ABC provides the guarantee directly; XYZ liquidation has no effect",
+      "B": "XYZ provides a secondary guarantee; ABC's primary obligation always remains intact",
+      "C": "MAS stands behind both ABC and XYZ jointly",
+      "D": "XYZ Bank provides the guarantee for the 4% minimum payout and principal repayment; the policy document states the guarantee terminates if XYZ goes into liquidation, so counterparty risk sits with XYZ; without that clause ABC as primary party would have had to honour it"
+     },
+     "answer": "D",
+     "explanation": "The policy document explicitly identifies XYZ Bank as the guarantor and states the guarantee ends if XYZ goes into liquidation. This clause shifts the counterparty risk from ABC to XYZ, and by extension to the policy owner. Without that clause, ABC as the primary insurance contract party would have been obligated to pay even if XYZ failed. The policy owner must therefore assess XYZ's credit quality, not just ABC's."
+    },
+    {
+     "id": "M9A-P7-Q30",
+     "paper": 7,
+     "num": 30,
+     "stem": "Ms Ho, age 48, has a 12-year horizon and moderate-to-high risk appetite. She wants the flexibility to shift between equities, fixed income and alternatives as her views change over the years, using one insurance-wrapper policy. She also needs a consolidated annual statement. Which product is most appropriate, and what is the key charge she should watch?",
+     "options": {
+      "A": "A standard structured ILP, because it offers the widest fund choice with no surrender charges",
+      "B": "A portfolio bond, because it provides the required multi-asset flexibility, external fund manager access, and consolidated reporting; she should watch the stacked annual charges that include product charge, fund charges, mortality charge and potentially surrender charge",
+      "C": "A structured note, because it has the lowest fees and greatest flexibility",
+      "D": "A term deposit, because it is the safest product for a 12-year horizon"
+     },
+     "answer": "B",
+     "explanation": "Ms Ho's requirements, multi-asset access, ability to change allocation over time, external managers, and consolidated reporting, match a portfolio bond precisely. A standard ILP limits her to the insurer's own sub-funds. A structured note has a fixed payoff profile with no flexibility. The key charge risk for a portfolio bond is the stack of product charge, fund charges, mortality charge, and potentially surrender charge and valuation charge, all deducted from her investment. A 12-year horizon gives time to recover those costs."
+    },
+    {
+     "id": "M9A-P7-Q31",
+     "paper": 7,
+     "num": 31,
+     "stem": "The Marketing Manager of an insurer wants to include in the Product Summary for a new sub-fund: (i) a comparison of the sub-fund's 3-year simulated performance against a rival equity fund, and (ii) a projection that the fund is 'likely to deliver 6% per annum.' Which of these is/are prohibited?",
+     "options": {
+      "A": "Both are prohibited: simulated past performance may not be included in any document given to policy owners, and insurers shall not predict future or likely performance",
+      "B": "Only the 6% projection is prohibited; simulated performance comparisons are permitted in the Product Summary",
+      "C": "Neither is prohibited if accompanied by a risk warning",
+      "D": "Only the competitor comparison is prohibited; projections are permitted if clearly labelled as estimates"
+     },
+     "answer": "A",
+     "explanation": "MAS rules on structured ILP Product Summaries prohibit three things: predictions of future or likely performance, simulated or back-tested track records, and comparisons with another fund unless they share a similar risk profile and figures are net of fees. The simulated comparison is specifically banned regardless of the risk warning, and the 6% projection is exactly the future performance prediction the rules forbid. Both items are prohibited."
+    },
+    {
+     "id": "M9A-P7-Q32",
+     "paper": 7,
+     "num": 32,
+     "stem": "Mr Loh, age 62, retires next month. He holds a structured ILP he purchased 4 years ago. The sub-fund has dropped 8% over the 4-year period. His adviser recommends he switch from the current growth sub-fund into a capital-protected sub-fund within the same ILP. The switching fee is 1% of the value being switched. The current value is S$92,000. What amount will actually be invested in the capital-protected sub-fund?",
+     "options": {
+      "A": "S$92,000",
+      "B": "S$83,000",
+      "C": "S$91,080",
+      "D": "S$92,920"
+     },
+     "answer": "C",
+     "explanation": "Switching fee = 1% x S$92,000 = S$920. Amount invested in the new sub-fund = S$92,000 - S$920 = S$91,080. Switching is done on a bid-offer basis which is equivalent here to deducting the switching fee. The S$92,000 option ignores the switching fee. Note that even after switching to a capital-protected sub-fund, the protection applies only at the maturity date of that sub-fund, not on the day of the switch. The adviser should disclose this."
+    },
+    {
+     "id": "M9A-P7-Q33",
+     "paper": 7,
+     "num": 33,
+     "stem": "A fund manager running a S$30,000,000 ILP sub-fund enters an OTC interest rate swap with Dealer X, which is a financial institution supervised by a recognised regulator. The mark-to-market exposure is currently S$3,200,000. The dealer posts S$800,000 of eligible collateral. What is the effective exposure after collateral, and does it breach the 10% single-entity OTC limit?",
+     "options": {
+      "A": "Effective exposure S$4,000,000; breaches the S$3,000,000 limit",
+      "B": "Effective exposure S$3,200,000; does not breach because OTC limits do not apply to swaps",
+      "C": "Effective exposure S$3,200,000; breaches the 10% limit of S$3,000,000",
+      "D": "Effective exposure S$2,400,000; does not breach the 10% limit of S$3,000,000 after collateral"
+     },
+     "answer": "D",
+     "explanation": "10% single-entity limit = 10% x S$30,000,000 = S$3,000,000. Mark-to-market exposure = S$3,200,000. Collateral posted = S$800,000. Effective exposure after collateral = S$3,200,000 - S$800,000 = S$2,400,000. S$2,400,000 < S$3,000,000, so no breach. Collateral reduces the counted exposure, which is how a fund can hold a position that would otherwise breach the cap. The 'no limit applies to swaps' option is incorrect: OTC derivative exposures count toward single-entity limits."
+    },
+    {
+     "id": "M9A-P7-Q34",
+     "paper": 7,
+     "num": 34,
+     "stem": "Encik Zulkifli, age 33, has S$20,000 to invest and an investment horizon of 20 years. He has a high risk appetite and wants maximum capital growth with no income needs. He has no existing structured products. His adviser shortlists a tracker certificate and a capital-protection structured note. Which is more suitable, and why?",
+     "options": {
+      "A": "The capital-protection note, because it guarantees a minimum return regardless of market direction",
+      "B": "The tracker certificate, because with a 20-year horizon and high risk appetite he can take the full upside exposure with no participation cap; a capital-protection note would sacrifice upside for protection he does not need at his age and risk level",
+      "C": "The capital-protection note, because tracker certificates have no maturity date and cannot be held",
+      "D": "Neither; both products are only suitable for clients aged over 50"
+     },
+     "answer": "B",
+     "explanation": "A tracker certificate mirrors the underlying one-for-one with no upside cap and no downside protection. For Encik Zulkifli, 33 years old with a 20-year horizon, high risk appetite, no income need, and capital growth as the sole objective, the full market participation of a tracker certificate fits his profile. A capital-protection note sacrifices upside participation to fund the protection, which is unnecessary and reduces expected return for a client who does not need the safety net. Tracker certificates may have no maturity date, making them suitable for long-term holding."
+    },
+    {
+     "id": "M9A-P7-Q35",
+     "paper": 7,
+     "num": 35,
+     "stem": "The Statement to Policy Owners for a structured ILP must be sent within how many days of the policy anniversary, and what must it show about mortality and administration charges?",
+     "options": {
+      "A": "Within 30 days of the policy anniversary; it must show fees and charges payable through deduction of premium or deduction of units, identified by purpose such as initial charge, insurance coverage charge and switching fee",
+      "B": "Within 60 days; mortality charges need not be itemised",
+      "C": "Within 14 days; only investment returns need be shown",
+      "D": "Within 2 months; charges are summarised as a single annual figure"
+     },
+     "answer": "A",
+     "explanation": "The Statement to Policy Owners must be sent within 30 days after each policy anniversary. It must show, among other items, fees and charges payable through deduction of premium or deduction of units, identified by purpose: this means initial charges, insurance coverage charges (mortality and administration) and switching fees are each separately identified. The '60 days / charges not itemised' option confuses the statement timeline with the Semi-Annual Report (2 months) and understates the disclosure."
+    },
+    {
+     "id": "M9A-P7-Q36",
+     "paper": 7,
+     "num": 36,
+     "stem": "A credit default swap (CDS) is described to a retail client as 'like buying insurance against a company defaulting.' Which statement about CDS is MOST important for an adviser to add?",
+     "options": {
+      "A": "A CDS is exchange-traded and margined daily like a futures contract",
+      "B": "The CDS premium is tax-deductible in Singapore",
+      "C": "Unlike insurance, the CDS protection buyer does not need to own the underlying bond, which means CDS can be used as a speculative instrument to bet on credit deterioration without holding the reference asset",
+      "D": "CDS premiums are guaranteed by the MAS"
+     },
+     "answer": "C",
+     "explanation": "The most important additional disclosure is that unlike insurance, a CDS buyer does not need to own the underlying credit instrument. This is what transformed CDS from a hedging tool into a speculative one: investors can take a view on credit quality without holding any of the issuer's debt. This distinction drove the global CDS market's explosive growth and its role in the 2008 financial crisis. CDS are OTC contracts, so the exchange-traded, daily-margined description is incorrect."
+    },
+    {
+     "id": "M9A-P7-Q37",
+     "paper": 7,
+     "num": 37,
+     "stem": "Under the MAS Fair Dealing Guidelines, Outcome 2 is the key outcome for advisers recommending structured products. What does it state, and what does it require of an adviser recommending a structured ILP to Mdm Kwan, age 67, who wants capital safety above all?",
+     "options": {
+      "A": "Outcome 2 relates to transparent pricing; it requires the adviser to disclose all fees upfront",
+      "B": "Outcome 2 requires advisers to recommend only the highest-return product available",
+      "C": "Outcome 2 requires advisers to train staff on product knowledge only",
+      "D": "Outcome 2 states that products and services recommended are suitable for the customer; for Mdm Kwan this means the adviser must confirm the structured ILP's risk and liquidity profile match her capital-safety objective before recommending it, including whether any capital protection applies only at maturity"
+     },
+     "answer": "D",
+     "explanation": "Fair Dealing Outcome 2 is: products and services recommended are suitable for the customer. Applied to Mdm Kwan, suitability requires the adviser to verify that the product's risk level, liquidity terms, and capital-protection conditions match her primary objective of capital safety. If the ILP offers capital protection only at maturity after many years, and Mdm Kwan may need the funds before then, the recommendation fails the suitability test under Outcome 2."
+    },
+    {
+     "id": "M9A-P7-Q38",
+     "paper": 7,
+     "num": 38,
+     "stem": "An investor buys a 1-year discount certificate on a REIT currently trading at S$2.40. The certificate is priced at S$2.04 (a 15% discount) with a cap-strike of S$2.60. At maturity the REIT trades at S$2.80. What does the investor receive, and what is the percentage return on the certificate?",
+     "options": {
+      "A": "Cash settlement of the cap-strike S$2.60; return = (2.60 - 2.04) / 2.04 = 27.45%",
+      "B": "The REIT share itself worth S$2.80; return = (2.80 - 2.04) / 2.04 = 37.25%",
+      "C": "Cash settlement of S$2.40 (the original REIT price); return = (2.40 - 2.04) / 2.04 = 17.65%",
+      "D": "Cash settlement of S$2.04 (breakeven); return = 0%"
+     },
+     "answer": "A",
+     "explanation": "Since the REIT at maturity (S$2.80) is above the cap-strike (S$2.60), the investor receives a cash settlement equal to the cap-strike: S$2.60. Return = (S$2.60 - S$2.04) / S$2.04 = S$0.56 / S$2.04 = 27.45%. The upside is capped; the investor gives up the S$0.20 additional gain above the cap. Had the REIT finished at or below S$2.60, the investor would have received the shares. The 37.25% return option incorrectly assumes the investor gets the full upside above the cap."
+    },
+    {
+     "id": "M9A-P7-Q39",
+     "paper": 7,
+     "num": 39,
+     "stem": "Which of the following is LEAST appropriate as a suitability-based recommendation for Mr Chong, age 59, who is 1 year from retirement, has a conservative risk appetite, and needs full liquidity within 18 months?",
+     "options": {
+      "A": "A 12-month structured deposit with a guaranteed minimum return and no early-exit penalties",
+      "B": "A money market fund accessible daily with no lock-up",
+      "C": "A 5-year structured ILP with capital protection only at maturity and a 5% front-end charge",
+      "D": "A 12-month fixed deposit at a bank covered by the Deposit Insurance Scheme"
+     },
+     "answer": "C",
+     "explanation": "A 5-year structured ILP is the least appropriate because: the maturity in year 5 far exceeds Mr Chong's 18-month liquidity need, capital protection arrives only at maturity making early exit loss-prone, the 5% front-end charge plus annual fund charges means the fund must earn substantially just to break even, and his conservative risk appetite clashes with a long lock-up. All other options match his horizon and risk profile. This is the horizon mismatch failure the study text repeatedly warns against."
+    },
+    {
+     "id": "M9A-P7-Q40",
+     "paper": 7,
+     "num": 40,
+     "stem": "Under a futures margin example: an investor holds 3 index futures contracts (multiplier S$10 per point) bought at 3,400. Initial margin is S$9,000 per contract (total S$27,000) and maintenance margin is S$7,200 per contract (total S$21,600). The index settles at 3,250 on Day 1. What is the margin balance, is a call triggered, and if so what is the variation margin required?",
+     "options": {
+      "A": "Balance S$22,500; no call triggered because S$22,500 > S$21,600",
+      "B": "Balance S$20,500; call triggered; variation margin = S$6,500",
+      "C": "Balance S$22,500; call triggered; variation margin = S$4,500",
+      "D": "Balance S$24,500; no call triggered"
+     },
+     "answer": "A",
+     "explanation": "Day 1 loss = (3,250 - 3,400) x S$10 x 3 = -150 x S$10 x 3 = -S$4,500. Margin balance = S$27,000 - S$4,500 = S$22,500. Maintenance threshold = S$21,600. Since S$22,500 > S$21,600, no margin call is triggered on Day 1. Variation margin is required only when the balance falls below the maintenance level, and the top-up restores the balance to the initial margin (not just to the maintenance level). A call at a S$22,500 balance would be wrong because the balance still sits above the maintenance level."
+    },
+    {
+     "id": "M9A-P7-Q41",
+     "paper": 7,
+     "num": 41,
+     "stem": "Which of the following statements about the marketing and distribution costs of an ILP sub-fund is correct?",
+     "options": {
+      "A": "Marketing costs may be charged to the sub-fund if disclosed in the Product Highlights Sheet",
+      "B": "Marketing costs may be charged to the sub-fund as long as they do not exceed 0.5% of NAV per year",
+      "C": "Marketing costs may be charged to the sub-fund if the policy owner gives written consent",
+      "D": "Marketing and distribution costs must NOT be charged to the ILP sub-fund under any circumstances, because doing so would unfairly erode the existing policy owners' units"
+     },
+     "answer": "D",
+     "explanation": "The MAS rules are clear: marketing and promotional expenses may not be charged to the sub-fund. The cost is borne by the insurer separately. Charging it to the fund would reduce the NAV for all existing policy owners who had nothing to do with the marketing campaign for new investors. None of the exceptions listed in options A, B and C exist in the rules."
+    },
+    {
+     "id": "M9A-P7-Q42",
+     "paper": 7,
+     "num": 42,
+     "stem": "Mdm Seah, age 44, is considering two products: (X) a 5-year structured note linked to an equity basket with 100% capital protection at maturity issued by a BBB-rated bank, and (Y) a structured fund linked to the same equity basket. She says, 'Product X is safe because the bank guarantees my capital.' Which is the most accurate adviser response?",
+     "options": {
+      "A": "Product X does protect capital at maturity provided the issuing bank does not default; however, the protection is only as strong as the BBB-rated bank's creditworthiness, and if she exits before maturity she receives a mark-to-market value that may be below her investment",
+      "B": "Product X is completely risk-free because it has the bank's guarantee",
+      "C": "Product Y is safer because structured funds are guaranteed by the MAS",
+      "D": "Product X is risk-free and Product Y carries unlimited downside risk"
+     },
+     "answer": "A",
+     "explanation": "Capital protection in a structured note is delivered by the fixed-income component; the bank is the obligor. If the bank defaults, investors are unsecured creditors and may not recover their capital. A BBB rating is investment grade but not risk-free. Furthermore, protection applies only at maturity; early exit means a mark-to-market value. The study text states: protection is only as good as the party providing it. Structured funds are not guaranteed by MAS."
+    },
+    {
+     "id": "M9A-P7-Q43",
+     "paper": 7,
+     "num": 43,
+     "stem": "A chooser option is best described as:",
+     "options": {
+      "A": "An option whose payoff is based on the highest price the underlying reached during the option's life",
+      "B": "An option where the investor decides by a specified choice date whether the option will function as a call or a put",
+      "C": "An option that can be exercised only on pre-set dates before expiry",
+      "D": "An option that pays a fixed cash sum if it expires in the money"
+     },
+     "answer": "B",
+     "explanation": "A chooser option (or 'you-choose' option) lets the holder choose whether it will be a call or a put by a specified date during the option's life. This is different from a lookback option (highest price during the life), a Bermuda option (pre-set exercise dates), or a binary/digital option (fixed cash payout). Chooser options are listed among the exotic option types in Chapter 3 of the study text."
+    },
+    {
+     "id": "M9A-P7-Q44",
+     "paper": 7,
+     "num": 44,
+     "stem": "Mr Vijay, age 51, holds S$120,000 in a 5-year portfolio bond he purchased 2 years ago. He is considering surrendering it because of underperformance. The surrender charge is 4% in year 2. The current portfolio value is S$114,000 (net of all fund charges). Excluding the surrender charge he also faces a S$100 valuation statement charge. What are the total surrender costs and what is his net exit value?",
+     "options": {
+      "A": "Surrender charge = S$4,560; net exit = S$109,440 - S$4,560 - S$100 = S$104,780",
+      "B": "Surrender charge = S$4,800; net exit = S$109,100",
+      "C": "Surrender charge = S$4,560; net exit = S$109,440",
+      "D": "Surrender charge = S$4,560; net exit = S$109,440 minus S$100 = S$109,340"
+     },
+     "answer": "D",
+     "explanation": "Surrender charge = 4% x S$114,000 = S$4,560. Post-surrender value = S$114,000 - S$4,560 = S$109,440. Valuation statement charge = S$100. Net exit proceeds = S$109,440 - S$100 = S$109,340. Stopping at S$109,440 omits the valuation charge, S$4,800 charges 4% on the original S$120,000 instead of the current value, and deducting the S$4,560 a second time double-counts the surrender charge. Surrender charges on a portfolio bond apply to the current portfolio value, not the original investment."
+    },
+    {
+     "id": "M9A-P7-Q45",
+     "paper": 7,
+     "num": 45,
+     "stem": "In the SIP case study, if in Scenario 3 the policy owner pays a S$10,000 single premium and receives S$2,000 per year for 5 years plus S$10,000 at maturity, what is the total cash received, and what is this scenario called in the study text?",
+     "options": {
+      "A": "S$19,000 total; called the worst-case scenario",
+      "B": "S$20,000 total; called the moderate performance scenario, which is counter-intuitively the best outcome for the policy owner",
+      "C": "S$12,000 total; called the moderate scenario",
+      "D": "S$20,000 total; called the best-case market performance scenario"
+     },
+     "answer": "B",
+     "explanation": "In Scenario 3 (all six stocks trade between 92% and 108% throughout): annual payout = 20% x S$10,000 = S$2,000 per year for 5 years = S$10,000 in payouts, plus S$10,000 principal at maturity = S$20,000 total. The study text labels this the moderate performance scenario and identifies it as the best outcome for the policy owner. The counter-intuitive point is that the best market performance (Scenario 1, all stocks surge to 108%) triggers early redemption and yields only S$10,480 over 3 months, far less than S$20,000 from the moderate scenario."
+    },
+    {
+     "id": "M9A-P7-Q46",
+     "paper": 7,
+     "num": 46,
+     "stem": "Which of the following correctly describes how the frequency of automatic portfolio rebalancing in a portfolio bond can be set?",
+     "options": {
+      "A": "Only annually, to minimise transaction costs",
+      "B": "Daily or weekly, to capture short-term movements",
+      "C": "Only at policy anniversary dates",
+      "D": "Monthly, quarterly, half-yearly, or annually, at the policy owner's election"
+     },
+     "answer": "D",
+     "explanation": "Portfolio rebalancing in a portfolio bond can be set to run automatically at monthly, quarterly, half-yearly or annual intervals. The study text lists all four frequencies explicitly. The 'only annually' option understates the flexibility. Daily or weekly are not listed options in the study text and would generate excessive transaction costs."
+    },
+    {
+     "id": "M9A-P7-Q47",
+     "paper": 7,
+     "num": 47,
+     "stem": "Mdm Rashidah, age 39, receives a Product Highlights Sheet for a structured ILP sub-fund. She notices it shows two rates of return: 1.85% and 3.35%. She asks her adviser whether these are the fund's predicted returns. The adviser's correct response is:",
+     "options": {
+      "A": "These are two hypothetical illustration rates required by regulation; they show the range of possible outcomes under different scenarios but the insurer is expressly forbidden from predicting actual performance",
+      "B": "These are the guaranteed minimum and maximum returns under the policy",
+      "C": "These are MAS-mandated fixed returns that the fund will definitely achieve",
+      "D": "These are the bid and offer prices expressed as annual percentages"
+     },
+     "answer": "A",
+     "explanation": "The Product Highlights Sheet must show two hypothetical return rates to demonstrate the uncertainty of potential returns. The insurer shall not predict actual future performance. The rates shown (1.85% and 3.35% in the study text's sample benefit illustration) are illustrative assumptions, not guarantees or predictions. The 'guaranteed minimum and maximum' option is the exact misconception this disclosure requirement is designed to prevent."
+    },
+    {
+     "id": "M9A-P7-Q48",
+     "paper": 7,
+     "num": 48,
+     "stem": "Under forward pricing in an ILP, why might the number of units actually received differ from what the policy owner calculated at the time of the subscription request?",
+     "options": {
+      "A": "Because the insurer has the right to change the NAV retroactively",
+      "B": "Because the fund manager invoices the policy owner separately for performance fees",
+      "C": "Because units are dealt at the NEXT computed NAV after the dealing deadline, which is not known at the moment of the subscription request, so any price movement between the request and the next valuation changes the number of units allocated",
+      "D": "Because the death benefit calculation adjusts the number of units at inception"
+     },
+     "answer": "C",
+     "explanation": "Forward pricing means the subscription is executed at the next computed NAV after the dealing deadline, not at the price visible when the order is placed. If the NAV rises between the request and the next valuation point, fewer units are allocated; if it falls, more are allocated. This is the mechanism described in the study text: you do not know the exact price at the moment you transact. Historic pricing (using the last known NAV) would eliminate this uncertainty but is not the standard for ILPs."
+    },
+    {
+     "id": "M9A-P7-Q49",
+     "paper": 7,
+     "num": 49,
+     "stem": "Mr Bala, age 47, holds a whole-life participating policy for protection. He also wants to grow his savings and is looking at structured products. His adviser notes that the Choice Fund (Case 2) is a closed-ended fund with a fixed maturity date and limited liquidity. Which risk of the Choice Fund should the adviser MOST prominently flag given the fund's characteristics described in the case study?",
+     "options": {
+      "A": "That the Choice Fund is covered by the DIS and therefore low risk",
+      "B": "That the Choice Fund has unlimited liquidity because it is an open-ended fund",
+      "C": "That the fund has no performance benchmark and no fixed asset allocation, making market risk hard to assess; combined with a small NAV of S$6.8 million heavily concentrated in OTC fixed income, liquidity risk is elevated and the fund may be unable to meet high withdrawal requests",
+      "D": "That the Choice Fund offers a guaranteed Secure Price equal to the highest historical NAV"
+     },
+     "answer": "C",
+     "explanation": "The Choice Fund case study identifies four specific risks: non-guaranteed Secure Price (not a floor), market risk (NAV already fell ~7% since inception), liquidity risk (only S$6.8 million NAV, heavily in OTC fixed income, may not meet large withdrawals), and derivatives risk (relies on an external Golden Derivative Fund). The adviser should prominently flag the liquidity risk and the absence of a performance benchmark, which makes it hard to assess the market risk the client is taking on. The Secure Price is explicitly non-guaranteed."
+    },
+    {
+     "id": "M9A-P7-Q50",
+     "paper": 7,
+     "num": 50,
+     "stem": "An adviser reviews the semi-annual report of an ILP sub-fund and notes the following performance data: 1 year: fund +2.7%, benchmark +13.3%; 3 years: fund +29.4%, benchmark +35.9%; 5 years: fund +8.5%, benchmark +12.2%; 10 years: fund +15.2%, benchmark +14.1%; since inception: fund +8.7%, benchmark +7.2%. The adviser tells the client, 'This fund has a strong track record as it has beaten its benchmark.' Which statement best describes the problem with this advice?",
+     "options": {
+      "A": "There is no problem; citing since-inception and 10-year outperformance is sufficient",
+      "B": "The adviser has selectively cited only the periods where the fund outperformed (10 years and since inception) while omitting the 1-year, 3-year and 5-year periods where the fund underperformed by 10.6, 6.5 and 3.7 percentage points respectively; presenting only favourable data is misleading",
+      "C": "The problem is that the fund's benchmark is not the STI and therefore the comparison is invalid",
+      "D": "There is no problem as long as past performance warnings are included in the brochure"
+     },
+     "answer": "B",
+     "explanation": "The fund has underperformed the benchmark in every recent measurement window: 1-year by 10.6 points, 3-year by 6.5 points, 5-year by 3.7 points. Outperformance only appears in the 10-year and since-inception periods, which capture older data. An adviser who quotes only the outperforming periods is cherry-picking. The study text explicitly makes this point: a representative who quotes only the since-inception figure is presenting a fund that has lost ground against its benchmark in every recent window. This violates the fair dealing obligation to present complete, balanced information."
     }
    ]
   }
