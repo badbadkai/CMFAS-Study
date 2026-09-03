@@ -6,6 +6,7 @@ import Study from './screens/Study'
 import Quiz from './screens/Quiz'
 import MockSelect from './screens/MockSelect'
 import MockExam from './screens/MockExam'
+import MockHistory from './screens/MockHistory'
 import CompHome from './screens/comp/CompHome'
 import CompTopics from './screens/comp/CompTopics'
 import CompLearn from './screens/comp/CompLearn'
@@ -22,6 +23,7 @@ export default function App() {
         <Route path="/m/:moduleId/study/:chapterId" element={<Study />} />
         <Route path="/m/:moduleId/quiz" element={<Quiz />} />
         <Route path="/m/:moduleId/mock" element={<MockSelect />} />
+        <Route path="/m/:moduleId/mock/history" element={<MockHistory />} />
         <Route path="/m/:moduleId/mock/:paper" element={<MockExam />} />
         <Route path="/m/:moduleId/comp" element={<CompHome />} />
         <Route path="/m/:moduleId/comp/learn" element={<CompTopics />} />

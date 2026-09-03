@@ -2,9 +2,10 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { useNavigate, useParams, Navigate } from 'react-router-dom'
 import { motion } from 'framer-motion'
 import Header from '../components/Header'
+import MockReview from '../components/MockReview'
 import { getModule } from '../data/modules'
 import { shuffle, sample } from '../lib/shuffle'
-import { saveMockResult } from '../lib/storage'
+import { saveMockResult, getMockSession, saveMockSession, clearMockSession } from '../lib/storage'
 import type { Letter, MockQuestion } from '../types'
 
 const LETTERS: Letter[] = ['A', 'B', 'C', 'D']
@@ -17,26 +18,79 @@ export default function MockExam() {
 
   const isRandom = paper === 'random'
   const paperNum = Number(paper)
+  const paperKey: number | 'random' = isRandom ? 'random' : paperNum
 
-  const questions = useMemo<MockQuestion[]>(() => {
-    if (!mod || mod.mocks.length === 0) return []
-    if (isRandom) {
-      const all = mod.mocks.flatMap((p) => p.questions)
-      const count = mod.mocks[0]?.questions.length ?? 100
-      return sample(all, Math.min(count, all.length))
-    }
-    const found = mod.mocks.find((p) => p.paper === paperNum)
-    return found ? shuffle(found.questions) : []
+  const byId = useMemo(() => {
+    const m = new Map<string, MockQuestion>()
+    if (mod) for (const p of mod.mocks) for (const q of p.questions) m.set(q.id, q)
+    return m
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [moduleId, paper])
+  }, [moduleId])
 
+  const [questions, setQuestions] = useState<MockQuestion[]>([])
+  const [ready, setReady] = useState(false)
+  const [resumed, setResumed] = useState(false)
   const [idx, setIdx] = useState(0)
   const [answers, setAnswers] = useState<Record<string, Letter>>({})
   const [done, setDone] = useState(false)
   const [reviewing, setReviewing] = useState(false)
-  const [reviewIdx, setReviewIdx] = useState(0)
   const [remaining, setRemaining] = useState(EXAM_SECONDS)
   const savedRef = useRef(false)
+  const remainingRef = useRef(EXAM_SECONDS)
+  remainingRef.current = remaining
+
+  // Restore an unfinished sitting if one exists, else deal a fresh paper.
+  useEffect(() => {
+    let alive = true
+    getMockSession(moduleId, paperKey).then((s) => {
+      if (!alive || !mod || mod.mocks.length === 0) return
+      if (s) {
+        const qs = s.questionIds.map((id) => byId.get(id)).filter((q): q is MockQuestion => Boolean(q))
+        if (qs.length === s.questionIds.length && qs.length > 0) {
+          setQuestions(qs)
+          setAnswers(s.answers)
+          setIdx(Math.min(s.idx, qs.length - 1))
+          setRemaining(s.remaining > 0 ? s.remaining : EXAM_SECONDS)
+          setResumed(true)
+          setReady(true)
+          return
+        }
+      }
+      if (isRandom) {
+        const all = mod.mocks.flatMap((p) => p.questions)
+        const count = mod.mocks[0]?.questions.length ?? 100
+        setQuestions(sample(all, Math.min(count, all.length)))
+      } else {
+        const found = mod.mocks.find((p) => p.paper === paperNum)
+        setQuestions(found ? shuffle(found.questions) : [])
+      }
+      setReady(true)
+    })
+    return () => {
+      alive = false
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [moduleId, paper])
+
+  function persist() {
+    if (savedRef.current || questions.length === 0) return
+    saveMockSession({
+      moduleId,
+      paper: paperKey,
+      questionIds: questions.map((q) => q.id),
+      answers,
+      idx,
+      remaining: remainingRef.current,
+      ts: Date.now(),
+    })
+  }
+
+  // Save the sitting whenever an answer lands or the question changes.
+  useEffect(() => {
+    if (!ready || done) return
+    persist()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [answers, idx, ready])
 
   const score = useMemo(
     () => questions.reduce((n, q) => (answers[q.id] === q.answer ? n + 1 : n), 0),
@@ -48,28 +102,35 @@ export default function MockExam() {
     savedRef.current = true
     const total = questions.length
     const sc = questions.reduce((n, q) => (answers[q.id] === q.answer ? n + 1 : n), 0)
+    const ts = Date.now()
     saveMockResult({
+      id: String(ts),
       moduleId,
-      paper: isRandom ? 'random' : paperNum,
+      paper: paperKey,
       score: sc,
       total,
-      ts: Date.now(),
+      ts,
+      questionIds: questions.map((q) => q.id),
+      answers,
     })
+    clearMockSession(moduleId, paperKey)
     setDone(true)
   }
 
   useEffect(() => {
-    if (done || questions.length === 0) return
+    if (done || !ready || questions.length === 0) return
     if (remaining <= 0) {
       finish()
       return
     }
+    if (remaining % 15 === 0) persist()
     const t = setTimeout(() => setRemaining((s) => s - 1), 1000)
     return () => clearTimeout(t)
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [remaining, done, questions.length])
+  }, [remaining, done, ready, questions.length])
 
   if (!mod || mod.mocks.length === 0) return <Navigate to={`/m/${moduleId}`} replace />
+  if (!ready) return null
   if (questions.length === 0) return <Navigate to={`/m/${moduleId}/mock`} replace />
 
   const q = questions[idx]
@@ -100,18 +161,13 @@ export default function MockExam() {
           {answered < total && (
             <p className="mt-1 text-xs text-amber-400/80">{total - answered} left blank when time ran out.</p>
           )}
+          <p className="mt-2 text-xs text-slate-600">Saved to past attempts. Review it anytime from the mock menu.</p>
         </div>
         <div className="flex gap-3 px-4 pb-6">
           <button onClick={() => navigate(`/m/${moduleId}/mock`)} className="btn-ghost flex-1">
             Exit
           </button>
-          <button
-            onClick={() => {
-              setReviewIdx(0)
-              setReviewing(true)
-            }}
-            className="btn-accent flex-1"
-          >
+          <button onClick={() => setReviewing(true)} className="btn-accent flex-1">
             Review answers
           </button>
         </div>
@@ -121,64 +177,7 @@ export default function MockExam() {
 
   // ---- Review screen ----
   if (done && reviewing) {
-    const rq = questions[reviewIdx]
-    const chosen = answers[rq.id]
-    const wrongCount = questions.filter((x) => answers[x.id] !== x.answer).length
-    return (
-      <div className="flex flex-1 flex-col">
-        <Header title={`Review ${reviewIdx + 1} of ${questions.length}`} subtitle={`${wrongCount} wrong`} />
-
-        <div className="px-4 pt-4">
-          <p className="whitespace-pre-line text-[15px] font-semibold leading-snug">{rq.stem}</p>
-        </div>
-
-        <div className="grid gap-2.5 px-4 pt-4">
-          {LETTERS.map((L) => {
-            const isCorrect = L === rq.answer
-            const isChosen = L === chosen
-            let cls = 'bg-panel ring-white/10'
-            if (isCorrect) cls = 'bg-emerald-500/20 ring-emerald-400/50'
-            else if (isChosen) cls = 'bg-rose-500/20 ring-rose-400/50'
-            else cls = 'bg-panel/60 ring-white/5 opacity-60'
-            return (
-              <div key={L} className={`rounded-2xl px-4 py-3 text-[15px] leading-snug ring-1 ${cls}`}>
-                <span className="mr-2 font-bold text-slate-400">{L}</span>
-                {rq.options[L]}
-                {isCorrect && <span className="ml-2 text-xs font-bold text-emerald-400">correct</span>}
-                {isChosen && !isCorrect && <span className="ml-2 text-xs font-bold text-rose-400">your answer</span>}
-              </div>
-            )
-          })}
-          {!chosen && <p className="px-1 text-xs text-amber-400/80">You left this one blank.</p>}
-          {rq.explanation && (
-            <div className="rounded-2xl bg-panel/80 px-4 py-3 ring-1 ring-white/10">
-              <p className="text-xs font-bold uppercase tracking-wide text-slate-400">Why</p>
-              <p className="mt-1 whitespace-pre-line text-[14px] leading-snug text-slate-300">{rq.explanation}</p>
-            </div>
-          )}
-        </div>
-
-        <div className="mt-auto flex items-center justify-between gap-3 px-4 pb-6 pt-4">
-          <button
-            onClick={() => setReviewIdx((n) => Math.max(0, n - 1))}
-            disabled={reviewIdx === 0}
-            className="btn-ghost flex-1 disabled:opacity-30"
-          >
-            Prev
-          </button>
-          <button onClick={() => setReviewing(false)} className="btn-ghost px-4 text-xs">
-            Summary
-          </button>
-          <button
-            onClick={() => setReviewIdx((n) => Math.min(questions.length - 1, n + 1))}
-            disabled={reviewIdx === questions.length - 1}
-            className="btn-accent flex-1 disabled:opacity-30"
-          >
-            Next
-          </button>
-        </div>
-      </div>
-    )
+    return <MockReview questions={questions} answers={answers} onBack={() => setReviewing(false)} backLabel="Summary" />
   }
 
   // ---- Exam in progress ----
@@ -197,6 +196,12 @@ export default function MockExam() {
           {mm}:{ss}
         </span>
       </div>
+
+      {resumed && idx === 0 && Object.keys(answers).length > 0 && (
+        <p className="px-4 pt-2 text-xs text-amber-400/80">
+          Resumed where you left off: {Object.keys(answers).length} answered, {mm}:{ss} on the clock.
+        </p>
+      )}
 
       <div className="px-4 pt-5">
         <p className="whitespace-pre-line text-[17px] font-semibold leading-snug">{q.stem}</p>
@@ -220,23 +225,28 @@ export default function MockExam() {
         })}
       </div>
 
-      <div className="mt-auto flex items-center justify-between gap-3 px-4 pb-6 pt-4">
-        <button
-          onClick={() => setIdx((n) => Math.max(0, n - 1))}
-          disabled={idx === 0}
-          className="btn-ghost flex-1 disabled:opacity-30"
-        >
-          Prev
-        </button>
-        {idx + 1 >= questions.length ? (
-          <button onClick={finish} className="btn-accent flex-1">
-            Finish
+      <div className="mt-auto px-4 pb-6 pt-4">
+        <div className="flex items-center justify-between gap-3">
+          <button
+            onClick={() => setIdx((n) => Math.max(0, n - 1))}
+            disabled={idx === 0}
+            className="btn-ghost flex-1 disabled:opacity-30"
+          >
+            Prev
           </button>
-        ) : (
-          <button onClick={() => setIdx((n) => Math.min(questions.length - 1, n + 1))} className="btn-accent flex-1">
-            Next
-          </button>
-        )}
+          {idx + 1 >= questions.length ? (
+            <button onClick={finish} className="btn-accent flex-1">
+              Finish
+            </button>
+          ) : (
+            <button onClick={() => setIdx((n) => Math.min(questions.length - 1, n + 1))} className="btn-accent flex-1">
+              Next
+            </button>
+          )}
+        </div>
+        <p className="pt-3 text-center text-[10px] text-slate-600">
+          Progress saves automatically. Back out anytime and resume later.
+        </p>
       </div>
     </div>
   )
