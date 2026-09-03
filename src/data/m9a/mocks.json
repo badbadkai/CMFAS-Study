@@ -1973,7 +1973,7 @@
      "id": "M9A-P4-Q1",
      "paper": 4,
      "num": 1,
-     "stem": "Which factor is MOST important?",
+     "stem": "Mr Tan, age 62, retires in 3 years and expects to draw on his savings for medical expenses within 2 years. His adviser is assessing a 7-year structured note for him. Which factor is MOST important in this assessment?",
      "options": {
       "A": "Potential return",
       "B": "Product popularity",
@@ -1986,7 +1986,7 @@
      "id": "M9A-P4-Q2",
      "paper": 4,
      "num": 2,
-     "stem": "The greatest concern is:",
+     "stem": "Mr Tan may need his funds within 2 years, but the structured note being considered matures in 7 years and has no ready secondary market. The greatest concern with this recommendation is:",
      "options": {
       "A": "Equity market risk only",
       "B": "Liquidity mismatch",
@@ -1999,7 +1999,7 @@
      "id": "M9A-P4-Q3",
      "paper": 4,
      "num": 3,
-     "stem": "Which statement best describes Mr Tan\u2019s objective?",
+     "stem": "Mr Tan, age 62, tells his adviser he cannot afford losses on his retirement savings and needs them to generate regular income. Which statement best describes Mr Tan's objective?",
      "options": {
       "A": "Aggressive growth",
       "B": "Capital preservation with income needs",
@@ -2012,7 +2012,7 @@
      "id": "M9A-P4-Q4",
      "paper": 4,
      "num": 4,
-     "stem": "The proposed 7-year product may be unsuitable because:",
+     "stem": "Mr Tan is shown a 7-year structured product even though he expects to need his capital within 2 to 3 years of retiring. The proposed 7-year product may be unsuitable because:",
      "options": {
       "A": "It contains equities",
       "B": "It exceeds the client\u2019s likely liquidity horizon",
@@ -2025,7 +2025,7 @@
      "id": "M9A-P4-Q5",
      "paper": 4,
      "num": 5,
-     "stem": "If the client insists on proceeding, the representative should:",
+     "stem": "After being told the 7-year note does not fit his liquidity needs, Mr Tan insists on proceeding with the purchase anyway. The representative should:",
      "options": {
       "A": "Ignore concerns",
       "B": "Follow company procedures and document suitability discussions",
@@ -2038,7 +2038,7 @@
      "id": "M9A-P4-Q6",
      "paper": 4,
      "num": 6,
-     "stem": "Which risk deserves particular emphasis?",
+     "stem": "Given Mr Tan's need to access his savings within the next few years, which risk of the 7-year structured note deserves particular emphasis when the adviser explains the product?",
      "options": {
       "A": "Mortality risk",
       "B": "Liquidity risk",
@@ -2051,7 +2051,7 @@
      "id": "M9A-P4-Q7",
      "paper": 4,
      "num": 7,
-     "stem": "A more suitable recommendation may involve:",
+     "stem": "Rather than the 7-year structured note, a more suitable recommendation for Mr Tan, who is near retirement with near-term cash needs, may involve:",
      "options": {
       "A": "Leveraged CFDs",
       "B": "Extremely concentrated investments",
@@ -2064,7 +2064,7 @@
      "id": "M9A-P4-Q8",
      "paper": 4,
      "num": 8,
-     "stem": "If the product has capital protection, what risk remains?",
+     "stem": "The issuing bank describes the 7-year structured note as capital-protected at maturity. If the product has capital protection, what risk remains?",
      "options": {
       "A": "No risk remains",
       "B": "Issuer credit risk",
@@ -2077,7 +2077,7 @@
      "id": "M9A-P4-Q9",
      "paper": 4,
      "num": 9,
-     "stem": "The recommendation should primarily be based on:",
+     "stem": "In deciding whether any structured product should be offered to Mr Tan, the recommendation should primarily be based on:",
      "options": {
       "A": "Expected returns",
       "B": "Client circumstances",
@@ -2090,7 +2090,7 @@
      "id": "M9A-P4-Q10",
      "paper": 4,
      "num": 10,
-     "stem": "The BEST answer is:",
+     "stem": "The structured note offers a higher potential return than a deposit, but fits Mr Tan's profile poorly. The representative's BEST course of action is to:",
      "options": {
       "A": "Recommend immediately",
       "B": "Prioritise suitability over potential returns",
@@ -2103,7 +2103,7 @@
      "id": "M9A-P4-Q11",
      "paper": 4,
      "num": 11,
-     "stem": "Which characteristic supports suitability?",
+     "stem": "Ms Lim, age 32, is considering a tracker participation certificate on an equity index for her retirement savings, which she will not touch for at least 15 years. Which characteristic of her profile supports suitability?",
      "options": {
       "A": "Short investment horizon",
       "B": "High liquidity needs",
@@ -2116,7 +2116,7 @@
      "id": "M9A-P4-Q12",
      "paper": 4,
      "num": 12,
-     "stem": "The product objective aligns MOST closely with:",
+     "stem": "Ms Lim's adviser recommends a participation certificate that mirrors an equity index one-for-one over the long term. The product objective aligns MOST closely with:",
      "options": {
       "A": "Wealth accumulation",
       "B": "Income generation",
@@ -2129,7 +2129,7 @@
      "id": "M9A-P4-Q13",
      "paper": 4,
      "num": 13,
-     "stem": "Which factor strengthens suitability?",
+     "stem": "In assessing the equity index participation certificate for Ms Lim, which client factor strengthens suitability?",
      "options": {
       "A": "Long-term horizon",
       "B": "Need for immediate cash access",
@@ -2142,7 +2142,7 @@
      "id": "M9A-P4-Q14",
      "paper": 4,
      "num": 14,
-     "stem": "The main investment risk remains:",
+     "stem": "Ms Lim understands that the participation certificate has no capital protection and tracks the index directly. The main investment risk of her position remains:",
      "options": {
       "A": "Market risk",
       "B": "Mortality risk",
@@ -2155,7 +2155,7 @@
      "id": "M9A-P4-Q15",
      "paper": 4,
      "num": 15,
-     "stem": "Participation products generally seek:",
+     "stem": "Participation products such as tracker certificates generally seek:",
      "options": {
       "A": "Exposure to market upside",
       "B": "Fixed returns",
@@ -2168,7 +2168,7 @@
      "id": "M9A-P4-Q16",
      "paper": 4,
      "num": 16,
-     "stem": "If markets decline significantly:",
+     "stem": "Ms Lim holds a tracker certificate with full downside exposure. If markets decline significantly:",
      "options": {
       "A": "Returns may be affected adversely",
       "B": "Returns are guaranteed",
@@ -2181,7 +2181,7 @@
      "id": "M9A-P4-Q17",
      "paper": 4,
      "num": 17,
-     "stem": "Suitability depends MOST on:",
+     "stem": "When Ms Lim's adviser weighs the tracker certificate against other products for her, suitability depends MOST on:",
      "options": {
       "A": "Product popularity",
       "B": "Client profile",
@@ -2194,7 +2194,7 @@
      "id": "M9A-P4-Q18",
      "paper": 4,
      "num": 18,
-     "stem": "The recommendation process should begin with:",
+     "stem": "Before recommending the participation certificate to Ms Lim, the recommendation process should begin with:",
      "options": {
       "A": "Product selection",
       "B": "Fact-finding",
@@ -2207,7 +2207,7 @@
      "id": "M9A-P4-Q19",
      "paper": 4,
      "num": 19,
-     "stem": "Which principle is MOST relevant?",
+     "stem": "In matching the participation certificate to Ms Lim's growth objective and 15-year horizon, which principle is MOST relevant?",
      "options": {
       "A": "Suitability",
       "B": "Tax avoidance",
@@ -2220,7 +2220,7 @@
      "id": "M9A-P4-Q20",
      "paper": 4,
      "num": 20,
-     "stem": "Overall suitability appears:",
+     "stem": "Ms Lim, 32, wants long-term growth, accepts market swings, and will not need the money for 15 years. She is recommended an index tracker certificate. Overall suitability appears:",
      "options": {
       "A": "Strong",
       "B": "Weak",
@@ -2233,7 +2233,7 @@
      "id": "M9A-P4-Q21",
      "paper": 4,
      "num": 21,
-     "stem": "What is the biggest warning sign?",
+     "stem": "Mr Wong, age 45, wants to trade leveraged CFDs using savings earmarked for his daughter's university fees, which fall due in 3 years. What is the biggest warning sign in this plan?",
      "options": {
       "A": "Education funding objective",
       "B": "Age",
@@ -2246,7 +2246,7 @@
      "id": "M9A-P4-Q22",
      "paper": 4,
      "num": 22,
-     "stem": "CFDs are generally:",
+     "stem": "Mr Wong asks his adviser to explain what CFDs actually are before he opens an account. CFDs are generally:",
      "options": {
       "A": "Capital-protected",
       "B": "Leveraged instruments",
@@ -2259,7 +2259,7 @@
      "id": "M9A-P4-Q23",
      "paper": 4,
      "num": 23,
-     "stem": "The recommendation is MOST likely:",
+     "stem": "Mr Wong has never traded derivatives and cannot afford losses on the university fund. A recommendation that he trade CFDs with these savings is MOST likely:",
      "options": {
       "A": "Suitable",
       "B": "Unsuitable",
@@ -2272,7 +2272,7 @@
      "id": "M9A-P4-Q24",
      "paper": 4,
      "num": 24,
-     "stem": "The client\u2019s experience level suggests:",
+     "stem": "Mr Wong has no prior experience with leveraged products or margin calls. The client's experience level suggests:",
      "options": {
       "A": "Greater caution",
       "B": "Greater leverage",
@@ -2285,7 +2285,7 @@
      "id": "M9A-P4-Q25",
      "paper": 4,
      "num": 25,
-     "stem": "Potential losses in CFDs:",
+     "stem": "The adviser explains margining on the proposed CFD account to Mr Wong. Potential losses in CFDs:",
      "options": {
       "A": "Are limited to gains",
       "B": "May exceed margin deposited",
@@ -2298,7 +2298,7 @@
      "id": "M9A-P4-Q26",
      "paper": 4,
      "num": 26,
-     "stem": "Which principle should dominate?",
+     "stem": "In advising Mr Wong on whether to open the leveraged CFD account, which principle should dominate the representative's thinking?",
      "options": {
       "A": "Maximum returns",
       "B": "Suitability",
@@ -2311,7 +2311,7 @@
      "id": "M9A-P4-Q27",
      "paper": 4,
      "num": 27,
-     "stem": "A more suitable alternative may involve:",
+     "stem": "Instead of leveraged CFD trading with the 3-year university fund, a more suitable alternative for Mr Wong may involve:",
      "options": {
       "A": "Reduced risk exposure",
       "B": "Increased leverage",
@@ -2324,7 +2324,7 @@
      "id": "M9A-P4-Q28",
      "paper": 4,
      "num": 28,
-     "stem": "The client\u2019s time horizon suggests:",
+     "stem": "Mr Wong will need to draw on these funds in about 3 years to pay the fees. The client's time horizon suggests:",
      "options": {
       "A": "Unlimited risk capacity",
       "B": "Moderate liquidity considerations",
@@ -2337,7 +2337,7 @@
      "id": "M9A-P4-Q29",
      "paper": 4,
      "num": 29,
-     "stem": "What should be assessed before any recommendation?",
+     "stem": "Before any recommendation is made to Mr Wong about the CFD account, what should be assessed?",
      "options": {
       "A": "KYC and fact-finding",
       "B": "Product brochure only",
@@ -2350,7 +2350,7 @@
      "id": "M9A-P4-Q30",
      "paper": 4,
      "num": 30,
-     "stem": "The BEST conclusion is:",
+     "stem": "Considering Mr Wong's inexperience, the 3-year deadline on the fees and the leverage involved, the BEST conclusion is:",
      "options": {
       "A": "Proceed immediately",
       "B": "Review suitability carefully",
@@ -2363,7 +2363,7 @@
      "id": "M9A-P4-Q31",
      "paper": 4,
      "num": 31,
-     "stem": "The primary objective of this product is:",
+     "stem": "Mdm Ho, an experienced equity investor, is offered a reverse convertible note paying an 8% annual coupon, linked to a bank stock. The primary objective of this product is:",
      "options": {
       "A": "Yield enhancement",
       "B": "Capital guarantee",
@@ -2376,7 +2376,7 @@
      "id": "M9A-P4-Q32",
      "paper": 4,
      "num": 32,
-     "stem": "A major risk is:",
+     "stem": "Mdm Ho asks what happens if the bank stock falls through the note's kick-in level before maturity. A major risk of the reverse convertible is:",
      "options": {
       "A": "Receiving depreciated shares at maturity",
       "B": "Guaranteed losses",
@@ -2389,7 +2389,7 @@
      "id": "M9A-P4-Q33",
      "paper": 4,
      "num": 33,
-     "stem": "Which client factor supports suitability?",
+     "stem": "Mdm Ho has held equities for years and accepts that she may end up owning the reference shares. Which client factor supports suitability of the reverse convertible?",
      "options": {
       "A": "Understanding of risks",
       "B": "Immediate cash needs",
@@ -2402,7 +2402,7 @@
      "id": "M9A-P4-Q34",
      "paper": 4,
      "num": 34,
-     "stem": "Reverse convertibles are generally suitable for investors expecting:",
+     "stem": "Mdm Ho expects the bank stock to trade sideways over the note's tenor. Reverse convertibles are generally suitable for investors expecting:",
      "options": {
       "A": "Stable or moderately positive markets",
       "B": "Severe market declines",
@@ -2415,7 +2415,7 @@
      "id": "M9A-P4-Q35",
      "paper": 4,
      "num": 35,
-     "stem": "The most important disclosure concerns:",
+     "stem": "When presenting the reverse convertible's 8% coupon to Mdm Ho, the most important disclosure concerns:",
      "options": {
       "A": "Potential downside risk",
       "B": "Mortality risk",
@@ -2428,7 +2428,7 @@
      "id": "M9A-P4-Q36",
      "paper": 4,
      "num": 36,
-     "stem": "Which statement is TRUE?",
+     "stem": "Mdm Ho asks why the reverse convertible pays so much more than a fixed deposit. Which statement is TRUE?",
      "options": {
       "A": "Yield enhancement products eliminate risk",
       "B": "Higher yields usually involve higher risks",
@@ -2441,7 +2441,7 @@
      "id": "M9A-P4-Q37",
      "paper": 4,
      "num": 37,
-     "stem": "Suitability appears:",
+     "stem": "Mdm Ho understands the product, expects the stock to stay range-bound, can hold to maturity, and accepts receiving shares if the stock falls. Suitability of the reverse convertible for her appears:",
      "options": {
       "A": "Strong",
       "B": "Weak",
@@ -2454,7 +2454,7 @@
      "id": "M9A-P4-Q38",
      "paper": 4,
      "num": 38,
-     "stem": "The representative should ensure:",
+     "stem": "Before Mdm Ho commits to the reverse convertible, the representative should ensure:",
      "options": {
       "A": "Risks are understood",
       "B": "Returns are guaranteed",
@@ -2467,7 +2467,7 @@
      "id": "M9A-P4-Q39",
      "paper": 4,
      "num": 39,
-     "stem": "If markets fall sharply:",
+     "stem": "Mdm Ho buys the reverse convertible. If markets fall sharply and the stock breaches the kick-in level:",
      "options": {
       "A": "Investor may suffer losses",
       "B": "Capital is guaranteed",
@@ -2480,7 +2480,7 @@
      "id": "M9A-P4-Q40",
      "paper": 4,
      "num": 40,
-     "stem": "The MOST relevant principle is:",
+     "stem": "Throughout the sale of the reverse convertible to Mdm Ho, the MOST relevant principle is:",
      "options": {
       "A": "Suitability and disclosure",
       "B": "Sales volume",
@@ -2493,7 +2493,7 @@
      "id": "M9A-P4-Q41",
      "paper": 4,
      "num": 41,
-     "stem": "Which statement is MOST accurate?",
+     "stem": "Client A is 28 and seeks aggressive growth over several decades. Client B is 60, retiring next year, and needs income with ready access to cash. Both ask about the same structured fund. Which statement is MOST accurate?",
      "options": {
       "A": "The same product is automatically suitable for both",
       "B": "Suitability must be assessed separately",
@@ -2506,7 +2506,7 @@
      "id": "M9A-P4-Q42",
      "paper": 4,
      "num": 42,
-     "stem": "Client A is more likely to accept:",
+     "stem": "Client A, age 28, is investing surplus income for a retirement that is decades away and describes himself as an aggressive investor. Compared with Client B, Client A is more likely to accept:",
      "options": {
       "A": "Market volatility",
       "B": "Liquidity constraints",
@@ -2519,7 +2519,7 @@
      "id": "M9A-P4-Q43",
      "paper": 4,
      "num": 43,
-     "stem": "Client B\u2019s primary concern is likely:",
+     "stem": "Client B, age 60, retires next year and will live partly off her savings. Client B's primary concern is likely:",
      "options": {
       "A": "Aggressive growth",
       "B": "Liquidity and income needs",
@@ -2532,7 +2532,7 @@
      "id": "M9A-P4-Q44",
      "paper": 4,
      "num": 44,
-     "stem": "The representative should focus on:",
+     "stem": "When advising Client A and Client B on the same structured fund, the representative should focus on:",
      "options": {
       "A": "Product features only",
       "B": "Client-specific suitability",
@@ -2545,7 +2545,7 @@
      "id": "M9A-P4-Q45",
      "paper": 4,
      "num": 45,
-     "stem": "Which factor differs significantly between the clients?",
+     "stem": "Comparing Client A (28, aggressive, decades-long horizon) with Client B (60, income-focused, retiring next year), which factor differs significantly between the clients?",
      "options": {
       "A": "Risk profile",
       "B": "Objectives",
@@ -2558,7 +2558,7 @@
      "id": "M9A-P4-Q46",
      "paper": 4,
      "num": 46,
-     "stem": "A recommendation suitable for Client A may be unsuitable for Client B because:",
+     "stem": "The structured fund fits Client A's growth profile well. A recommendation suitable for Client A may still be unsuitable for Client B because:",
      "options": {
       "A": "Suitability is client-specific",
       "B": "Products change",
@@ -2571,7 +2571,7 @@
      "id": "M9A-P4-Q47",
      "paper": 4,
      "num": 47,
-     "stem": "The strongest basis for recommendation is:",
+     "stem": "For both Client A and Client B, the strongest basis for any product recommendation is:",
      "options": {
       "A": "Product performance",
       "B": "Client circumstances",
@@ -2584,20 +2584,21 @@
      "id": "M9A-P4-Q48",
      "paper": 4,
      "num": 48,
-     "stem": "Which concept is being tested most heavily?",
+     "stem": "Under the MAS Fair Dealing Guidelines, which outcome is MOST directly engaged when the representative recommends the structured fund to Client A and Client B?",
      "options": {
-      "A": "Underwriting",
-      "B": "Suitability",
-      "C": "Estate duty",
-      "D": "Taxation"
+      "A": "Customers must be offered the products with the highest possible returns",
+      "B": "Products and services recommended are suitable for the customer (Outcome 2)",
+      "C": "All customers must be offered identical products on identical terms",
+      "D": "Advisers must avoid recommending any complex product to retail customers"
      },
-     "answer": "B"
+     "answer": "B",
+     "explanation": "Fair Dealing Outcome 2 is the adviser's key outcome: financial institutions ensure that products and services recommended are suitable for the customer. The guidelines do not demand maximum returns, identical offerings, or a ban on complex products; they demand that the recommendation fit the client."
     },
     {
      "id": "M9A-P4-Q49",
      "paper": 4,
      "num": 49,
-     "stem": "The representative\u2019s obligation is to:",
+     "stem": "In each of these advisory situations, the representative's obligation is to:",
      "options": {
       "A": "Recommend suitable solutions",
       "B": "Maximise commissions",
@@ -2610,14 +2611,15 @@
      "id": "M9A-P4-Q50",
      "paper": 4,
      "num": 50,
-     "stem": "The BEST answer in difficult M9A case studies is usually:",
+     "stem": "A representative is weighing two products for Client B: one pays him a higher commission, the other fits her income and liquidity needs better. The BEST recommendation is:",
      "options": {
-      "A": "Highest return",
-      "B": "Lowest charge",
-      "C": "Most suitable recommendation",
-      "D": "Most complex product"
+      "A": "The higher-commission product, provided the commission is disclosed",
+      "B": "The product with the lowest charges, regardless of fit",
+      "C": "The product that best fits Client B's needs and circumstances",
+      "D": "Both products, leaving Client B to decide without advice"
      },
-     "answer": "C"
+     "answer": "C",
+     "explanation": "Suitability turns on the client's needs and circumstances, not the adviser's remuneration or a simple cheapest-wins rule. Disclosing a commission does not cure an unsuitable recommendation, and presenting options without advice abdicates the representative's duty."
     }
    ]
   },
