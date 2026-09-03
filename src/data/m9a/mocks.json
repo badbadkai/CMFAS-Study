@@ -3403,15 +3403,15 @@
      "id": "M9A-P6-Q6",
      "paper": 6,
      "num": 6,
-     "stem": "After paying the S$9,900 variation margin in Question 5 (account restored to S$36,000), the index rallies from 4,475 to 4,505 on Day 3. What is the margin account balance at the end of Day 3?",
+     "stem": "Under MAS requirements in force since September 2009, which statement about the marketing of structured products in Singapore is CORRECT?",
      "options": {
-      "A": "S$38,700",
-      "B": "S$34,200",
-      "C": "S$37,800",
-      "D": "S$36,000"
+      "A": "Products may be described as 'capital protected' as long as a footnote discloses the risks",
+      "B": "The terms 'capital protected' and 'capital guaranteed' may be used interchangeably for any product with a bond component",
+      "C": "A product may not be marketed as 'capital protected' or 'capital guaranteed' unless the capital is genuinely guaranteed",
+      "D": "The restriction applies only to structured deposits, not structured notes"
      },
      "answer": "C",
-     "explanation": "Day 3 gain = (4,505 - 4,475) x S$20 x 3 = 30 x 60 = S$1,800. Balance = 36,000 + 1,800 = S$37,800. The S$38,700 figure uses a 35-point move. The S$34,200 figure subtracts the gain instead of adding it. The S$36,000 figure ignores the Day 3 price movement entirely."
+     "explanation": "Since September 2009, issuers in Singapore may not label a product 'capital protected' or 'capital guaranteed' unless it genuinely is. The rule followed the Lehman Minibond collapse, applies across structured products rather than a single wrapper, and a risk footnote does not cure a misleading label."
     },
     {
      "id": "M9A-P6-Q7",
@@ -3445,15 +3445,15 @@
      "id": "M9A-P6-Q9",
      "paper": 6,
      "num": 9,
-     "stem": "Using the same long call (strike S$46, premium S$3.20 per share), at what share price does Ng break even at expiry?",
+     "stem": "Which statement about the risk positions of option buyers and option writers is CORRECT?",
      "options": {
-      "A": "S$42.80",
-      "B": "S$46.00",
-      "C": "S$49.20",
-      "D": "S$43.60"
+      "A": "The buyer's maximum loss is unlimited, while the writer's loss is capped at the premium",
+      "B": "The buyer's maximum loss is the premium paid, while the writer of an uncovered call faces potentially unlimited loss",
+      "C": "Both the buyer and the writer face losses capped at the premium",
+      "D": "The writer of a put faces unlimited loss because share prices can rise without limit"
      },
-     "answer": "C",
-     "explanation": "Long call breakeven = strike + premium = 46.00 + 3.20 = S$49.20. The S$46.00 figure ignores the premium cost entirely. The S$42.80 figure subtracts the premium from the strike, which is the breakeven formula for a long put, not a long call. The S$43.60 figure uses half the premium."
+     "answer": "B",
+     "explanation": "An option buyer can lose no more than the premium paid. An uncovered call writer must deliver stock at the strike however high the market rises, so the potential loss is unlimited. A put writer's loss is large but limited, because a share price cannot fall below zero."
     },
     {
      "id": "M9A-P6-Q10",
@@ -3487,15 +3487,15 @@
      "id": "M9A-P6-Q12",
      "paper": 6,
      "num": 12,
-     "stem": "Using the same covered call position (stock cost S$28.00, call strike S$30.00, premium received S$1.80), what is the breakeven price and the maximum profit per share?",
+     "stem": "A wheat farmer sells wheat futures to protect the value of an upcoming harvest. A fund manager with no wheat exposure buys wheat futures purely because he expects prices to rise. Which classification of the two parties is CORRECT?",
      "options": {
-      "A": "Breakeven S$28.00, maximum profit S$1.80",
-      "B": "Breakeven S$26.20, maximum profit S$3.80",
-      "C": "Breakeven S$29.80, maximum profit S$1.80",
-      "D": "Breakeven S$26.20, maximum profit unlimited"
+      "A": "Both are hedgers",
+      "B": "Both are speculators",
+      "C": "The farmer is a speculator and the fund manager is a hedger",
+      "D": "The farmer is a short hedger and the fund manager is a speculator"
      },
-     "answer": "B",
-     "explanation": "Breakeven = stock cost minus premium received = 28.00 - 1.80 = S$26.20. Maximum profit = (strike - cost) + premium = (30.00 - 28.00) + 1.80 = S$3.80 per share, achieved at any price at or above the strike. The S$28.00 breakeven ignores the premium income. The S$29.80 adds the premium to the cost instead of subtracting it. The short call caps the upside so maximum profit cannot be unlimited."
+     "answer": "D",
+     "explanation": "A hedger uses derivatives to reduce an existing or anticipated exposure; selling futures against a crop you will hold is a short hedge. Taking a position with no underlying exposure, purely to profit from an expected price move, is speculation."
     },
     {
      "id": "M9A-P6-Q13",
@@ -3515,15 +3515,15 @@
      "id": "M9A-P6-Q14",
      "paper": 6,
      "num": 14,
-     "stem": "Using the same protective put (stock cost S$8.50, put strike S$7.50, premium S$0.60), at what share price does Siti break even at expiry?",
+     "stem": "Which of the following correctly states the SGX listing thresholds for exchange-traded products?",
      "options": {
-      "A": "S$7.50",
-      "B": "S$8.50",
-      "C": "S$9.10",
-      "D": "S$7.90"
+      "A": "An ETF must have at least S$20 million in assets, with 25% held by at least 500 public holders, while an ETN needs an issue size of at least S$750,000",
+      "B": "An ETF must have at least S$750,000 in assets, while an ETN needs an issue size of at least S$20 million",
+      "C": "Both ETFs and ETNs must have at least S$20 million in assets and 1,000 public holders",
+      "D": "An ETF has no minimum asset requirement provided it has at least 500 public holders"
      },
-     "answer": "C",
-     "explanation": "Protective put breakeven = stock cost + premium paid = 8.50 + 0.60 = S$9.10. The premium is an extra cost that the stock must recover. The S$7.50 is the put strike, not the breakeven. The S$8.50 is the stock cost ignoring the premium. The S$7.90 subtracts the premium from the stock cost, which is the formula for a covered call breakeven."
+     "answer": "A",
+     "explanation": "SGX requires an ETF to hold at least S$20 million in assets with 25% spread across at least 500 public holders, while an ETN needs a minimum issue size of S$750,000. The minimums exist to support liquidity and orderly trading."
     },
     {
      "id": "M9A-P6-Q15",
@@ -3683,15 +3683,15 @@
      "id": "M9A-P6-Q26",
      "paper": 6,
      "num": 26,
-     "stem": "Using the 8,178.20 units from Question 25, if the Choice Fund NAV per unit at maturity is S$0.9500, what is the maturity payout and is it above or below the Secure Price payout?",
+     "stem": "Which of the following lists only charges that are typically levied on a portfolio bond (insurance wrapper)?",
      "options": {
-      "A": "S$8,213.46; the Secure Price is a guaranteed floor so the payout is the higher amount",
-      "B": "S$7,769.29; the Secure Price is a target, not a guarantee, so the lower NAV-based payout applies",
-      "C": "S$8,169.31; the fund manager adjusts the payout to match the Secure Price",
-      "D": "S$7,600.00; the fund returns the net premium since NAV is below the Secure Price"
+      "A": "Product charge, Deposit Insurance levy, brokerage stamp fee, smoothing charge",
+      "B": "Bonus smoothing charge, par fund levy, surrender charge, payment charge",
+      "C": "Mortality charge, terminal bonus deduction, product charge, guaranteed coupon fee",
+      "D": "Product charge, surrender charge, valuation charge, mortality charge"
      },
-     "answer": "B",
-     "explanation": "Maturity payout at NAV S$0.9500 = 8,178.20 x 0.9500 = S$7,769.29. The Secure Price payout would be 8,178.20 x 1.00455 = S$8,215.41. The Secure Price is an investment target, not a guaranteed floor. If the NAV per unit at maturity is below the Secure Price, the payout is based on the actual unit price. The S$8,213.46 figure incorrectly treats the Secure Price as a guarantee."
+     "answer": "D",
+     "explanation": "The portfolio bond fee stack typically includes product charges, fund charges and transaction costs, early withdrawal and surrender charges, valuation and payment charges, dealing account debit interest, and a mortality charge. Deposit Insurance levies and bonus smoothing belong to other product types; a portfolio bond has no smoothing or par-fund mechanics and pays no guaranteed coupon."
     },
     {
      "id": "M9A-P6-Q27",
@@ -3767,15 +3767,15 @@
      "id": "M9A-P6-Q32",
      "paper": 6,
      "num": 32,
-     "stem": "The long straddle from Question 31 (strike S$72, total premium S$8.00) is held to expiry and the stock closes at S$85. What is the net profit or loss per share?",
+     "stem": "In a callable structured security, which party holds the embedded call option, and what is the main risk this creates for the investor?",
      "options": {
-      "A": "S$5.00 loss",
-      "B": "S$21.00 profit",
-      "C": "S$5.00 profit",
-      "D": "S$13.00 profit"
+      "A": "The investor holds the call and can redeem early whenever rates rise",
+      "B": "The issuer holds the call, so the investor faces reinvestment risk if rates fall and the security is called",
+      "C": "The clearing house holds the call in order to manage margin risk",
+      "D": "The issuer holds the call, which protects the investor against falling interest rates"
      },
-     "answer": "C",
-     "explanation": "At S$85 the call is in the money: intrinsic value = 85 - 72 = S$13.00. The put expires worthless. Net profit = call intrinsic value minus total premium = 13.00 - 8.00 = S$5.00 per share. The S$21.00 figure adds the premium to the intrinsic value instead of deducting it. The S$13.00 figure ignores the premium cost. The S$5.00 loss applies the wrong sign."
+     "answer": "B",
+     "explanation": "A callable security is valued as a straight bond minus a call option held by the issuer. When interest rates fall, the issuer redeems early and the investor must reinvest the proceeds at the new, lower rates. The investor is effectively short the call and carries the reinvestment risk."
     },
     {
      "id": "M9A-P6-Q33",
@@ -4290,15 +4290,15 @@
      "id": "M9A-P7-Q19",
      "paper": 7,
      "num": 19,
-     "stem": "Mr Rajan is considering a bonus certificate on a stock currently at S$50.00. The certificate has a continuously monitored barrier at 70% of the spot price and a bonus level of S$58.00. During the 2-year term the stock briefly touches S$34.50 before recovering to S$51.00 at maturity. What does Mr Rajan receive per certificate?",
+     "stem": "Which of the following correctly matches each participation product to its defining feature?",
      "options": {
-      "A": "S$58.00 because the barrier was not breached",
-      "B": "S$50.00 because the certificate returns the initial price",
-      "C": "S$51.00 because the barrier was breached and the investor receives the maturity price of the underlying",
-      "D": "S$0 because touching the barrier causes total loss"
+      "A": "Tracker mirrors the underlying one-for-one; bonus pays a bonus if a barrier is never breached; airbag cushions moderate falls before losses begin",
+      "B": "Tracker caps the upside at a strike; bonus guarantees a fixed coupon; airbag doubles the downside exposure",
+      "C": "Tracker pays a fixed coupon; bonus mirrors the underlying one-for-one; airbag knocks out on any rise",
+      "D": "Tracker cushions moderate falls; bonus mirrors the underlying; airbag pays a bonus at a barrier"
      },
-     "answer": "C",
-     "explanation": "Barrier level = 70% x S$50.00 = S$35.00. The stock touched S$34.50, which is below S$35.00, so the knock-out barrier is breached. Once knocked out, the bonus protection is gone for the remainder of the certificate's life, even if the stock recovers. At maturity the investor receives the value of the underlying: S$51.00. The S$58.00 bonus level would apply only if the barrier had never been touched. This is the discontinuity the study text describes: a single touch at S$34.50 costs the entire S$7.00 bonus."
+     "answer": "A",
+     "explanation": "Participation products aim to take part in the underlying's performance. A tracker certificate follows it one-for-one, a bonus certificate pays a bonus provided the barrier is never touched, and an airbag certificate absorbs a moderate fall before the investor starts to lose. The other pairings shuffle the three designs."
     },
     {
      "id": "M9A-P7-Q20",
@@ -4318,15 +4318,15 @@
      "id": "M9A-P7-Q21",
      "paper": 7,
      "num": 21,
-     "stem": "A Singapore ILP sub-fund has total assets of S$62,400,000 and total liabilities of S$240,000. Units in issue are 60,000,000. The sub-fund is a capital-guaranteed fund with a guarantee of S$1.0000 per unit. What is the NAV per unit and what does the policy owner receive per unit at maturity?",
+     "stem": "Which statement about the valuation and liquidity rules for a structured ILP sub-fund is CORRECT?",
      "options": {
-      "A": "NAV per unit S$1.0360; payout S$1.0360 because it exceeds the guarantee",
-      "B": "NAV per unit S$1.0360; payout S$1.0000 because the guarantee overrides NAV",
-      "C": "NAV per unit S$0.9920; payout S$1.0000 because the guarantee floor applies",
-      "D": "NAV per unit S$1.0400; payout S$1.0400 because it exceeds the guarantee"
+      "A": "The sub-fund must be valued at least weekly, and redemptions can never be restricted",
+      "B": "The sub-fund must be valued at least annually, with redemptions suspended at the insurer's discretion",
+      "C": "The sub-fund must be valued at least monthly, and a redemption cap of around 10% may be imposed to protect remaining holders",
+      "D": "Valuation frequency is left entirely to the fund manager as long as it is disclosed"
      },
-     "answer": "A",
-     "explanation": "NAV = S$62,400,000 - S$240,000 = S$62,160,000. NAV per unit = S$62,160,000 / 60,000,000 = S$1.0360. For a capital-guaranteed fund, the payout at maturity is the higher of NAV per unit and the guaranteed amount. S$1.0360 > S$1.0000, so the policy owner receives S$1.0360 per unit. The 'guarantee overrides NAV' option is incorrect: the guarantee is a floor, not a ceiling; when NAV exceeds the guarantee, the owner receives the higher NAV."
+     "answer": "C",
+     "explanation": "A structured ILP sub-fund must be valued at least monthly, and the fund may cap redemptions at around 10% to protect the remaining policy owners from forced sales. Weekly valuation is not required, and the monthly minimum is a regulatory floor rather than a manager's free choice."
     },
     {
      "id": "M9A-P7-Q22",
@@ -4374,15 +4374,15 @@
      "id": "M9A-P7-Q25",
      "paper": 7,
      "num": 25,
-     "stem": "In a plain vanilla interest rate swap, Company A pays 4.50% fixed and receives SIBOR floating on S$20 million notional, with payments exchanged semi-annually. SIBOR for the payment period is 3.80%. What net cash flow does Company A pay or receive on this payment date?",
+     "stem": "Which of the following correctly distinguishes an interest rate swap from a currency swap?",
      "options": {
-      "A": "Company A pays S$140,000 net",
-      "B": "Company A receives S$140,000 net",
-      "C": "Company A pays S$900,000 and receives S$760,000 separately; no netting occurs",
-      "D": "Company A pays S$70,000 net, assuming semi-annual payments"
+      "A": "An interest rate swap exchanges full principal at the start and end, while a currency swap nets its payments",
+      "B": "In an interest rate swap the same-currency payments are netted, while a currency swap exchanges both principal and interest in full with no netting",
+      "C": "Both types of swap net their payments because they are traded on an exchange",
+      "D": "A currency swap involves only one currency, while an interest rate swap involves two"
      },
-     "answer": "D",
-     "explanation": "In an interest rate swap, same-currency flows are netted. Net annual rate = 4.50% - 3.80% = 0.70%, so 0.70% x S$20,000,000 = S$140,000 per year. With semi-annual exchanges, each payment date nets S$140,000 / 2 = S$70,000 paid by Company A. The S$140,000 figures use the full annual amount, and separate gross payments with no netting describe a currency swap, not an interest rate swap."
+     "answer": "B",
+     "explanation": "Both legs of an interest rate swap are in the same currency, so only the difference changes hands. A currency swap involves two currencies, so principal and interest are exchanged in full and nothing is netted. Swaps are over-the-counter contracts, not exchange-traded."
     },
     {
      "id": "M9A-P7-Q26",
@@ -4391,12 +4391,12 @@
      "stem": "Mr Ahmad, age 55, has S$150,000 in a portfolio bond that he is considering surrendering to fund a property purchase. The surrender charge is 2.5% in year 5. The current portfolio value is S$158,000. He also faces a valuation charge of S$50 for requesting a special paper statement. What is his net surrender proceeds?",
      "options": {
       "A": "S$158,000 - 2.5% = S$158,000 - S$3,950 = S$154,050",
-      "B": "S58,000 x (1 - 0.025) = S54,050; then S54,050 - S0 valuation charge = S54,000 net proceeds",
+      "B": "S$158,000 x (1 - 0.025) = S$154,050; then S$154,050 - S$50 valuation charge = S$154,000 net proceeds",
       "C": "S$158,000 with no deductions because surrender charges are illegal in Singapore",
       "D": "S$150,000 because the portfolio bond guarantees a minimum return of capital"
      },
      "answer": "B",
-     "explanation": "Surrender charge = 2.5% x S58,000 = S,950. Value after surrender charge = S58,000 - S,950 = S54,050. Valuation charge for special paper statement = S0. Net surrender proceeds = S54,050 - S0 = S54,000. Portfolio bonds do not guarantee return of capital; the S50,000 option wrongly implies a capital guarantee. Surrender charges are a standard feature of portfolio bonds, not illegal."
+     "explanation": "Surrender charge = 2.5% x S$158,000 = S$3,950. Value after surrender charge = S$158,000 - S$3,950 = S$154,050. Valuation charge for the special paper statement = S$50. Net surrender proceeds = S$154,050 - S$50 = S$154,000. Portfolio bonds do not guarantee return of capital; the S$150,000 option wrongly implies a capital guarantee. Surrender charges are a standard feature of portfolio bonds, not illegal."
     },
     {
      "id": "M9A-P7-Q27",
@@ -4416,15 +4416,15 @@
      "id": "M9A-P7-Q28",
      "paper": 7,
      "num": 28,
-     "stem": "An airbag certificate is issued on a stock at S$60.00 with an airbag level of 35% of spot. At maturity the stock trades at S$18.00. What is the certificate's redemption value?",
+     "stem": "In a structured product with barrier features, what happens when a kick-in barrier is touched?",
      "options": {
-      "A": "S$18.00 because the airbag level has been breached and the investor takes the full loss",
-      "B": "S$60.00 because the airbag protects above the airbag level",
-      "C": "S$51.43 because S$60.00 x (18.00 / 21.00) = S$51.43",
-      "D": "S$0 because a stock falling 70% triggers total loss"
+      "A": "The product's upside is immediately locked in for the investor",
+      "B": "The product converts into an ordinary bank deposit",
+      "C": "The coupon steps up to compensate the investor for the breach",
+      "D": "The investor becomes exposed to downside losses that did not apply before the barrier was touched"
      },
-     "answer": "C",
-     "explanation": "Airbag level = 35% x S$60.00 = S$21.00. At maturity S$18.00 < S$21.00 so the below-airbag formula applies: Redemption = Nominal x (Final price / Airbag level) = S$60.00 x (18.00 / 21.00) = S$60.00 x 0.8571 = S$51.43. The investor loses less than the stock because the airbag cushions losses below the airbag level; the payout stays above the underlying's S$18.00 value. The full S$60.00 would only be paid if the stock finished at or above S$21.00."
+     "answer": "D",
+     "explanation": "A kick-in barrier changes the payoff once touched: downside exposure that was previously shielded suddenly applies to the investor. A knock-out barrier does the opposite job, terminating the upside. These discontinuous triggers are a defining structural risk of barrier products."
     },
     {
      "id": "M9A-P7-Q29",
@@ -4556,15 +4556,15 @@
      "id": "M9A-P7-Q38",
      "paper": 7,
      "num": 38,
-     "stem": "An investor buys a 1-year discount certificate on a REIT currently trading at S$2.40. The certificate is priced at S$2.04 (a 15% discount) with a cap-strike of S$2.60. At maturity the REIT trades at S$2.80. What does the investor receive, and what is the percentage return on the certificate?",
+     "stem": "A discount certificate is best described as a product that:",
      "options": {
-      "A": "Cash settlement of the cap-strike S$2.60; return = (2.60 - 2.04) / 2.04 = 27.45%",
-      "B": "The REIT share itself worth S$2.80; return = (2.80 - 2.04) / 2.04 = 37.25%",
-      "C": "Cash settlement of S$2.40 (the original REIT price); return = (2.40 - 2.04) / 2.04 = 17.65%",
-      "D": "Cash settlement of S$2.04 (breakeven); return = 0%"
+      "A": "guarantees the return of capital plus a minimum coupon at maturity",
+      "B": "mirrors the underlying one-for-one with no cap and no discount",
+      "C": "lets the investor buy exposure to the underlying below its market price, in exchange for capping the upside at a strike level",
+      "D": "pays an enhanced coupon in exchange for the investor writing a put option on the underlying"
      },
-     "answer": "A",
-     "explanation": "Since the REIT at maturity (S$2.80) is above the cap-strike (S$2.60), the investor receives a cash settlement equal to the cap-strike: S$2.60. Return = (S$2.60 - S$2.04) / S$2.04 = S$0.56 / S$2.04 = 27.45%. The upside is capped; the investor gives up the S$0.20 additional gain above the cap. Had the REIT finished at or below S$2.60, the investor would have received the shares. The 37.25% return option incorrectly assumes the investor gets the full upside above the cap."
+     "answer": "C",
+     "explanation": "A discount certificate is built from two options so the investor gains exposure at a discount to the market price, trading away the gains above the cap-strike. It carries no capital guarantee, and the enhanced-coupon-for-written-put design describes a reverse convertible instead."
     },
     {
      "id": "M9A-P7-Q39",
@@ -4584,15 +4584,15 @@
      "id": "M9A-P7-Q40",
      "paper": 7,
      "num": 40,
-     "stem": "Under a futures margin example: an investor holds 3 index futures contracts (multiplier S$10 per point) bought at 3,400. Initial margin is S$9,000 per contract (total S$27,000) and maintenance margin is S$7,200 per contract (total S$21,600). The index settles at 3,250 on Day 1. What is the margin balance, is a call triggered, and if so what is the variation margin required?",
+     "stem": "Which of the following correctly describes the sequence of margin payments on a futures position?",
      "options": {
-      "A": "Balance S$22,500; no call triggered because S$22,500 > S$21,600",
-      "B": "Balance S$20,500; call triggered; variation margin = S$6,500",
-      "C": "Balance S$22,500; call triggered; variation margin = S$4,500",
-      "D": "Balance S$24,500; no call triggered"
+      "A": "Maintenance margin opens the position, and initial margin is the daily top-up",
+      "B": "Variation margin opens the position, and maintenance margin is paid at expiry",
+      "C": "Initial margin is required only for short positions; long positions are margin-free",
+      "D": "Initial margin opens the position; when equity falls to the maintenance margin, a margin call requires a variation margin top-up"
      },
-     "answer": "A",
-     "explanation": "Day 1 loss = (3,250 - 3,400) x S$10 x 3 = -150 x S$10 x 3 = -S$4,500. Margin balance = S$27,000 - S$4,500 = S$22,500. Maintenance threshold = S$21,600. Since S$22,500 > S$21,600, no margin call is triggered on Day 1. Variation margin is required only when the balance falls below the maintenance level, and the top-up restores the balance to the initial margin (not just to the maintenance level). A call at a S$22,500 balance would be wrong because the balance still sits above the maintenance level."
+     "answer": "D",
+     "explanation": "Initial margin is deposited to open the position. Daily mark-to-market then adjusts the account, and when equity falls to the maintenance level the broker issues a margin call, which the investor meets by paying variation margin. Long and short futures positions are both margined."
     },
     {
      "id": "M9A-P7-Q41",
@@ -4654,15 +4654,15 @@
      "id": "M9A-P7-Q45",
      "paper": 7,
      "num": 45,
-     "stem": "In the SIP case study, if in Scenario 3 the policy owner pays a S$10,000 single premium and receives S$2,000 per year for 5 years plus S$10,000 at maturity, what is the total cash received, and what is this scenario called in the study text?",
+     "stem": "In the Superior Income Plan (SIP) case study, what is the role of the six reference stocks?",
      "options": {
-      "A": "S$19,000 total; called the worst-case scenario",
-      "B": "S$20,000 total; called the moderate performance scenario, which is counter-intuitively the best outcome for the policy owner",
-      "C": "S$12,000 total; called the moderate scenario",
-      "D": "S$20,000 total; called the best-case market performance scenario"
+      "A": "They serve only as a benchmark that sets the payout and the early-redemption trigger; the premium is not invested in them",
+      "B": "The single premium is invested equally across the six stocks",
+      "C": "They are collateral pledged by XYZ Bank to secure its guarantee",
+      "D": "Dividends from the six stocks fund the guaranteed 4% annual payout"
      },
-     "answer": "B",
-     "explanation": "In Scenario 3 (all six stocks trade between 92% and 108% throughout): annual payout = 20% x S$10,000 = S$2,000 per year for 5 years = S$10,000 in payouts, plus S$10,000 principal at maturity = S$20,000 total. The study text labels this the moderate performance scenario and identifies it as the best outcome for the policy owner. The counter-intuitive point is that the best market performance (Scenario 1, all stocks surge to 108%) triggers early redemption and yields only S$10,480 over 3 months, far less than S$20,000 from the moderate scenario."
+     "answer": "A",
+     "explanation": "The SIP premium goes into the ILP sub-fund's holdings, not the six stocks. The stocks are a reference basket: the number of days all six stay at or above 92% of their starting price drives the non-guaranteed payout, and all six reaching 108% or above triggers early redemption."
     },
     {
      "id": "M9A-P7-Q46",
