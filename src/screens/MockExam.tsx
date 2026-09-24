@@ -9,12 +9,12 @@ import { saveMockResult, getMockSession, saveMockSession, clearMockSession } fro
 import type { Letter, MockQuestion } from '../types'
 
 const LETTERS: Letter[] = ['A', 'B', 'C', 'D']
-const EXAM_SECONDS = 120 * 60
 
 export default function MockExam() {
   const { moduleId = '', paper = '' } = useParams()
   const navigate = useNavigate()
   const mod = getModule(moduleId)
+  const EXAM_SECONDS = (mod?.examMinutes ?? 120) * 60
 
   const isRandom = paper === 'random'
   const paperNum = Number(paper)
@@ -134,11 +134,16 @@ export default function MockExam() {
   if (questions.length === 0) return <Navigate to={`/m/${moduleId}/mock`} replace />
 
   const q = questions[idx]
-  const mm = String(Math.floor(remaining / 60)).padStart(2, '0')
+  const revealed = Boolean(answers[q.id])
+  const hh = String(Math.floor(remaining / 3600)).padStart(2, '0')
+  const mm = String(Math.floor((remaining % 3600) / 60)).padStart(2, '0')
   const ss = String(remaining % 60).padStart(2, '0')
+  const clock = remaining >= 3600 ? `${hh}:${mm}:${ss}` : `${mm}:${ss}`
   const lowTime = remaining <= 300
 
   function answer(letter: Letter) {
+    // Instant feedback: the first pick locks in so the reveal can't be gamed.
+    if (answers[q.id]) return
     setAnswers((a) => ({ ...a, [q.id]: letter }))
   }
 
@@ -193,13 +198,13 @@ export default function MockExam() {
           <div className="h-full bg-accent transition-all" style={{ width: `${((idx + 1) / questions.length) * 100}%` }} />
         </div>
         <span className={`ml-3 tabular-nums text-sm font-bold ${lowTime ? 'text-rose-400' : 'text-slate-300'}`}>
-          {mm}:{ss}
+          {clock}
         </span>
       </div>
 
       {resumed && idx === 0 && Object.keys(answers).length > 0 && (
         <p className="px-4 pt-2 text-xs text-amber-400/80">
-          Resumed where you left off: {Object.keys(answers).length} answered, {mm}:{ss} on the clock.
+          Resumed where you left off: {Object.keys(answers).length} answered, {clock} on the clock.
         </p>
       )}
 
@@ -209,20 +214,48 @@ export default function MockExam() {
 
       <div className="grid gap-2.5 px-4 pt-5">
         {LETTERS.map((L) => {
-          const selected = answers[q.id] === L
-          const cls = selected ? 'bg-accent/20 ring-accent/60' : 'bg-panel ring-white/10'
+          const isChosen = answers[q.id] === L
+          const isCorrect = q.answer === L
+          let cls = 'bg-panel ring-white/10'
+          if (revealed) {
+            if (isCorrect) cls = 'bg-emerald-500/20 ring-emerald-400/50'
+            else if (isChosen) cls = 'bg-rose-500/20 ring-rose-400/50'
+            else cls = 'bg-panel/60 ring-white/5 opacity-60'
+          } else if (isChosen) {
+            cls = 'bg-accent/20 ring-accent/60'
+          }
+          const letterCls = revealed && isCorrect
+            ? 'text-emerald-400'
+            : revealed && isChosen
+              ? 'text-rose-400'
+              : isChosen
+                ? 'text-accent'
+                : 'text-slate-400'
           return (
             <motion.button
               key={L}
-              whileTap={{ scale: 0.98 }}
+              whileTap={revealed ? undefined : { scale: 0.98 }}
               onClick={() => answer(L)}
+              disabled={revealed}
               className={`rounded-2xl px-4 py-3.5 text-left text-[15px] font-medium leading-snug ring-1 ${cls}`}
             >
-              <span className={`mr-2 font-bold ${selected ? 'text-accent' : 'text-slate-400'}`}>{L}</span>
+              <span className={`mr-2 font-bold ${letterCls}`}>{L}</span>
               {q.options[L]}
+              {revealed && isCorrect && <span className="ml-2 text-xs font-bold text-emerald-400">correct</span>}
+              {revealed && isChosen && !isCorrect && <span className="ml-2 text-xs font-bold text-rose-400">your answer</span>}
             </motion.button>
           )
         })}
+
+        {revealed && answers[q.id] !== q.answer && (
+          <p className="px-1 text-sm font-semibold text-rose-400">Correct answer: {q.answer}</p>
+        )}
+        {revealed && q.explanation && (
+          <div className="rounded-2xl bg-panel/80 px-4 py-3 ring-1 ring-white/10">
+            <p className="text-xs font-bold uppercase tracking-wide text-slate-400">Why</p>
+            <p className="mt-1 whitespace-pre-line text-[14px] leading-snug text-slate-300">{q.explanation}</p>
+          </div>
+        )}
       </div>
 
       <div className="mt-auto px-4 pb-6 pt-4">
@@ -245,7 +278,7 @@ export default function MockExam() {
           )}
         </div>
         <p className="pt-3 text-center text-[10px] text-slate-600">
-          Progress saves automatically. Back out anytime and resume later.
+          Each answer reveals instantly and locks. Progress saves automatically {'\u2014'} resume anytime.
         </p>
       </div>
     </div>

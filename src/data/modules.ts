@@ -58,6 +58,7 @@ export const modules: Module[] = [
     chapters: res5Chapters,
     mocks: res5Mocks,
     quiz: res5Quiz,
+    examMinutes: 180,
   },
 ]
 

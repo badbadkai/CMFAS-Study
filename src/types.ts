@@ -101,5 +101,7 @@ export interface Module {
   quiz?: QuizItem[]
   /** True when the module has a Computations section. */
   comp?: boolean
+  /** Mock-exam duration in minutes. Defaults to 120 when unset. */
+  examMinutes?: number
 }
 

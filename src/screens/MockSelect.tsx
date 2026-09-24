@@ -61,7 +61,7 @@ export default function MockSelect() {
           >
             <span className="min-w-0">
               <span className="text-[15px] font-bold">Exam Paper {p.paper}</span>
-              <span className="block text-xs text-slate-500">{p.questions.length} questions {'\u00b7'} 120 min</span>
+              <span className="block text-xs text-slate-500">{p.questions.length} questions {'\u00b7'} {mod.examMinutes ?? 120} min</span>
             </span>
             {rightSide(p.paper)}
           </button>
