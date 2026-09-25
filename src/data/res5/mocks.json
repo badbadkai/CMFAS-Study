@@ -11730,6 +11730,1961 @@
      "explanation": "An effective compliance function must be independent of the business lines it oversees and have direct access to the board or audit committee so it can escalate concerns without business pressure. Headcount size, academic qualifications of the compliance officer, and a specific number of client audits per year are not prerequisites for an effective compliance function. Independence and board access are the defining characteristics."
     }
    ]
+  },
+  {
+   "paper": 7,
+   "questions": [
+    {
+     "id": "RES5-P7-Q1",
+     "num": 1,
+     "stem": "Under the Financial Advisers Act, a person who carries on a business of advising others on the purchase or sale of investment products without holding a valid financial adviser's licence commits an offence. Which of the following activities does NOT by itself require a financial adviser's licence?",
+     "options": {
+      "A": "Advising a client on whether to buy units in a collective investment scheme",
+      "B": "Issuing a research report that recommends specific listed equities",
+      "C": "Providing factual information on the features of an endowment policy without making a recommendation",
+      "D": "Arranging for a client to enter into a contract for a life insurance policy"
+     },
+     "answer": "C",
+     "explanation": "Providing purely factual information about a product without making a recommendation is not financial advisory activity under the FAA and does not require a licence. Advising on CIS purchases, issuing research reports recommending securities, and arranging contracts for life insurance products are all regulated activities that require a licence or an exemption."
+    },
+    {
+     "id": "RES5-P7-Q2",
+     "num": 2,
+     "stem": "A financial adviser (FA) firm wishes to employ a candidate as a representative to market unit trusts. The candidate holds a valid Certificate in Investment Management (CKA) obtained 14 months ago but has not yet been appointed as a representative. Which statement best describes the CKA's validity status?",
+     "options": {
+      "A": "The CKA remains valid for 3 years from the date of passing",
+      "B": "The CKA remains valid because there is no expiry date for it",
+      "C": "The CKA has lapsed because it is only valid for 12 months if the holder has not been appointed as a representative",
+      "D": "The CKA can be extended by sitting a refresher module within 6 months of expiry"
+     },
+     "answer": "C",
+     "explanation": "A CKA is valid for 12 months from the date it was obtained. If the candidate has not been appointed as a representative within that 12-month window, the CKA lapses and the candidate must re-sit the relevant examination. The 3-year period applies to the Customer Account Review (CAR), not the CKA."
+    },
+    {
+     "id": "RES5-P7-Q3",
+     "num": 3,
+     "stem": "Ahmad is a hired representative of FA firm Pinnacle Wealth Pte Ltd. He gives negligent financial advice to a client, causing the client to suffer a loss. Under the Financial Advisers Act, which party bears primary legal liability to the client?",
+     "options": {
+      "A": "Ahmad alone, as the person who gave the advice",
+      "B": "Both Ahmad and Pinnacle Wealth jointly, with equal liability",
+      "C": "Pinnacle Wealth Pte Ltd, as the principal of Ahmad",
+      "D": "The Monetary Authority of Singapore, as regulator of the firm"
+     },
+     "answer": "C",
+     "explanation": "Under the FAA, the principal (the licensed FA firm) is vicariously liable for acts and omissions of its appointed representatives done in the course of carrying out regulated activities. Pinnacle Wealth therefore bears primary liability to the client. Ahmad may also face disciplinary action, but the firm's liability to the client is the primary outcome established by the Act."
+    },
+    {
+     "id": "RES5-P7-Q4",
+     "num": 4,
+     "stem": "A licensed financial adviser's licence is automatically revoked if the licensee is wound up or has its assets applied under a compromise with its creditors. Apart from automatic revocation, MAS may also revoke or suspend a licence on grounds that do NOT include which of the following?",
+     "options": {
+      "A": "The licensee has not carried on the business of providing financial advisory services for 6 months",
+      "B": "The licensee's business is being conducted in a manner likely to be detrimental to clients",
+      "C": "The licensee's paid-up capital has fallen below the regulatory minimum for 3 consecutive business days",
+      "D": "The licensee failed to comply with any condition or restriction attached to its licence"
+     },
+     "answer": "C",
+     "explanation": "The FAA does not specify a 3-consecutive-business-day trigger for licence revocation based on capital falling below the minimum. The grounds for MAS-initiated revocation include ceasing business for 6 months, conducting business in a manner detrimental to clients, and failure to comply with licence conditions. A capital shortfall triggers different regulatory responses, but not automatic revocation after exactly 3 business days."
+    },
+    {
+     "id": "RES5-P7-Q5",
+     "num": 5,
+     "stem": "Which of the following individuals qualifies as an exempt financial adviser under the Financial Advisers Act without needing to hold a financial adviser's licence?",
+     "options": {
+      "A": "A sole proprietor advising retail clients on structured deposits",
+      "B": "A remisier advising clients on unit trust purchases",
+      "C": "A bank licensed under the Banking Act advising clients on investment products",
+      "D": "A general insurance broker advising on investment-linked policies"
+     },
+     "answer": "C",
+     "explanation": "Banks licensed under the Banking Act are expressly exempt from holding a financial adviser's licence under the FAA when they provide financial advisory services. Sole proprietors advising retail clients, general insurance brokers dealing in ILPs, and remisiers advising on unit trusts are not within the statutory exemptions and would require licensing."
+    },
+    {
+     "id": "RES5-P7-Q6",
+     "num": 6,
+     "stem": "Representative Cheryl holds an appointment with FA firm TrueWealth. She recently passed her RES5 module but her employer has not yet submitted the appointment notification to MAS. A client approaches Cheryl and she provides financial advice. At the point of advice, Cheryl is best described as:",
+     "options": {
+      "A": "An exempt person because she operates under TrueWealth's licence",
+      "B": "Duly appointed because she holds the relevant examination qualification",
+      "C": "Duly appointed because her employer is a licensed firm",
+      "D": "Not duly appointed and her advice constitutes an unlicensed activity by TrueWealth"
+     },
+     "answer": "D",
+     "explanation": "A representative is only duly appointed once the licensed FA firm has lodged the appointment with MAS through the MASNET/FAR notification process. Passing the required examination is a precondition, not the act of appointment itself. Until notification is lodged, Cheryl is not a duly appointed representative, and any advice she gives constitutes an unlicensed regulated activity attributable to TrueWealth."
+    },
+    {
+     "id": "RES5-P7-Q7",
+     "num": 7,
+     "stem": "Under the Financial Advisers Act, an appointed representative who is also an employee of the principal FA firm must comply with which of the following regarding secondary employment?",
+     "options": {
+      "A": "Secondary employment is prohibited entirely for the duration of the appointment",
+      "B": "Secondary employment is permitted without restriction as long as it does not involve financial advisory services",
+      "C": "The representative must obtain the principal's prior written approval before taking up any other employment or business",
+      "D": "Only employment with another MAS-regulated entity requires approval from the principal"
+     },
+     "answer": "C",
+     "explanation": "An appointed representative who is an employee must obtain prior written approval from the principal FA firm before taking up any other employment or business activity. This applies broadly and is not limited to financial services employment. The rule prevents conflicts of interest and ensures the principal retains oversight over the representative's activities."
+    },
+    {
+     "id": "RES5-P7-Q8",
+     "num": 8,
+     "stem": "When a licensed FA firm appoints a new chief executive officer, the firm must notify MAS within how many business days of the appointment taking effect?",
+     "options": {
+      "A": "5 business days",
+      "B": "14 business days",
+      "C": "30 business days",
+      "D": "7 business days"
+     },
+     "answer": "B",
+     "explanation": "Under the FAA notification requirements, a licensed FA firm must notify MAS of the appointment of a new CEO (or other key change in the management structure) within 14 business days of the appointment. The 7-day period applies to certain other notifications, and 30 days applies to changes in some corporate documents, so 14 business days is the correct threshold for CEO appointments."
+    },
+    {
+     "id": "RES5-P7-Q9",
+     "num": 9,
+     "stem": "FA firm Meridian Advisory intends to register a new foreign-related company as a related corporation to assist in cross-border advisory work. Which statement correctly describes an obligation that arises?",
+     "options": {
+      "A": "Meridian must obtain MAS approval before conducting any joint advisory with the related corporation",
+      "B": "Meridian must notify MAS of the relationship within 14 business days of the relationship coming into existence",
+      "C": "Meridian must ensure the related corporation holds a Singapore financial adviser's licence before any referrals are made",
+      "D": "No notification is required as long as the related corporation is regulated in its home jurisdiction"
+     },
+     "answer": "B",
+     "explanation": "When a licensed FA firm enters into a related-corporation relationship, it must notify MAS within 14 business days. MAS does not need to pre-approve the relationship before notification, but the notification obligation exists regardless of whether the related corporation is regulated abroad. Making referrals to an unlicensed foreign entity may itself attract regulatory scrutiny, but the primary obligation here is the 14-day notification."
+    },
+    {
+     "id": "RES5-P7-Q10",
+     "num": 10,
+     "stem": "Darren is an appointed representative of licensed FA firm Atlas Capital. He decides to set up a personal website on which he posts investment commentary and product recommendations under his own name, directing readers to contact him at Atlas Capital. Which of the following best describes the regulatory position?",
+     "options": {
+      "A": "The website is permitted as personal expression and does not constitute financial advisory activity",
+      "B": "The website requires a separate content-provider licence from MAS",
+      "C": "The website is only permissible if Darren disclaims that the views are his own and not Atlas Capital's",
+      "D": "Darren must obtain Atlas Capital's prior approval because the website constitutes marketing material issued by a representative"
+     },
+     "answer": "D",
+     "explanation": "Marketing materials and communications that constitute financial advisory activity or promote financial advisory services must be approved by the principal FA firm before publication. A personal website on which a representative posts product recommendations falls within the definition of marketing material, and Darren must obtain Atlas Capital's prior approval. A disclaimer alone is insufficient to satisfy the regulatory requirement."
+    },
+    {
+     "id": "RES5-P7-Q11",
+     "num": 11,
+     "stem": "A licensed FA firm may provide services in respect of which of the following products without needing any additional licence or exemption beyond its FA licence?",
+     "options": {
+      "A": "Term life insurance policies that are not investment-linked",
+      "B": "Leveraged foreign exchange contracts offered to retail clients",
+      "C": "Futures contracts traded on an approved exchange",
+      "D": "Over-the-counter commodity derivatives"
+     },
+     "answer": "A",
+     "explanation": "A licensed FA firm's core scope covers life insurance policies (including term life) and other investment products listed under the FAA's Second Schedule. Futures contracts traded on approved exchanges, leveraged FX contracts offered to retail clients, and OTC commodity derivatives require separate regulated activity licences under the Securities and Futures Act. Term life insurance does not carry investment features that would push it outside the FA firm's permitted scope."
+    },
+    {
+     "id": "RES5-P7-Q12",
+     "num": 12,
+     "stem": "MAS is conducting an inspection of BrightPath Financial. The MAS inspector requests to see records relating to client recommendations made in the past 3 years. Under the FAA's conduct-of-business rules, the minimum record-retention period for such recommendation records is:",
+     "options": {
+      "A": "5 years from the date of each recommendation",
+      "B": "10 years from the date of each recommendation",
+      "C": "7 years from the date of each recommendation",
+      "D": "3 years from the date of each recommendation"
+     },
+     "answer": "A",
+     "explanation": "Under the FAA's record-keeping requirements, an FA firm must retain records of its financial advisory business, including client recommendation records, for a minimum of 5 years. This 5-year period allows MAS to conduct inspections covering an adequate historical period. Records retained for only 3 years would not meet the regulatory requirement."
+    },
+    {
+     "id": "RES5-P7-Q13",
+     "num": 13,
+     "stem": "During an advisory session, representative Fiona tells a client that the balanced fund she is recommending has returned 12% per annum for the past 5 years and that similar returns can be expected going forward. The client relies on this statement and invests. If the fund subsequently underperforms, which ground is the client most likely to rely on to seek redress under the FAA?",
+     "options": {
+      "A": "Fiona failed to conduct a customer knowledge assessment",
+      "B": "Fiona did not disclose the fund's expense ratio in writing",
+      "C": "Fiona made a false or misleading statement inducing the client to enter into a transaction",
+      "D": "The fund was not on BrightPath's approved product list"
+     },
+     "answer": "C",
+     "explanation": "Stating that past returns of 12% per annum can be expected to continue is a forward-looking claim that is misleading because past performance does not guarantee future results. Under the FAA (and paralleled by MAS Notice FAA-N03), a representative must not make false or misleading statements to induce clients to enter into transactions. This is the most direct and strongest ground for the client's complaint. The failure to conduct a CKA is a separate procedural issue and less directly linked to the client's loss."
+    },
+    {
+     "id": "RES5-P7-Q14",
+     "num": 14,
+     "stem": "Under the FAA, a licensed FA firm that contravenes the requirement to conduct its business with due skill, care and diligence is guilty of an offence and may be liable to a fine of up to:",
+     "options": {
+      "A": "S$25,000",
+      "B": "S$50,000",
+      "C": "S$200,000",
+      "D": "S$100,000"
+     },
+     "answer": "D",
+     "explanation": "The FAA provides that an FA firm that breaches the general conduct-of-business obligations (including the duty to act with due skill, care and diligence) may be fined up to S$100,000 per offence. This is one of the key penalty thresholds that candidates must recall. The S$50,000 figure is associated with certain other FAA offences by individuals, and S$200,000 applies to more serious contraventions such as operating without a licence."
+    },
+    {
+     "id": "RES5-P7-Q15",
+     "num": 15,
+     "stem": "Representative Glen advises a client on an investment product but fails to inform the client about a significant conflict of interest arising from the fact that his firm receives a higher commission from that product provider than from competitors. Which MAS Notice is most directly contravened?",
+     "options": {
+      "A": "MAS Notice FAA-N02 (Dealings in Life Policies)",
+      "B": "MAS Notice FAA-N16 (Balanced Scorecard Framework)",
+      "C": "MAS Notice FAA-N11 (Managed Accounts)",
+      "D": "MAS Notice FAA-N03 (Recommendations)"
+     },
+     "answer": "D",
+     "explanation": "MAS Notice FAA-N03 on recommendations requires that before making a recommendation, the representative must disclose material conflicts of interest, including any commission bias towards a particular product or provider. FAA-N16 relates to the Balanced Scorecard remuneration framework, N11 covers managed accounts, and N02 deals with dealings in life policies. The conflict of interest disclosure obligation sits squarely in FAA-N03."
+    },
+    {
+     "id": "RES5-P7-Q16",
+     "num": 16,
+     "stem": "Under the FAA, which of the following is NOT a power that MAS may exercise when conducting an inspection of a licensed FA firm?",
+     "options": {
+      "A": "Requiring the firm to produce books and records",
+      "B": "Entering the firm's business premises during business hours",
+      "C": "Examining any person who is or was an employee of the firm",
+      "D": "Arresting a director suspected of fraud"
+     },
+     "answer": "D",
+     "explanation": "MAS inspectors have broad powers of entry, production of books, and examination of persons connected to the firm. However, MAS inspectors do not have powers of arrest - criminal arrest powers are vested in the Singapore Police Force. If fraud is suspected, MAS may refer the matter to the police or the Commercial Affairs Department. The other options correctly describe powers available to MAS under the FAA inspection provisions."
+    },
+    {
+     "id": "RES5-P7-Q17",
+     "num": 17,
+     "stem": "Hui Lin is an appointed representative whose employment with FA firm Crestline is terminated. What is the maximum period within which Crestline must lodge the cessation of appointment with MAS?",
+     "options": {
+      "A": "7 calendar days after the termination date",
+      "B": "14 business days after the termination date",
+      "C": "30 calendar days after the termination date",
+      "D": "Immediately upon termination, before close of business on that day"
+     },
+     "answer": "B",
+     "explanation": "When an appointed representative's engagement ends, the principal FA firm must notify MAS of the cessation within 14 business days. This allows MAS to update the public register and prevents the former representative from being listed as active. Calendar days and same-day notification are not the correct standards under the FAA notification rules."
+    },
+    {
+     "id": "RES5-P7-Q18",
+     "num": 18,
+     "stem": "FA firm Nexus Wealth discovers that one of its representatives, Ivan, has committed an act of fraud against a client. Nexus terminates Ivan immediately. What obligation, if any, does Nexus have to report the matter?",
+     "options": {
+      "A": "No obligation to report; termination is sufficient",
+      "B": "Nexyl must report to the Singapore Police Force only; MAS is not the relevant authority",
+      "C": "Nexus must lodge a written report with MAS stating the facts, within 14 business days of becoming aware",
+      "D": "Nexus must report only if the fraud involves more than S$5,000"
+     },
+     "answer": "C",
+     "explanation": "A licensed FA firm is required to lodge a written report with MAS whenever it terminates or accepts the resignation of a representative for misconduct (including fraud), within 14 business days of becoming aware of the facts. This obligation exists regardless of the amount involved and in addition to any criminal report the firm may make to the police. Termination alone does not satisfy the regulatory notification requirement."
+    },
+    {
+     "id": "RES5-P7-Q19",
+     "num": 19,
+     "stem": "Under MAS Notice FAA-N03, before making a recommendation on an investment product to a retail client, a representative must obtain the client's financial situation, investment experience and investment objectives. If the client refuses to provide this information, what is the representative required to do?",
+     "options": {
+      "A": "Proceed with the recommendation using general assumptions about the client's profile",
+      "B": "Recommend only capital-guaranteed products to protect the client",
+      "C": "Inform the client that the representative is unable to make a recommendation in the absence of the required information",
+      "D": "Obtain written confirmation from the client's employer about his income before proceeding"
+     },
+     "answer": "C",
+     "explanation": "Under FAA-N03, if a client declines to provide the information needed to assess suitability, the representative must inform the client that without that information a recommendation cannot be made. The representative cannot substitute assumptions or limit the recommendation to capital-guaranteed products as a workaround. Seeking third-party confirmation of income is not a permitted response to the client's refusal."
+    },
+    {
+     "id": "RES5-P7-Q20",
+     "num": 20,
+     "stem": "The Balanced Scorecard (BSC) Framework under MAS Notice FAA-N16 requires that a representative's variable income be tied to non-sales KPIs. What minimum percentage of the total weightage must non-sales KPIs represent?",
+     "options": {
+      "A": "40%",
+      "B": "30%",
+      "C": "20%",
+      "D": "50%"
+     },
+     "answer": "A",
+     "explanation": "Under FAA-N16, non-sales KPIs (quality indicators such as persistency, customer satisfaction and compliance record) must account for at least 40% of the total weightage used to determine a representative's variable income. If the weighting falls below 40%, the BSC framework's intent to counterbalance pure sales incentives is not met. The 30% and 50% figures are common distractors but are not the correct threshold."
+    },
+    {
+     "id": "RES5-P7-Q21",
+     "num": 21,
+     "stem": "Representative Jasmine earns a base salary of S$3,000 per month plus variable commissions. Under FAA-N16, for the BSC framework to apply to Jasmine's variable income, which condition must hold?",
+     "options": {
+      "A": "She must earn variable income in addition to a fixed component, regardless of the ratio",
+      "B": "Her variable income must exceed 50% of her total income in any given month",
+      "C": "Her variable income must exceed her fixed income in the most recent performance year",
+      "D": "The BSC only applies if her variable income comprises 100% of her total income"
+     },
+     "answer": "A",
+     "explanation": "The BSC framework under FAA-N16 applies whenever a representative earns any variable income component tied to sales activities, regardless of whether the variable income exceeds 50% or 100% of total income. The distinction that matters for the 60% rule is between representatives who receive only variable income (no fixed component) versus those who receive both. But for the BSC to apply at all, the existence of any variable income linked to sales is the trigger - not a particular ratio."
+    },
+    {
+     "id": "RES5-P7-Q22",
+     "num": 22,
+     "stem": "Under FAA-N16, a Grade E is assigned to a representative in the BSC review. What is the automatic consequence for the representative's remuneration?",
+     "options": {
+      "A": "Variable income is reduced by 40% for the next review period",
+      "B": "The representative's variable income is reduced to zero (full withholding) for the next review period",
+      "C": "All variable income is withheld until the representative completes remedial training",
+      "D": "The representative's appointment is automatically terminated by MAS"
+     },
+     "answer": "B",
+     "explanation": "A Grade E under the BSC Framework triggers full withholding of the representative's variable income for the subsequent review period - effectively reducing variable income to zero. Grade E is triggered if the representative has any Category 1 case (a serious consumer harm or misconduct finding). The FA firm does not automatically terminate the appointment, and MAS does not directly order termination under the BSC mechanism, though other disciplinary processes may run in parallel."
+    },
+    {
+     "id": "RES5-P7-Q23",
+     "num": 23,
+     "stem": "MAS Notice FAA-N11 on managed accounts requires that an investment mandate be documented in writing before any discretionary trading commences. Which of the following items is NOT required to be covered in the investment mandate under FAA-N11?",
+     "options": {
+      "A": "The client's investment objectives and constraints",
+      "B": "The fee structure and basis for calculating management fees",
+      "C": "The name and professional qualifications of the individual portfolio manager assigned",
+      "D": "The benchmark index that the portfolio will be measured against"
+     },
+     "answer": "C",
+     "explanation": "FAA-N11 requires that the investment mandate cover the client's investment objectives and constraints, the fee structure, permitted asset classes and risk parameters, and the benchmark where relevant. The mandate does not need to name the individual portfolio manager or disclose that person's qualifications. Personnel assignments are operational matters and are not a prescribed element of the written investment mandate."
+    },
+    {
+     "id": "RES5-P7-Q24",
+     "num": 24,
+     "stem": "Under MAS Notice FAA-N16, a representative who received a Grade D in the previous BSC review period and then receives another Grade D in the current period is subject to which of the following consequences?",
+     "options": {
+      "A": "Full withholding of variable income, same as Grade E",
+      "B": "A 20% reduction in variable income for the current period",
+      "C": "A warning letter from MAS and a 12-month probationary review",
+      "D": "Mandatory retraining only, with no impact on variable income"
+     },
+     "answer": "A",
+     "explanation": "Under FAA-N16, consecutive Grade D ratings escalate to the same treatment as a Grade E - full withholding of variable income for the next period. A single Grade D results in a partial withholding (claw-back), but two consecutive Grade D ratings trigger full withholding. This escalation mechanism is designed to address persistent quality concerns that fall short of a single Category 1 case."
+    },
+    {
+     "id": "RES5-P7-Q25",
+     "num": 25,
+     "stem": "MAS Notice FAA-N03 requires that a financial adviser provide a client with a product summary and a product highlight sheet (PHS) when recommending certain investment products. For a PHS, what is the maximum number of pages permitted?",
+     "options": {
+      "A": "2 pages",
+      "B": "4 pages",
+      "C": "6 pages",
+      "D": "8 pages"
+     },
+     "answer": "B",
+     "explanation": "Under FAA-N03 and the associated product disclosure requirements, a Product Highlight Sheet must not exceed 4 pages. However, if the PHS includes diagrams or a glossary, up to 8 pages may be used. Where there are no diagrams or glossary, the strict limit is 4 pages. The question asks for the maximum permitted generally, which is 4 pages for a standard PHS."
+    },
+    {
+     "id": "RES5-P7-Q26",
+     "num": 26,
+     "stem": "A client contacts her adviser and requests to switch from a high-growth equity fund to a conservative bond fund within her investment-linked policy. Under MAS Notice 307, the insurer is required to process this switching request within how many business days of receiving all required documentation?",
+     "options": {
+      "A": "10 business days",
+      "B": "3 business days",
+      "C": "7 business days",
+      "D": "21 business days"
+     },
+     "answer": "C",
+     "explanation": "Under MAS Notice 307, the insurer must process a policyholder's fund switching request within 7 business days of receiving all required documents and instructions. The 21-day period under Notice 307 applies to the insurer notifying MAS when establishing a new ILP sub-fund, not to processing switch requests. The 3-day and 10-day figures are not the mandated switching processing window."
+    },
+    {
+     "id": "RES5-P7-Q27",
+     "num": 27,
+     "stem": "Under MAS Notice 307, an insurer wishes to launch a new sub-fund under an existing investment-linked policy product. How much notice must the insurer give to MAS before the sub-fund can be launched?",
+     "options": {
+      "A": "7 days",
+      "B": "21 days",
+      "C": "14 days",
+      "D": "30 days"
+     },
+     "answer": "B",
+     "explanation": "MAS Notice 307 requires an insurer to notify MAS at least 21 days before establishing a new ILP sub-fund. This advance notification allows MAS to review the proposed sub-fund's investment objectives and compliance arrangements. The 14-day period is a common distractor, but 21 days is the correct figure in the Notice."
+    },
+    {
+     "id": "RES5-P7-Q28",
+     "num": 28,
+     "stem": "Under MAS Notice 307, an ILP insurer proposes to increase the management fee on an existing sub-fund by 0.15% of the sub-fund's net asset value per annum. This is considered a significant change. What notice must be given to existing policyholders?",
+     "options": {
+      "A": "No notice is required if the change is below 0.5% NAV",
+      "B": "14 days written notice",
+      "C": "3 months written notice",
+      "D": "1 month written notice"
+     },
+     "answer": "D",
+     "explanation": "Under MAS Notice 307, a fee increase of 0.1% or more of the sub-fund's NAV is classified as a significant change, and the insurer must give policyholders at least 1 month's written notice before implementing the change. The 0.15% increase meets the threshold for significance. A 3-month notice period applies in other regulatory contexts but not to ILP sub-fund fee changes under Notice 307."
+    },
+    {
+     "id": "RES5-P7-Q29",
+     "num": 29,
+     "stem": "An ILP sub-fund has a net asset value of S$50 million. During valuation, an error is discovered that caused the sub-fund's unit price to be overstated. At what minimum magnitude (as a percentage of NAV) does MAS Notice 307 require the insurer to compensate affected policyholders?",
+     "options": {
+      "A": "0.5% of NAV",
+      "B": "0.25% of NAV",
+      "C": "1.0% of NAV",
+      "D": "2.0% of NAV"
+     },
+     "answer": "A",
+     "explanation": "MAS Notice 307 sets the valuation error compensation threshold at 0.5% of the sub-fund's NAV. If the pricing error equals or exceeds 0.5% of NAV, the insurer must compensate affected policyholders. Below this threshold, remediation is still good practice but not mandatory under the Notice. The 0.25% and 1.0% figures are plausible near-misses but are not the correct regulatory threshold."
+    },
+    {
+     "id": "RES5-P7-Q30",
+     "num": 30,
+     "stem": "Under MAS Notice 307, an ILP insurer identifies a valuation error that would require compensation to certain policyholders. For one policyholder, the compensation amount works out to S$15. Must the insurer pay this compensation?",
+     "options": {
+      "A": "Yes, all affected policyholders must be compensated regardless of amount",
+      "B": "Yes, but only if the policyholder makes a written claim within 30 days",
+      "C": "No, because the de minimis threshold is S$50 per policyholder",
+      "D": "No, because the de minimis threshold is S$20 per policyholder"
+     },
+     "answer": "D",
+     "explanation": "MAS Notice 307 provides a de minimis threshold of S$20 per policyholder. If the compensation amount for an individual policyholder is less than S$20, the insurer is not required to pay it out. Since S$15 falls below S$20, this policyholder need not be compensated. The S$50 threshold is incorrect; S$20 is the figure stated in the Notice."
+    },
+    {
+     "id": "RES5-P7-Q31",
+     "num": 31,
+     "stem": "Under MAS Notice 307, the insurer must submit the audited accounts of an ILP sub-fund to MAS within how many months of the sub-fund's financial year-end?",
+     "options": {
+      "A": "4 months",
+      "B": "2 months",
+      "C": "3 months",
+      "D": "6 months"
+     },
+     "answer": "C",
+     "explanation": "MAS Notice 307 requires the insurer to submit audited accounts of each ILP sub-fund to MAS within 3 months of the sub-fund's financial year-end. The semi-annual unaudited accounts must be submitted within 2 months of the end of each half-year, but the full audited annual accounts require 3 months. A terminated sub-fund's accounts must be audited within 6 months of termination."
+    },
+    {
+     "id": "RES5-P7-Q32",
+     "num": 32,
+     "stem": "For an ILP policy issued on 1 September 2022, the insurer's marketing materials describe the front-end loading on premiums as a 'premium allocation rate' of 90%. Under MAS Notice 307, is this permitted?",
+     "options": {
+      "A": "Yes, as long as the 90% figure is clearly stated and the remaining 10% is itemised",
+      "B": "No, because the premium allocation rate must be 100% for all new ILPs",
+      "C": "Yes, as the prohibition only applies to ILPs issued before 8 October 2021",
+      "D": "No, because the term 'premium allocation rate' is prohibited for ILP policies issued on or after 8 October 2021"
+     },
+     "answer": "D",
+     "explanation": "MAS Notice 307 prohibits use of the term 'premium allocation rate' for investment-linked policies issued on or after 8 October 2021. Because this policy was issued on 1 September 2022, it falls within the prohibition period. The correct approach for policies issued on or after that date is to disclose the actual charges on premiums without using that specific term."
+    },
+    {
+     "id": "RES5-P7-Q33",
+     "num": 33,
+     "stem": "MAS Guideline FSG-G01 sets out the fit and proper criteria for persons applying to hold appointments at financial institutions. Which of the following is NOT one of the three main criteria?",
+     "options": {
+      "A": "Honesty, integrity and reputation",
+      "B": "Competence and capability",
+      "C": "Educational qualifications and professional membership",
+      "D": "Financial soundness"
+     },
+     "answer": "C",
+     "explanation": "FSG-G01 identifies three main fit and proper criteria: (1) honesty, integrity and reputation; (2) competence and capability; and (3) financial soundness. Educational qualifications and professional membership may be relevant evidence under the competence criterion, but they are not a standalone fourth criterion. A candidate who confuses them as a separate criterion would give an incorrect answer."
+    },
+    {
+     "id": "RES5-P7-Q34",
+     "num": 34,
+     "stem": "Under MAS Guidelines for FA firms (FAA-G01), a new FA firm applying for a licence must demonstrate a minimum paid-up capital. What is the minimum paid-up capital required for a firm that intends to advise on and arrange life insurance products only?",
+     "options": {
+      "A": "S$100,000",
+      "B": "S$500,000",
+      "C": "S$300,000",
+      "D": "S$150,000"
+     },
+     "answer": "D",
+     "explanation": "FAA-G01 sets the minimum paid-up capital at S$150,000 for FA firms providing advice on and arranging life insurance policies or securities-based products. The higher threshold of S$300,000 applies to firms dealing in futures contracts, leveraged foreign exchange, or OTC currency derivatives. S$100,000 and S$500,000 do not reflect the correct FAA-G01 thresholds for life insurance focused FA firms."
+    },
+    {
+     "id": "RES5-P7-Q35",
+     "num": 35,
+     "stem": "FAA-G01 requires that a new FA firm's chief executive officer and executive directors (EDs) collectively have sufficient industry experience. What is the minimum years of relevant experience required for the CEO, and what portion of that must include managerial experience?",
+     "options": {
+      "A": "3 years total, with at least 1 year in a managerial role",
+      "B": "5 years total, with at least 3 years in a managerial role",
+      "C": "5 years total, with at least 2 years in a managerial role",
+      "D": "10 years total, with at least 5 years in a managerial role"
+     },
+     "answer": "B",
+     "explanation": "Under FAA-G01, the CEO (and each ED) must have at least 5 years of relevant industry experience, of which at least 3 years must be in a managerial capacity. This dual requirement ensures the firm's leadership has both depth of experience and management capability. The 3-years-total or 2-years-managerial options understate either the total or the managerial requirement."
+    },
+    {
+     "id": "RES5-P7-Q36",
+     "num": 36,
+     "stem": "Under FAA-G01, if a new FA firm does not have a 3-year financial track record at the time of application, which additional shareholding requirement applies?",
+     "options": {
+      "A": "The CEO must hold at least 10% of shares and the CEO plus EDs must hold at least 30%",
+      "B": "The CEO must hold at least 20% of shares and the CEO plus EDs must hold at least 50%",
+      "C": "All directors combined must hold at least 51% of shares",
+      "D": "There is no additional shareholding requirement; the track record can be substituted by a performance bond"
+     },
+     "answer": "B",
+     "explanation": "FAA-G01 states that where a new FA firm lacks a 3-year financial track record, the CEO must hold at least 20% of the firm's shares and the CEO together with the EDs must collectively hold at least 50%. This requirement ensures management have meaningful skin in the game when there is no operating history to demonstrate the firm's financial stability."
+    },
+    {
+     "id": "RES5-P7-Q37",
+     "num": 37,
+     "stem": "Guideline FAA-G05 addresses independence in financial advisory services. Under FAA-G05, an FA firm whose revenue from a single product provider exceeds what percentage of total revenue is considered to have a commission bias that may compromise independence?",
+     "options": {
+      "A": "10%",
+      "B": "15%",
+      "C": "30%",
+      "D": "20%"
+     },
+     "answer": "D",
+     "explanation": "FAA-G05 states that if more than 20% of an FA firm's total revenue is derived from a single product provider, MAS considers this indicative of a commission bias that may undermine the firm's independence. Similarly, if the firm represents fewer than 4 product providers, it may not be considered sufficiently independent to market itself as such. The 20% threshold is a key regulatory marker for independence assessment."
+    },
+    {
+     "id": "RES5-P7-Q38",
+     "num": 38,
+     "stem": "A Singapore-authorised CIS has a trustee that is related to the manager (cross-shareholding exceeds 20%). Under the Code on Collective Investment Schemes, which consequence follows?",
+     "options": {
+      "A": "The scheme cannot be authorised until the cross-shareholding is reduced below 20%",
+      "B": "The scheme is exempt from the independence requirement if the cross-shareholding has existed for more than 3 years",
+      "C": "The trustee must appoint an independent auditor to review transactions between the trustee and manager annually",
+      "D": "The scheme is exempt from the trustee independence requirement if MAS pre-approves the arrangement"
+     },
+     "answer": "A",
+     "explanation": "The CIS Code requires that the trustee of an authorised scheme be independent of the manager. A cross-shareholding of more than 20% between the trustee and the manager fails the independence test. The scheme cannot be authorised in such circumstances until the cross-shareholding is reduced to 20% or below. MAS cannot waive this structural independence requirement, and longevity of the arrangement does not create an exemption."
+    },
+    {
+     "id": "RES5-P7-Q39",
+     "num": 39,
+     "stem": "Under the Code on Collective Investment Schemes, what is the maximum percentage of a CIS's deposited property that may be invested in securities issued by a single entity (the single entity spread limit)?",
+     "options": {
+      "A": "5%",
+      "B": "20%",
+      "C": "10%",
+      "D": "15%"
+     },
+     "answer": "C",
+     "explanation": "The CIS Code sets a 10% single-entity spread limit - no more than 10% of a scheme's deposited property may be invested in securities or deposits of any single entity. A 20% limit applies at the group level (securities issued by entities in the same group). The 5% figure is associated with certain narrower restrictions, and 15% is not a standard CIS Code threshold."
+    },
+    {
+     "id": "RES5-P7-Q40",
+     "num": 40,
+     "stem": "The Code on Collective Investment Schemes prohibits a CIS manager from investing in securities of the manager itself or its related corporations, unless one condition is satisfied. What is that condition?",
+     "options": {
+      "A": "The investment does not exceed 5% of the scheme's deposited property",
+      "B": "The trustee has given written approval for each such investment",
+      "C": "The security is a constituent of a recognised benchmark index that the scheme tracks",
+      "D": "Prior written consent has been obtained from a majority of unitholders"
+     },
+     "answer": "C",
+     "explanation": "The CIS Code prohibits a manager from investing scheme assets in securities of the manager or its related corporations, with one exception: the prohibition does not apply if the security is a constituent of a recognised benchmark index that the scheme is tracking. In that case, holding the security is necessary for index replication and not a conflict of interest. Unitholder consent and trustee approval are not the stated exceptions under the Code."
+    },
+    {
+     "id": "RES5-P7-Q41",
+     "num": 41,
+     "stem": "Under the Code on Collective Investment Schemes, the manager discovers that due to market movements a scheme has breached a spread limit (passive breach). Within what period must the breach be rectified?",
+     "options": {
+      "A": "1 month from the date the breach is discovered",
+      "B": "3 months from the date the breach occurs",
+      "C": "6 months from the date of discovery, with MAS approval",
+      "D": "Immediately upon discovery, with no grace period permitted"
+     },
+     "answer": "B",
+     "explanation": "The CIS Code allows a 3-month grace period for rectifying a passive breach of spread limits (one caused by market movements rather than an active investment decision). During this period, the manager must not make further investments that worsen the breach. Active breaches (where the manager's decision caused the limit to be exceeded) do not receive the same grace period."
+    },
+    {
+     "id": "RES5-P7-Q42",
+     "num": 42,
+     "stem": "A CIS manager receives soft-dollar benefits from a broker in exchange for directing trades to that broker. Under the CIS Code, which of the following conditions must be satisfied for the soft-dollar arrangement to be permissible?",
+     "options": {
+      "A": "The soft-dollar benefits must be disclosed to unitholders in the annual report only",
+      "B": "The total value of soft dollars must not exceed 5% of total brokerage commissions paid in the same period",
+      "C": "The soft-dollar benefits must be goods or services that directly assist the manager in investment decision-making, and the manager must act in the best interests of the scheme",
+      "D": "The arrangement requires prior approval from the trustee and MAS"
+     },
+     "answer": "C",
+     "explanation": "The CIS Code permits soft-dollar arrangements provided the benefits are goods or services that directly assist the manager in the investment decision-making process (e.g., research, data services, trading systems) and the manager continues to act in the best interests of the scheme. Cash rebates are not permitted. There is no 5% cap on total soft-dollar value and no requirement for MAS pre-approval; however disclosure in periodic reports is required."
+    },
+    {
+     "id": "RES5-P7-Q43",
+     "num": 43,
+     "stem": "Under the Code on Collective Investment Schemes, the manager of an authorised scheme discovers a breach of section 289(3) of the Securities and Futures Act (scheme property held in trust). Within how many business days must the manager notify MAS?",
+     "options": {
+      "A": "1 business day",
+      "B": "2 business days",
+      "C": "5 business days",
+      "D": "3 business days"
+     },
+     "answer": "D",
+     "explanation": "The CIS Code requires the manager to notify MAS of a breach of s.289(3) of the SFA (which relates to scheme property being held in trust) within 3 business days of becoming aware. This is a specific and important timeline. The 1-day and 2-day figures are not correct, and 5 business days would be too slow for this type of regulatory breach notification."
+    },
+    {
+     "id": "RES5-P7-Q44",
+     "num": 44,
+     "stem": "Under the SFA, section 197 prohibits false trading and market rigging. Which of the following activities best exemplifies a section 197 offence?",
+     "options": {
+      "A": "A director of a listed company trading in its shares after learning of a pending merger",
+      "B": "A dealer spreading false positive news about a company to inflate its share price",
+      "C": "A trader placing and cancelling buy orders repeatedly to create an appearance of active trading interest",
+      "D": "An analyst issuing a research report with inflated price targets to benefit a fund the analyst personally holds"
+     },
+     "answer": "C",
+     "explanation": "Section 197 of the SFA addresses false trading - creating a misleading appearance of active trading or a false price. Repeatedly placing and cancelling orders (layering or spoofing) creates a false impression of demand without any genuine change in beneficial ownership, which is the essence of s.197 market rigging. Option (A) describes conduct closer to s.199 (false statements). Option (C) is insider trading under s.218-219. Option (D) could fall under s.201 or analyst conflict-of-interest rules."
+    },
+    {
+     "id": "RES5-P7-Q45",
+     "num": 45,
+     "stem": "Under the SFA's market conduct provisions, a 'wash sale' is a transaction that results in:",
+     "options": {
+      "A": "A sale of securities at a price lower than the current market price",
+      "B": "A change in beneficial ownership but no change in the registered holder",
+      "C": "A profit that is subject to capital gains tax",
+      "D": "No change in the beneficial ownership of a security"
+     },
+     "answer": "D",
+     "explanation": "A wash sale under s.197 of the SFA is one where there is no genuine change in beneficial ownership - the same party owns the securities before and after the transaction. Such trades create a false appearance of market activity and are prohibited because they mislead other market participants about the level of genuine trading interest."
+    },
+    {
+     "id": "RES5-P7-Q46",
+     "num": 46,
+     "stem": "Under the SFA's insider trading provisions (s.218-219), when is a person who is a 'connected person' (as defined) to a corporation presumed to possess inside information about that corporation?",
+     "options": {
+      "A": "The connected person is rebuttably presumed to possess inside information without MAS needing to prove actual communication",
+      "B": "Only if MAS can show direct communication of the information to that person",
+      "C": "Only if the connected person traded in the corporation's securities within 48 hours of the information being generated",
+      "D": "The connected person is irrebuttably (conclusively) presumed to possess the information"
+     },
+     "answer": "A",
+     "explanation": "Section 218 of the SFA creates a rebuttable presumption that a connected person (e.g., a director, substantial shareholder, or officer) possesses inside information about the corporation. MAS does not need to prove actual communication or knowledge - the burden shifts to the connected person to rebut the presumption. The presumption is rebuttable, not conclusive (irrebuttable), distinguishing it from the stricter standard sometimes confused with it."
+    },
+    {
+     "id": "RES5-P7-Q47",
+     "num": 47,
+     "stem": "Under SFA s.215, information is 'generally available' and therefore NOT inside information if it meets which condition?",
+     "options": {
+      "A": "It is observable or reasonably deducible by an ordinary member of the public without requiring special access",
+      "B": "It has been discussed at a board meeting of the listed company",
+      "C": "It has been reported in at least one local newspaper",
+      "D": "It has been included in a quarterly earnings disclosure filed with SGX"
+     },
+     "answer": "A",
+     "explanation": "Section 215 of the SFA defines 'generally available' information as information that can be observed or deduced by members of the public in the ordinary course of their daily lives, without requiring privileged access. Information that requires special access, is board-confidential, or has not been publicly disseminated does not qualify. A single newspaper report or an SGX filing would qualify once published, but the fundamental test is public observability and deducibility."
+    },
+    {
+     "id": "RES5-P7-Q48",
+     "num": 48,
+     "stem": "FA firm Goldcrest receives S$200,000 in cash from a new client purportedly as an initial investment in a mutual fund. Under MAS Notice FAA-N06 (AML/CFT), what is the threshold above which a licensed FA firm must file a Cash Transaction Report (CTR) for a single cash transaction?",
+     "options": {
+      "A": "S$10,000",
+      "B": "S$15,000",
+      "C": "S$30,000",
+      "D": "S$20,000"
+     },
+     "answer": "D",
+     "explanation": "Under FAA-N06 (aligned with MAS AML/CFT requirements), a Cash Transaction Report must be filed with the Suspicious Transaction Reporting Office (STRO) for any single cash transaction of S$20,000 or more. The S$200,000 payment clearly exceeds this threshold. S$10,000 and S$15,000 are common distractors but are not the correct CTR threshold; S$30,000 is also incorrect."
+    },
+    {
+     "id": "RES5-P7-Q49",
+     "num": 49,
+     "stem": "Under FAA-N06, an FA firm establishes a business relationship with a new corporate client. During customer due diligence (CDD), the firm discovers that the client is owned by a chain of shell companies across three jurisdictions and the ultimate beneficial owner (UBO) cannot be identified. What must the firm do?",
+     "options": {
+      "A": "Decline to establish the business relationship or terminate an existing one",
+      "B": "Proceed but limit the client to low-risk products only",
+      "C": "Proceed with the relationship and file an enhanced due diligence report with MAS annually",
+      "D": "Appoint an external auditor to investigate the corporate structure before proceeding"
+     },
+     "answer": "A",
+     "explanation": "Under FAA-N06, if an FA firm cannot identify and verify the ultimate beneficial owner through enhanced due diligence, it must not establish the business relationship, or must terminate an existing one. Proceeding with the relationship under any conditions when the UBO cannot be identified is prohibited. Filing enhanced reports or limiting product access are not acceptable alternatives when the identity verification requirement cannot be met."
+    },
+    {
+     "id": "RES5-P7-Q50",
+     "num": 50,
+     "stem": "Under FAA-N06, which of the following is a circumstance that triggers Enhanced Due Diligence (EDD) regardless of whether other risk factors are present?",
+     "options": {
+      "A": "The client is a small business owner with annual revenue below S$500,000",
+      "B": "The client is a Politically Exposed Person (PEP) or a family member of a PEP",
+      "C": "The client requests to invest more than S$100,000 in a single transaction",
+      "D": "The client declines to provide employment details"
+     },
+     "answer": "B",
+     "explanation": "FAA-N06 mandates Enhanced Due Diligence whenever the customer is, or is related to, a Politically Exposed Person (PEP). This is an automatic EDD trigger because PEPs are deemed higher risk due to their potential access to public resources and exposure to corruption. The other scenarios may warrant additional scrutiny depending on other risk factors, but they do not automatically require EDD."
+    },
+    {
+     "id": "RES5-P7-Q51",
+     "num": 51,
+     "stem": "Under FAA-N06, a Suspicious Transaction Report (STR) must be filed with STRO as soon as practicable after the FA firm forms a suspicion. Which of the following actions by the firm is expressly prohibited once a STR decision has been made?",
+     "options": {
+      "A": "Filing the STR without notifying the compliance officer",
+      "B": "Recording the grounds for suspicion in internal compliance files",
+      "C": "Continuing to transact with the customer on an existing facility while awaiting STRO guidance",
+      "D": "Tipping off the customer that a STR has been or will be filed"
+     },
+     "answer": "D",
+     "explanation": "FAA-N06 (and the underlying Corruption, Drug Trafficking and Other Serious Crimes Act) expressly prohibits 'tipping off' - informing the customer or any other person that a STR has been or is about to be filed. Tipping off could compromise any investigation. Filing without notifying the compliance officer would be an internal governance issue but is not the statutory prohibition. Recording grounds for suspicion is in fact required by AML rules."
+    },
+    {
+     "id": "RES5-P7-Q52",
+     "num": 52,
+     "stem": "MAS Notice FAA-N06 requires FA firms to screen clients and transactions against designated lists. Which legislation authorises MAS to require FA firms to freeze assets of persons on the designated list?",
+     "options": {
+      "A": "The Income Tax Act",
+      "B": "The Securities and Futures Act",
+      "C": "The Mutual Assistance in Criminal Matters Act only",
+      "D": "The Terrorism (Suppression of Financing) Act and the United Nations Act"
+     },
+     "answer": "D",
+     "explanation": "The legal basis for freezing assets of designated terrorists and entities in Singapore is the Terrorism (Suppression of Financing) Act and the United Nations Act (which implements UN Security Council sanctions). FA firms must comply with these statutes by screening and freezing without court order in respect of persons on the lists. The MAS Notice operationalises these obligations for FA firms."
+    },
+    {
+     "id": "RES5-P7-Q53",
+     "num": 53,
+     "stem": "Under MAS Notice FAA-N17, a financial adviser firm must conduct customer due diligence (CDD) when it suspects money laundering even if no business relationship is being established. This obligation arises at which transaction amount threshold?",
+     "options": {
+      "A": "S$30,000 or more",
+      "B": "S$10,000 or more",
+      "C": "S$20,000 or more",
+      "D": "Any amount"
+     },
+     "answer": "D",
+     "explanation": "CDD triggered by suspicion of money laundering or terrorist financing applies regardless of the transaction amount - it is not subject to any monetary threshold. The threshold-based CTR obligation (S$20,000) is separate. When there is suspicion, the firm must conduct CDD irrespective of whether a minimum transaction amount is involved."
+    },
+    {
+     "id": "RES5-P7-Q54",
+     "num": 54,
+     "stem": "MAS Notice FSM-N23 requires that a financial institution maintain records relating to its AML/CFT measures for at least how many years after the end of the business relationship or transaction?",
+     "options": {
+      "A": "3 years",
+      "B": "5 years",
+      "C": "7 years",
+      "D": "10 years"
+     },
+     "answer": "B",
+     "explanation": "AML/CFT record-keeping requirements under MAS Notices (including FSM-N23 and FAA-N06) mandate retention of CDD records and transaction records for at least 5 years from the end of the business relationship or the date of the transaction. This aligns with FATF standards. The 3-year period is too short, and 7 or 10 years is not the mandated minimum."
+    },
+    {
+     "id": "RES5-P7-Q55",
+     "num": 55,
+     "stem": "Under MAS Notice FAA-N19, an FA firm must obtain the prior written consent of a client before using or disclosing the client's personal data for marketing purposes. If the client subsequently withdraws consent, within how many business days must the firm stop using the data for marketing?",
+     "options": {
+      "A": "30 business days",
+      "B": "3 business days",
+      "C": "14 business days",
+      "D": "10 business days"
+     },
+     "answer": "D",
+     "explanation": "Under FAA-N19 (which aligns with the Personal Data Protection Act obligations operationalised for FA firms), once a client withdraws consent for the use of personal data for marketing, the firm must cease using it for that purpose within 10 business days. This is the prescribed response period. Three business days is too short, and 14 or 30 business days exceeds the required period."
+    },
+    {
+     "id": "RES5-P7-Q56",
+     "num": 56,
+     "stem": "Under MAS Guidelines FAA-G09 and G10 on the use of customer information, which of the following purposes would permit an FA firm to share a client's financial information with a third party WITHOUT obtaining the client's prior consent?",
+     "options": {
+      "A": "Cross-selling products offered by a related company",
+      "B": "Sharing aggregated (but identifiable) data with a data broker",
+      "C": "Sharing information with MAS or a law enforcement authority pursuant to a lawful demand or court order",
+      "D": "Providing the information to a business analytics firm for market research"
+     },
+     "answer": "C",
+     "explanation": "Under FAA-G09/G10, an FA firm may disclose client financial information without consent where required by law or pursuant to a lawful demand from a regulator or law enforcement authority, or under a court order. Cross-selling to related companies, market research, and data-broker sharing all require prior client consent. The legal compulsion exception is narrow and does not extend to commercial or analytical purposes."
+    },
+    {
+     "id": "RES5-P7-Q57",
+     "num": 57,
+     "stem": "Under MAS Guideline FAA-G14 on fair dealing for vulnerable clients, a 'selected client' is one who meets any 2 of 3 criteria. Which of the following is NOT one of the three criteria?",
+     "options": {
+      "A": "Is aged 62 years or above",
+      "B": "Is not proficient in the English language",
+      "C": "Has a net worth below S$100,000",
+      "D": "Has not attained GCE 'O' or 'N' level education or equivalent"
+     },
+     "answer": "C",
+     "explanation": "FAA-G14 defines a 'selected client' as one who meets any 2 of the following 3 criteria: (1) aged 62 or above; (2) not proficient in English; (3) has not attained GCE O-level or N-level (or equivalent). Net worth below S$100,000 is not one of the three criteria. The guideline focuses on vulnerability arising from age, language, and education - not purely financial position."
+    },
+    {
+     "id": "RES5-P7-Q58",
+     "num": 58,
+     "stem": "For a 'selected client' under FAA-G14, which additional safeguard must an FA firm implement when making a recommendation?",
+     "options": {
+      "A": "Obtain a countersignature from an independent financial planner before any sale",
+      "B": "Conduct the advisory session in the client's preferred language and have a witness present, and record the session",
+      "C": "Refer the client to a licensed bank before proceeding with any investment",
+      "D": "Limit the client to capital-guaranteed products only"
+     },
+     "answer": "B",
+     "explanation": "FAA-G14 requires FA firms to conduct advisory sessions with selected clients in the client's preferred language (using a qualified interpreter if necessary), have an independent witness present, and record the session. These safeguards protect vulnerable clients from misunderstanding or undue influence. There is no requirement to obtain a countersignature from an independent planner, refer to a bank, or limit products to capital-guaranteed options."
+    },
+    {
+     "id": "RES5-P7-Q59",
+     "num": 59,
+     "stem": "Under MAS Guideline FAA-G15, online distribution of life insurance policies became permissible from which date?",
+     "options": {
+      "A": "31 March 2017",
+      "B": "1 October 2016",
+      "C": "1 January 2015",
+      "D": "1 April 2018"
+     },
+     "answer": "A",
+     "explanation": "MAS Guideline FAA-G15 on online distribution of life insurance policies took effect on 31 March 2017. From that date, insurers and licensed FA firms may distribute certain life insurance products through online platforms without a face-to-face interaction, subject to the conditions in the guideline. 1 January 2015 and 1 April 2018 are incorrect; 31 March 2017 is the effective date stated in the guideline."
+    },
+    {
+     "id": "RES5-P7-Q60",
+     "num": 60,
+     "stem": "MAS Guideline CMG-G02 sets standards for digital advisory services (robo-advisers). Which of the following is a key requirement for a digital advisory service under CMG-G02?",
+     "options": {
+      "A": "The digital advisory algorithm must be reviewed and approved by MAS before launch",
+      "B": "A licensed human adviser must co-sign every recommendation generated by the algorithm",
+      "C": "Digital advisers may only serve accredited investors",
+      "D": "Human oversight must be maintained and the firm must be able to explain the basis of algorithm-generated recommendations"
+     },
+     "answer": "D",
+     "explanation": "CMG-G02 requires that firms offering digital advisory services maintain human oversight of the algorithm and be able to explain the basis of recommendations produced by the system. This explainability and oversight requirement ensures client protection even where advice is algorithm-generated. MAS does not pre-approve algorithms, digital advisers may serve retail clients, and co-signing by a human adviser is not mandated for every output."
+    },
+    {
+     "id": "RES5-P7-Q61",
+     "num": 61,
+     "stem": "Under MAS Guideline G13 on conflicts of interest in research, a research analyst who is also a substantial shareholder (>5%) in a company that is the subject of a research report must:",
+     "options": {
+      "A": "Recuse himself entirely and may not publish the report",
+      "B": "Obtain independent legal confirmation that no material non-public information was used",
+      "C": "Transfer the shares to a blind trust before publishing",
+      "D": "Disclose the shareholding in the research report"
+     },
+     "answer": "D",
+     "explanation": "FAA-G13 (and the parallel MAS Notice on research conflicts) requires disclosure of material conflicts of interest in research reports, including a substantial shareholding by the analyst in the covered company. The analyst is not automatically barred from publishing, nor required to transfer shares or obtain legal confirmation. Disclosure to readers is the prescribed remedy so they can assess the potential bias."
+    },
+    {
+     "id": "RES5-P7-Q62",
+     "num": 62,
+     "stem": "The Code on Collective Investment Schemes was first issued on which date?",
+     "options": {
+      "A": "1 January 2000",
+      "B": "31 December 2010",
+      "C": "1 July 2005",
+      "D": "23 May 2002"
+     },
+     "answer": "D",
+     "explanation": "The Code on Collective Investment Schemes was first issued on 23 May 2002 under section 321 of the Securities and Futures Act. It was most recently revised on 23 May 2023. The 2002 issuance date is a precise-recall item in the CIS Code's introductory provisions."
+    },
+    {
+     "id": "RES5-P7-Q63",
+     "num": 63,
+     "stem": "Under the CIS Code, a CIS manager proposes to delegate more than 10% of the scheme's net asset value for sub-management to a related company based in Malaysia. What condition must be met for this delegation to be permissible?",
+     "options": {
+      "A": "The manager and its related corporations must collectively manage at least S$500 million of assets in Singapore",
+      "B": "The delegation must be approved by a simple majority of unitholders",
+      "C": "The sub-manager must hold a Capital Markets Services licence in Singapore",
+      "D": "The delegation is prohibited regardless of the manager's AUM in Singapore"
+     },
+     "answer": "A",
+     "explanation": "The CIS Code permits delegation of more than 10% of a scheme's NAV to a sub-manager outside Singapore only if the manager and its related corporations collectively manage at least S$500 million of assets under management in Singapore. This condition ensures sufficient local expertise and oversight. The sub-manager abroad need not hold a Singapore CMS licence; unitholder approval is not the key test here."
+    },
+    {
+     "id": "RES5-P7-Q64",
+     "num": 64,
+     "stem": "The CIS Code prohibits certain activities by a CIS manager. Which of the following is expressly prohibited under the Code?",
+     "options": {
+      "A": "Charging the scheme for transaction brokerage commissions",
+      "B": "Marketing expenses of the scheme being charged to the scheme",
+      "C": "Using exchange-traded futures to hedge the scheme's equity exposure",
+      "D": "Investing up to 10% of the scheme in unlisted shares"
+     },
+     "answer": "B",
+     "explanation": "The CIS Code expressly prohibits marketing and promotion expenses from being charged to the scheme's deposited property - these costs must be borne by the manager from its own fees. Transaction brokerage commissions, hedging via derivatives, and limited investments in unlisted securities may be permissible under the Code subject to conditions, but charging marketing costs to the scheme is a clear prohibition."
+    },
+    {
+     "id": "RES5-P7-Q65",
+     "num": 65,
+     "stem": "Under the CIS Code, a CIS intends to use the term 'capital protected' in its name and marketing. This is:",
+     "options": {
+      "A": "Permitted, provided the protection is from an investment-grade counterparty",
+      "B": "Permitted, if full capital protection is guaranteed by a Singapore-licensed bank",
+      "C": "Permitted only for schemes with a minimum 5-year maturity",
+      "D": "Prohibited; neither 'capital protected' nor 'principal protected' may be used in a CIS name or description"
+     },
+     "answer": "D",
+     "explanation": "The CIS Code explicitly prohibits a scheme from using the terms 'capital protected' or 'principal protected' in its name or descriptions. These terms could mislead investors into believing the scheme eliminates capital risk. The prohibition applies regardless of whether a bank or investment-grade entity provides the protection, or what the scheme's maturity is."
+    },
+    {
+     "id": "RES5-P7-Q66",
+     "num": 66,
+     "stem": "Under the Securities and Futures Act Part XII, section 199 makes it an offence to make a false or misleading statement that is likely to induce a person to subscribe for securities. The maximum criminal penalty on conviction for this offence is:",
+     "options": {
+      "A": "A fine of S$50,000 or imprisonment of up to 2 years, or both",
+      "B": "A fine of S$250,000 or imprisonment of up to 7 years, or both",
+      "C": "A fine of S$250,000 only (no imprisonment)",
+      "D": "A fine of S$1 million or imprisonment of up to 10 years, or both"
+     },
+     "answer": "B",
+     "explanation": "Section 199 of the SFA (false or misleading statements) carries a maximum penalty on conviction of a fine not exceeding S$250,000, or imprisonment for a term not exceeding 7 years, or both. This is the standard maximum for the core market misconduct offences under Part XII. S$50,000/2 years understates the penalty, and S$1 million/10 years overstates it."
+    },
+    {
+     "id": "RES5-P7-Q67",
+     "num": 67,
+     "stem": "A member of the public who is not a connected person trades in shares of Riverview Ltd after receiving a tip from a friend who is a director of Riverview. Under SFA s.219, what must MAS prove to establish this person's liability for insider trading?",
+     "options": {
+      "A": "Nothing - a non-connected person who trades on a tip is irrebuttably presumed to know the information was insider information",
+      "B": "That the person made a profit from the trade exceeding S$10,000",
+      "C": "Only that the person received the information - knowledge of its status is presumed",
+      "D": "That the person knew, or ought reasonably to have known, that the information was not generally available and was material"
+     },
+     "answer": "D",
+     "explanation": "For a non-connected person under SFA s.219, MAS must positively prove knowledge - specifically, that the person knew or ought reasonably to have known that the information was not generally available and was likely to have a material effect on price. Unlike connected persons (who face a rebuttable presumption under s.218), non-connected persons receive no presumption, so the prosecution bears the full burden of proving knowledge. Profit is not an element of the offence."
+    },
+    {
+     "id": "RES5-P7-Q68",
+     "num": 68,
+     "stem": "Kevin is a CPFIS-eligible investor who has exactly S$21,000 in his CPF Ordinary Account and S$39,500 in his CPF Special Account. Which of the following investments may Kevin make under CPFIS?",
+     "options": {
+      "A": "He may invest OA funds above S$20,000 (i.e., S$1,000) but not the SA funds (which are below S$40,000)",
+      "B": "He may invest both the OA and SA funds freely",
+      "C": "He may not invest any CPF funds because his SA is below S$40,000",
+      "D": "He may invest SA funds above S$20,000 but not the OA funds"
+     },
+     "answer": "A",
+     "explanation": "CPFIS eligibility requires that the member retain a minimum balance before investing: S$20,000 must remain in the OA before any OA funds are invested, and S$40,000 must remain in the SA. Kevin's OA of S$21,000 exceeds the S$20,000 floor by S$1,000, so he may invest up to S$1,000 from his OA. His SA of S$39,500 is below the S$40,000 minimum, so he may not invest any SA funds. The SA condition is a common exam trap."
+    },
+    {
+     "id": "RES5-P7-Q69",
+     "num": 69,
+     "stem": "A CPF member who turned 55 on 1 June 2025 has S$350,000 in combined CPF balances. Assuming the 2025 Basic Retirement Sum is S$110,200, the Full Retirement Sum is S$220,400, and the Enhanced Retirement Sum is S$440,800, what is the maximum amount the member may withdraw as a lump sum at age 55 assuming he does not set aside any retirement sums in cash pledging arrangements?",
+     "options": {
+      "A": "S$5,000",
+      "B": "S$110,200",
+      "C": "S$129,600",
+      "D": "S$220,400"
+     },
+     "answer": "C",
+     "explanation": "At age 55, a CPF member who sets aside the Full Retirement Sum (S$220,400) may withdraw the remainder. The member has S$350,000 total; setting aside the FRS of S$220,400 leaves S$129,600. However, the member may unconditionally withdraw the first S$5,000 regardless. Without any pledging arrangement and setting aside the FRS, the lump-sum withdrawable amount is S$350,000 minus S$220,400 = S$129,600. This exceeds S$5,000 so the unconditional S$5,000 does not limit the calculation."
+    },
+    {
+     "id": "RES5-P7-Q70",
+     "num": 70,
+     "stem": "From 1 January 2025, the MediSave Retirement Sum Scheme (MRSS) allows top-ups to the MediSave Account. What is the annual top-up limit per member under the MRSS?",
+     "options": {
+      "A": "S$1,000 per year",
+      "B": "S$8,000 per year",
+      "C": "S$5,000 per year",
+      "D": "S$2,000 per year"
+     },
+     "answer": "D",
+     "explanation": "From 1 January 2025, the MRSS allows top-ups to the MediSave Account of up to S$2,000 per year per member, subject to a lifetime cap of S$20,000. There is no upper age limit for the MRSS. The S$8,000 figure is associated with the MA annual top-up under CPF relief provisions in a different context; S$2,000 annual and S$20,000 lifetime are the MRSS-specific limits."
+    },
+    {
+     "id": "RES5-P7-Q71",
+     "num": 71,
+     "stem": "CPF extra interest is credited to members. For a member below age 55 with combined CPF balances of S$80,000, how much of those balances earn the additional 1% interest per annum?",
+     "options": {
+      "A": "S$80,000 (the full balance earns 1% extra)",
+      "B": "S$40,000, with no OA cap applied",
+      "C": "S$60,000, subject to S$20,000 OA cap",
+      "D": "S$30,000, with the first S$30,000 only"
+     },
+     "answer": "C",
+     "explanation": "For members below age 55, the additional 1% interest is credited on the first S$60,000 of combined CPF balances, with up to S$20,000 of that coming from the OA. With a total balance of S$80,000, only S$60,000 qualifies for the extra 1% (subject to the S$20,000 OA cap). The full S$80,000 does not qualify, and the S$30,000 figure applies to members aged 55 and above (2% extra on first S$30,000)."
+    },
+    {
+     "id": "RES5-P7-Q72",
+     "num": 72,
+     "stem": "CPF LIFE is the national longevity annuity scheme. A CPF member born in 1965 reaches the Payout Eligibility Age (PEA) of 65. At that point, the member's Retirement Account has a balance of S$55,000. Is the member automatically included in CPF LIFE?",
+     "options": {
+      "A": "Yes, because all members born after 1958 are automatically included in CPF LIFE at PEA",
+      "B": "No, because CPF LIFE is only available to members born before 1970",
+      "C": "No, because the RA balance of S$55,000 is below the S$60,000 threshold for auto-inclusion",
+      "D": "Yes, because membership is compulsory for all members regardless of RA balance"
+     },
+     "answer": "C",
+     "explanation": "CPF LIFE auto-inclusion applies to members born in 1958 or later who have at least S$60,000 in their Retirement Account at the point when payout commences (Payout Eligibility Age). A balance of S$55,000 falls below this S$60,000 threshold, so the member is not automatically included. The member may still opt in voluntarily. The 1970 birth year cutoff is incorrect."
+    },
+    {
+     "id": "RES5-P7-Q73",
+     "num": 73,
+     "stem": "A CPF member on the CPF LIFE Escalating Plan receives a monthly payout of S$1,200 in the first year. What will the payout be in the second year?",
+     "options": {
+      "A": "S$1,224 (increased by 2%)",
+      "B": "S$1,200 (unchanged)",
+      "C": "S$1,236 (increased by 3%)",
+      "D": "S$1,260 (increased by 5%)"
+     },
+     "answer": "A",
+     "explanation": "The CPF LIFE Escalating Plan increases monthly payouts by 2% each year. Starting at S$1,200 in year 1, the second year payout = S$1,200 x 1.02 = S$1,224. The Standard Plan provides a constant (non-escalating) payout. A 3% or 5% escalation is not part of the CPF LIFE product design."
+    },
+    {
+     "id": "RES5-P7-Q74",
+     "num": 74,
+     "stem": "Dependants' Protection Scheme (DPS) provides term life cover to CPF members. A member who just turned 61 inquires about his current maximum insured sum. What is the correct amount?",
+     "options": {
+      "A": "S$70,000",
+      "B": "S$30,000",
+      "C": "S$46,000",
+      "D": "S$55,000"
+     },
+     "answer": "D",
+     "explanation": "Under the DPS, the maximum insured sum is S$70,000 for members aged below 60. Once a member reaches age 60, the sum assured steps down to S$55,000 and remains at that level until the maximum coverage age of 65. A member aged 61 is therefore covered for a maximum of S$55,000. The S$70,000 figure applies only to members aged below 60."
+    },
+    {
+     "id": "RES5-P7-Q75",
+     "num": 75,
+     "stem": "Home Protection Scheme (HPS) covers CPF members who use CPF savings to pay monthly mortgage instalments on their HDB flat. Which of the following correctly describes an HPS eligibility restriction?",
+     "options": {
+      "A": "HPS is compulsory for members using CPF savings to service monthly HDB mortgage instalments",
+      "B": "HPS is optional for members using CPF for HDB flat instalments",
+      "C": "HPS coverage extends until the member reaches age 70",
+      "D": "HPS covers both HDB flats and private residential properties"
+     },
+     "answer": "A",
+     "explanation": "HPS is compulsory for CPF members who use their CPF OA savings to pay monthly mortgage instalments on an HDB flat. The scheme protects the household against losing the flat if the member dies, suffers total permanent disability, or a terminal illness. HPS covers HDB flats only (not private property) and coverage runs to age 65, not 70."
+    },
+    {
+     "id": "RES5-P7-Q76",
+     "num": 76,
+     "stem": "Why do professional ethics matter in financial advisory services? Which of the following best captures the foundational reason that ethics codes exist for financial advisers?",
+     "options": {
+      "A": "To align the adviser's conduct with client interests in situations where information and expertise are asymmetric",
+      "B": "To ensure advisers pass the required regulatory examinations before practising",
+      "C": "To prevent advisers from competing with one another on price",
+      "D": "To satisfy MAS's administrative reporting requirements"
+     },
+     "answer": "A",
+     "explanation": "The foundational justification for ethics in financial advisory is the information and expertise asymmetry between adviser and client. Clients rely on advisers precisely because they lack the knowledge to evaluate recommendations independently. Ethics codes bridge this gap by obligating advisers to act in clients' interests. Passing examinations and regulatory reporting are practical requirements, but they are consequences of this deeper rationale, not the rationale itself."
+    },
+    {
+     "id": "RES5-P7-Q77",
+     "num": 77,
+     "stem": "A financial adviser representative attends a seminar and learns a new investment strategy that could benefit some of his existing clients. He does not update his clients because contacting them would be time-consuming. Which ethical principle does this most directly violate?",
+     "options": {
+      "A": "Confidentiality",
+      "B": "Competence",
+      "C": "Diligence",
+      "D": "Objectivity"
+     },
+     "answer": "C",
+     "explanation": "Diligence requires an adviser to act with care and timeliness in serving clients, including proactively informing them of relevant developments or opportunities. Failing to contact clients when new information would benefit them is a breach of diligence, not of confidentiality (which concerns protecting client information), competence (which concerns possessing the required knowledge), or objectivity (which concerns freedom from bias)."
+    },
+    {
+     "id": "RES5-P7-Q78",
+     "num": 78,
+     "stem": "Which of the following best describes the concept of 'professionalism' as it applies to a financial adviser representative, distinguishing it from mere technical competence?",
+     "options": {
+      "A": "Professionalism means holding the maximum number of industry certifications",
+      "B": "Professionalism encompasses ethical conduct, accountability, and commitment to clients' interests beyond the minimum legal requirements",
+      "C": "Professionalism is achieved once a representative completes all mandatory continuing professional development hours",
+      "D": "Professionalism refers exclusively to the dress code and communication style expected in client meetings"
+     },
+     "answer": "B",
+     "explanation": "Professionalism in financial advisory services extends beyond technical competence or minimum legal compliance. It encompasses an adviser's ethical conduct, accountability for outcomes, ongoing commitment to the client's best interests, and a fiduciary mindset. CPD hours and certifications are components but do not by themselves define professionalism; dress and communication style are peripheral aspects."
+    },
+    {
+     "id": "RES5-P7-Q79",
+     "num": 79,
+     "stem": "A financial adviser representative is asked by a senior colleague to recommend a product to a client that the representative personally believes is unsuitable. The representative complies without raising any concern. Which element of professionalism is most lacking?",
+     "options": {
+      "A": "Moral courage and integrity",
+      "B": "Technical knowledge",
+      "C": "Time management",
+      "D": "Product diversification"
+     },
+     "answer": "A",
+     "explanation": "Moral courage and integrity require a professional to speak up and refuse to act against ethical standards even under pressure from peers or superiors. Recommending a product the representative believes is unsuitable, without raising the concern, demonstrates a failure of moral courage - one of the core elements of professionalism. Technical knowledge and product diversification are not the issues at stake here."
+    },
+    {
+     "id": "RES5-P7-Q80",
+     "num": 80,
+     "stem": "Which of the following scenarios illustrates 'ethical behaviour' in the context of a financial adviser's practice?",
+     "options": {
+      "A": "A representative discloses only the positive features of a product to make a sale easier",
+      "B": "A representative recommends a product that pays a lower commission because it better suits the client's needs",
+      "C": "A representative transfers a client to a colleague without informing the client",
+      "D": "A representative delays submitting a claims form to avoid additional paperwork"
+     },
+     "answer": "B",
+     "explanation": "Ethical behaviour requires the adviser to subordinate personal financial gain to the client's interests. Recommending a lower-commission product because it is more suitable demonstrates this priority. Selective disclosure, unauthorised transfers, and delaying claims all place the adviser's convenience or financial interest above the client's, which is unethical."
+    },
+    {
+     "id": "RES5-P7-Q81",
+     "num": 81,
+     "stem": "Which of the following actions is an example of 'unethical behaviour' that could expose a representative to disciplinary action under the FAA?",
+     "options": {
+      "A": "Explaining the risks of a product clearly even when the client is reluctant to hear them",
+      "B": "Recommending a less popular but more suitable product",
+      "C": "Churning a client's investment portfolio to generate higher commissions",
+      "D": "Declining to recommend a product when the client's needs are unclear"
+     },
+     "answer": "C",
+     "explanation": "Churning - causing excessive transactions in a client's portfolio primarily to generate commissions rather than to benefit the client - is a classic example of unethical behaviour and a breach of the duty to act in the client's best interests under the FAA. The other options all describe appropriate, client-centric conduct."
+    },
+    {
+     "id": "RES5-P7-Q82",
+     "num": 82,
+     "stem": "An adviser discovers that his firm has been double-charging clients a platform fee for 18 months due to a system error. The error benefits the firm by S$120,000 total. The adviser reports this internally and the firm corrects the error and refunds clients. Which ethical principle is most clearly demonstrated by the adviser's action?",
+     "options": {
+      "A": "Integrity - by disclosing the error despite financial cost to the firm",
+      "B": "Independence - by acting without consulting the compliance team",
+      "C": "Prudence - by estimating the overcharge before reporting",
+      "D": "Confidentiality - by keeping the error within the firm"
+     },
+     "answer": "A",
+     "explanation": "Integrity requires disclosure of errors even when doing so is financially costly or reputationally damaging to the firm. Reporting the double-charging error and restoring client funds exemplifies integrity. Confidentiality concerns protecting client data, not shielding firm errors. Acting without consulting compliance would undermine governance rather than demonstrate independence."
+    },
+    {
+     "id": "RES5-P7-Q83",
+     "num": 83,
+     "stem": "A conflict of interest arises when an adviser's personal interest potentially interferes with the client's interest. Which of the following is an example of a conflict of interest that must be disclosed under MAS guidelines?",
+     "options": {
+      "A": "The adviser prefers to schedule morning appointments",
+      "B": "The adviser uses a particular financial planning software that the firm provides",
+      "C": "The adviser holds shares in the fund house whose product he is recommending to clients",
+      "D": "The adviser has a professional relationship with the client's accountant"
+     },
+     "answer": "C",
+     "explanation": "Holding shares in a fund house whose products the adviser recommends creates a direct conflict of interest - the adviser stands to benefit financially from recommending those products regardless of suitability. This must be disclosed to the client under MAS Notice FAA-N03. Scheduling preferences, firm-provided software, and a professional relationship with the client's accountant do not by themselves create conflicts requiring disclosure."
+    },
+    {
+     "id": "RES5-P7-Q84",
+     "num": 84,
+     "stem": "Under MAS guidelines on conflict of interest, which of the following measures is the LEAST adequate when managing a conflict that cannot be avoided?",
+     "options": {
+      "A": "Disclosing the conflict in writing to the client before any recommendation is made",
+      "B": "Implementing internal controls to ensure the conflicted representative does not influence the recommendation",
+      "C": "Reassigning the client to a non-conflicted representative",
+      "D": "Simply noting the conflict in internal records without informing the client"
+     },
+     "answer": "D",
+     "explanation": "A conflict of interest that cannot be eliminated must be managed through disclosure to the client and/or structural controls. Merely noting the conflict in internal records without informing the client fails the minimum standard of transparency required by MAS guidelines. Disclosure, internal controls, and client reassignment are all more substantive and appropriate responses."
+    },
+    {
+     "id": "RES5-P7-Q85",
+     "num": 85,
+     "stem": "The MAS Fair Dealing Guidelines set out five outcomes that financial institutions should deliver to customers. Which of the following is NOT one of the five Fair Dealing Outcomes?",
+     "options": {
+      "A": "Customers have access to a range of products and services that are reasonably suited to them",
+      "B": "Customers receive clear, relevant and timely information to make informed financial decisions",
+      "C": "Customers pay the lowest possible fees across all product categories",
+      "D": "Customers are not subjected to high-pressure selling tactics"
+     },
+     "answer": "C",
+     "explanation": "The five Fair Dealing Outcomes under MAS guidelines focus on suitability, clear information, qualified advice, high standards of conduct, and no undue pressure. Guaranteeing the lowest fees is not one of the outcomes - fee competitiveness is a market matter, not a Fair Dealing obligation. The other options paraphrase three of the five outcomes."
+    },
+    {
+     "id": "RES5-P7-Q86",
+     "num": 86,
+     "stem": "In ethical marketing of financial products, which of the following practices is considered acceptable?",
+     "options": {
+      "A": "Quoting past performance figures with an equally prominent warning that past performance is not indicative of future results",
+      "B": "Using small print to bury material risk disclosures in a 20-page brochure",
+      "C": "Advertising guaranteed returns on a product that has no capital protection feature",
+      "D": "Targeting vulnerable clients with high-risk products through high-pressure telephone campaigns"
+     },
+     "answer": "A",
+     "explanation": "Quoting past performance alongside a prominent disclaimer that past performance is not indicative of future results is the accepted practice for presenting historical returns. It provides useful information without misleading clients. Burying risk disclosures, advertising false guarantees, and targeting vulnerable clients with unsuitable products all contravene ethical marketing standards and MAS guidelines."
+    },
+    {
+     "id": "RES5-P7-Q87",
+     "num": 87,
+     "stem": "A financial adviser representative shows a client an advertisement featuring only the best-performing period of a fund and omits the 3-year period during which the fund lost 35% of its value. This most directly contravenes which ethical principle?",
+     "options": {
+      "A": "Transparency",
+      "B": "Independence",
+      "C": "Loyalty",
+      "D": "Diligence"
+     },
+     "answer": "A",
+     "explanation": "Transparency requires presenting complete and balanced information so the client can make an informed decision. Selectively highlighting only favourable performance periods while concealing poor periods is a failure of transparency (and also potentially misleading under FAA-N03). Diligence, loyalty, and independence are all important but are not the primary principle engaged by selective disclosure of information."
+    },
+    {
+     "id": "RES5-P7-Q88",
+     "num": 88,
+     "stem": "In developing a client-representative relationship, which of the following best describes the role of the initial client meeting?",
+     "options": {
+      "A": "Primarily to close a product sale before the client has time to reconsider",
+      "B": "To establish rapport, explain the advisory process, and gather preliminary information about the client's circumstances and objectives",
+      "C": "To transfer the client's existing policies to the representative's firm",
+      "D": "To obtain the client's signed authority to invest on a discretionary basis"
+     },
+     "answer": "B",
+     "explanation": "The initial client meeting establishes the foundation of the advisory relationship. Its primary purposes are to build rapport, explain how the advisory process works, and begin gathering information about the client's financial circumstances, goals, and risk tolerance. Closing a product sale immediately, transferring policies, or seeking discretionary authority in the first meeting would be premature and contrary to the client-centric advisory model."
+    },
+    {
+     "id": "RES5-P7-Q89",
+     "num": 89,
+     "stem": "Which of the following statements about trust in the client-representative relationship is correct?",
+     "options": {
+      "A": "Trust is built primarily by offering clients the highest-returning products available",
+      "B": "Trust is built over time through consistent, honest, and competent service that places the client's interests first",
+      "C": "Trust can be established through a single successful investment outcome",
+      "D": "Trust is a legal concept defined in the Financial Advisers Act"
+     },
+     "answer": "B",
+     "explanation": "Trust in the advisory relationship is built through consistent behaviour over time - honesty, competence, and a demonstrable commitment to the client's interests. A single good investment result or offering the highest-returning product does not substitute for the sustained conduct that underpins a genuine advisory relationship. Trust is a relational concept, not a legal one defined in the FAA."
+    },
+    {
+     "id": "RES5-P7-Q90",
+     "num": 90,
+     "stem": "During fact-finding, a representative learns that a 45-year-old client has three dependants, a mortgage, and no existing life insurance. The client's main financial concern is saving for retirement. What should the representative do?",
+     "options": {
+      "A": "Focus exclusively on the client's stated retirement savings goal and do not raise the life insurance gap",
+      "B": "Inform the client of the potential vulnerability arising from the lack of life insurance and address both protection and retirement planning needs",
+      "C": "Recommend the highest-yield product available to maximise the retirement savings rate",
+      "D": "Refer the client to a general insurance broker for all insurance needs before commencing advisory services"
+     },
+     "answer": "B",
+     "explanation": "Comprehensive fact-finding requires the adviser to consider the client's complete financial picture, including protection gaps. A client with dependants and a mortgage but no life insurance has a material vulnerability that a competent adviser must bring to the client's attention, even if the client's stated focus is retirement savings. Ignoring the protection gap would not constitute holistic and diligent advice."
+    },
+    {
+     "id": "RES5-P7-Q91",
+     "num": 91,
+     "stem": "The fact-finding process under MAS Notice FAA-N03 requires gathering a client's 'financial situation'. Which of the following is part of a client's financial situation for this purpose?",
+     "options": {
+      "A": "The client's opinion on global economic trends",
+      "B": "The client's academic qualifications",
+      "C": "The client's favourite investment media publications",
+      "D": "The client's income, expenses, assets, liabilities and existing financial commitments"
+     },
+     "answer": "D",
+     "explanation": "The FAA-N03 definition of financial situation for fact-finding purposes covers objective financial data: income, expenditure, assets, liabilities, and existing financial commitments (such as insurance policies). The client's views on global trends, media preferences, and academic qualifications are not part of the prescribed fact-find, although they might inform the adviser's understanding of the client's knowledge level."
+    },
+    {
+     "id": "RES5-P7-Q92",
+     "num": 92,
+     "stem": "When analysing a client's financial status, the debt-service ratio (DSR) measures the proportion of gross monthly income used to service debt. If a client earns S$8,000 per month and makes total monthly debt repayments of S$2,800 (mortgage S$2,000, car loan S$500, credit card minimum S$300), what is the client's DSR?",
+     "options": {
+      "A": "25.0%",
+      "B": "31.25%",
+      "C": "37.5%",
+      "D": "35.0%"
+     },
+     "answer": "D",
+     "explanation": "DSR = (total monthly debt repayments / gross monthly income) x 100. Calculation: S$2,800 / S$8,000 = 0.35, or 35.0%. All three debt payments are included: mortgage S$2,000 + car loan S$500 + credit card minimum S$300 = S$2,800 total. S$2,800 / S$8,000 = 35%. A DSR above 35% is generally considered high-risk for taking on additional debt."
+    },
+    {
+     "id": "RES5-P7-Q93",
+     "num": 93,
+     "stem": "A client aged 40 has monthly take-home income of S$6,000 and monthly expenses of S$3,500. Her liquid assets total S$18,000. What is her emergency fund ratio, and does it meet the recommended minimum?",
+     "options": {
+      "A": "3.0 months; meets the minimum of 3 months",
+      "B": "2.5 months; falls short of the recommended minimum of 3 months",
+      "C": "4.5 months; meets the minimum but falls short of 6 months",
+      "D": "5.1 months; exceeds the minimum of 3 months"
+     },
+     "answer": "D",
+     "explanation": "Emergency fund ratio = liquid assets / monthly expenses = S$18,000 / S$3,500 = 5.14 months, approximately 5.1 months. The formula uses monthly expenses (S$3,500), not income (S$6,000). A ratio above 3 months meets the minimum recommendation. S$18,000 / S$3,500 = 5.14, which exceeds 3 months and is comfortable. The 3.0-month option would result from incorrectly dividing by S$6,000 income."
+    },
+    {
+     "id": "RES5-P7-Q94",
+     "num": 94,
+     "stem": "Using the human life value (HLV) method, what is the estimated life insurance need for a client who earns S$60,000 per annum net, expects to work for 20 more years, and discounts future earnings at 5% per annum? (Use the annuity factor for 20 years at 5% = 12.46.)",
+     "options": {
+      "A": "S$600,000",
+      "B": "S$1,200,000",
+      "C": "S$747,600",
+      "D": "S$900,000"
+     },
+     "answer": "C",
+     "explanation": "HLV = annual net income x annuity factor. Calculation: S$60,000 x 12.46 = S$747,600. This is the present value of the client's future earnings stream discounted at 5% over 20 years. The simple multiple method (S$60,000 x 20 = S$1,200,000) ignores discounting and overestimates the figure. S$747,600 is the correct discounted HLV."
+    },
+    {
+     "id": "RES5-P7-Q95",
+     "num": 95,
+     "stem": "In developing appropriate financial strategies for a client, the concept of 'liquidity' primarily refers to:",
+     "options": {
+      "A": "The total market value of the client's investment portfolio",
+      "B": "The potential for an investment to generate high returns",
+      "C": "The degree to which an investment is protected from inflation",
+      "D": "The ease and speed with which an asset can be converted to cash without significant loss of value"
+     },
+     "answer": "D",
+     "explanation": "Liquidity describes how quickly and easily an asset can be converted into cash at or near its fair market value. High liquidity (e.g., money market funds, blue-chip equities) is important for clients who may need funds at short notice. The ability to generate high returns relates to return potential, not liquidity. Inflation protection relates to real returns, and total portfolio value is a measure of wealth, not liquidity."
+    },
+    {
+     "id": "RES5-P7-Q96",
+     "num": 96,
+     "stem": "When presenting analysis and solutions to a client, which of the following practices best demonstrates adherence to the fair dealing outcomes?",
+     "options": {
+      "A": "Presenting only the recommended solution to avoid confusing the client with alternatives",
+      "B": "Presenting the solution with maximum projected returns in the title to capture the client's attention",
+      "C": "Presenting the recommended solution alongside its limitations and relevant alternatives, explaining why it best meets the client's needs",
+      "D": "Presenting solutions verbally only to save time and allow the client to ask questions"
+     },
+     "answer": "C",
+     "explanation": "Fair dealing requires that clients receive balanced, relevant information to make informed decisions. Presenting the recommended solution alongside its limitations and alternatives - with a clear explanation of the recommendation rationale - fulfils this obligation. Presenting only the recommended option, omitting written documentation, or leading with maximum returns all prioritise the sale over the client's ability to make an informed choice."
+    },
+    {
+     "id": "RES5-P7-Q97",
+     "num": 97,
+     "stem": "Reviewing a client's portfolio is an ongoing obligation. Under which circumstance should a representative IMMEDIATELY initiate a portfolio review, rather than waiting for the next scheduled annual review?",
+     "options": {
+      "A": "The client's favourite football team wins a championship",
+      "B": "The equity market index declines by more than 2% in one day",
+      "C": "The client experiences a major life event such as marriage, divorce, birth of a child, or significant change in income",
+      "D": "The representative's firm launches a new product range"
+     },
+     "answer": "C",
+     "explanation": "A major life event - marriage, divorce, birth of a child, redundancy, windfall, or significant income change - materially alters the client's financial circumstances and risk profile, necessitating an immediate review. Waiting for the scheduled annual review could leave the client's portfolio misaligned with their current situation. Day-to-day market movements and new product launches do not by themselves warrant an unscheduled review."
+    },
+    {
+     "id": "RES5-P7-Q98",
+     "num": 98,
+     "stem": "In basic financial planning, the priority order for addressing a client's financial needs is generally accepted to start with which type of need?",
+     "options": {
+      "A": "Wealth accumulation through equity investments",
+      "B": "Tax minimisation strategies",
+      "C": "Protection against the risk of premature death or disability",
+      "D": "Estate planning and legacy goals"
+     },
+     "answer": "C",
+     "explanation": "The financial planning hierarchy generally places protection (against premature death, disability, and critical illness) at the foundation, before wealth accumulation, estate planning, or tax strategies. This is because unprotected risks can destroy the financial plan entirely. A client who invests aggressively without adequate life insurance leaves dependants financially exposed in the event of death or disability."
+    },
+    {
+     "id": "RES5-P7-Q99",
+     "num": 99,
+     "stem": "In basic financial planning, the 'Rule of 72' is used to estimate how many years it takes for an investment to double in value. At a constant annual return of 6%, approximately how many years will it take for an investment of S$50,000 to grow to S$100,000?",
+     "options": {
+      "A": "6 years",
+      "B": "12 years",
+      "C": "10 years",
+      "D": "18 years"
+     },
+     "answer": "B",
+     "explanation": "Rule of 72: doubling time (years) = 72 / annual return %. At 6%, doubling time = 72 / 6 = 12 years. The starting amount (S$50,000) is irrelevant to the calculation; the rule applies to any amount. At 6 years the investment would not yet have doubled; 10 years applies to 7.2%; 18 years applies to 4%."
+    },
+    {
+     "id": "RES5-P7-Q100",
+     "num": 100,
+     "stem": "A client aged 30 wants to accumulate S$500,000 by age 65 (35 years). Assuming a net annual return of 7% and annual contributions, which of the following is CLOSEST to the annual savings amount required? (Use approximate future value annuity factor for 35 years at 7% = 138.2.)",
+     "options": {
+      "A": "S$1,500",
+      "B": "S$3,618",
+      "C": "S$7,143",
+      "D": "S$14,286"
+     },
+     "answer": "B",
+     "explanation": "Annual savings = target FV / annuity factor = S$500,000 / 138.2 = S$3,618 (rounded). Working: S$500,000 / 138.2 = S$3,618.67. This is the annual payment needed to accumulate S$500,000 over 35 years at 7% per annum. Dividing S$500,000 by 35 years gives S$14,286, which ignores compounding. S$1,500 and S$7,143 do not match the annuity calculation."
+    },
+    {
+     "id": "RES5-P7-Q101",
+     "num": 101,
+     "stem": "Which of the following statements about the relationship between risk and return in financial planning is correct?",
+     "options": {
+      "A": "Higher risk is associated with higher potential returns and higher potential losses, particularly over short time horizons",
+      "B": "Higher risk always results in higher returns over any time horizon",
+      "C": "A diversified portfolio eliminates all investment risk",
+      "D": "Government bonds carry no risk whatsoever and should form the majority of any portfolio"
+     },
+     "answer": "A",
+     "explanation": "The fundamental risk-return trade-off in finance is that higher risk is associated with higher potential returns but also higher potential losses, especially over short periods. Over long periods, higher-risk assets have historically outperformed lower-risk ones, but this is not guaranteed in any given period. Diversification reduces unsystematic risk but not systematic (market) risk. Government bonds carry low credit risk but are subject to interest rate risk."
+    },
+    {
+     "id": "RES5-P7-Q102",
+     "num": 102,
+     "stem": "A client in her 50s is planning for retirement and asks about the difference between a traditional endowment plan and a unit trust. Which of the following is a key distinguishing feature?",
+     "options": {
+      "A": "Endowment plans typically include a life insurance component and a guaranteed maturity benefit; unit trusts offer market-linked returns with no guaranteed outcomes",
+      "B": "Endowment plans offer unlimited upside growth potential; unit trusts guarantee capital",
+      "C": "Unit trusts are only available through banks; endowment plans are only available through FA firms",
+      "D": "Both products are subject to identical MAS Notice requirements for disclosure"
+     },
+     "answer": "A",
+     "explanation": "A key distinguishing feature of endowment plans is that they combine a savings/investment element with life insurance coverage and typically guarantee a maturity benefit. Unit trusts provide market-linked returns with no capital or return guarantees. Neither distribution channel restriction in option (C) is accurate, and the two products are governed by different MAS Notices and regulatory frameworks."
+    },
+    {
+     "id": "RES5-P7-Q103",
+     "num": 103,
+     "stem": "A client holds a regular premium ILP and wishes to exercise the 'free-look' right. Under MAS Notice 307 and the insurance regulatory framework, the free-look period is generally how long, and what does exercising it entitle the client to?",
+     "options": {
+      "A": "14 days; the client receives the higher of the premiums paid or the current policy value, less any medical expenses incurred by the insurer",
+      "B": "7 days; the client receives a refund of all premiums paid without deduction",
+      "C": "21 days; the client receives a full refund including all management charges",
+      "D": "30 days; the client receives only the surrender value at the time of cancellation"
+     },
+     "answer": "A",
+     "explanation": "The standard free-look (cooling-off) period for life insurance policies including ILPs is 14 days from the date the policy is delivered to the client. On exercise, the client receives the higher of the premiums paid or the current policy value (reflecting that ILP values can fluctuate), less any medical expenses the insurer incurred in issuing the policy. A 7-day period applies to some direct purchase products; 21 or 30 days are not the standard ILP free-look period."
+    },
+    {
+     "id": "RES5-P7-Q104",
+     "num": 104,
+     "stem": "Under MAS Notice 307, how often must the insurer send a policyholder statement to the holder of a specified ILP (one designated by MAS as requiring more frequent reporting)?",
+     "options": {
+      "A": "Monthly",
+      "B": "Annually, within 30 days of the policy anniversary",
+      "C": "Semi-annually",
+      "D": "Quarterly"
+     },
+     "answer": "B",
+     "explanation": "Under MAS Notice 307, specified ILPs must receive an annual statement within 30 days of each policy anniversary. Non-specified ILPs (which are more actively traded or leverage-linked) require monthly statements. Semi-annual statements are required for sub-fund reports, not for individual policyholder account statements. The quarterly option does not appear in Notice 307's statement frequency requirements."
+    },
+    {
+     "id": "RES5-P7-Q105",
+     "num": 105,
+     "stem": "Under MAS Notice 307, a sub-fund of an ILP is to be terminated. Within how many months of the termination date must the insurer have the sub-fund's accounts audited and submitted to MAS?",
+     "options": {
+      "A": "3 months",
+      "B": "9 months",
+      "C": "6 months",
+      "D": "12 months"
+     },
+     "answer": "C",
+     "explanation": "MAS Notice 307 requires that when an ILP sub-fund is terminated, the final accounts must be audited and submitted to MAS within 6 months of the termination date. The 3-month period applies to the annual audited accounts for a going-concern sub-fund (within 3 months of the financial year-end). The 6-month terminal audit deadline is a distinct and important precise-recall item."
+    },
+    {
+     "id": "RES5-P7-Q106",
+     "num": 106,
+     "stem": "MAS Notice FAA-G01 requires a licensed FA firm to maintain professional indemnity insurance (PII). What is the minimum coverage amount required?",
+     "options": {
+      "A": "S$250,000 per claim",
+      "B": "S$2,000,000 per claim",
+      "C": "S$1,000,000 per claim",
+      "D": "S$500,000 per claim"
+     },
+     "answer": "D",
+     "explanation": "FAA-G01 requires that a licensed FA firm maintain PII coverage of at least S$500,000 per claim. The deductible must not exceed 20% of the firm's net asset value. Where the firm is covered under a group PII policy, the group coverage must be at least 5 times the minimum required coverage (i.e., S$2.5 million). S$250,000 is insufficient; S$1 million and S$2 million are above the minimum requirement."
+    },
+    {
+     "id": "RES5-P7-Q107",
+     "num": 107,
+     "stem": "Under MAS Notice 307, an ILP policyholder's unit price is calculated by dividing the sub-fund's net asset value (NAV) by the number of units outstanding. If the sub-fund's NAV is S$12,400,000 and there are 8,000,000 units outstanding, what is the unit price?",
+     "options": {
+      "A": "S$1.55",
+      "B": "S$1.50",
+      "C": "S$1.25",
+      "D": "S$1.60"
+     },
+     "answer": "A",
+     "explanation": "Unit price = NAV / units outstanding = S$12,400,000 / 8,000,000 = S$1.55 per unit. Working: 12,400,000 / 8,000,000 = 1.55. S$1.25 would require an NAV of S$10,000,000; S$1.50 requires S$12,000,000 NAV; S$1.60 requires S$12,800,000 NAV. The correct result is S$1.55."
+    },
+    {
+     "id": "RES5-P7-Q108",
+     "num": 108,
+     "stem": "Under the CIS Code, the manager of an authorised unit trust must pay redemption proceeds to investors within how many business days of receiving a valid redemption request?",
+     "options": {
+      "A": "7 business days",
+      "B": "5 business days",
+      "C": "3 business days",
+      "D": "10 business days"
+     },
+     "answer": "A",
+     "explanation": "The CIS Code requires that redemption proceeds for authorised collective investment schemes be paid to investors within 7 business days of the manager receiving a valid redemption request. The 3-day and 5-day options are below the Code's standard, and 10 business days would be too long. The 7-business-day window is a specific precise-recall item in the CIS Code."
+    },
+    {
+     "id": "RES5-P7-Q109",
+     "num": 109,
+     "stem": "Under the CIS Code, a CIS manager proposes to charge a performance fee using a 'fulcrum' structure. What is the permitted range for a fulcrum fee as a proportion of the base management fee?",
+     "options": {
+      "A": "0% to 100% of the base fee (positive incentive only)",
+      "B": "0% to 200% of the base fee (symmetric positive and negative)",
+      "C": "Capped at 50% of the base fee in any direction",
+      "D": "Performance fees are prohibited under the CIS Code"
+     },
+     "answer": "B",
+     "explanation": "The CIS Code permits performance fees in two structures: the fulcrum fee (which adjusts symmetrically from 0% to 200% of the base management fee depending on performance relative to a benchmark - it can go down as well as up) or the high-water mark (which only awards a fee when NAV exceeds the previous peak). The 0-200% range reflects the symmetric nature of the fulcrum: at benchmark, 100% of base fee; outperformance up to 200%; underperformance down to 0%."
+    },
+    {
+     "id": "RES5-P7-Q110",
+     "num": 110,
+     "stem": "Under the CIS Code, which of the following is a permitted lending or borrowing activity for an authorised CIS?",
+     "options": {
+      "A": "Direct lending to corporate borrowers to earn interest income",
+      "B": "Borrowing for leverage up to 10% of NAV for investment purposes",
+      "C": "Borrowing on a temporary basis solely to fund redemptions when sufficient liquid assets are not immediately available",
+      "D": "Providing a guarantee to a third party on behalf of the scheme"
+     },
+     "answer": "C",
+     "explanation": "The CIS Code prohibits direct lending, guaranteeing third-party obligations, and leveraged borrowing for investment purposes. However, the Code permits temporary borrowing to fund redemptions when liquid assets are not immediately realisable, provided it is for short-term operational necessity. Borrowing for leverage and providing guarantees are expressly prohibited activities."
+    },
+    {
+     "id": "RES5-P7-Q111",
+     "num": 111,
+     "stem": "The CIS Code requires scheme records to be retained for how many years from the end of the financial year to which they relate?",
+     "options": {
+      "A": "6 years",
+      "B": "5 years",
+      "C": "3 years",
+      "D": "10 years"
+     },
+     "answer": "A",
+     "explanation": "The CIS Code requires the manager and trustee to keep books and records relating to the scheme for a minimum of 6 years from the end of the financial year to which they relate. This retention period is longer than the 5-year minimum under certain other MAS Notices. The 6-year CIS record-keeping requirement is a key precise-recall distinction."
+    },
+    {
+     "id": "RES5-P7-Q112",
+     "num": 112,
+     "stem": "Under the CIS Code, when a CIS manager proposes a change to the scheme that is classified as a 'significant change', what is the minimum notice period that must be given to unitholders before the change takes effect?",
+     "options": {
+      "A": "14 days",
+      "B": "21 days",
+      "C": "3 months",
+      "D": "1 month"
+     },
+     "answer": "D",
+     "explanation": "The CIS Code requires at least 1 month's notice to unitholders before a significant change (such as an increase in fees of 0.1% or more of NAV, a change in investment strategy, or a change in trustee) takes effect. This mirrors the MAS Notice 307 requirement for ILP sub-fund changes. The 14-day and 21-day figures are insufficient; 3 months is not the CIS Code standard."
+    },
+    {
+     "id": "RES5-P7-Q113",
+     "num": 113,
+     "stem": "Under MAS Notice FAA-N02 on dealings in life policies, when must the representative of an FA firm provide the client with a Product Summary for a life insurance product?",
+     "options": {
+      "A": "Only when the client requests it in writing",
+      "B": "At the point of sale, before the client signs any application form",
+      "C": "Within 5 business days after the policy is issued",
+      "D": "Only for investment-linked products; non-investment life policies are exempt"
+     },
+     "answer": "B",
+     "explanation": "MAS Notice FAA-N02 requires that the Product Summary be provided to the client at the point of sale - before the client signs any application form. This ensures the client has access to key product information before committing. Providing it only on request or after the policy is issued would deprive the client of pre-contractual disclosure. The requirement applies to all life insurance products, not only ILPs."
+    },
+    {
+     "id": "RES5-P7-Q114",
+     "num": 114,
+     "stem": "Under SFA s.309, 'securities hawking' (canvassing for purchases of securities from door to door or in a public place) is prohibited. Which category of investors is expressly exempted from this prohibition?",
+     "options": {
+      "A": "Accredited investors and institutional investors",
+      "B": "CPF Investment Scheme members investing through approved agents",
+      "C": "Corporate entities with paid-up capital above S$10 million",
+      "D": "High-net-worth individuals with net assets above S$2 million"
+     },
+     "answer": "A",
+     "explanation": "SFA s.309 exempts solicitations directed at accredited investors and institutional investors from the securities hawking prohibition. These investors are deemed sufficiently sophisticated to protect themselves from high-pressure sales tactics. The prohibition is aimed at protecting retail investors. High-net-worth individuals who do not meet the accredited investor criteria, and CPF investors, do not receive this exemption."
+    },
+    {
+     "id": "RES5-P7-Q115",
+     "num": 115,
+     "stem": "Under MAS Notice FAA-N20 on switching of investment products, which of the following circumstances would require the representative to complete a Replacement Policy Illustration before recommending a switch?",
+     "options": {
+      "A": "Switching between two unit trusts with different fund managers",
+      "B": "Replacing an existing whole life policy with a new whole life policy from a different insurer",
+      "C": "Switching between sub-funds within the same ILP",
+      "D": "Reinvesting maturity proceeds from one endowment into a new endowment with the same insurer"
+     },
+     "answer": "B",
+     "explanation": "FAA-N20 on switching and replacement of life insurance policies requires a Replacement Policy Illustration when an existing life insurance policy is surrendered or reduced and a new policy is taken out in its place (replacement). Replacing a whole life policy with a new one from a different insurer is a classic policy replacement scenario. Switching between sub-funds within the same ILP is an internal switch governed by Notice 307, not FAA-N20. Reinvesting maturity proceeds and switching unit trusts are not policy replacements."
+    },
+    {
+     "id": "RES5-P7-Q116",
+     "num": 116,
+     "stem": "A CPF member's nomination is automatically revoked by which of the following events?",
+     "options": {
+      "A": "Divorce from the nominated spouse",
+      "B": "The nominated beneficiary predeceasing the member",
+      "C": "Marriage after the nomination was made",
+      "D": "The member reaching age 55"
+     },
+     "answer": "C",
+     "explanation": "A CPF nomination is automatically revoked upon the member's subsequent marriage. This is because the law presumes the member would want to reconsider the distribution of CPF moneys after entering a new marriage. Divorce does not automatically revoke a nomination; the member must make a new nomination if they wish to change it after divorce. A beneficiary predeceasing the member or the member reaching age 55 also do not automatically revoke a nomination."
+    },
+    {
+     "id": "RES5-P7-Q117",
+     "num": 117,
+     "stem": "A CPF member aged 30 who is self-employed earns S$120,000 in net trade income for the year. What is her CPF contribution obligation?",
+     "options": {
+      "A": "She must contribute to all three CPF accounts at the same rates as employed persons",
+      "B": "She must contribute only if she opts in to the CPF Voluntary Contribution scheme",
+      "C": "She has no CPF obligation because self-employed persons are exempt from CPF contributions",
+      "D": "She is required to contribute only to her MediSave Account, at the applicable rate"
+     },
+     "answer": "D",
+     "explanation": "Self-employed persons in Singapore are required to make mandatory contributions to their MediSave Account if their net trade income exceeds S$6,000 per annum. They are not required to contribute to the OA or SA unless they choose to do so voluntarily. With net trade income of S$120,000, this member must contribute to MediSave. The obligation is solely for MediSave, not the full three-account mandatory scheme applicable to employees."
+    },
+    {
+     "id": "RES5-P7-Q118",
+     "num": 118,
+     "stem": "The CPF Basic Healthcare Sum (BHS) sets the maximum balance in the MediSave Account. For a member who turns 65 in 2024, the BHS is fixed at S$71,500. What happens to excess MediSave balances above the BHS?",
+     "options": {
+      "A": "Excess balances are transferred to the Special Account (or Retirement Account if age 55+)",
+      "B": "Excess balances are transferred to the Ordinary Account",
+      "C": "Excess balances are forfeited to the government",
+      "D": "Excess balances are paid out as cash to the member annually"
+     },
+     "answer": "A",
+     "explanation": "When a CPF member's MediSave Account balance exceeds the Basic Healthcare Sum, the excess is transferred to the Special Account (for members below 55) or to the Retirement Account (for members 55 and above). The BHS for a member who has already reached 65 is fixed at S$71,500 permanently. Balances are never forfeited or paid out as cash automatically."
+    },
+    {
+     "id": "RES5-P7-Q119",
+     "num": 119,
+     "stem": "MediShield Life became compulsory for all Singapore citizens and PRs from which date?",
+     "options": {
+      "A": "1 November 2015",
+      "B": "1 July 2019",
+      "C": "1 April 2017",
+      "D": "1 January 2010"
+     },
+     "answer": "A",
+     "explanation": "MediShield Life, the mandatory basic health insurance scheme administered by CPF, became compulsory for all Singapore citizens and permanent residents from 1 November 2015. Prior to that date, the older MediShield scheme was optional for those above 65. The 1 November 2015 commencement date is a key precise-recall item for CPF questions."
+    },
+    {
+     "id": "RES5-P7-Q120",
+     "num": 120,
+     "stem": "Under the CPF framework, the Additional Withdrawal Limits (AWLs) for Integrated Shield Plans allow higher MediSave withdrawals for premiums. What is the AWL for a member aged 60?",
+     "options": {
+      "A": "S$600 per year",
+      "B": "S$300 per year",
+      "C": "S$900 per year",
+      "D": "S$1,200 per year"
+     },
+     "answer": "A",
+     "explanation": "The Additional Withdrawal Limits for Integrated Shield Plan premiums are tiered by age: S$300 per year for members aged 40 and below; S$600 per year for members aged 41 to 70; and S$900 per year for members aged 71 and above. A member aged 60 falls in the 41-70 bracket, so the AWL is S$600 per year. The amounts are cumulative on top of the base MediShield Life withdrawal limit."
+    },
+    {
+     "id": "RES5-P7-Q121",
+     "num": 121,
+     "stem": "CareShield Life provides long-term disability insurance for Singapore citizens born in 1980 or later. What was the starting monthly payout when the scheme commenced in 2020?",
+     "options": {
+      "A": "S$600 per month",
+      "B": "S$500 per month",
+      "C": "S$400 per month",
+      "D": "S$800 per month"
+     },
+     "answer": "A",
+     "explanation": "CareShield Life commenced on 1 October 2020 with a starting monthly payout of S$600 for qualifying claimants (those assessed as unable to perform 3 or more activities of daily living). The payout increases over time. The S$400 and S$500 figures are below the starting amount; S$800 is above it. S$600 is the specific figure stated in the CPF framework for the scheme's launch."
+    },
+    {
+     "id": "RES5-P7-Q122",
+     "num": 122,
+     "stem": "From 1 January 2024, what is the total CPF contribution rate (employer plus employee combined) for a Singapore citizen employee aged 57, with monthly wages above S$750?",
+     "options": {
+      "A": "37%",
+      "B": "31.5%",
+      "C": "22%",
+      "D": "12.5%"
+     },
+     "answer": "B",
+     "explanation": "From 1 January 2024, the total CPF contribution rate for employees aged above 55 to 60 is 31.5% (employer 15% + employee 16.5%). The 37% rate applies to employees aged 55 and below. The 22% rate applies to employees aged above 60 to 65. The 12.5% rate applies to employees above 70. An employee aged 57 falls in the above-55-to-60 bracket, so the correct total rate is 31.5%."
+    },
+    {
+     "id": "RES5-P7-Q123",
+     "num": 123,
+     "stem": "Under the FAA, a financial adviser who is convicted of market misconduct under the SFA and sentenced to 6 months' imprisonment would have which consequence under the FAA?",
+     "options": {
+      "A": "The adviser's licence is automatically suspended for 6 months",
+      "B": "The adviser is automatically disqualified from holding a financial adviser's licence because imprisonment is a fit-and-proper ground for revocation",
+      "C": "MAS will issue a formal reprimand but no automatic licence consequence follows",
+      "D": "The adviser may continue to operate while appealing the conviction"
+     },
+     "answer": "B",
+     "explanation": "A conviction resulting in imprisonment is a ground under the fit-and-proper criteria (FSG-G01 and the FAA itself) that disqualifies a person from holding a financial adviser's licence. MAS may revoke or refuse to renew the licence. The disqualification is not merely an automatic suspension but a substantive ground for revocation. Continuing to operate while appealing would require MAS's specific authorisation, which would typically not be granted."
+    },
+    {
+     "id": "RES5-P7-Q124",
+     "num": 124,
+     "stem": "A financial adviser representative is seconded from Singapore to the firm's overseas office for 9 months. During this period, she does not conduct any financial advisory activities in Singapore. What must the principal firm do?",
+     "options": {
+      "A": "Nothing; the appointment remains valid and she can resume on return without any notification",
+      "B": "Notify MAS that the representative is on secondment and will not be conducting regulated activities in Singapore during the period",
+      "C": "Terminate her appointment in Singapore and re-appoint her on return",
+      "D": "Apply for a temporary exemption from the representative appointment requirements"
+     },
+     "answer": "B",
+     "explanation": "Where an appointed representative ceases to conduct regulated activities in Singapore (e.g., due to secondment abroad), the principal firm should notify MAS of the temporary cessation. The appointment does not need to be formally terminated and re-established, but MAS should be informed so that the public register reflects the representative's current activity status. A formal application for exemption is not the prescribed mechanism."
+    },
+    {
+     "id": "RES5-P7-Q125",
+     "num": 125,
+     "stem": "Under MAS Notice FAA-N26 on product due diligence, before adding a new investment product to its distribution list, a licensed FA firm must conduct product due diligence. Which of the following is NOT part of the required due diligence under FAA-N26?",
+     "options": {
+      "A": "Obtaining a rating from an MAS-approved external credit rating agency",
+      "B": "Evaluating the financial strength and track record of the product provider",
+      "C": "Assessing the product's features, risks and costs",
+      "D": "Identifying the target market for whom the product is suitable"
+     },
+     "answer": "A",
+     "explanation": "FAA-N26 requires FA firms to assess product features, risks and costs, evaluate the provider's financial strength and track record, and identify the suitable target market before adding a product to its shelf. An external credit rating from a specific MAS-approved agency is not a prescribed element of product due diligence under FAA-N26. Not all products are rated, and the due diligence is the firm's own assessment rather than a delegated review."
+    },
+    {
+     "id": "RES5-P7-Q126",
+     "num": 126,
+     "stem": "Which of the following correctly describes the regulatory treatment of securities short selling under the SFA?",
+     "options": {
+      "A": "Short selling of all securities is prohibited in Singapore",
+      "B": "Short selling is only permitted for institutional investors",
+      "C": "Short selling is permitted but must be marked as a short sale at the point of order entry, and short positions above a threshold must be reported",
+      "D": "Short selling requires prior MAS approval for each transaction"
+     },
+     "answer": "C",
+     "explanation": "Under SFA s.137ZJ, all short sale orders must be marked as short sales at the time of entry. Under s.137ZK, significant short positions above prescribed thresholds must be reported to MAS. Short selling is not prohibited outright, is available to eligible investors beyond only institutional participants, and does not require per-transaction MAS approval. The marking and reporting obligations are key regulatory controls."
+    },
+    {
+     "id": "RES5-P7-Q127",
+     "num": 127,
+     "stem": "Under the SFA, the lending of securities requires the lender to hold collateral from the borrower. What is the minimum collateral level required relative to the market value of the borrowed securities?",
+     "options": {
+      "A": "100% of market value",
+      "B": "75% of market value",
+      "C": "125% of market value",
+      "D": "150% of market value"
+     },
+     "answer": "A",
+     "explanation": "Under SFA provisions on securities lending, the borrower must provide collateral of at least 100% of the market value of the borrowed securities. This ensures the lender is fully covered if the borrower defaults. A 125% or 150% margin is commonly used in practice for additional protection, but the regulatory minimum is 100%. A 75% collateral level would leave the lender exposed."
+    },
+    {
+     "id": "RES5-P7-Q128",
+     "num": 128,
+     "stem": "The SFA's extraterritorial application means that market misconduct offences under Part XII can apply to conduct outside Singapore in certain circumstances. What connecting factor is sufficient to bring overseas conduct within the SFA's Part XII jurisdiction?",
+     "options": {
+      "A": "The offender is a Singapore citizen, regardless of where the securities trade occurs",
+      "B": "The securities traded are listed or quoted on a Singapore-approved exchange, even if the trade occurs outside Singapore",
+      "C": "The offender physically transmitted instructions from a device located in Singapore",
+      "D": "The profit made from the misconduct is deposited into a Singapore bank account"
+     },
+     "answer": "B",
+     "explanation": "SFA s.196 provides that the market misconduct provisions in Part XII apply to transactions in securities listed or quoted on an approved exchange in Singapore, even if the transaction is executed outside Singapore. The nationality of the offender, the location of the device used, or where profits are deposited are not the primary connecting factors - it is the Singapore-listing of the securities that grounds jurisdiction."
+    },
+    {
+     "id": "RES5-P7-Q129",
+     "num": 129,
+     "stem": "Under MAS Guideline FAA-G10 on the use of customer information, which of the following purposes requires an FA firm to obtain the customer's explicit consent before proceeding?",
+     "options": {
+      "A": "Sharing customer data with MAS pursuant to a regulatory inspection",
+      "B": "Sharing identifiable customer financial data with a third-party product provider for joint marketing purposes",
+      "C": "Using anonymised and aggregated customer data in internal management reports",
+      "D": "Retaining customer records for the legally required retention period"
+     },
+     "answer": "B",
+     "explanation": "Sharing identifiable customer financial data with a third party for marketing purposes requires the customer's explicit consent under FAA-G10 and the Personal Data Protection Act. Sharing with MAS under regulatory compulsion, using fully anonymised aggregated data internally, and retaining records for compliance purposes do not require separate customer consent beyond the initial engagement terms."
+    },
+    {
+     "id": "RES5-P7-Q130",
+     "num": 130,
+     "stem": "Under the BSC Framework (FAA-N16), when can a firm recover (pay out) previously withheld variable income to a representative who was graded below Grade C?",
+     "options": {
+      "A": "Immediately upon the representative filing an appeal with MAS",
+      "B": "The withheld amount cannot be recovered; it is permanently forfeited",
+      "C": "Recovery is permitted after the firm has verified improved performance in the next 2 consecutive calendar quarters",
+      "D": "Recovery is permitted after 12 months regardless of performance"
+     },
+     "answer": "C",
+     "explanation": "Under FAA-N16, withheld variable income from a below-Grade-C rating may be recovered (paid out to the representative) once the firm has verified that the representative's performance has improved and achieved at least Grade C in the next 2 consecutive calendar quarters. This recovery mechanism is designed to be an incentive rather than a permanent penalty. An appeal to MAS does not trigger recovery, and forfeiture is not the intended outcome."
+    },
+    {
+     "id": "RES5-P7-Q131",
+     "num": 131,
+     "stem": "MAS Notice FAA-N12 requires that a financial adviser firm disclose all material information to clients. A firm fails to disclose to a client that the unit trust it recommends has an unusually high total expense ratio (TER) compared to similar funds. This most directly affects which Fair Dealing Outcome?",
+     "options": {
+      "A": "Outcome 1 - customers have confidence in the financial institution",
+      "B": "Outcome 3 - customers receive clear, relevant and timely information",
+      "C": "Outcome 2 - customers are offered products suitable to their needs",
+      "D": "Outcome 4 - customers are given quality advice by competent representatives"
+     },
+     "answer": "B",
+     "explanation": "The Fair Dealing Outcomes under MAS guidelines include Outcome 3, which requires that customers receive clear, relevant and timely information to make informed financial decisions. Failing to disclose a material cost factor (the high TER) deprives the client of relevant information needed to compare the product against alternatives. While suitability (Outcome 2) may also be affected if the high costs render the product unsuitable, the most direct link is to the information-disclosure outcome."
+    },
+    {
+     "id": "RES5-P7-Q132",
+     "num": 132,
+     "stem": "A representative recommends a whole life policy to a client aged 35. Three years later, the client asks to replace the policy with a newer whole life policy from a competing insurer that offers a slightly lower premium. Under MAS Notice FAA-N20, what is the representative's primary obligation before proceeding with the replacement?",
+     "options": {
+      "A": "Report the replacement to the insurer whose policy is being cancelled within 3 business days",
+      "B": "Obtain MAS pre-approval for the replacement transaction",
+      "C": "Hold the replacement in abeyance for 14 days to allow the client to reconsider",
+      "D": "Complete a Replacement Policy Illustration that compares the old and new policies and obtain the client's signed acknowledgement"
+     },
+     "answer": "D",
+     "explanation": "FAA-N20 requires that before a life insurance replacement proceeds, the representative must prepare a Replacement Policy Illustration showing the key features, costs and benefits of both the old and new policies, and obtain the client's signed acknowledgement that they understand the implications of surrendering the existing policy. This protects clients from unnecessary churning. MAS pre-approval and insurer reporting within 3 days are not requirements of FAA-N20."
+    },
+    {
+     "id": "RES5-P7-Q133",
+     "num": 133,
+     "stem": "Which of the following is an example of 'market manipulation' under section 198 of the SFA, as distinct from false trading under s.197?",
+     "options": {
+      "A": "Executing a series of transactions that are intended to fix, peg or stabilise the price of a security at an artificial level",
+      "B": "A director issuing false earnings guidance to push up the share price before exercising options",
+      "C": "Placing large buy and sell orders in the same security simultaneously with no intent to trade, to create a false price",
+      "D": "A broker giving a client inside information about a pending acquisition"
+     },
+     "answer": "A",
+     "explanation": "Section 198 of the SFA (securities market manipulation) addresses transactions intended to create an artificial price or to fix, peg, or stabilise a security's price. Executing a series of trades to maintain an artificial price level is the hallmark of s.198. Option (A) (wash trading / spoofing) is closer to s.197 false trading. Option (B) (false statements to inflate price) falls under s.199. Option (D) (passing inside information) is insider trading under s.218-219."
+    },
+    {
+     "id": "RES5-P7-Q134",
+     "num": 134,
+     "stem": "A representative is aware that a client has lost his job and is under financial stress, but the representative does not update the client's fact-find or risk profile. Shortly after, the representative recommends an investment in a high-risk emerging market fund. Which of the following best describes the regulatory and ethical breach?",
+     "options": {
+      "A": "The representative breached FAA-N03 by failing to ensure the recommendation was based on an up-to-date client profile, and also breached the duty of diligence",
+      "B": "The representative has not breached any rule because the client did not volunteer the information",
+      "C": "The representative is only in breach if the client suffers a loss on the investment",
+      "D": "The representative's obligation was solely to confirm the client's risk appetite on a single occasion at the start of the relationship"
+     },
+     "answer": "A",
+     "explanation": "FAA-N03 requires that recommendations be based on current and accurate client information. A representative who is aware of a material change in the client's circumstances (job loss, financial stress) must update the fact-find and risk profile before making further recommendations. Recommending a high-risk product without doing so is a breach of the suitability obligation under FAA-N03 and the duty of diligence. The breach is not contingent on whether a loss occurs."
+    },
+    {
+     "id": "RES5-P7-Q135",
+     "num": 135,
+     "stem": "Under MAS Guideline FSG-G02 on retail marketing safeguards, which of the following practices in marketing a structured product to retail investors is expressly required?",
+     "options": {
+      "A": "The product must be rated by a Singapore-registered credit rating agency",
+      "B": "The marketing materials must clearly distinguish the product's return scenarios including a worst-case scenario",
+      "C": "The product may only be marketed by licensed banks, not FA firms",
+      "D": "The minimum investment amount must be at least S$200,000"
+     },
+     "answer": "B",
+     "explanation": "FSG-G02 requires that marketing materials for structured products presented to retail investors clearly set out the product's payoff scenarios, including the worst-case scenario where the investor could lose their principal. This balanced presentation is essential for informed decision-making. There is no requirement for a specific credit rating, the marketing is not restricted to banks, and the S$200,000 minimum is associated with accredited investor thresholds, not a general retail product rule."
+    },
+    {
+     "id": "RES5-P7-Q136",
+     "num": 136,
+     "stem": "A client aged 68 approaches a representative about investing a lump sum of S$300,000 from a maturing fixed deposit into an equity unit trust. Under MAS Notice FAA-N03 and FAA-G14, what is the MOST important additional step the representative must take given the client's profile?",
+     "options": {
+      "A": "Immediately process the investment because the client has initiated the request",
+      "B": "Assess whether the client is a 'selected client' under FAA-G14 and apply the requisite safeguards if criteria are met",
+      "C": "Decline to advise the client because he is above 65",
+      "D": "Recommend only bonds because equity products are unsuitable for all clients over 65"
+     },
+     "answer": "B",
+     "explanation": "The client is aged 68, which satisfies one of the three FAA-G14 criteria (age 62 or above). The representative must check whether any additional criteria are also met (language proficiency, education level). If any 2 of the 3 criteria are met, the client qualifies as a 'selected client' and enhanced safeguards apply. The representative must not decline service based on age alone, nor assume equity is automatically unsuitable - suitability depends on the client's specific profile."
+    },
+    {
+     "id": "RES5-P7-Q137",
+     "num": 137,
+     "stem": "Under MAS Notice FAA-N03, the Customer Knowledge Assessment (CKA) is required before a representative can advise a retail client on certain 'specified investment products' (SIPs). If a client fails the CKA for a particular SIP, what options are available?",
+     "options": {
+      "A": "The representative may still advise on the SIP if the client signs a disclaimer",
+      "B": "The client may not invest in the SIP at all under any circumstances",
+      "C": "The client may still invest if they acknowledge awareness of the risks and the representative notes the client's decision on record, but the representative cannot make a positive recommendation",
+      "D": "The representative must refer the client to an institutional investor desk where no CKA is required"
+     },
+     "answer": "C",
+     "explanation": "If a retail client fails or is unable to complete a CKA for a specified investment product, the representative cannot make a positive recommendation for that product. However, the client may still choose to invest on an execution basis if they acknowledge the risks in writing and the adviser notes the client's decision. The representative documents the advisory warning, but the investment is classified as client-directed, not adviser-recommended. A disclaimer does not substitute for passing the CKA or enable a recommendation."
+    },
+    {
+     "id": "RES5-P7-Q138",
+     "num": 138,
+     "stem": "A financial planning client aged 50 has total assets of S$850,000 and total liabilities of S$420,000. What is the client's solvency ratio (net worth divided by total assets), expressed as a percentage and rounded to one decimal place?",
+     "options": {
+      "A": "30.6%",
+      "B": "65.2%",
+      "C": "58.8%",
+      "D": "50.6%"
+     },
+     "answer": "D",
+     "explanation": "Net worth = total assets - total liabilities = S$850,000 - S$420,000 = S$430,000. Solvency ratio = S$430,000 / S$850,000 = 0.5059 = 50.6%. A solvency ratio above 50% indicates that more than half of the client's assets are unencumbered by debt. The 30.6% result would follow from an incorrect net worth calculation; 58.8% and 65.2% do not arise from the given data."
+    },
+    {
+     "id": "RES5-P7-Q139",
+     "num": 139,
+     "stem": "Which of the following is NOT a prohibited short-selling practice under the SFA?",
+     "options": {
+      "A": "Selling securities that the seller neither owns nor has arranged to borrow, with no intention to deliver",
+      "B": "Marking a short sale order as a long order at the point of entry",
+      "C": "Executing a series of short sales specifically intended to drive down the market price of a security",
+      "D": "Borrowing securities from an approved securities lending agent and then selling them, with the intent to buy back at a lower price"
+     },
+     "answer": "D",
+     "explanation": "Selling borrowed securities (covered short selling) is a legitimate and permitted market activity under the SFA, subject to the marking and reporting requirements under s.137ZJ and s.137ZK. What is prohibited is naked short selling (selling securities one neither owns nor has borrowed), mislabelling short orders as long, and conducting short sales as a manipulative strategy to drive down prices. Covered short selling with intent to profit from a price decline is a normal trading strategy."
+    },
+    {
+     "id": "RES5-P7-Q140",
+     "num": 140,
+     "stem": "MAS Notice MAS 307 requires insurers to maintain records relating to ILP sub-funds. What is the minimum record retention period?",
+     "options": {
+      "A": "3 years",
+      "B": "5 years",
+      "C": "7 years",
+      "D": "10 years"
+     },
+     "answer": "B",
+     "explanation": "MAS Notice 307 requires insurers to retain records relating to ILP sub-funds for a minimum of 5 years. This is consistent with the general record-retention standard under MAS Notices for financial institutions. The 3-year period is too short; 7 or 10 years are above the required minimum under Notice 307."
+    },
+    {
+     "id": "RES5-P7-Q141",
+     "num": 141,
+     "stem": "Under the Code on Collective Investment Schemes, which of the following terms is a CIS scheme expressly prohibited from using in its name or description?",
+     "options": {
+      "A": "'Growth Fund'",
+      "B": "'Income Fund'",
+      "C": "'International Fund'",
+      "D": "'Plan' or 'Account'"
+     },
+     "answer": "D",
+     "explanation": "The CIS Code expressly prohibits a collective investment scheme from describing itself as a 'plan' or an 'account'. These terms could mislead investors into believing the scheme is a savings plan or bank account with different risk characteristics. Terms like 'Growth Fund', 'Income Fund', and 'International Fund' are commonly used and are not prohibited by the Code."
+    },
+    {
+     "id": "RES5-P7-Q142",
+     "num": 142,
+     "stem": "A representative at an FA firm is approached by a prospect who has just received S$800,000 from selling a private property. The prospect is keen to invest quickly and has never invested before. What is the FIRST step the representative should take?",
+     "options": {
+      "A": "Complete a thorough fact-find and risk profile assessment before making any recommendation",
+      "B": "Present a diversified portfolio immediately to capitalise on the client's motivation to invest",
+      "C": "Recommend capital-guaranteed products because the prospect has no investment experience",
+      "D": "Refer the prospect to the firm's wealth management team without conducting any assessment"
+     },
+     "answer": "A",
+     "explanation": "Regardless of the client's apparent eagerness or the size of the investable sum, the representative must complete a thorough fact-find and risk profiling before making any recommendation. This is required under FAA-N03. Recommending immediately, defaulting to capital-guaranteed products without assessing suitability, or referring without any assessment would all fail the suitability obligation."
+    },
+    {
+     "id": "RES5-P7-Q143",
+     "num": 143,
+     "stem": "Under the CPF framework, a member who defers commencing CPF LIFE payouts beyond the Payout Eligibility Age of 65 receives higher monthly payouts. By approximately what percentage does each year of deferral increase the monthly payout?",
+     "options": {
+      "A": "3% per year",
+      "B": "7% per year",
+      "C": "5% per year",
+      "D": "10% per year"
+     },
+     "answer": "B",
+     "explanation": "Deferring CPF LIFE payouts beyond age 65 (up to age 70) increases monthly payouts by approximately 7% for each year of deferral, reflecting both the additional interest earned and the shorter expected payout period. A 3% or 5% uplift would understate the incentive; 10% per year overstates it. The approximately 7% per year figure is cited in CPF LIFE educational materials."
+    },
+    {
+     "id": "RES5-P7-Q144",
+     "num": 144,
+     "stem": "Under MAS Notice FAA-N06 (AML/CFT), how long must a licensed FA firm retain customer due diligence (CDD) records after the business relationship ends?",
+     "options": {
+      "A": "5 years",
+      "B": "3 years",
+      "C": "2 years",
+      "D": "7 years"
+     },
+     "answer": "A",
+     "explanation": "Under FAA-N06, CDD records (including identification documents and customer profiles) must be retained for at least 5 years from the date the business relationship ends or the transaction is completed. This aligns with FATF Recommendation 11. Records retained for only 2 or 3 years would not meet this standard; 7 years is above the required minimum."
+    },
+    {
+     "id": "RES5-P7-Q145",
+     "num": 145,
+     "stem": "A licensed FA firm's compliance officer discovers that a representative has been submitting false investment returns in client presentations to make performance look better than it was. This conduct potentially constitutes which of the following offences under the SFA?",
+     "options": {
+      "A": "Insider trading under s.218",
+      "B": "False or misleading statements under s.199",
+      "C": "False trading under s.197",
+      "D": "Fraudulent inducement under s.200"
+     },
+     "answer": "D",
+     "explanation": "Inducing a client to invest or continue investing by making false or misleading representations about the returns achieved (e.g., falsified performance data) is fraudulent inducement under SFA s.200, which specifically addresses inducing others to deal in securities through deceptive means. S.199 addresses false statements about specific matters likely to affect prices on an exchange (market-level statements); s.197 addresses wash trading; s.218 is insider trading. The misrepresentation to individual clients about their own investment performance is best classified under s.200."
+    },
+    {
+     "id": "RES5-P7-Q146",
+     "num": 146,
+     "stem": "Which of the following types of information is considered 'material' for the purposes of the insider trading provisions of the SFA?",
+     "options": {
+      "A": "Information that a director of the company knows but has not discussed with other directors",
+      "B": "Information that, if generally known, would be likely to have a material effect on the price or value of the securities",
+      "C": "Any information held by the company's legal advisers in connection with a pending transaction",
+      "D": "Information that was published in a financial newsletter more than 30 days ago"
+     },
+     "answer": "B",
+     "explanation": "Under the SFA, information is 'material' if a reasonable person would expect that, were it generally available, it would have a material effect on the price or value of the securities or on investors decisions. This objective price-sensitivity test is the legal standard. Information known only to directors but not yet disclosed, or held by legal advisers, may in fact satisfy this test - but the definition itself is the price-effect test, not the identity of who holds the information. Information published in a newsletter more than 30 days ago would typically be generally available and therefore not inside information at all."
+    },
+    {
+     "id": "RES5-P7-Q147",
+     "num": 147,
+     "stem": "In a client review meeting, representative Nadia discovers that her client's investment objectives have changed significantly: the client now needs liquidity within 2 years due to an upcoming property purchase, but currently holds a 5-year locked-in structured note. What should Nadia do?",
+     "options": {
+      "A": "Take no action because the structured note was suitable when originally purchased",
+      "B": "Advise the client of the mismatch between the liquidity need and the illiquid structured note, explain the implications, and document the discussion",
+      "C": "Immediately sell the structured note without consulting the client to avoid further exposure",
+      "D": "Recommend a second investment to compensate for the locked-in nature of the structured note"
+     },
+     "answer": "B",
+     "explanation": "When a review reveals a material mismatch between the client's current needs and the existing portfolio, the adviser must inform the client clearly, explain the implications (e.g., potential break costs or loss of capital if the note is exited early), and document the discussion. Taking no action ignores the changed circumstances. Selling without consultation removes the client's decision-making rights. Recommending an additional investment does not resolve the underlying mismatch and could compound the problem."
+    },
+    {
+     "id": "RES5-P7-Q148",
+     "num": 148,
+     "stem": "For a client whose annual retirement income target is S$60,000 and who expects a 30-year retirement period, which financial planning assumption has the LARGEST impact on the required retirement nest egg?",
+     "options": {
+      "A": "Whether the client chooses a weekly or monthly income withdrawal frequency",
+      "B": "The exact month in which the client retires",
+      "C": "The assumed real rate of investment return during the retirement drawdown phase",
+      "D": "The client's current age at the time of planning"
+     },
+     "answer": "C",
+     "explanation": "In retirement income projections, the assumed real rate of investment return during the drawdown phase is the most powerful variable. A difference of even 1-2% per annum in the assumed return substantially changes the required capital (via the present value factor). The month of retirement and withdrawal frequency have minimal mathematical impact on a 30-year horizon. The client's current age affects accumulation duration but not the required nest egg size for a fixed retirement income target."
+    },
+    {
+     "id": "RES5-P7-Q149",
+     "num": 149,
+     "stem": "Which of the following statements about the Ordinary Account (OA) interest rate is correct?",
+     "options": {
+      "A": "The OA earns interest at a rate that is reviewed and set by MAS quarterly",
+      "B": "The OA earns a legislated minimum floor rate of 2.5% per annum, which has applied since 1 January 1999",
+      "C": "The OA interest rate floats with the 3-month Singapore Interbank Offered Rate (SIBOR) with no floor",
+      "D": "The OA earns 4% per annum, the same rate as the Special Account"
+     },
+     "answer": "B",
+     "explanation": "The CPF Ordinary Account has a legislated minimum floor interest rate of 2.5% per annum. While the rate is technically computed based on the major local banks' average rates, the floor of 2.5% has been in effect since 1 January 1999. The SA and MA earn a floor of 4%. The OA rate is not set by MAS directly and does not float purely with SIBOR without any floor."
+    },
+    {
+     "id": "RES5-P7-Q150",
+     "num": 150,
+     "stem": "Under MAS Notice FAA-N06, an FA firm's senior management is ultimately responsible for the effectiveness of the firm's AML/CFT framework. Which of the following obligations does this impose on senior management that cannot be delegated away entirely?",
+     "options": {
+      "A": "Setting the tone from the top by approving AML/CFT policies, providing adequate resources, and holding the compliance function accountable",
+      "B": "Attending all AML/CFT training sessions conducted for front-line staff",
+      "C": "Conducting enhanced due diligence on every PEP client personally",
+      "D": "Personally reviewing each Suspicious Transaction Report before it is filed"
+     },
+     "answer": "A",
+     "explanation": "FAA-N06 places ultimate responsibility on senior management for the adequacy of the firm's AML/CFT framework. This includes approving AML/CFT policies, ensuring adequate resources for the compliance function, and creating a culture of compliance from the top. While day-to-day tasks can be delegated, the governance responsibility (policy approval, culture-setting, accountability) cannot be entirely delegated. Senior management need not personally review every STR, conduct every EDD, or attend all front-line training sessions."
+    }
+   ]
   }
  ]
 }
