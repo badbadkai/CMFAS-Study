@@ -2,7 +2,7 @@ import json, io
 
 parts = []
 for i in (1, 2, 3):
-    with io.open(f"E:/Kai/Projects/CMFAS-Study/scripts/hi_fact_part{i}.json", encoding="utf-8") as f:
+    with io.open(f"E:/Kairos Home/Projects/Personal/CMFAS-Study/scripts/hi_fact_part{i}.json", encoding="utf-8") as f:
         parts.extend(json.load(f))
 
 parts.sort(key=lambda c: c["num"])
@@ -55,7 +55,7 @@ out = "\n".join(lines)
 non_ascii = [(i, ch) for i, ch in enumerate(out) if ord(ch) > 127]
 assert not non_ascii, f"non-ascii at {non_ascii[:5]}"
 
-with io.open("E:/Kai/Projects/CMFAS-Study/src/data/hi/factbank.ts", "w", encoding="utf-8", newline="\n") as f:
+with io.open("E:/Kairos Home/Projects/Personal/CMFAS-Study/src/data/hi/factbank.ts", "w", encoding="utf-8", newline="\n") as f:
     f.write(out)
 
 print(f"chapters={len(parts)} concepts={total}")

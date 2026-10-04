@@ -2,7 +2,7 @@ import json, io, re
 
 items = []
 for i in (1, 2, 3):
-    with io.open(f"E:/Kai/Projects/CMFAS-Study/scripts/hi_quiz_part{i}.json", encoding="utf-8") as f:
+    with io.open(f"E:/Kairos Home/Projects/Personal/CMFAS-Study/scripts/hi_quiz_part{i}.json", encoding="utf-8") as f:
         items.extend(json.load(f))
 
 # validate
@@ -36,7 +36,7 @@ from collections import Counter
 print("answers:", dict(Counter(it["answer"] for it in items)))
 
 if not leaks and not non_ascii:
-    with io.open("E:/Kai/Projects/CMFAS-Study/src/data/hi/quiz.json", "w", encoding="utf-8", newline="\n") as f:
+    with io.open("E:/Kairos Home/Projects/Personal/CMFAS-Study/src/data/hi/quiz.json", "w", encoding="utf-8", newline="\n") as f:
         f.write(out)
         f.write("\n")
     print("WROTE quiz.json")

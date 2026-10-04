@@ -3,7 +3,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 NAVY = (15, 23, 42, 255)      # #0f172a
 ACCENT = (56, 189, 248, 255)  # #38bdf8
-OUT = r"E:/Kai/Projects/CMFAS-Study/public/icons"
+OUT = r"E:/Kairos Home/Projects/Personal/CMFAS-Study/public/icons"
 
 
 def load_font(size):
